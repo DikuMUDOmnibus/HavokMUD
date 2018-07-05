@@ -1,0 +1,25 @@
+#39078
+Near The Middle~
+   This is the room west of the center.  Unlike the other rooms this has a strange
+sound to it like a faint humming.  It could be listened to for days.  The floor
+has lots of sand covering it so it cant me made out.  The exits are north, east
+south, and west.
+~
+122 9 0
+D0
+~
+door~
+0 0 39079 0
+D1
+~
+door~
+0 0 39076 0
+D2
+~
+~
+0 0 39068 -1
+D3
+~
+door~
+0 0 39071 0
+S

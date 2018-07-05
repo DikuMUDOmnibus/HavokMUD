@@ -1,0 +1,28 @@
+*Zone 37, rooms 6200-6221, last modified by Ashamael
+M 0 6203 3 6205   ; A baby Quickling
+E 1 6202 65535 16   ; a quickling knife
+M 0 6203 3 6205   ; A baby Quickling
+M 0 6203 3 6205   ; A baby Quickling
+M 0 6204 1 6206   ; The Queen of the Quicklings
+E 1 6203 65535 16   ; a quickling saber
+M 0 6206 3 6208   ; A Quickling raider guard
+M 0 6202 4 6209   ; A Quickling raider
+M 0 6205 1 6209   ; The Raider Captain of the Quicklings
+E 1 6203 65535 16   ; a quickling saber
+M 0 6207 1 6211   ; Tephanis, King of the Quicklings
+E 1 6201 65535 10   ; Quickling Bracers
+E 1 6204 65535 16   ; a Short sword of Speed
+M 0 6201 6 6211   ; A Quickling commoner
+M 0 6201 6 6214   ; A Quickling commoner
+M 0 6201 6 6214   ; A Quickling commoner
+M 0 6202 4 6215   ; A Quickling raider
+M 0 6201 6 6215   ; A Quickling commoner
+M 0 6206 3 6216   ; A Quickling raider guard
+M 0 6201 6 6217   ; A Quickling commoner
+M 0 6201 6 6218   ; A Quickling commoner
+M 0 6202 4 6219   ; A Quickling raider
+M 0 6206 3 6219   ; A Quickling raider guard
+M 0 6202 4 6221   ; A Quickling raider
+M 0 6208 1 6221   ; The Quickling look-out guard
+E 1 6205 65535 17   ; a magical eyeglass
+S

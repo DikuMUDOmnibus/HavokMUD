@@ -1,0 +1,20 @@
+#17813
+trader~
+A nomad trader~
+A nomad trader is here exhibiting his goods and haggling with passerby.
+~
+     The trader carries his small selection of merchandise with him.
+You see him step in the way of passerby and show them his goods,
+hoping to interest them enough to get a sale.  More often than not he
+is ignored.
+~
+~
+~
+196  0  0  1.0 
+ 8  11  4  48  2d4+2 
+ -1  14  1  1 
+ 8  8  1  0  0  0 
+ 0 
+~
+~
+~

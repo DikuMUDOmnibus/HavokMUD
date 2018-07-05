@@ -1,0 +1,28 @@
+#1449
+Cow Pasture~
+   The pasture is rather mucky and disgusting.  The field has obviously been over
+populated with cows and other farm animals... The field has been eaten away and is
+slowly corroding.  Cow dung also inhabits the ground every three feet.
+~
+11 4 1
+D0
+The pasture continues.
+~
+~
+0 -1 1441 -1
+D1
+The pasture continues.
+~
+~
+0 -1 1450 -1
+D2
+The pasture continues.
+~
+~
+0 -1 1457 -1
+D3
+The pasture continues.
+~
+~
+0 -1 1448 -1
+S

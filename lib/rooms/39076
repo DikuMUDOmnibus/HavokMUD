@@ -1,0 +1,29 @@
+#39076
+The Bottom Floor~
+   This looks like it is considered the middle of the bottom floor or more less where
+someone can enter the second floor.  There is a tiny rope ladder hanging from the ceiling
+where someone  can climb up.  It looks pretty sturdy from here.  The monks look a
+little stronger on the second floor.  The exits are east, west, north, south, and up.
+~
+122 9 0
+D0
+~
+~
+0 0 39077 -1
+D1
+~
+door~
+0 0 39065 0
+D2
+~
+~
+0 0 39067 -1
+D3
+~
+door~
+0 0 39078 0
+D4
+~
+door~
+0 0 39003 0
+S

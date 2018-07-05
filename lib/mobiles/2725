@@ -1,0 +1,21 @@
+#2725
+color pool~
+A color pool~
+A grassy green color pool can be seen as you approach.
+~
+     You stand in a grassy meadow with annoyingly cute dandelions
+growing here and there.  You hear the merry bubbling of a brook
+somewhere ahead, and to the north you see a narrow wooden bridge.  The
+scents of perpetual spring either delight or disgust you, depending on
+whether you go for the trite stuff like this.
+~
+~
+~
+2115  2048  0  1.0 
+ 1  0  10  2  1d1+1 
+ -1  0  1  48 
+ 8  8  0  0  0  0 
+ 0 
+~
+~
+~

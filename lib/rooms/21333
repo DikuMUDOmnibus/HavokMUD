@@ -1,0 +1,40 @@
+#21333
+Bath~
+    There are two pits in this room that once served as tubs for the officers
+to bathe in. They are both dryed out now, though the channels in the floor
+through which the water used to run are still intact. A small hole in the
+north wall is the source of the channels in the floor that lead to the two
+now-empty pits. A small hole at the bottom of each provides drainage. There
+is a single exit, it is to the east.
+~
+84 9 1
+D1
+~
+door
+~
+3 0 21328 -1
+E
+pit tub pits tubs~
+It's about four feet deep and six feet in diameter. It is now empty, but once
+water entered through the channels and left through a small hole in the bottom.
+These pits were carved from the stone, they were not naturally formed.
+~
+E
+outlet drain~
+It's pretty small, but by shining your light down it you can tell that it
+curves after dropping a foot or so. It was made, it is not natural, just
+like the pits themselves.
+~
+E
+channel~
+They are narrow gutters in the floor of the room through which water flowed
+from the inlet hole in the south wall to the tubs. The main one is about three
+inches deep, the others are only an inch or two in depth.
+~
+E
+hole inlet~
+It's right where the floor meets the south wall, near the center. It's only
+four inches wide, so you can't really tell where it comes from, though you
+can tell it bends up after a few feet.
+~
+S

@@ -1,0 +1,18 @@
+#16701
+trapper~
+the trapper~
+A trapper mimics the wall, waiting to snare its next meal.
+~
+This monster can mimic any part of a dungeon corridor, acting on instinct
+alone it seeks out its prey to survive.
+~
+~
+~
+34  1048608  100  1.0 
+ 18  3  0  100  3d5+5 
+ -1  110  1  6 
+ 8  8  0  0  0  0 
+ 0 
+~
+~
+~

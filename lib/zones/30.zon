@@ -1,0 +1,201 @@
+*Zone 30, rooms 4200-4999, last modified by Banon
+M 0 4200 4 4202   ; The Giant Warrior
+E 1 4215 65535 16   ; a murderous axe
+M 0 4200 4 4204   ; The Giant Warrior
+E 1 4215 65535 16   ; a murderous axe
+M 0 4200 4 4208   ; The Giant Warrior
+E 1 4215 65535 16   ; a murderous axe
+M 0 4240 1 4209   ; The Dwarven Thief
+E 1 4216 65535 16   ; a solid black dagger
+M 0 4239 1 4209   ; The Dwarven Warrior
+E 1 4209 65535 9   ; a pair of black, chain mail gauntlets
+M 0 4238 1 4209   ; A dwarven cleric
+E 1 4210 65535 16   ; A small mace
+M 0 4200 4 4211   ; The Giant Warrior
+E 1 4215 65535 16   ; a murderous axe
+M 0 4224 3 4218   ; A giant slug
+M 0 4224 3 4220   ; A giant slug
+M 0 4224 3 4222   ; A giant slug
+M 0 4223 1 4227   ; A trapper
+G 1 40124 65535 0   ; a treasure
+M 0 4236 4 4241   ; An orc fighter
+G 1 40120 65535 0   ; a small treasure
+M 0 4236 4 4241   ; An orc fighter
+G 1 40120 65535 0   ; a small treasure
+M 0 4236 4 4241   ; An orc fighter
+G 1 40120 65535 0   ; a small treasure
+M 0 4236 4 4241   ; An orc fighter
+G 1 40120 65535 0   ; a small treasure
+M 0 4235 5 4242   ; A common orc
+G 1 40120 65535 0   ; a small treasure
+M 0 4231 1 4246   ; An orc cleric
+G 1 40120 65535 0   ; a small treasure
+M 0 4235 5 4246   ; A common orc
+G 1 40120 65535 0   ; a small treasure
+M 0 4235 5 4247   ; A common orc
+G 1 40120 65535 0   ; a small treasure
+M 0 4235 5 4247   ; A common orc
+G 1 40120 65535 0   ; a small treasure
+G 1 9493 65535 0   ; A golden coin
+M 0 4235 5 4247   ; A common orc
+G 1 40120 65535 0   ; a small treasure
+M 0 4234 1 4249   ; The orc chief
+E 1 4202 65535 9   ; gauntlets of ogre strength
+G 1 40123 65535 0   ; a small treasure
+G 1 40123 65535 0   ; a small treasure
+O 0 9723 65535 4249   ; A boobie trap
+D 0 4249 5 1   ; Chief's Sleeping Quarters
+M 0 4233 1 4250   ; An orc captain
+G 1 40123 65535 0   ; a small treasure
+G 1 4206 65535 0   ; scale sleeves
+M 0 4232 1 4251   ; A chief's wife
+G 1 40123 65535 0   ; a small treasure
+O 0 4207 65535 4252   ; Necklace w/ many beads
+O 0 40128 65535 4252   ; a huge treasure
+D 0 4252 4 1   ; Chief's Secret Chamber
+M 0 4228 4 4256   ; A gnome guard
+M 0 4228 4 4256   ; A gnome guard
+M 0 4228 4 4256   ; A gnome guard
+M 0 4228 4 4256   ; A gnome guard
+M 0 4230 4 4258   ; A gnome inventor
+M 0 4230 4 4262   ; A gnome inventor
+M 0 4227 1 4266   ; An observing gnome
+E 1 4266 65535 10   ; Sleeves of the observer
+M 0 4226 2 4272   ; A gnome librarian
+G 1 40124 65535 0   ; a treasure
+O 0 4351 65535 4273   ; Tome Of Magic
+O 0 4349 65535 4273   ; amulet of life protection
+O 0 4247 65535 4273   ; chime of opening
+O 0 4248 65535 4273   ; the desk
+P 1 40129 3 4248   ; a huge treasure
+P 1 4351 2 4248   ; Tome Of Magic
+P 1 4349 2 4248   ; amulet of life protection
+M 0 4226 2 4274   ; A gnome librarian
+G 1 40124 65535 0   ; a treasure
+M 0 4229 1 4277   ; The gnome head inventor
+E 1 4246 65535 17   ; rod of transport
+G 1 40127 65535 0   ; a huge treasure
+M 0 4378 4 4279   ; A huge bat
+M 0 4378 4 4281   ; A huge bat
+M 0 4378 4 4281   ; A huge bat
+M 0 4378 4 4281   ; A huge bat
+O 0 9493 65535 4281   ; A golden coin
+M 0 4242 1 4285   ; A Huge Lab Rat
+M 0 4230 4 4285   ; A gnome inventor
+M 0 4230 4 4286   ; A gnome inventor
+M 0 4225 3 4288   ; An animated suit of armor
+G 1 40124 65535 0   ; a treasure
+M 0 4225 3 4289   ; An animated suit of armor
+G 1 40124 65535 0   ; a treasure
+M 0 4225 3 4290   ; An animated suit of armor
+G 1 40124 65535 0   ; a treasure
+M 0 4221 4 4293   ; A pigmy citizen
+O 0 40124 65535 4293   ; a treasure
+M 0 4201 3 4308   ; A pigmy miner
+G 1 40130 65535 0   ; The Pickaxe
+M 0 4201 3 4312   ; A pigmy miner
+G 1 40130 65535 0   ; The Pickaxe
+G 1 40124 65535 0   ; a treasure
+G 1 40124 65535 0   ; a treasure
+M 0 4201 3 4313   ; A pigmy miner
+G 1 40130 65535 0   ; The Pickaxe
+G 1 40124 65535 0   ; a treasure
+M 0 4215 1 4329   ; A pigmy mage
+E 1 4329 65535 6   ; a funny pointed hat
+M 0 4213 1 4330   ; A pigmy thief
+E 1 4216 65535 16   ; a solid black dagger
+M 0 4221 4 4331   ; A pigmy citizen
+M 0 4205 4 4334   ; A pigmy revolutionary
+M 0 4205 4 4334   ; A pigmy revolutionary
+M 0 4205 4 4334   ; A pigmy revolutionary
+M 0 4205 4 4334   ; A pigmy revolutionary
+M 0 4221 4 4336   ; A pigmy citizen
+O 0 6013 65535 4337   ; the barrel
+M 0 4221 4 4341   ; A pigmy citizen
+G 1 40124 65535 0   ; a treasure
+M 0 4211 2 4341   ; A pigmy artist
+M 0 4211 2 4342   ; A pigmy artist
+E 1 4245 65535 13   ; A Paint Brush
+M 0 4210 1 4343   ; A pigmy storekeeper
+G 1 40125 65535 0   ; a treasure
+M 0 4218 5 4345   ; A pigmy guard
+M 0 4218 5 4345   ; A pigmy guard
+M 0 4218 5 4345   ; A pigmy guard
+M 0 4218 5 4345   ; A pigmy guard
+M 0 4222 2 4345   ; A pigmy sentry
+M 0 4222 2 4345   ; A pigmy sentry
+M 0 4218 5 4345   ; A pigmy guard
+M 0 4217 1 4350   ; A pigmy guard captain
+G 1 40126 65535 0   ; a treasure
+G 1 4374 65535 0   ; A harness of combat
+M 0 4212 3 4354   ; A pigmy worshiper
+G 1 40121 65535 0   ; a small treasure
+M 0 4212 3 4355   ; A pigmy worshiper
+G 1 40121 65535 0   ; a small treasure
+M 0 4212 3 4355   ; A pigmy worshiper
+G 1 40121 65535 0   ; a small treasure
+M 0 4214 1 4356   ; A pigmy cleric
+G 1 40123 65535 0   ; a small treasure
+G 1 4242 65535 0   ; Glowing hands
+D 0 4356 0 1   ; Temple Altar
+D 0 4357 2 1   ; Behinde the Temple Altar
+D 0 4359 0 1   ; Turn in the Hallway
+D 0 4360 1 1   ; Dark Hallway
+D 0 4360 3 1   ; Dark Hallway
+M 0 4361 1 4361   ; The High Priest
+E 1 4203 65535 16   ; a walking stick
+E 1 4205 65535 17   ; a bottle of redish ointment
+D 0 4361 3 1   ; A High Priest's Antechambers
+D 0 4362 1 1   ; A Priest's Antechamer
+M 0 4206 2 4363   ; A pigmy cook
+D 0 4363 0 1   ; A Large Kitchen
+D 0 4363 2 1   ; A Large Kitchen
+M 0 4206 2 4364   ; A pigmy cook
+D 0 4367 0 2   ; A slimmy Tunnel
+D 0 4367 2 2   ; A slimmy Tunnel
+M 0 4368 1 4368   ; The Mutant Pigmy
+D 0 4368 2 2   ; A Barred Cage
+D 0 4369 0 0   ; The Secret Tunnel
+D 0 4369 2 2   ; The Secret Tunnel
+D 0 4370 2 1   ; A Small Acccess Tunnel
+M 0 4371 1 4371   ; Mad Morgan
+D 0 4371 0 2   ; The Cell of Mad Morgan
+M 0 4204 1 4372   ; A pigmy Guardian
+G 1 40126 65535 0   ; a treasure
+M 0 4379 3 4379   ; A pigmy guard
+M 0 4379 3 4379   ; A pigmy guard
+M 0 4379 3 4379   ; A pigmy guard
+G 1 4379 65535 0   ; a small key
+D 0 4379 1 2   ; Set of Large Wooden And Iron Plated Doors
+D 0 4380 3 2   ; A Large Study
+M 0 4381 1 4381   ; The Fencing Instructor
+M 0 4220 1 4383   ; The pigmy queen
+E 1 4328 65535 2   ; A diamond ring
+E 1 4383 65535 16   ; A dagger of venom
+M 0 4219 1 4383   ; The pigmy king
+E 1 4353 65535 6   ; Crown of bright light
+G 1 40127 65535 0   ; a huge treasure
+M 0 4202 1 4383   ; A pigmy bodyguard
+M 0 4209 1 4386   ; A pigmy jester
+E 1 4386 65535 5   ; A Bright Colored Shirt
+D 0 4386 1 0   ; The Throne Room
+D 0 4388 3 0   ; Small Hallway
+M 0 4389 1 4389   ; The Umberhulk Warmaster
+E 1 4375 65535 9   ; The claws of the Umberhulk
+E 1 4380 65535 11   ; The skull of a Umber hulk
+M 0 4203 1 4392   ; A pigmy philosopher
+M 0 4208 2 4398   ; A pigmy jail guard
+M 0 4208 2 4398   ; A pigmy jail guard
+M 0 4403 1 4403   ; A pigmy judge
+O 0 1540 65535 4403   ; a pile of coins is here
+M 0 4404 1 4404   ; The court clerk
+M 0 4207 1 4406   ; A pigmy executioner
+E 1 4243 65535 5   ; some blood soaked apron
+E 1 4244 65535 16   ; a large axe
+M 0 4410 1 4410   ; the pigmy blacksmith
+E 1 4201 65535 9   ; gauntlets of dexterity
+E 1 4208 65535 12   ; Strange colored cloak
+D 0 4466 3 0   ; Collapsed Tunnel
+M 0 4241 1 4467   ; A Huge Gopher
+E 1 4241 65535 17   ; The tail of a huge gopher
+S

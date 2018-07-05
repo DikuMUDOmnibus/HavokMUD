@@ -1,0 +1,24 @@
+#39006
+The End of the Grand Hallway~
+   You have reached the end of the immense hallway.  Directly in front of you hangs
+a gigantic tapestry of a majestic black dragon.  In the background can be seen four
+winged creates that, strangely enough, look vaguely familiar.  You cannot help
+but marvel at the magnificent armor that adorns the dragon lord.  On either side of
+you is pearched a stone gargoyle, each clutching what appears to be a human skull.
+~
+122 64 0
+D0
+~
+door~
+0 0 39005 0
+D1
+~
+skull
+~
+11 0 39008 371
+D3
+~
+2.skull
+~
+11 0 39007 371
+S

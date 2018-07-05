@@ -1,0 +1,580 @@
+*Zone 99, rooms 28000-29999, last modified by Jopa
+M 0 28000 1 28001   ; An enormous sea serpent
+G 1 257 65535 0   ; a clear potion
+G 1 257 65535 0   ; a clear potion
+G 1 257 65535 0   ; a clear potion
+M 0 28019 4 28002   ; A Giant Piranah
+M 0 28018 4 28005   ; A Giant Eel
+M 0 28018 4 28006   ; A Giant Eel
+M 0 28019 4 28007   ; A Giant Piranah
+M 0 28019 4 28007   ; A Giant Piranah
+M 0 28019 4 28007   ; A Giant Piranah
+M 0 28018 4 28007   ; A Giant Eel
+M 0 28009 1 28009   ; An Ixitxachitl
+M 0 28018 4 28010   ; A Giant Eel
+D 0 28010 0 2   ; Grand Hall
+M 0 28010 1 28021   ; The Eye of the Deep
+G 1 28169 65535 0   ; A Black Pearl Belt
+G 1 40129 65535 0   ; a huge treasure
+D 0 28021 2 2   ; Throne Room
+D 0 28024 2 1   ; Guard Room
+D 0 28025 0 1   ; Ruined Court Yard
+M 0 28015 2 28026   ; A Water Weird
+M 0 28015 2 28026   ; A Water Weird
+M 0 28014 1 28026   ; A Nereid
+G 1 28174 65535 0   ; A Seaweed Cloak
+D 0 28028 2 1   ; Ruined Gate House
+D 0 28030 5 1   ; Collapsed Tunnel
+M 0 28013 7 28031   ; A Water Zombie
+M 0 28013 7 28031   ; A Water Zombie
+G 1 28021 65535 0   ; A Royal Key
+M 0 28013 7 28031   ; A Water Zombie
+D 0 28031 4 1   ; Rubble Grave
+D 0 28032 4 1   ; End of the Passage
+D 0 28032 5 1   ; End of the Passage
+D 0 28033 5 1   ; Vacant Tower
+D 0 28034 4 1   ; Vacant Tower
+M 0 28012 1 28035   ; The Banshee
+E 1 28179 65535 17   ; A Red Saltwater Vial
+G 1 40128 65535 0   ; a huge treasure
+D 0 28035 5 1   ; Princess' Bedroom
+D 0 28036 4 1   ; Dark Stairwell
+M 0 28043 6 28038   ; A Kua-Toan Priest
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28166 65535 16   ; A Pincer Staff
+E 1 28165 65535 18   ; A Kua-Toan Harness
+M 0 28043 6 28038   ; A Kua-Toan Priest
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28166 65535 16   ; A Pincer Staff
+E 1 28165 65535 18   ; A Kua-Toan Harness
+M 0 28043 6 28038   ; A Kua-Toan Priest
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28166 65535 16   ; A Pincer Staff
+E 1 28165 65535 18   ; A Kua-Toan Harness
+M 0 28043 6 28038   ; A Kua-Toan Priest
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28166 65535 16   ; A Pincer Staff
+E 1 28165 65535 18   ; A Kua-Toan Harness
+M 0 28043 6 28038   ; A Kua-Toan Priest
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28166 65535 16   ; A Pincer Staff
+E 1 28165 65535 18   ; A Kua-Toan Harness
+M 0 28043 6 28038   ; A Kua-Toan Priest
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28166 65535 16   ; A Pincer Staff
+E 1 28165 65535 18   ; A Kua-Toan Harness
+G 1 28173 65535 0   ; Red Coral Armguards
+G 1 40129 65535 0   ; a huge treasure
+D 0 28038 4 2   ; Malevolent Temple
+M 0 28011 1 28041   ; The Vampric Mist
+E 1 28178 65535 17   ; A Black Saltwater Vial
+G 1 40128 65535 0   ; a huge treasure
+M 0 28017 1 28045   ; The Giant Aboleth
+G 1 40128 65535 0   ; a huge treasure
+M 0 28016 1 28045   ; The Sirine
+G 1 28182 65535 0   ; A Beautiful Black Pearl
+D 0 28045 4 0   ; Malevolent Lair
+D 0 28046 0 1   ; Onto the Drawbridge
+D 0 28048 2 0   ; Pocket of Air!
+D 0 28049 5 0   ; Above the Coral Reef
+D 0 28050 5 0   ; Above the Coral Reef
+D 0 28051 5 0   ; Above the Coral Reef
+D 0 28052 5 0   ; Above the Coral Reef
+D 0 28054 5 0   ; Above the Coral Reef
+D 0 28055 5 0   ; Above the Coral Reef
+D 0 28056 5 0   ; Above the Coral Reef
+D 0 28057 5 0   ; Above the Coral Reef
+D 0 28058 0 0   ; Within the Coral Maze
+D 0 28058 2 0   ; Within the Coral Maze
+D 0 28058 3 0   ; Within the Coral Maze
+M 0 28020 23 28059   ; A Kua-Toan Soldier
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28161 65535 16   ; A Coral Spear
+E 1 28165 65535 18   ; A Kua-Toan Harness
+M 0 28021 20 28059   ; A Sea Elf Scout
+D 0 28059 1 0   ; Within the Coral Maze
+D 0 28059 5 0   ; Within the Coral Maze
+D 0 28060 2 0   ; Within the Coral Maze
+D 0 28060 3 0   ; Within the Coral Maze
+D 0 28060 4 0   ; Within the Coral Maze
+M 0 28021 20 28061   ; A Sea Elf Scout
+E 1 28163 65535 5   ; Seaplant Armor
+E 1 28164 65535 8   ; Seaplant Boots
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28161 65535 16   ; A Coral Spear
+D 0 28061 1 0   ; Within the Coral Maze
+D 0 28061 5 0   ; Within the Coral Maze
+M 0 28021 20 28062   ; A Sea Elf Scout
+D 0 28062 0 0   ; Within the Coral Maze
+D 0 28062 3 0   ; Within the Coral Maze
+D 0 28062 4 0   ; Within the Coral Maze
+M 0 28021 20 28063   ; A Sea Elf Scout
+D 0 28063 2 0   ; Within the Coral Maze
+D 0 28063 3 0   ; Within the Coral Maze
+M 0 28021 20 28064   ; A Sea Elf Scout
+D 0 28064 0 0   ; Within the Coral Maze
+D 0 28064 1 0   ; Within the Coral Maze
+M 0 28021 20 28065   ; A Sea Elf Scout
+M 0 28021 20 28065   ; A Sea Elf Scout
+D 0 28065 2 0   ; Within the Coral Maze
+M 0 28021 20 28066   ; A Sea Elf Scout
+D 0 28066 1 0   ; Within the Coral Maze
+D 0 28066 2 0   ; Within the Coral Maze
+M 0 28021 20 28067   ; A Sea Elf Scout
+D 0 28067 0 0   ; Within the Coral Maze
+D 0 28067 1 0   ; Within the Coral Maze
+D 0 28067 5 0   ; Within the Coral Maze
+M 0 28021 20 28068   ; A Sea Elf Scout
+M 0 28021 20 28068   ; A Sea Elf Scout
+D 0 28068 2 0   ; Within the Coral Maze
+M 0 28021 20 28069   ; A Sea Elf Scout
+D 0 28069 0 0   ; Within the Coral Maze
+D 0 28069 2 0   ; Within the Coral Maze
+D 0 28069 4 0   ; Within the Coral Maze
+D 0 28070 0 0   ; Within the Coral Maze
+D 0 28070 3 0   ; Within the Coral Maze
+D 0 28071 1 0   ; Within the Coral Maze
+D 0 28071 3 0   ; Within the Coral Maze
+D 0 28072 1 0   ; Within the Coral Maze
+D 0 28072 3 0   ; Within the Coral Maze
+D 0 28073 3 0   ; Within the Coral Maze
+D 0 28073 4 0   ; Within the Coral Maze
+D 0 28073 5 0   ; Within the Coral Maze
+M 0 28021 20 28074   ; A Sea Elf Scout
+M 0 28021 20 28074   ; A Sea Elf Scout
+D 0 28074 0 0   ; Within the Coral Maze
+D 0 28074 5 0   ; Within the Coral Maze
+M 0 28020 23 28075   ; A Kua-Toan Soldier
+M 0 28021 20 28075   ; A Sea Elf Scout
+D 0 28075 1 0   ; Within the Coral Maze
+D 0 28075 2 0   ; Within the Coral Maze
+D 0 28075 4 0   ; Within the Coral Maze
+M 0 28020 23 28076   ; A Kua-Toan Soldier
+D 0 28076 2 0   ; Within the Coral Maze
+D 0 28076 3 0   ; Within the Coral Maze
+D 0 28076 4 0   ; Within the Coral Maze
+D 0 28077 0 0   ; Within the Coral Maze
+D 0 28077 5 0   ; Within the Coral Maze
+D 0 28078 0 0   ; Within the Coral Maze
+D 0 28078 1 0   ; Within the Coral Maze
+D 0 28078 2 0   ; Within the Coral Maze
+D 0 28079 3 0   ; Within the Coral Maze
+D 0 28079 4 0   ; Within the Coral Maze
+D 0 28079 5 0   ; Within the Coral Maze
+M 0 28020 23 28080   ; A Kua-Toan Soldier
+D 0 28080 5 0   ; Within the Coral Maze
+D 0 28081 1 0   ; Within the Coral Maze
+D 0 28081 4 0   ; Within the Coral Maze
+D 0 28081 5 0   ; Within the Coral Maze
+M 0 28020 23 28082   ; A Kua-Toan Soldier
+M 0 28020 23 28082   ; A Kua-Toan Soldier
+D 0 28082 3 0   ; Within the Coral Maze
+D 0 28082 4 0   ; Within the Coral Maze
+D 0 28083 2 0   ; Within the Coral Maze
+D 0 28083 5 0   ; Within the Coral Maze
+D 0 28084 0 0   ; Within the Coral Maze
+D 0 28084 2 0   ; Within the Coral Maze
+M 0 28020 23 28085   ; A Kua-Toan Soldier
+D 0 28085 0 0   ; Within the Coral Maze
+D 0 28085 1 0   ; Within the Coral Maze
+D 0 28085 5 0   ; Within the Coral Maze
+D 0 28086 2 0   ; Within the Coral Maze
+D 0 28086 3 0   ; Within the Coral Maze
+M 0 28020 23 28087   ; A Kua-Toan Soldier
+M 0 28020 23 28087   ; A Kua-Toan Soldier
+D 0 28087 0 0   ; Within the Coral Maze
+D 0 28087 1 0   ; Within the Coral Maze
+M 0 28020 23 28088   ; A Kua-Toan Soldier
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28165 65535 18   ; A Kua-Toan Harness
+G 1 28126 65535 0   ; A Coral Weighted Net
+G 1 28167 65535 0   ; A Coral Harpoon
+M 0 28020 23 28088   ; A Kua-Toan Soldier
+D 0 28088 1 0   ; Within the Coral Maze
+D 0 28088 3 0   ; Within the Coral Maze
+M 0 28020 23 28089   ; A Kua-Toan Soldier
+M 0 28020 23 28089   ; A Kua-Toan Soldier
+M 0 28020 23 28089   ; A Kua-Toan Soldier
+D 0 28089 3 0   ; Within the Coral Maze
+D 0 28089 4 0   ; Within the Coral Maze
+D 0 28090 3 0   ; Within the Coral Maze
+M 0 28020 23 28091   ; A Kua-Toan Soldier
+D 0 28091 2 0   ; Within the Coral Maze
+D 0 28091 4 0   ; Within the Coral Maze
+M 0 28020 23 28092   ; A Kua-Toan Soldier
+M 0 28020 23 28092   ; A Kua-Toan Soldier
+D 0 28092 0 0   ; Within the Coral Maze
+D 0 28092 1 0   ; Within the Coral Maze
+D 0 28092 5 0   ; Within the Coral Maze
+M 0 28020 23 28093   ; A Kua-Toan Soldier
+D 0 28093 1 0   ; Within the Coral Maze
+D 0 28093 2 0   ; Within the Coral Maze
+D 0 28093 4 0   ; Within the Coral Maze
+M 0 28020 23 28094   ; A Kua-Toan Soldier
+D 0 28094 0 0   ; Within the Coral Maze
+D 0 28094 3 0   ; Within the Coral Maze
+D 0 28094 5 0   ; Within the Coral Maze
+M 0 28020 23 28095   ; A Kua-Toan Soldier
+D 0 28095 4 0   ; Within the Coral Maze
+D 0 28096 1 0   ; Within the Coral Maze
+D 0 28096 2 0   ; Within the Coral Maze
+D 0 28096 4 0   ; Within the Coral Maze
+D 0 28097 0 0   ; Within the Coral Maze
+D 0 28097 2 0   ; Within the Coral Maze
+D 0 28098 0 0   ; Within the Coral Maze
+D 0 28098 1 0   ; Within the Coral Maze
+M 0 28020 23 28099   ; A Kua-Toan Soldier
+M 0 28020 23 28099   ; A Kua-Toan Soldier
+D 0 28099 3 0   ; Within the Coral Maze
+D 0 28099 4 0   ; Within the Coral Maze
+M 0 28021 20 28100   ; A Sea Elf Scout
+M 0 28020 23 28100   ; A Kua-Toan Soldier
+M 0 28021 20 28100   ; A Sea Elf Scout
+D 0 28100 0 0   ; Within the Coral Maze
+D 0 28100 3 0   ; Within the Coral Maze
+D 0 28100 5 0   ; Within the Coral Maze
+M 0 28021 20 28101   ; A Sea Elf Scout
+D 0 28101 0 0   ; Within the Coral Maze
+D 0 28101 1 0   ; Within the Coral Maze
+D 0 28101 5 0   ; Within the Coral Maze
+D 0 28102 2 0   ; Within the Coral Maze
+D 0 28102 3 0   ; Within the Coral Maze
+D 0 28102 4 0   ; Within the Coral Maze
+M 0 28021 20 28103   ; A Sea Elf Scout
+D 0 28103 1 0   ; Within the Coral Maze
+D 0 28103 5 0   ; Within the Coral Maze
+M 0 28021 20 28104   ; A Sea Elf Scout
+D 0 28104 4 0   ; Within the Coral Maze
+D 0 28105 0 0   ; Within the Coral Maze
+D 0 28105 5 0   ; Within the Coral Maze
+D 0 28106 2 0   ; Within the Coral Maze
+D 0 28106 4 0   ; Within the Coral Maze
+D 0 28107 0 0   ; Within the Coral Maze
+D 0 28107 4 0   ; Within the Coral Maze
+D 0 28107 5 1   ; Within the Coral Maze
+D 0 28108 4 0   ; Pocket of Air!
+D 0 28108 5 0   ; Pocket of Air!
+M 0 28022 1 28109   ; The Coral Dragon
+G 1 28184 65535 0   ; Obsidian Pearl Breastplate
+G 1 28140 65535 0   ; A Trident Key
+G 1 40129 65535 0   ; a huge treasure
+D 0 28109 4 1   ; Hideous Lair!
+D 0 28109 5 1   ; Hideous Lair!
+D 0 28111 4 1   ; Cargo Hold
+D 0 28112 5 1   ; Rowing Deck
+M 0 28023 1 28114   ; Captain Cantriks
+E 1 28187 65535 16   ; A Ghost Knife
+E 1 28185 65535 21   ; A Steel Battlemask
+G 1 40129 65535 0   ; a huge treasure
+D 0 28115 1 1   ; First Mate's Room
+D 0 28116 3 1   ; Above Deck
+M 0 28013 7 28118   ; A Water Zombie
+M 0 28013 7 28118   ; A Water Zombie
+M 0 28013 7 28118   ; A Water Zombie
+M 0 28013 7 28118   ; A Water Zombie
+D 0 28119 1 2   ; Reprieve from the Coral Reef Maze!
+D 0 28120 3 2   ; Hall of Evil
+M 0 28045 4 28124   ; A Kua-Toan Whip
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28161 65535 16   ; A Coral Spear
+E 1 28165 65535 18   ; A Kua-Toan Harness
+M 0 28045 4 28124   ; A Kua-Toan Whip
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28161 65535 16   ; A Coral Spear
+E 1 28165 65535 18   ; A Kua-Toan Harness
+M 0 28044 16 28124   ; A Kua-Toan Soldier
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28160 65535 16   ; A Coral Trident
+E 1 28165 65535 18   ; A Kua-Toan Harness
+M 0 28044 16 28124   ; A Kua-Toan Soldier
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28160 65535 16   ; A Coral Trident
+E 1 28165 65535 18   ; A Kua-Toan Harness
+M 0 28044 16 28124   ; A Kua-Toan Soldier
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28160 65535 16   ; A Coral Trident
+E 1 28165 65535 18   ; A Kua-Toan Harness
+M 0 28044 16 28124   ; A Kua-Toan Soldier
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28160 65535 16   ; A Coral Trident
+E 1 28165 65535 18   ; A Kua-Toan Harness
+D 0 28125 4 1   ; North end of the walkway
+D 0 28125 5 2   ; North end of the walkway
+D 0 28126 5 1   ; Winding Stairs of Stone
+D 0 28128 3 1   ; Underwater Library?!
+M 0 28046 1 28129   ; Szitths the evil High Priest
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28166 65535 16   ; A Pincer Staff
+E 1 28165 65535 18   ; A Kua-Toan Harness
+G 1 28038 65535 0   ; A Coral Key
+G 1 4050 65535 0   ; a purple potion
+D 0 28129 1 1   ; Chamber of the High Priest
+M 0 28047 8 28132   ; A Sea Elf Slave
+M 0 28047 8 28132   ; A Sea Elf Slave
+M 0 28047 8 28132   ; A Sea Elf Slave
+M 0 28047 8 28132   ; A Sea Elf Slave
+M 0 28047 8 28133   ; A Sea Elf Slave
+M 0 28047 8 28133   ; A Sea Elf Slave
+M 0 28047 8 28133   ; A Sea Elf Slave
+M 0 28047 8 28133   ; A Sea Elf Slave
+M 0 28048 1 28136   ; The Monitor
+E 1 28177 65535 7   ; Seaweed Trousers
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28161 65535 16   ; A Coral Spear
+E 1 28165 65535 18   ; A Kua-Toan Harness
+G 1 40128 65535 0   ; a huge treasure
+D 0 28139 1 2   ; Hall of the Dead
+M 0 28050 1 28140   ; The Avatar of Blibdoolpoolp
+E 1 28180 65535 17   ; The Ankh of Posereisn
+G 1 40129 65535 0   ; a huge treasure
+D 0 28140 3 2   ; Chamber of Evil Worship
+M 0 28044 16 28142   ; A Kua-Toan Soldier
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28161 65535 16   ; A Coral Spear
+E 1 28165 65535 18   ; A Kua-Toan Harness
+M 0 28044 16 28142   ; A Kua-Toan Soldier
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28161 65535 16   ; A Coral Spear
+E 1 28165 65535 18   ; A Kua-Toan Harness
+M 0 28045 4 28146   ; A Kua-Toan Whip
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28161 65535 16   ; A Coral Spear
+E 1 28165 65535 18   ; A Kua-Toan Harness
+M 0 28045 4 28146   ; A Kua-Toan Whip
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28161 65535 16   ; A Coral Spear
+E 1 28165 65535 18   ; A Kua-Toan Harness
+M 0 28044 16 28146   ; A Kua-Toan Soldier
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28160 65535 16   ; A Coral Trident
+E 1 28165 65535 18   ; A Kua-Toan Harness
+M 0 28044 16 28146   ; A Kua-Toan Soldier
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28160 65535 16   ; A Coral Trident
+E 1 28165 65535 18   ; A Kua-Toan Harness
+M 0 28044 16 28146   ; A Kua-Toan Soldier
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28160 65535 16   ; A Coral Trident
+E 1 28165 65535 18   ; A Kua-Toan Harness
+M 0 28044 16 28146   ; A Kua-Toan Soldier
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28160 65535 16   ; A Coral Trident
+E 1 28165 65535 18   ; A Kua-Toan Harness
+D 0 28147 1 2   ; Hall of the Dead
+M 0 28049 4 28149   ; A Kua-Toan Lacedon
+M 0 28049 4 28149   ; A Kua-Toan Lacedon
+M 0 28049 4 28149   ; A Kua-Toan Lacedon
+M 0 28049 4 28149   ; A Kua-Toan Lacedon
+D 0 28149 3 1   ; Hall of the Dead
+D 0 28150 3 2   ; Pearly Gates
+M 0 28051 22 28151   ; A Sea Elf Guard
+E 1 28163 65535 5   ; Seaplant Armor
+E 1 28164 65535 8   ; Seaplant Boots
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28161 65535 16   ; A Coral Spear
+G 1 28167 65535 0   ; A Coral Harpoon
+M 0 28051 22 28151   ; A Sea Elf Guard
+E 1 28163 65535 5   ; Seaplant Armor
+E 1 28164 65535 8   ; Seaplant Boots
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28161 65535 16   ; A Coral Spear
+G 1 28167 65535 0   ; A Coral Harpoon
+M 0 28051 22 28151   ; A Sea Elf Guard
+E 1 28163 65535 5   ; Seaplant Armor
+E 1 28164 65535 8   ; Seaplant Boots
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28161 65535 16   ; A Coral Spear
+G 1 28167 65535 0   ; A Coral Harpoon
+M 0 28051 22 28151   ; A Sea Elf Guard
+E 1 28163 65535 5   ; Seaplant Armor
+E 1 28164 65535 8   ; Seaplant Boots
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28161 65535 16   ; A Coral Spear
+G 1 28167 65535 0   ; A Coral Harpoon
+M 0 28051 22 28152   ; A Sea Elf Guard
+E 1 28163 65535 5   ; Seaplant Armor
+E 1 28164 65535 8   ; Seaplant Boots
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28161 65535 16   ; A Coral Spear
+G 1 28167 65535 0   ; A Coral Harpoon
+M 0 28051 22 28152   ; A Sea Elf Guard
+E 1 28163 65535 5   ; Seaplant Armor
+E 1 28164 65535 8   ; Seaplant Boots
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28161 65535 16   ; A Coral Spear
+G 1 28167 65535 0   ; A Coral Harpoon
+M 0 28051 22 28152   ; A Sea Elf Guard
+E 1 28163 65535 5   ; Seaplant Armor
+E 1 28164 65535 8   ; Seaplant Boots
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28161 65535 16   ; A Coral Spear
+G 1 28167 65535 0   ; A Coral Harpoon
+M 0 28051 22 28152   ; A Sea Elf Guard
+E 1 28163 65535 5   ; Seaplant Armor
+E 1 28164 65535 8   ; Seaplant Boots
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28161 65535 16   ; A Coral Spear
+G 1 28167 65535 0   ; A Coral Harpoon
+M 0 28051 22 28153   ; A Sea Elf Guard
+M 0 28051 22 28153   ; A Sea Elf Guard
+M 0 28051 22 28153   ; A Sea Elf Guard
+M 0 28051 22 28153   ; A Sea Elf Guard
+M 0 28051 22 28153   ; A Sea Elf Guard
+M 0 28051 22 28153   ; A Sea Elf Guard
+M 0 28051 22 28153   ; A Sea Elf Guard
+M 0 28051 22 28153   ; A Sea Elf Guard
+M 0 28051 22 28153   ; A Sea Elf Guard
+M 0 28051 22 28153   ; A Sea Elf Guard
+M 0 28051 22 28155   ; A Sea Elf Guard
+E 1 28163 65535 5   ; Seaplant Armor
+E 1 28164 65535 8   ; Seaplant Boots
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28161 65535 16   ; A Coral Spear
+G 1 28167 65535 0   ; A Coral Harpoon
+M 0 28051 22 28155   ; A Sea Elf Guard
+E 1 28163 65535 5   ; Seaplant Armor
+E 1 28164 65535 8   ; Seaplant Boots
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28161 65535 16   ; A Coral Spear
+G 1 28167 65535 0   ; A Coral Harpoon
+M 0 28051 22 28155   ; A Sea Elf Guard
+E 1 28163 65535 5   ; Seaplant Armor
+E 1 28164 65535 8   ; Seaplant Boots
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28161 65535 16   ; A Coral Spear
+G 1 28167 65535 0   ; A Coral Harpoon
+M 0 28051 22 28155   ; A Sea Elf Guard
+E 1 28163 65535 5   ; Seaplant Armor
+E 1 28164 65535 8   ; Seaplant Boots
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28161 65535 16   ; A Coral Spear
+G 1 28167 65535 0   ; A Coral Harpoon
+D 0 28155 1 1   ; Sea Elf Guard Room
+D 0 28156 2 1   ; Twisting Coral Tunnel
+D 0 28156 3 2   ; Twisting Coral Tunnel
+M 0 28024 1 28157   ; The Sea Elf Captain
+E 1 28171 65535 2   ; A Black Pearl Ring
+E 1 28163 65535 5   ; Seaplant Armor
+E 1 28164 65535 8   ; Seaplant Boots
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28160 65535 16   ; A Coral Trident
+G 1 28158 65535 0   ; A Sea Green Key
+D 0 28157 0 1   ; Sea Elf Captain's Quarters
+M 0 28044 16 28158   ; A Kua-Toan Soldier
+M 0 28044 16 28158   ; A Kua-Toan Soldier
+M 0 28044 16 28158   ; A Kua-Toan Soldier
+M 0 28044 16 28158   ; A Kua-Toan Soldier
+M 0 28044 16 28158   ; A Kua-Toan Soldier
+M 0 28044 16 28158   ; A Kua-Toan Soldier
+D 0 28158 1 2   ; Cell Block
+M 0 28028 9 28160   ; A Sea Elf Citizen
+M 0 28025 1 28160   ; Teltorin
+M 0 28027 5 28161   ; A Dolphin
+M 0 28027 5 28161   ; A Dolphin
+M 0 28027 5 28161   ; A Dolphin
+M 0 28027 5 28161   ; A Dolphin
+M 0 28027 5 28161   ; A Dolphin
+M 0 28026 8 28162   ; A Dolphin
+M 0 28028 9 28164   ; A Sea Elf Citizen
+D 0 28164 2 1   ; Common Dwellings of the Sea Elves
+M 0 28029 1 28165   ; The Malenti
+E 1 28161 65535 16   ; A Coral Spear
+E 1 17009 65535 17   ; a scroll of dispel magic
+G 1 28175 65535 0   ; A Black Pearl Earring
+G 1 40128 65535 0   ; a huge treasure
+D 0 28165 0 1   ; Lair of the Malenti
+M 0 28030 4 28166   ; A Sea Elf Merchant
+M 0 28030 4 28166   ; A Sea Elf Merchant
+M 0 28030 4 28166   ; A Sea Elf Merchant
+M 0 28030 4 28166   ; A Sea Elf Merchant
+M 0 28028 9 28167   ; A Sea Elf Citizen
+M 0 28028 9 28168   ; A Sea Elf Citizen
+M 0 28031 1 28170   ; Serefelon
+E 1 28172 65535 8   ; Seaweed Sandals
+G 1 40128 65535 0   ; a huge treasure
+D 0 28170 4 0   ; Serefelon's Magic Shoppe
+M 0 28026 8 28171   ; A Dolphin
+M 0 28032 1 28173   ; Osselendor
+M 0 28026 8 28173   ; A Dolphin
+M 0 28033 1 28175   ; The Farmer
+M 0 28034 1 28177   ; Tawneran
+M 0 28026 8 28178   ; A Dolphin
+M 0 28028 9 28179   ; A Sea Elf Citizen
+M 0 28026 8 28179   ; A Dolphin
+M 0 28035 1 28179   ; Kebrendella
+M 0 28026 8 28181   ; A Dolphin
+M 0 28037 3 28181   ; A Sea Elf Barfly
+M 0 28037 3 28181   ; A Sea Elf Barfly
+M 0 28037 3 28181   ; A Sea Elf Barfly
+M 0 28036 1 28181   ; The Barkeep
+M 0 28038 1 28182   ; Sealissa
+M 0 28028 9 28184   ; A Sea Elf Citizen
+M 0 28041 6 28184   ; A Sea Elf Priest
+E 1 28163 65535 5   ; Seaplant Armor
+E 1 28164 65535 8   ; Seaplant Boots
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28160 65535 16   ; A Coral Trident
+M 0 28041 6 28184   ; A Sea Elf Priest
+E 1 28163 65535 5   ; Seaplant Armor
+E 1 28164 65535 8   ; Seaplant Boots
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28160 65535 16   ; A Coral Trident
+M 0 28041 6 28184   ; A Sea Elf Priest
+E 1 28163 65535 5   ; Seaplant Armor
+E 1 28164 65535 8   ; Seaplant Boots
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28160 65535 16   ; A Coral Trident
+M 0 28041 6 28184   ; A Sea Elf Priest
+E 1 28163 65535 5   ; Seaplant Armor
+E 1 28164 65535 8   ; Seaplant Boots
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28160 65535 16   ; A Coral Trident
+M 0 28041 6 28185   ; A Sea Elf Priest
+E 1 28163 65535 5   ; Seaplant Armor
+E 1 28164 65535 8   ; Seaplant Boots
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28160 65535 16   ; A Coral Trident
+M 0 28041 6 28185   ; A Sea Elf Priest
+E 1 28163 65535 5   ; Seaplant Armor
+E 1 28164 65535 8   ; Seaplant Boots
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28160 65535 16   ; A Coral Trident
+M 0 28040 1 28185   ; Elsadlar the High Priest
+E 1 28163 65535 5   ; Seaplant Armor
+E 1 28164 65535 8   ; Seaplant Boots
+E 1 28176 65535 9   ; Black Silk Gloves
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28160 65535 16   ; A Coral Trident
+D 0 28185 3 2   ; Temple of Posereisn
+M 0 28042 1 28186   ; The Avatar of Posereisn
+E 1 28181 65535 16   ; Hellreaper
+G 1 40129 65535 0   ; a huge treasure
+D 0 28186 1 1   ; Chamber of Offerings
+M 0 28028 9 28187   ; A Sea Elf Citizen
+M 0 28028 9 28187   ; A Sea Elf Citizen
+M 0 28039 2 28187   ; A Palace Guard
+E 1 28163 65535 5   ; Seaplant Armor
+E 1 28164 65535 8   ; Seaplant Boots
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28161 65535 16   ; A Coral Spear
+M 0 28039 2 28187   ; A Palace Guard
+E 1 28163 65535 5   ; Seaplant Armor
+E 1 28164 65535 8   ; Seaplant Boots
+E 1 28168 65535 11   ; A Boiled Leather Shield
+E 1 28161 65535 16   ; A Coral Spear
+M 0 28028 9 28187   ; A Sea Elf Citizen
+D 0 28187 3 0   ; Palacial Gates
+M 0 28026 8 28188   ; A Dolphin
+D 0 28188 1 0   ; Within the Grand Palace
+M 0 28026 8 28189   ; A Dolphin
+M 0 28053 1 28189   ; Seandeara the Sea Elf Queen
+M 0 28052 1 28189   ; Seanderhelm, the Sea Elf King
+E 1 28170 65535 5   ; A Seashell Breastplate
+E 1 28183 65535 10   ; Sea Shell Bracers
+G 1 40129 65535 0   ; a huge treasure
+O 0 5305 65535 28191   ; a huge treasure
+O 0 30777 65535 28191   ; A boobie trap
+O 0 28188 65535 28191   ; Godsmight
+O 0 28189 65535 28191   ; Godswrath
+D 0 28191 4 1   ; Hidden Cache!
+S

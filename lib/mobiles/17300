@@ -1,0 +1,18 @@
+#17300
+robot robo-sentry sentry~
+The robo-sentry~
+A robo-sentry stands here, its red optic laser scanning in all directions.
+~
+It looks like a 3 foot barrel on two treads with arms.  You notice one
+arm has a nasty edge to it.
+~
+~
+~
+2  32768  0  1.0 
+ 5  12  2  28  1d8+0 
+ -1  19  31  0 
+ 8  8  0  0  0  0 
+ 0 
+~
+~
+~

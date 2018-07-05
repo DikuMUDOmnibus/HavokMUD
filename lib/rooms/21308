@@ -1,0 +1,23 @@
+#21308
+Great Hall~
+    There are a lot of long, flat tables and benches here, lending credence to your
+initial guess that this room served as the dining hall for the people of this fortress.
+This room is quite large, and the roof is higher than most of the other parts of the
+fortress.  It's hard to say for sure, but it looks like the great hall continues on to
+the west.  There is also an opening in the south wall, and one in the east wall that
+looks like it leads back to the hallway.
+~
+84 9 1
+D1
+~
+~
+0 -1 21301 -1
+D2
+~
+~
+0 -1 21310 -1
+D3
+~
+~
+0 -1 21309 -1
+S

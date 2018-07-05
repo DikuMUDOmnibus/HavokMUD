@@ -1,0 +1,26 @@
+*Zone 124, rooms 39900-40099, last modified by Tsaron
+O 0 39933 65535 39933   ; a weapons rack
+P 1 39901 1 39933   ; Jareth's Black Longsword
+D 0 39933 0 1   ; A Forgotten Room
+D 0 39934 2 1   ; Intersection in the East Tunnel
+O 0 39905 65535 39940   ; A potion of Sanctuary
+O 0 39912 65535 39940   ; A potion of Everburning
+O 0 39907 65535 39940   ; A potion of Moonlight
+O 0 39904 65535 39940   ; A scroll of the Arcane
+O 0 39908 65535 39962   ; Light Bringer
+O 0 39905 65535 40003   ; A potion of Sanctuary
+O 0 39912 65535 40003   ; A potion of Everburning
+O 0 39907 65535 40003   ; A potion of Moonlight
+O 0 39904 65535 40007   ; A scroll of the Arcane
+O 0 39912 65535 40020   ; A potion of Everburning
+O 0 39905 65535 40020   ; A potion of Sanctuary
+O 0 39907 65535 40020   ; A potion of Moonlight
+O 0 39906 65535 40026   ; BrightBlade
+O 0 39904 65535 40042   ; A scroll of the Arcane
+O 0 39902 65535 40057   ; Brutal axe of Blood
+O 0 39904 65535 40062   ; A scroll of the Arcane
+O 0 39905 65535 40066   ; A potion of Sanctuary
+O 0 39912 65535 40066   ; A potion of Everburning
+O 0 39907 65535 40066   ; A potion of Moonlight
+O 0 3097 65535 40092   ; a bulletin board
+S

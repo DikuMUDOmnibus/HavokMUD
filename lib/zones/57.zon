@@ -1,0 +1,127 @@
+*Zone 57, rooms 11000-11299, last modified by Coal
+M 0 11001 1 11001   ; Lord Python of Castle Python
+M 0 11021 4 11002   ; A gumby
+M 0 11035 1 11002   ; Sir Not-Appearing-In-This-Film
+E 1 11010 65535 5   ; knight's plate armor
+M 0 11004 4 11004   ; the Guardsman
+E 1 3022 65535 16   ; a long sword
+M 0 11007 2 11005   ; the Guardsman
+M 0 11007 2 11005   ; the Guardsman
+M 0 11004 4 11006   ; the Guardsman
+E 1 3022 65535 16   ; a long sword
+M 0 16031 5 11008   ; A white centipede
+M 0 11005 4 11008   ; the Guardsman
+E 1 3022 65535 16   ; a long sword
+M 0 11005 4 11008   ; the Guardsman
+E 1 3022 65535 16   ; a long sword
+M 0 11006 2 11009   ; the Guardsman
+E 1 3022 65535 16   ; a long sword
+M 0 11006 2 11009   ; the Guardsman
+E 1 3022 65535 16   ; a long sword
+D 0 11009 1 0   ; Guard Room
+D 0 11010 3 0   ; Dungeon Entrance
+D 0 11010 5 0   ; Dungeon Entrance
+M 0 11010 3 11012   ; the sheep
+G 1 112 65535 0   ; a hunk of wool
+M 0 11011 1 11012   ; A commoner
+M 0 11010 3 11012   ; the sheep
+G 1 112 65535 0   ; a hunk of wool
+M 0 11019 1 11012   ; Cardinal Biggles
+E 1 11004 65535 5   ; a nice red uniform
+M 0 11013 2 11013   ; the pepperpot
+G 1 6011 65535 0   ; a mushroom
+M 0 11024 2 11013   ; A rabid gumby
+M 0 11021 4 11014   ; A gumby
+M 0 11010 3 11015   ; the sheep
+G 1 112 65535 0   ; a hunk of wool
+M 0 11012 2 11015   ; the pantomime horse
+M 0 3066 4 11015   ; The vampire bat
+M 0 11004 4 11015   ; the Guardsman
+E 1 3022 65535 16   ; a long sword
+M 0 16004 1 11016   ; A mime
+M 0 11005 4 11016   ; the Guardsman
+E 1 3022 65535 16   ; a long sword
+M 0 11005 4 11016   ; the Guardsman
+E 1 3022 65535 16   ; a long sword
+D 0 11016 0 0   ; Gate House
+D 0 11017 2 0   ; Outside Castle
+M 0 11015 1 11019   ; The Official, Guaranteed Genuine Python Castle Baker
+M 0 11036 1 11019   ; Robin's minstrel
+M 0 11013 2 11020   ; the pepperpot
+G 1 6011 65535 0   ; a mushroom
+M 0 3066 4 11020   ; The vampire bat
+M 0 11004 4 11022   ; the Guardsman
+E 1 3022 65535 16   ; a long sword
+M 0 11016 1 11023   ; The maid
+M 0 11014 1 11025   ; The Cheeser
+M 0 11047 1 11026   ; Moore's steed Concord
+M 0 11046 1 11026   ; Dennis Moore
+E 1 3022 65535 16   ; a long sword
+G 1 11013 65535 0   ; a large bottle of water
+D 0 11027 1 0   ; Path outside cottage
+M 0 16001 1 11028   ; An aged mercenary
+E 1 3041 65535 5   ; a chain mail shirt
+E 1 3078 65535 6   ; a chain helm
+E 1 16007 65535 16   ; A curved blade
+G 1 11012 65535 0   ; the corpse of a cat
+M 0 11045 1 11028   ; The woman
+M 0 11044 1 11028   ; The man
+D 0 11028 3 0   ; Lupin Cottage
+M 0 11040 3 11030   ; The peasant
+M 0 11041 1 11030   ; The oppressed peasant
+M 0 11040 3 11030   ; The peasant
+M 0 11031 1 11034   ; Sir Lancelot
+E 1 11010 65535 5   ; knight's plate armor
+D 0 11035 1 0   ; Outside the Dark Castle
+M 0 11043 10 11036   ; A young girl
+M 0 11043 10 11036   ; A young girl
+M 0 11043 10 11036   ; A young girl
+M 0 11043 10 11036   ; A young girl
+M 0 11043 10 11036   ; A young girl
+M 0 11043 10 11036   ; A young girl
+D 0 11036 3 0   ; Castle Anthrax
+M 0 11043 10 11037   ; A young girl
+M 0 11043 10 11037   ; A young girl
+M 0 11043 10 11038   ; A young girl
+M 0 11043 10 11038   ; A young girl
+M 0 11042 1 11038   ; Zute
+M 0 11040 3 11039   ; The peasant
+M 0 11030 1 11039   ; Sir Bedamere
+E 1 11010 65535 5   ; knight's plate armor
+M 0 11048 1 11040   ; Brother Maynard
+E 1 11007 65535 17   ; the book of armaments
+G 1 11008 65535 0   ; The holy hand grenade
+M 0 11039 1 11041   ; Tim
+E 1 11006 65535 17   ; staff of fire
+M 0 11021 4 11041   ; A gumby
+G 1 11012 65535 0   ; the corpse of a cat
+M 0 11037 1 11043   ; The vorpal bunny
+M 0 11012 2 11043   ; the pantomime horse
+M 0 11033 1 11047   ; Sir Galahad
+E 1 11010 65535 5   ; knight's plate armor
+M 0 11038 1 11050   ; The Black Beast of Argh
+E 1 11005 65535 6   ; a large set of horns
+M 0 11029 1 11056   ; The old man
+D 0 11057 3 0   ; Intersection
+M 0 11022 2 11058   ; A tall gumby
+M 0 11020 1 11058   ; Cardinal Fang
+E 1 11004 65535 5   ; a nice red uniform
+D 0 11058 4 0   ; Dungeon Passage
+M 0 11024 2 11059   ; A rabid gumby
+M 0 11034 1 11059   ; Sir Robin
+E 1 11011 65535 5   ; knight's soiled plate armor
+M 0 11023 1 11060   ; A thinking gumby
+D 0 11060 1 0   ; Gumby Room
+M 0 11018 1 11061   ; The Grand Inquisitor
+E 1 11004 65535 5   ; a nice red uniform
+E 1 11003 65535 6   ; an almost fanatical devotion to the Pope
+E 1 11001 65535 16   ; Fear and surprise
+E 1 11002 65535 17   ; a ruthless efficiency
+M 0 11025 1 11061   ; The man behind the desk
+M 0 11032 1 11061   ; Concord
+M 0 11022 2 11061   ; A tall gumby
+M 0 11026 1 11062   ; The Vicar
+M 0 11028 1 11064   ; The second man
+M 0 11027 1 11064   ; The first man
+M 0 11021 4 11064   ; A gumby
+S

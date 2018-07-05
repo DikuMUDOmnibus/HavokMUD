@@ -1,0 +1,41 @@
+*Zone 56, rooms 10900-10999, last modified by Coal
+M 0 10900 15 10901   ; a Labyrinth Liar
+M 0 10900 15 10902   ; a Labyrinth Liar
+M 0 10900 15 10903   ; a Labyrinth Liar
+M 0 10900 15 10904   ; a Labyrinth Liar
+M 0 10901 9 10905   ; a Labyrinth Liar
+M 0 10900 15 10906   ; a Labyrinth Liar
+M 0 10900 15 10907   ; a Labyrinth Liar
+M 0 10900 15 10908   ; a Labyrinth Liar
+M 0 10900 15 10909   ; a Labyrinth Liar
+M 0 10901 9 10910   ; a Labyrinth Liar
+M 0 10900 15 10911   ; a Labyrinth Liar
+G 1 1708 65535 0   ; a piece of luminous green fungus
+M 0 10900 15 10912   ; a Labyrinth Liar
+M 0 10900 15 10913   ; a Labyrinth Liar
+M 0 10900 15 10914   ; a Labyrinth Liar
+M 0 10901 9 10915   ; a Labyrinth Liar
+M 0 10900 15 10916   ; a Labyrinth Liar
+M 0 10900 15 10917   ; a Labyrinth Liar
+M 0 10901 9 10918   ; a Labyrinth Liar
+M 0 10901 9 10919   ; a Labyrinth Liar
+M 0 10901 9 10920   ; a Labyrinth Liar
+M 0 10901 9 10921   ; a Labyrinth Liar
+M 0 10900 15 10922   ; a Labyrinth Liar
+M 0 10901 9 10923   ; a Labyrinth Liar
+M 0 10901 9 10924   ; a Labyrinth Liar
+M 0 10902 1 10925   ; the Labyrinth Sentry
+E 1 10904 65535 3   ; a bow tie
+O 0 10900 65535 10925   ; a pizza box
+P 1 10901 10 10900   ; a slice of pizza
+P 1 10901 10 10900   ; a slice of pizza
+P 1 10901 10 10900   ; a slice of pizza
+P 1 10901 10 10900   ; a slice of pizza
+P 1 10901 10 10900   ; a slice of pizza
+P 1 10901 10 10900   ; a slice of pizza
+P 1 10901 10 10900   ; a slice of pizza
+P 1 10901 10 10900   ; a slice of pizza
+P 1 10901 10 10900   ; a slice of pizza
+P 1 10901 10 10900   ; a slice of pizza
+O 0 10902 65535 10925   ; a 2-litre soft drink bottle
+S

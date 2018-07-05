@@ -1,0 +1,151 @@
+*Zone 118, rooms 38500-38599, last modified by Aries
+M 0 38517 8 38510   ; A Frog man
+M 0 38517 8 38511   ; A Frog man
+M 0 38517 8 38513   ; A Frog man
+M 0 38517 8 38516   ; A Frog man
+M 0 38516 1 38516   ; An Enormous toad
+M 0 38517 8 38519   ; A Frog man
+M 0 38517 8 38520   ; A Frog man
+M 0 38522 1 38522   ; a Frog Cook
+G 1 38500 5 0   ; a complimentary bread
+G 1 38522 65535 0   ; a frying pan
+O 0 38522 65535 38522   ; a frying pan
+O 0 38500 5 38522   ; a complimentary bread
+O 0 38500 5 38522   ; a complimentary bread
+O 0 38500 5 38522   ; a complimentary bread
+M 0 38517 8 38523   ; A Frog man
+O 0 38523 65535 38523   ; A large shelf
+P 1 38500 6 38523   ; a complimentary bread
+P 1 38500 6 38523   ; a complimentary bread
+P 1 13 1 38523   ; a complimentary cup
+M 0 38517 8 38524   ; A Frog man
+O 0 38523 65535 38524   ; A large shelf
+M 0 38540 8 38532   ; A Black Rat snake
+M 0 38540 8 38535   ; A Black Rat snake
+D 0 38539 0 2   ; Northern Den
+M 0 38540 8 38541   ; A Black Rat snake
+M 0 38540 8 38542   ; A Black Rat snake
+M 0 38540 8 38544   ; A Black Rat snake
+G 1 9493 65535 0   ; A golden coin
+M 0 38540 8 38545   ; A Black Rat snake
+M 0 38546 2 38546   ; a hissing snake
+G 1 9493 65535 0   ; A golden coin
+M 0 38546 2 38546   ; a hissing snake
+G 1 9493 65535 0   ; A golden coin
+M 0 38540 8 38548   ; A Black Rat snake
+M 0 38548 3 38548   ; a boomerang snake
+G 1 9493 65535 0   ; A golden coin
+G 1 9610 65535 0   ; a shimmering blue potion
+G 1 17009 65535 0   ; a scroll of dispel magic
+M 0 38548 3 38548   ; a boomerang snake
+G 1 9493 65535 0   ; A golden coin
+G 1 4050 65535 0   ; a purple potion
+G 1 9610 65535 0   ; a shimmering blue potion
+M 0 38548 3 38548   ; a boomerang snake
+G 1 9493 65535 0   ; A golden coin
+G 1 17009 65535 0   ; a scroll of dispel magic
+G 1 4050 65535 0   ; a purple potion
+M 0 38551 1 38551   ; A Deformed Reptile
+G 1 9493 65535 0   ; A golden coin
+G 1 5305 65535 0   ; a huge treasure
+M 0 38552 1 38552   ; the Queen Snake
+G 1 1540 65535 0   ; a pile of coins is here
+M 0 38539 1 38552   ; the King Snake
+G 1 38552 65535 0   ; a Snake Key
+M 0 38540 8 38552   ; A Black Rat snake
+G 1 9493 65535 0   ; A golden coin
+G 1 9493 65535 0   ; A golden coin
+G 1 9493 65535 0   ; A golden coin
+G 1 9493 65535 0   ; A golden coin
+D 0 38552 2 2   ; King and Queen's Lair
+M 0 38554 1 38554   ; A Huge Cobra
+G 1 38551 65535 0   ; a dirty key
+M 0 38577 8 38572   ; A Wandering Troll
+M 0 38577 8 38574   ; A Wandering Troll
+M 0 38577 8 38576   ; A Wandering Troll
+M 0 38577 8 38576   ; A Wandering Troll
+O 0 9493 65535 38576   ; A golden coin
+D 0 38577 0 1   ; Eastern Path
+D 0 38577 2 1   ; Eastern Path
+M 0 38577 8 38578   ; A Wandering Troll
+M 0 38577 8 38579   ; A Wandering Troll
+M 0 38581 5 38581   ; A Troll Maiden
+M 0 38581 5 38581   ; A Troll Maiden
+M 0 38581 5 38581   ; A Troll Maiden
+M 0 38581 5 38581   ; A Troll Maiden
+D 0 38581 0 1   ; A storage room
+M 0 38583 4 38583   ; A Worker troll
+G 1 9493 65535 0   ; A golden coin
+G 1 9493 65535 0   ; A golden coin
+M 0 38583 4 38583   ; A Worker troll
+G 1 9493 65535 0   ; A golden coin
+G 1 9493 65535 0   ; A golden coin
+M 0 38583 4 38583   ; A Worker troll
+G 1 9493 65535 0   ; A golden coin
+G 1 9493 65535 0   ; A golden coin
+M 0 38583 4 38583   ; A Worker troll
+G 1 9493 65535 0   ; A golden coin
+G 1 9493 65535 0   ; A golden coin
+D 0 38583 2 1   ; Working cavern
+M 0 38584 2 38584   ; a Fighter troll
+G 1 38584 65535 0   ; troll sword
+M 0 38584 2 38584   ; a Fighter troll
+G 1 38584 65535 0   ; troll sword
+O 0 38584 65535 38584   ; troll sword
+O 0 1540 65535 38584   ; a pile of coins is here
+O 0 38584 65535 38584   ; troll sword
+O 0 1540 65535 38584   ; a pile of coins is here
+M 0 38577 8 38587   ; A Wandering Troll
+M 0 38587 8 38587   ; A Troll guard
+E 1 38592 65535 11   ; a shiny shield
+G 1 38592 65535 0   ; a shiny shield
+M 0 38587 8 38587   ; A Troll guard
+E 1 38592 65535 11   ; a shiny shield
+G 1 38592 65535 0   ; a shiny shield
+M 0 38587 8 38588   ; A Troll guard
+E 1 38592 65535 11   ; a shiny shield
+G 1 38592 65535 0   ; a shiny shield
+M 0 38587 8 38588   ; A Troll guard
+E 1 38592 65535 11   ; a shiny shield
+G 1 38592 65535 0   ; a shiny shield
+M 0 38587 8 38589   ; A Troll guard
+E 1 38592 65535 11   ; a shiny shield
+G 1 38592 65535 0   ; a shiny shield
+M 0 38587 8 38589   ; A Troll guard
+E 1 38592 65535 11   ; a shiny shield
+G 1 38592 65535 0   ; a shiny shield
+M 0 38586 1 38590   ; the Troll King
+G 1 38590 65535 0   ; a troll bracer
+G 1 38590 65535 0   ; a troll bracer
+O 0 1540 65535 38590   ; a pile of coins is here
+M 0 38590 1 38591   ; a Trainer
+E 1 38588 65535 16   ; a whipping stick
+G 1 9493 65535 0   ; A golden coin
+M 0 38591 1 38591   ; the Prince Troll
+E 1 38591 65535 9   ; the gloves of speed
+E 1 38588 65535 16   ; a whipping stick
+G 1 9493 65535 0   ; A golden coin
+G 1 38591 65535 0   ; the gloves of speed
+M 0 38587 8 38592   ; A Troll guard
+E 1 38592 65535 11   ; a shiny shield
+G 1 38592 65535 0   ; a shiny shield
+M 0 38587 8 38592   ; A Troll guard
+E 1 38592 65535 11   ; a shiny shield
+G 1 9493 65535 0   ; A golden coin
+G 1 38592 65535 0   ; a shiny shield
+M 0 38581 5 38593   ; A Troll Maiden
+G 1 9493 65535 0   ; A golden coin
+M 0 38593 1 38593   ; the Troll princess
+E 1 38593 65535 21   ; a Beauty mask
+G 1 9493 65535 0   ; A golden coin
+G 1 38593 65535 0   ; a Beauty mask
+M 0 38577 8 38594   ; A Wandering Troll
+M 0 38594 1 38594   ; the Troll Queen
+G 1 38594 65535 0   ; Queen Flendeya's vine staff
+O 0 38594 65535 38594   ; Queen Flendeya's vine staff
+O 0 1540 65535 38594   ; a pile of coins is here
+D 0 38598 5 2   ; A Dead End
+M 0 38599 1 38599   ; Drakindred
+E 1 38599 65535 16   ; a Huge Black Mace
+D 0 38599 4 2   ; Lord of the Evermoors
+S

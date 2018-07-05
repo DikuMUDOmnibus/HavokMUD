@@ -1,0 +1,84 @@
+*Zone 48, rooms 7700-7999, last modified by Jopa
+M 0 3028 1 7900   ; the Paladin Guard
+G 1 7901 65535 0   ; a copper key
+D 0 7900 2 2   ; Outside the Paladin's Keep
+M 0 7999 8 7901   ; A novice paladin
+E 1 7994 65535 10   ; some arm plates
+O 0 7904 65535 7901   ; a spiraling staircase
+D 0 7901 0 0   ; The Northern End of the Grand Hallway
+D 0 7901 1 1   ; The Northern End of the Grand Hallway
+D 0 7901 3 1   ; The Northern End of the Grand Hallway
+D 0 7902 1 1   ; Redferne's Library
+O 0 5305 65535 7903   ; a huge treasure
+O 0 7903 65535 7903   ; a suit of plain platemail
+D 0 7903 3 2   ; The Artifact room of Naris
+D 0 7904 1 1   ; The Grand Hallway
+D 0 7904 3 0   ; The Grand Hallway
+M 0 7999 8 7905   ; A novice paladin
+E 1 7993 65535 7   ; a pair of plate leggings
+D 0 7905 3 0   ; The Sitting room of Naris
+D 0 7906 0 1   ; The Kitchen of Naris
+D 0 7906 1 1   ; The Kitchen of Naris
+M 0 7910 2 7910   ; A Redferne Guard 
+M 0 7910 2 7910   ; A Redferne Guard 
+G 1 7900 65535 0   ; a large key
+D 0 7910 1 2   ; The Treasure room
+D 0 7910 3 1   ; The Treasure room
+D 0 7911 2 1   ; Redferne's Bedroom
+D 0 7912 0 1   ; The Balcony of Redferne's Residence
+M 0 7913 1 7913   ; A Huge Carnivore 
+D 0 7913 1 1   ; The Monster Pen
+D 0 7918 4 0   ; The Mighty Chain of Naris
+D 0 7921 5 0   ; Landing
+M 0 7999 8 7922   ; A novice paladin
+E 1 7992 65535 9   ; a pair of plate gauntlets
+D 0 7922 0 2   ; Entry Hall
+D 0 7922 2 0   ; Entry Hall
+D 0 7923 1 0   ; The Southern End of the Grand Hallway
+D 0 7923 3 1   ; The Southern End of the Grand Hallway
+M 0 7924 1 7924   ; Redferne's mother-in-law
+D 0 7924 1 1   ; Redferne's Mother-in-law's Appartment
+M 0 7905 1 7925   ; Naris 
+E 1 7905 65535 16   ; The Axe of Naris 
+O 0 7925 65535 7925   ; the bed of naris
+M 0 7926 1 7926   ; Mrs. Redferne
+O 0 7926 65535 7926   ; Mrs. Redferne's chair
+D 0 7926 3 1   ; Mrs. Redferne's Sitting Room
+O 0 7927 65535 7927   ; a novice's bed
+D 0 7927 1 0   ; The Novice's Quarters
+O 0 7928 65535 7928   ; a spiraling staircase
+D 0 7928 1 2   ; Top of the Staircase
+D 0 7928 3 2   ; Top of the Staircase
+D 0 7929 1 2   ; Prison Hallway
+D 0 7929 3 2   ; Prison Hallway
+M 0 7930 1 7930   ; Bane's guard
+E 1 3142 65535 16   ; Bane's Sword 
+G 1 7930 65535 0   ; A white key
+D 0 7930 1 2   ; Prison Hallway
+D 0 7930 2 2   ; Prison Hallway
+D 0 7930 3 2   ; Prison Hallway
+M 0 7931 1 7931   ; Bane 
+D 0 7931 0 2   ; Bane's Cell
+M 0 7999 8 7933   ; A novice paladin
+E 1 7996 65535 8   ; a pair of heavy plated boots
+M 0 7999 8 7933   ; A novice paladin
+E 1 7995 65535 11   ; the shield of the rose
+O 0 7933 65535 7933   ; a spiraling staircase
+M 0 7999 8 7935   ; A novice paladin
+G 1 7220 65535 0   ; a silvery helmet
+O 0 7935 65535 7935   ; a spiraling staircase
+M 0 7999 8 7937   ; A novice paladin
+D 0 7937 2 0   ; The Paladin's Recieving Room
+M 0 7938 1 7938   ; The Grand Knight of Paladins
+E 1 7997 65535 5   ; a breast plate
+E 1 7219 65535 9   ; a pair of gloves
+E 1 7999 65535 16   ; a two-handed sword
+O 0 7938 65535 7938   ; The Paladin's bed
+D 0 7938 0 0   ; The Grand Paladin's Private Quarters
+M 0 7999 8 7939   ; A novice paladin
+O 0 7939 65535 7939   ; Redferne's desk
+M 0 7902 1 7940   ; Redferne 
+G 1 7991 65535 0   ; a dagger
+G 1 7990 65535 0   ; A White Blade
+O 0 7940 65535 7940   ; Redferne's bed
+S

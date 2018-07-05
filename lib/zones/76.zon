@@ -1,0 +1,6 @@
+*Zone 76, rooms 17201-17999, last modified by Kane
+M 0 50 1 17201   ; A little rockman
+D 0 17210 3 2   ; Standing Before a Large Tree
+D 0 17211 1 2   ; Inside a Large Tree
+D 0 17999 0 1   ; Euphrates Chamber
+S

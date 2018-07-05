@@ -1,0 +1,29 @@
+#39001
+Inside The Temple~
+   This is the inside of the temple.  The temple is a pyramid from the way
+it looks from the inside.  This temple looks like it has many treasures 
+and secrets in it.  This room looks like there is a secret in it for there is branches
+covering all of the floors.  There are exits to north, east, west, and south.                                      
+~
+122 9 0
+D0
+~
+~
+0 0 39059 -1
+D1
+~
+~
+0 0 39060 -1
+D2
+~
+door~
+0 0 39002 0
+D3
+~
+door~
+0 0 39000 0
+D5
+~
+door~
+8 0 39061 -1
+S

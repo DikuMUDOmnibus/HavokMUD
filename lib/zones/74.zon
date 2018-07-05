@@ -1,0 +1,82 @@
+*Zone 74, rooms 16646-16999, last modified by Jopa
+M 0 13851 4 16646   ; A nasty minotaur
+M 0 13851 4 16646   ; A nasty minotaur
+M 0 13851 4 16646   ; A nasty minotaur
+M 0 13851 4 16646   ; A nasty minotaur
+M 0 13850 1 16646   ; The Minotaur Leader
+G 1 3092 65535 0   ; a two-handed axe
+D 0 16902 2 0   ; Lythcanthropia's Gate
+D 0 16903 0 0   ; Entrance to Lycanthropia
+M 0 16911 10 16904   ; The ugly wererat
+M 0 16903 7 16904   ; A powerful werewolf
+D 0 16906 3 2   ; Dark Square of Lythcanthropia
+M 0 16903 7 16908   ; A powerful werewolf
+M 0 16901 20 16908   ; A large wererat
+M 0 16901 20 16908   ; A large wererat
+M 0 16904 3 16909   ; A lithe weretiger
+G 1 16904 65535 0   ; a dark key
+M 0 16901 20 16910   ; A large wererat
+M 0 16901 20 16911   ; A large wererat
+M 0 16901 20 16911   ; A large wererat
+D 0 16911 1 2   ; Dark Alley behind the manor
+M 0 16901 20 16912   ; A large wererat
+M 0 16901 20 16912   ; A large wererat
+M 0 16904 3 16913   ; A lithe weretiger
+M 0 16901 20 16914   ; A large wererat
+M 0 16901 20 16914   ; A large wererat
+E 1 45 65535 16   ; a short sword
+M 0 16901 20 16914   ; A large wererat
+M 0 16901 20 16914   ; A large wererat
+E 1 45 65535 16   ; a short sword
+M 0 16903 7 16915   ; A powerful werewolf
+M 0 16901 20 16916   ; A large wererat
+M 0 16911 10 16917   ; The ugly wererat
+M 0 16911 10 16917   ; The ugly wererat
+M 0 16911 10 16918   ; The ugly wererat
+E 1 45 65535 16   ; a short sword
+M 0 16905 2 16918   ; A wereshark
+E 1 16903 65535 17   ; a pearl
+M 0 16903 7 16918   ; A powerful werewolf
+G 1 16905 65535 0   ; a claw key
+M 0 16911 10 16919   ; The ugly wererat
+M 0 16905 2 16919   ; A wereshark
+M 0 16911 10 16920   ; The ugly wererat
+M 0 16911 10 16920   ; The ugly wererat
+M 0 16903 7 16921   ; A powerful werewolf
+M 0 16903 7 16922   ; A powerful werewolf
+M 0 16901 20 16922   ; A large wererat
+M 0 16911 10 16924   ; The ugly wererat
+M 0 16911 10 16925   ; The ugly wererat
+M 0 16903 7 16925   ; A powerful werewolf
+M 0 16904 3 16925   ; A lithe weretiger
+M 0 16911 10 16925   ; The ugly wererat
+E 1 45 65535 16   ; a short sword
+M 0 16909 2 16926   ; A werefox whore
+M 0 16909 2 16926   ; A werefox whore
+M 0 16908 1 16926   ; A werebadger
+G 1 1759 65535 0   ; a dirty ale mug
+D 0 16928 3 2   ; Manor Road
+D 0 16929 1 0   ; The Foyer
+D 0 16931 3 0   ; Back of the Manor
+D 0 16932 0 0   ; Top of Staircase
+D 0 16932 3 0   ; Top of Staircase
+M 0 16910 1 16933   ; Count Boarish the Wereboar
+E 1 16901 65535 16   ; wereboar tusks
+D 0 16933 2 0   ; Count Boarish's Office
+M 0 16907 1 16934   ; The werefox mistress
+E 1 16902 65535 3   ; a Silvery Fur Cloak
+D 0 16934 1 0   ; Count's Sleeping Chambers
+D 0 16936 5 0   ; Pantry
+D 0 16937 4 0   ; The cellar
+M 0 16901 20 16938   ; A large wererat
+E 1 45 65535 16   ; a short sword
+M 0 16901 20 16938   ; A large wererat
+M 0 16901 20 16938   ; A large wererat
+M 0 16902 1 16938   ; A huge wererat
+M 0 16901 20 16938   ; A large wererat
+M 0 16901 20 16938   ; A large wererat
+M 0 16901 20 16938   ; A large wererat
+M 0 16901 20 16938   ; A large wererat
+M 0 16906 1 16939   ; Pooh the werebear
+D 0 16939 1 0   ; Pooh's house
+S

@@ -1,0 +1,300 @@
+*Zone 26, rooms 3500-3899, last modified by Zaron
+O 0 3504 65535 3504   ; a street sign
+D 0 3701 0 0   ; Felix's Living Area 
+D 0 3702 0 0   ; Entrance to the Arena
+D 0 3703 2 0   ; Southern End of Arena
+M 0 3709 25 3704   ; the baby otter
+M 0 3712 16 3704   ; the small wasp
+M 0 3705 17 3705   ; the green turtle
+M 0 3705 17 3706   ; the green turtle
+M 0 3062 16 3706   ; The black cat
+M 0 3062 16 3706   ; The black cat
+M 0 3709 25 3707   ; the baby otter
+M 0 3709 25 3707   ; the baby otter
+M 0 3707 14 3707   ; the antelope
+M 0 3706 13 3707   ; the baby eagle
+M 0 3708 9 3708   ; the young mule
+G 1 123 65535 0   ; a hat
+M 0 3703 3 3708   ; the nasty slug
+M 0 3702 17 3708   ; the giant snail
+M 0 3709 25 3708   ; the baby otter
+M 0 3702 17 3708   ; the giant snail
+M 0 3702 17 3709   ; the giant snail
+M 0 3712 16 3709   ; the small wasp
+M 0 3712 16 3710   ; the small wasp
+M 0 3713 9 3710   ; the weasel
+M 0 3702 17 3710   ; the giant snail
+M 0 3703 3 3710   ; the nasty slug
+M 0 3707 14 3710   ; the antelope
+D 0 3710 0 0   ; Northern end of Arena
+D 0 3713 5 0   ; Fighters Quarters
+M 0 3062 16 3714   ; The black cat
+M 0 3709 25 3714   ; the baby otter
+M 0 3705 17 3714   ; the green turtle
+M 0 3062 16 3714   ; The black cat
+M 0 3710 17 3715   ; the flying ray
+M 0 3707 14 3715   ; the antelope
+M 0 3705 17 3715   ; the green turtle
+M 0 3708 9 3715   ; the young mule
+M 0 3710 17 3716   ; the flying ray
+M 0 3716 2 3716   ; the mongolman
+M 0 3761 13 3716   ; the ogre guard
+M 0 3704 29 3717   ; the radioactive rat
+M 0 3713 9 3717   ; the weasel
+M 0 3705 17 3717   ; the green turtle
+M 0 3704 29 3718   ; the radioactive rat
+M 0 3704 29 3719   ; the radioactive rat
+M 0 3704 29 3720   ; the radioactive rat
+M 0 3705 17 3721   ; the green turtle
+M 0 3716 2 3721   ; the mongolman
+D 0 3721 0 0   ; North End of Advanced Arena
+M 0 3761 13 3723   ; the ogre guard
+M 0 3709 25 3724   ; the baby otter
+M 0 3704 29 3724   ; the radioactive rat
+M 0 3705 17 3725   ; the green turtle
+M 0 3761 13 3726   ; the ogre guard
+M 0 3710 17 3726   ; the flying ray
+M 0 3719 8 3726   ; the duodrone
+M 0 3061 3 3726   ; the Janitor
+M 0 3710 17 3727   ; the flying ray
+M 0 3718 4 3728   ; the monodrone
+M 0 3712 16 3729   ; the small wasp
+M 0 3712 16 3729   ; the small wasp
+M 0 3705 17 3729   ; the green turtle
+D 0 3729 3 0   ; Passage
+M 0 3713 9 3730   ; the weasel
+M 0 3712 16 3730   ; the small wasp
+M 0 3705 17 3730   ; the green turtle
+M 0 3702 17 3730   ; the giant snail
+D 0 3730 1 0   ; Passage
+M 0 3704 29 3731   ; the radioactive rat
+M 0 3719 8 3731   ; the duodrone
+M 0 3709 25 3732   ; the baby otter
+M 0 3709 25 3732   ; the baby otter
+M 0 3721 6 3732   ; the quadrone
+M 0 3761 13 3732   ; the ogre guard
+M 0 3761 13 3732   ; the ogre guard
+D 0 3733 3 0   ; Passage
+M 0 3705 17 3734   ; the green turtle
+M 0 3704 29 3735   ; the radioactive rat
+M 0 3711 4 3735   ; the stirge
+M 0 3061 3 3735   ; the Janitor
+M 0 3708 9 3735   ; the young mule
+M 0 3712 16 3735   ; the small wasp
+M 0 3704 29 3735   ; the radioactive rat
+M 0 3724 5 3736   ; the roc
+M 0 3704 29 3736   ; the radioactive rat
+M 0 3712 16 3736   ; the small wasp
+M 0 3707 14 3736   ; the antelope
+M 0 3761 13 3737   ; the ogre guard
+M 0 3724 5 3738   ; the roc
+M 0 3706 13 3738   ; the baby eagle
+M 0 3712 16 3738   ; the small wasp
+D 0 3738 1 0   ; Passage
+M 0 3707 14 3739   ; the antelope
+M 0 3709 25 3740   ; the baby otter
+M 0 3712 16 3740   ; the small wasp
+M 0 3709 25 3740   ; the baby otter
+M 0 3721 6 3740   ; the quadrone
+M 0 3713 9 3741   ; the weasel
+M 0 3709 25 3742   ; the baby otter
+M 0 3705 17 3742   ; the green turtle
+M 0 3062 16 3743   ; The black cat
+M 0 3709 25 3744   ; the baby otter
+M 0 3723 4 3744   ; the great quasit
+M 0 3704 29 3744   ; the radioactive rat
+M 0 3706 13 3744   ; the baby eagle
+M 0 3705 17 3745   ; the green turtle
+M 0 3707 14 3745   ; the antelope
+M 0 3709 25 3745   ; the baby otter
+M 0 3705 17 3746   ; the green turtle
+M 0 3724 5 3748   ; the roc
+M 0 3704 29 3749   ; the radioactive rat
+M 0 3724 5 3749   ; the roc
+M 0 3704 29 3750   ; the radioactive rat
+D 0 3750 2 0   ; Stair Well
+M 0 3062 16 3751   ; The black cat
+M 0 3707 14 3751   ; the antelope
+M 0 3708 9 3753   ; the young mule
+M 0 3703 3 3753   ; the nasty slug
+M 0 3719 8 3753   ; the duodrone
+M 0 3707 14 3753   ; the antelope
+M 0 3704 29 3754   ; the radioactive rat
+M 0 3705 17 3754   ; the green turtle
+M 0 3707 14 3754   ; the antelope
+M 0 3702 17 3755   ; the giant snail
+M 0 3706 13 3755   ; the baby eagle
+M 0 3718 4 3755   ; the monodrone
+M 0 3702 17 3756   ; the giant snail
+M 0 3722 4 3757   ; the radioactive mutant
+M 0 3704 29 3757   ; the radioactive rat
+M 0 3062 16 3758   ; The black cat
+M 0 3704 29 3758   ; the radioactive rat
+M 0 3722 4 3758   ; the radioactive mutant
+M 0 3702 17 3759   ; the giant snail
+M 0 3707 14 3759   ; the antelope
+M 0 3707 14 3759   ; the antelope
+M 0 3062 16 3761   ; The black cat
+M 0 3720 5 3761   ; the tridrone
+M 0 3702 17 3762   ; the giant snail
+M 0 3710 17 3762   ; the flying ray
+M 0 3704 29 3763   ; the radioactive rat
+D 0 3763 2 0   ; Throne Room
+M 0 3761 13 3764   ; the ogre guard
+M 0 3710 17 3764   ; the flying ray
+M 0 3709 25 3764   ; the baby otter
+M 0 3062 16 3764   ; The black cat
+M 0 3708 9 3766   ; the young mule
+M 0 3761 13 3767   ; the ogre guard
+M 0 3706 13 3768   ; the baby eagle
+M 0 3706 13 3768   ; the baby eagle
+M 0 3704 29 3769   ; the radioactive rat
+M 0 3702 17 3769   ; the giant snail
+D 0 3769 0 0   ; Cat King's Living Quarters
+D 0 3769 2 0   ; Cat King's Living Quarters
+M 0 3761 13 3770   ; the ogre guard
+M 0 3723 4 3771   ; the great quasit
+M 0 3704 29 3771   ; the radioactive rat
+M 0 3702 17 3771   ; the giant snail
+M 0 3704 29 3771   ; the radioactive rat
+M 0 3704 29 3771   ; the radioactive rat
+M 0 3721 6 3771   ; the quadrone
+M 0 3722 4 3771   ; the radioactive mutant
+D 0 3771 2 0   ; Passage
+M 0 3710 17 3772   ; the flying ray
+M 0 3704 29 3772   ; the radioactive rat
+M 0 3702 17 3772   ; the giant snail
+D 0 3772 0 0   ; Passage
+M 0 3709 25 3773   ; the baby otter
+M 0 3706 13 3773   ; the baby eagle
+M 0 3709 25 3773   ; the baby otter
+M 0 3708 9 3774   ; the young mule
+M 0 3711 4 3774   ; the stirge
+M 0 3721 6 3774   ; the quadrone
+M 0 3704 29 3775   ; the radioactive rat
+M 0 3705 17 3777   ; the green turtle
+M 0 3702 17 3779   ; the giant snail
+M 0 3062 16 3779   ; The black cat
+M 0 3062 16 3779   ; The black cat
+M 0 3704 29 3782   ; the radioactive rat
+M 0 3708 9 3782   ; the young mule
+D 0 3782 0 0   ; Passage
+D 0 3782 2 0   ; Passage
+D 0 3783 0 0   ; Orange Knight's Room
+D 0 3783 2 0   ; Orange Knight's Room
+M 0 3704 29 3784   ; the radioactive rat
+D 0 3784 0 0   ; Passage
+M 0 3062 16 3785   ; The black cat
+M 0 3712 16 3785   ; the small wasp
+M 0 3062 16 3787   ; The black cat
+M 0 3713 9 3787   ; the weasel
+M 0 3711 4 3788   ; the stirge
+M 0 3706 13 3788   ; the baby eagle
+M 0 3061 3 3788   ; the Janitor
+M 0 3704 29 3788   ; the radioactive rat
+M 0 3708 9 3788   ; the young mule
+M 0 3710 17 3788   ; the flying ray
+M 0 3710 17 3789   ; the flying ray
+M 0 3704 29 3789   ; the radioactive rat
+M 0 3704 29 3790   ; the radioactive rat
+M 0 3713 9 3790   ; the weasel
+M 0 3713 9 3790   ; the weasel
+M 0 3710 17 3791   ; the flying ray
+M 0 3706 13 3792   ; the baby eagle
+M 0 3720 5 3792   ; the tridrone
+M 0 3720 5 3792   ; the tridrone
+M 0 3706 13 3793   ; the baby eagle
+M 0 3712 16 3794   ; the small wasp
+M 0 3724 5 3794   ; the roc
+M 0 3712 16 3794   ; the small wasp
+M 0 3720 5 3795   ; the tridrone
+M 0 3713 9 3795   ; the weasel
+M 0 3704 29 3795   ; the radioactive rat
+M 0 3709 25 3796   ; the baby otter
+M 0 3712 16 3797   ; the small wasp
+M 0 3710 17 3797   ; the flying ray
+M 0 3706 13 3797   ; the baby eagle
+M 0 3723 4 3798   ; the great quasit
+M 0 3709 25 3799   ; the baby otter
+M 0 3705 17 3799   ; the green turtle
+M 0 3710 17 3799   ; the flying ray
+M 0 3723 4 3799   ; the great quasit
+M 0 3709 25 3799   ; the baby otter
+M 0 3702 17 3800   ; the giant snail
+M 0 3762 3 3800   ; the ogre cook
+M 0 3762 3 3800   ; the ogre cook
+M 0 3762 3 3800   ; the ogre cook
+M 0 3761 13 3801   ; the ogre guard
+M 0 3714 2 3801   ; the atomic
+M 0 3702 17 3802   ; the giant snail
+M 0 3706 13 3802   ; the baby eagle
+M 0 3719 8 3802   ; the duodrone
+M 0 3062 16 3802   ; The black cat
+M 0 3760 13 3802   ; the large ogre
+M 0 3760 13 3802   ; the large ogre
+M 0 3760 13 3802   ; the large ogre
+M 0 3760 13 3802   ; the large ogre
+M 0 3760 13 3802   ; the large ogre
+M 0 3760 13 3802   ; the large ogre
+M 0 3062 16 3803   ; The black cat
+M 0 3719 8 3803   ; the duodrone
+M 0 3708 9 3804   ; the young mule
+M 0 3707 14 3804   ; the antelope
+M 0 3710 17 3805   ; the flying ray
+M 0 3763 1 3805   ; the ogre queen
+M 0 3745 1 3805   ; the Ogre lord
+M 0 3760 13 3805   ; the large ogre
+D 0 3805 1 0   ; King Ogre's Room
+M 0 3706 13 3806   ; the baby eagle
+M 0 3761 13 3806   ; the ogre guard
+M 0 3713 9 3806   ; the weasel
+M 0 3709 25 3806   ; the baby otter
+D 0 3806 3 0   ; Passage
+M 0 3705 17 3807   ; the green turtle
+M 0 3711 4 3807   ; the stirge
+M 0 3760 13 3808   ; the large ogre
+M 0 3760 13 3808   ; the large ogre
+M 0 3760 13 3808   ; the large ogre
+M 0 3715 2 3808   ; the magman
+M 0 3715 2 3808   ; the magman
+M 0 3719 8 3809   ; the duodrone
+M 0 3718 4 3809   ; the monodrone
+M 0 3721 6 3809   ; the quadrone
+M 0 3760 13 3810   ; the large ogre
+M 0 3760 13 3810   ; the large ogre
+M 0 3760 13 3810   ; the large ogre
+M 0 3707 14 3811   ; the antelope
+M 0 3709 25 3815   ; the baby otter
+M 0 3714 2 3815   ; the atomic
+M 0 3717 2 3816   ; the mudman
+M 0 3719 8 3816   ; the duodrone
+M 0 3710 17 3816   ; the flying ray
+M 0 3761 13 3816   ; the ogre guard
+M 0 3712 16 3816   ; the small wasp
+M 0 3719 8 3816   ; the duodrone
+M 0 3709 25 3816   ; the baby otter
+M 0 3710 17 3817   ; the flying ray
+M 0 3722 4 3817   ; the radioactive mutant
+M 0 3702 17 3819   ; the giant snail
+M 0 3721 6 3819   ; the quadrone
+M 0 3720 5 3820   ; the tridrone
+M 0 3710 17 3821   ; the flying ray
+M 0 3709 25 3821   ; the baby otter
+M 0 3710 17 3821   ; the flying ray
+M 0 3707 14 3822   ; the antelope
+M 0 3709 25 3822   ; the baby otter
+M 0 3712 16 3824   ; the small wasp
+M 0 3704 29 3824   ; the radioactive rat
+M 0 3718 4 3824   ; the monodrone
+M 0 3702 17 3825   ; the giant snail
+M 0 3717 2 3825   ; the mudman
+M 0 3709 25 3825   ; the baby otter
+M 0 3062 16 3825   ; The black cat
+M 0 3726 6 3825   ; the roper
+M 0 3726 6 3825   ; the roper
+M 0 3726 6 3825   ; the roper
+M 0 3726 6 3825   ; the roper
+M 0 3726 6 3825   ; the roper
+M 0 3726 6 3825   ; the roper
+M 0 3761 13 3826   ; the ogre guard
+S

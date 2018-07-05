@@ -1,0 +1,24 @@
+*Zone 61, rooms 13714-13727, last modified by Coal
+M 0 13714 1 13714   ; Hercules
+E 1 13705 65535 16   ; Giant Club
+M 0 13715 3 13715   ; a horse
+M 0 13715 3 13715   ; a horse
+M 0 13715 3 13715   ; a horse
+M 0 13718 1 13718   ; The Nemean Lion
+E 1 13702 65535 12   ; A lion skin
+M 0 13719 1 13719   ; the hydra
+M 0 13721 2 13721   ; an amazon warrior
+M 0 13722 1 13722   ; Queen Hippolyta
+E 1 13701 65535 13   ; A Jeweled Girdle
+M 0 13721 2 13722   ; an amazon warrior
+M 0 13725 1 13723   ; Geryon
+M 0 13724 1 13723   ; the Two-Headed Dog
+M 0 13723 1 13723   ; the two-headed giant
+O 0 65 65535 13725   ; A small boulder
+M 0 13726 1 13726   ; A Watchful Dragon
+E 1 13704 65535 1   ; A Scaly Ring
+E 1 13703 65535 12   ; A Green Cloak
+M 0 13727 2 13727   ; A Giant
+M 0 13727 2 13727   ; A Giant
+E 1 13705 65535 16   ; Giant Club
+S

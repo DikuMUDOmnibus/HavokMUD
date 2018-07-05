@@ -1,0 +1,92 @@
+*Zone 89, rooms 23100-23999, last modified by Coal
+D 0 23101 3 0   ; The Road to Castle Amber
+D 0 23102 0 0   ; In Front of the Castle of Amber
+D 0 23103 0 0   ; The Grand Amber Foyer
+D 0 23104 0 0   ; A small passage
+D 0 23104 1 0   ; A small passage
+D 0 23105 1 0   ; The Grand Salon
+D 0 23105 3 0   ; The Grand Salon
+D 0 23109 0 0   ; Middle of the Grand Hall of Mirrors
+D 0 23109 2 0   ; Middle of the Grand Hall of Mirrors
+D 0 23110 0 0   ; The Study Room
+D 0 23110 1 0   ; The Study Room
+D 0 23110 3 0   ; The Study Room
+D 0 23111 2 0   ; The Master Bedroom
+D 0 23111 3 0   ; The Master Bedroom
+D 0 23112 1 0   ; A Large Walk-in Closet
+D 0 23113 0 0   ; East Side of the Grand Hall of Mirrors
+D 0 23113 1 0   ; East Side of the Grand Hall of Mirrors
+D 0 23113 2 0   ; East Side of the Grand Hall of Mirrors
+D 0 23113 3 0   ; East Side of the Grand Hall of Mirrors
+D 0 23114 0 0   ; The Dining Room
+D 0 23114 3 0   ; The Dining Room
+D 0 23114 4 0   ; The Dining Room
+D 0 23115 0 0   ; On the Catwalk
+D 0 23115 2 0   ; On the Catwalk
+D 0 23116 2 0   ; The Kitchen
+D 0 23116 3 0   ; The Kitchen
+D 0 23116 4 0   ; The Kitchen
+D 0 23117 1 0   ; West Entrance to the Indoor Forest
+D 0 23117 3 0   ; West Entrance to the Indoor Forest
+D 0 23118 2 0   ; Path through the Indoor Forest
+D 0 23118 3 0   ; Path through the Indoor Forest
+D 0 23119 0 0   ; Path through the Indoor Forest
+D 0 23119 2 0   ; Path through the Indoor Forest
+D 0 23120 0 0   ; Path through the Indoor Forest
+D 0 23122 1 0   ; Path Deeper into the Indoor Forest
+D 0 23122 3 0   ; Path Deeper into the Indoor Forest
+D 0 23123 1 0   ; Path Deeper into the Indoor Forest
+D 0 23123 2 0   ; Path Deeper into the Indoor Forest
+D 0 23123 3 0   ; Path Deeper into the Indoor Forest
+D 0 23125 0 0   ; Path Deeper into the Indoor Forest
+D 0 23125 2 0   ; Path Deeper into the Indoor Forest
+D 0 23126 0 0   ; The Wide Path
+D 0 23126 2 0   ; The Wide Path
+D 0 23127 0 0   ; A Wide Open Area
+D 0 23127 1 0   ; A Wide Open Area
+D 0 23128 2 0   ; In Front of the Fountain
+D 0 23129 1 0   ; Path in the Indoor Forest
+D 0 23129 3 0   ; Path in the Indoor Forest
+D 0 23130 1 0   ; Path Deeper into the Indoor Forest
+D 0 23130 3 0   ; Path Deeper into the Indoor Forest
+D 0 23131 1 0   ; East Entrance to the Indoor Forest
+D 0 23131 3 0   ; East Entrance to the Indoor Forest
+D 0 23132 1 0   ; The Throne Room
+D 0 23132 3 0   ; The Throne Room
+D 0 23133 1 0   ; Grand Amber Chamber
+D 0 23133 3 0   ; Grand Amber Chamber
+D 0 23134 2 0   ; The Grand Ballroom
+D 0 23134 3 0   ; The Grand Ballroom
+D 0 23135 1 0   ; The Grand Library
+D 0 23135 2 0   ; The Grand Library
+D 0 23136 0 0   ; The Red Room
+D 0 23136 3 0   ; The Red Room
+D 0 23137 1 0   ; The Black Room
+D 0 23137 3 0   ; The Black Room
+D 0 23138 1 0   ; The Green Room
+D 0 23138 3 0   ; The Green Room
+D 0 23139 1 0   ; The White Room
+D 0 23139 3 0   ; The White Room
+D 0 23140 1 0   ; The Rainbow Room
+D 0 23141 2 0   ; A Small Passage
+D 0 23141 3 0   ; A Small Passage
+D 0 23142 0 0   ; Another Small Passage
+D 0 23142 2 0   ; Another Small Passage
+D 0 23143 0 0   ; The Exit to the Outside World
+D 0 23143 2 0   ; The Exit to the Outside World
+D 0 23144 2 0   ; The Front Lawn
+D 0 23145 2 0   ; On the Catwalk
+D 0 23145 5 0   ; On the Catwalk
+D 0 23146 1 0   ; The Secret Pantry
+D 0 23147 0 0   ; Small Rocky Path
+D 0 23147 2 0   ; Small Rocky Path
+D 0 23148 2 0   ; Fissure in the Mountain
+D 0 23200 4 0   ; The Entrance to the Hall of Rules
+D 0 23201 0 0   ; Room of Decisions
+D 0 23201 1 0   ; Room of Decisions
+D 0 23201 2 0   ; Room of Decisions
+D 0 23201 5 0   ; Room of Decisions
+D 0 23202 2 0   ; If you want to kill other players enter here!
+D 0 23203 0 0   ; If you want to steal from other players enter here!
+D 0 23204 3 0   ; If you want to cast spells enter here!
+S

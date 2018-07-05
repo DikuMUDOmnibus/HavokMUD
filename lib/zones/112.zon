@@ -1,0 +1,14 @@
+*Zone 112, rooms 37400-37599, last modified by Taniwha
+D 0 37401 0 0   ; In The Well
+M 0 37404 1 37404   ; The Murk
+O 0 9493 65535 37404   ; A golden coin
+O 0 1540 65535 37404   ; a pile of coins is here
+D 0 37437 1 1   ; Chieften's Hut
+D 0 37460 2 1   ; Entrance to the Grove
+D 0 37466 0 1   ; Northern Grove
+D 0 37501 1 1   ; Hallway
+D 0 37581 1 0   ; Cleric's Quarters
+D 0 37582 3 0   ; Cleric's Quarters
+D 0 37587 0 1   ; Passage to the Crypt
+D 0 37588 2 1   ; Entrace to the Crypt
+S

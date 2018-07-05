@@ -1,0 +1,21 @@
+#1419
+cow~
+The Cow~
+A hard-eyed cow is here, going about his business.
+~
+He is walking around purposefully, as if searching for something,
+occasionally lowering his head, sniffing at the air, then eating
+pieces of the ground that are apparently somewhat grassy.  When he
+notices your intense scrutiny, he looks at you coldly, until you are
+forced to look away.
+~
+~
+~
+0  0  400  1.0 
+ 5  10  6  25  2d4+0 
+ -1  41  2  23 
+ 8  8  1  0  0  0 
+ 0 
+~
+~
+~

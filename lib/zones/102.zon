@@ -1,0 +1,33 @@
+*Zone 102, rooms 32000-32299, last modified by Ashamael
+M 0 32000 8 32000   ; An ethereal creature
+M 0 32001 1 32000   ; An ethereal post
+M 0 32002 8 32002   ; an ethereal spider
+M 0 32002 8 32004   ; an ethereal spider
+M 0 32002 8 32004   ; an ethereal spider
+M 0 32004 1 32004   ; An Ethereal Post.
+M 0 32002 8 32007   ; an ethereal spider
+M 0 32009 1 32009   ; An ethereal post
+M 0 32002 8 32010   ; an ethereal spider
+M 0 32000 8 32011   ; An ethereal creature
+M 0 32011 1 32011   ; An ethereal post
+M 0 32002 8 32014   ; an ethereal spider
+M 0 32002 8 32014   ; an ethereal spider
+M 0 32000 8 32017   ; An ethereal creature
+M 0 32024 1 32024   ; An ethereal post
+M 0 32000 8 32028   ; An ethereal creature
+M 0 32002 8 32030   ; an ethereal spider
+M 0 32030 1 32030   ; An ethereal post
+M 0 32000 8 32031   ; An ethereal creature
+M 0 32000 8 32032   ; An ethereal creature
+M 0 32000 8 32032   ; An ethereal creature
+M 0 32000 8 32032   ; An ethereal creature
+M 0 32032 1 32032   ; An ethereal post
+M 0 32034 5 32033   ; a corsair
+M 0 32034 5 32034   ; a corsair
+M 0 32034 5 32034   ; a corsair
+M 0 32034 5 32034   ; a corsair
+M 0 32034 5 32037   ; a corsair
+M 0 32038 1 32038   ; Captain Bar'Barosa
+G 1 32038 65535 0   ; Bar'barosas Bracelet
+G 1 32608 65535 0   ; tower key
+S

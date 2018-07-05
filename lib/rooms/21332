@@ -1,0 +1,31 @@
+#21332
+Guest's Quarters~
+    The door to this room looks a bit battered, but at least it's still on its
+hinges and capable of closing. The room is sparsely furnished, though it looks
+like at one time it might have been rather nicely decorated. What is left of
+the furniture in here is pretty much destroyed. What once might have been a
+bed is now just a lot of broken wood and torn cloth scattered around the floor.
+The dresser is in slightly better shape, at least you can still recognize how
+the pieces once fit together. Everything is here is looking pretty broken. The
+exit is east.
+~
+84 9 1
+D1
+~
+door
+~
+3 0 21327 -1
+E
+cloth~
+The material is light, but seems to have resisted the trials of time. Once it
+was the bed stuffing, is your best guess.
+~
+E
+dresser~
+It is destroyed, but not quite beyond recognition.
+~
+E
+wood broken~
+Bits of broken wood are scattered about the room.
+~
+S

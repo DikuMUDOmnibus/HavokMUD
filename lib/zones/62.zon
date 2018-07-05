@@ -1,0 +1,21 @@
+*Zone 62, rooms 13728-13754, last modified by Coal
+D 0 13728 5 0   ; Home of the Jolly Green Giant
+M 0 13731 5 13733   ; the thief
+G 1 1750 65535 0   ; an encyclopedia vol. T
+M 0 13733 6 13737   ; A hungry wolf
+M 0 13733 6 13737   ; A hungry wolf
+M 0 13733 6 13739   ; A hungry wolf
+M 0 13733 6 13739   ; A hungry wolf
+M 0 13731 5 13742   ; the thief
+M 0 13731 5 13744   ; the thief
+M 0 13732 4 13745   ; the huge snake
+M 0 13733 6 13749   ; A hungry wolf
+M 0 13733 6 13749   ; A hungry wolf
+M 0 13731 5 13750   ; the thief
+M 0 0 6 13751   ; Puff
+M 0 13731 5 13752   ; the thief
+M 0 13732 4 13753   ; the huge snake
+M 0 13732 4 13753   ; the huge snake
+M 0 0 6 13754   ; Puff
+M 0 0 6 13754   ; Puff
+S

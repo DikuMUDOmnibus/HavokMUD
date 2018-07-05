@@ -1,0 +1,48 @@
+*Zone 80, rooms 20000-20099, last modified by Jopa
+M 0 20001 4 20002   ; the young spider
+M 0 20008 5 20003   ; the slave of Arachnos
+M 0 20005 1 20003   ; the Queen Wasp
+D 0 20003 4 2   ; Wasp Hive
+M 0 20008 5 20004   ; the slave of Arachnos
+M 0 20008 5 20004   ; the slave of Arachnos
+M 0 20001 4 20004   ; the young spider
+M 0 20001 4 20006   ; the young spider
+M 0 20001 4 20006   ; the young spider
+M 0 20008 5 20007   ; the slave of Arachnos
+M 0 20003 7 20011   ; the Wolf Spider
+G 1 20006 65535 0   ; A bit of spider-web
+M 0 20006 3 20021   ; the drone spider
+M 0 20008 5 20022   ; the slave of Arachnos
+M 0 20003 7 20026   ; the Wolf Spider
+M 0 20016 1 20030   ; the young dragon wormkin
+G 1 20008 65535 0   ; A huge bone
+M 0 20006 3 20030   ; the drone spider
+M 0 20007 2 20031   ; the ethereal spider
+M 0 20006 3 20031   ; the drone spider
+M 0 20003 7 20031   ; the Wolf Spider
+M 0 20003 7 20031   ; the Wolf Spider
+G 1 20002 65535 0   ; a wizard's hat
+M 0 20003 7 20032   ; the Wolf Spider
+M 0 20004 1 20032   ; the orc
+M 0 20003 7 20034   ; the Wolf Spider
+M 0 20003 7 20034   ; the Wolf Spider
+M 0 20009 1 20036   ; the quasit
+M 0 20017 1 20040   ; the elder dragon wormkin
+M 0 20010 1 20042   ; the Bird Spider
+G 1 20006 65535 0   ; A bit of spider-web
+M 0 20015 1 20050   ; the Ki-Rin
+G 1 6109 65535 0   ; a blue potion
+G 1 20003 65535 0   ; a pontiff's headdress
+M 0 20007 2 20050   ; the ethereal spider
+M 0 20002 1 20060   ; Yevaud
+E 1 20005 65535 2   ; a blue ring
+G 1 20004 65535 0   ; a black knight's visor
+M 0 20013 1 20067   ; The guardian
+G 1 20007 65535 0   ; A speckled potion
+M 0 20012 1 20070   ; the Donjonkeeper
+E 1 20001 65535 16   ; a very sharp knife
+M 0 20011 1 20073   ; the Hermit
+D 0 20092 0 2   ; The Great Door
+M 0 20014 1 20099   ; Arachnos
+D 0 20099 2 2   ; The Lair of Arachnos
+S

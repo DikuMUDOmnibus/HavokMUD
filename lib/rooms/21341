@@ -1,0 +1,20 @@
+#21341
+Seige Camp~
+   There are is a campfire here that is used for both cooking the soldier's meals
+and boiling water for drinking.  To the north you see a tent that is used as the
+soldiers' living quarters.  The path through the camp continues to the east and west.
+~
+84 0 2
+D0
+~
+~
+0 0 21342 -1
+D1
+~
+~
+0 0 21339 -1
+D3
+~
+~
+0 0 21343 -1
+S

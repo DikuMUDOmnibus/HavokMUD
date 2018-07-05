@@ -1,0 +1,64 @@
+*Zone 91, rooms 24700-24790, last modified by Coal
+M 0 3401 1 24760   ; A Skeleton
+E 1 3401 65535 16   ; a rusty sword
+M 0 24782 1 24761   ; A pair of boots
+E 1 24773 65535 8   ; a pair of smelly socks
+M 0 24761 1 24766   ; The zombie
+D 0 24767 0 1   ; A dark hallway
+D 0 24767 2 1   ; A dark hallway
+D 0 24768 0 1   ; A dark hallway
+D 0 24768 2 1   ; A dark hallway
+D 0 24769 1 0   ; End of a dark hallway
+D 0 24770 3 0   ; A back room
+D 0 24770 5 1   ; A back room
+M 0 24765 1 24773   ; The Arm-orer
+E 1 24762 65535 16   ; a disembodied arm
+O 0 24762 65535 24773   ; a disembodied arm
+M 0 24766 1 24774   ; The Dressmaker
+E 1 24765 65535 5   ; a dress woven of human hair
+M 0 24767 1 24776   ; A skeletal mining worker
+E 1 24766 65535 16   ; a mining pick
+M 0 24764 2 24777   ; The barefoot corpse
+E 1 24764 65535 9   ; a pair of smelly mittens
+M 0 24763 1 24778   ; The dead PC
+M 0 24760 1 24779   ; A confused skeleton
+M 0 24764 2 24780   ; The barefoot corpse
+M 0 24768 1 24781   ; The undead shoemaker
+E 1 24760 65535 8   ; some rotted flesh
+D 0 24782 2 1   ; The barracks
+M 0 24770 3 24783   ; The gaming corpse
+M 0 24770 3 24783   ; The gaming corpse
+M 0 24770 3 24783   ; The gaming corpse
+M 0 24785 1 24783   ; The Dealer
+D 0 24783 2 1   ; The card room
+M 0 24769 2 24784   ; The zombie
+M 0 24769 2 24784   ; The zombie
+E 1 24763 65535 6   ; a pillow
+D 0 24784 0 1   ; The barracks
+M 0 24771 1 24785   ; The zombie
+D 0 24785 0 1   ; The shower room
+M 0 24772 2 24786   ; A well-bleached skeleton
+M 0 24772 2 24786   ; A well-bleached skeleton
+E 1 24767 65535 17   ; a bottle of bleach
+M 0 24762 1 24786   ; The dead chimney sweep
+M 0 24773 1 24787   ; A zombie
+G 1 24768 65535 0   ; a cup of ju-juice
+M 0 24774 9 24788   ; A partying zombie
+M 0 24774 9 24788   ; A partying zombie
+M 0 24774 9 24788   ; A partying zombie
+M 0 24774 9 24788   ; A partying zombie
+M 0 24774 9 24788   ; A partying zombie
+E 1 24769 65535 6   ; a party hat
+M 0 24774 9 24788   ; A partying zombie
+E 1 24769 65535 6   ; a party hat
+M 0 24774 9 24788   ; A partying zombie
+E 1 24769 65535 6   ; a party hat
+M 0 24774 9 24788   ; A partying zombie
+M 0 24774 9 24788   ; A partying zombie
+D 0 24788 3 1   ; The Zombie Jamboree
+M 0 24775 1 24789   ; A cloud of smoke
+M 0 24786 1 24789   ; A dead voter
+D 0 24789 1 1   ; The smoke filled room
+M 0 24776 1 24790   ; The Headless Vampire
+G 1 24770 65535 0   ; a small vial of blood
+S

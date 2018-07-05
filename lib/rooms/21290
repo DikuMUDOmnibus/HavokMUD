@@ -1,0 +1,24 @@
+#21290
+Barracks~
+    This room clearly serves as a military barracks, where men (certainly some kind
+of humanoid, from the shape of the bunks) would sleep and spend some of their free
+time.  There are several rows of bunks here, stacked two high for efficiency.  Some
+of the wooden frames of the bunks in this room have been broken.  At the foot of each
+bunkset is a locker, similarly broken.  The barracks continue to the south, and you
+can also leave through an opening in the east wall, which leads to a corridor.
+~
+84 9 1
+D1
+~
+~
+0 0 21288 -1
+D2
+~
+~
+0 0 21296 -1
+E
+bunks lockers~
+The bunks and lockers look they were chewed up, swallowed, partially digested,
+and vomited back up. There's very little left of them.
+~
+S

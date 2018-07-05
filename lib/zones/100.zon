@@ -1,0 +1,312 @@
+*Zone 100, rooms 30000-31799, last modified by Ashamael
+D 0 30000 0 0   ; Castle Entrance
+O 0 30786 65535 30007   ; A boobie trap
+D 0 30007 0 2   ; Entry Way
+D 0 30007 2 0   ; Entry Way
+M 0 21012 4 30008   ; the gargoyle
+M 0 21012 4 30008   ; the gargoyle
+G 1 30069 65535 0   ; the black key
+M 0 21012 4 30008   ; the gargoyle
+M 0 21012 4 30008   ; the gargoyle
+D 0 30008 0 0   ; Central Entrance
+D 0 30008 2 2   ; Central Entrance
+D 0 30009 2 0   ; Guests' Hall
+D 0 30010 0 0   ; Dinning Hall
+D 0 30010 2 2   ; Dinning Hall
+D 0 30011 0 2   ; South Ground Archer's Post
+D 0 30012 0 1   ; Turret Post Access Hall
+D 0 30013 0 0   ; Turret Post Access Hall
+D 0 30013 2 1   ; Turret Post Access Hall
+M 0 30000 19 30014   ; a zombie
+E 1 30072 65535 17   ; the grimy key
+M 0 30000 19 30014   ; a zombie
+D 0 30014 0 0   ; Hall of Faith
+D 0 30014 2 0   ; Hall of Faith
+D 0 30015 2 0   ; Chapel
+M 0 30118 11 30019   ; A lost soul
+M 0 30005 1 30020   ; Guardian
+E 1 30718 65535 17   ; the green key
+D 0 30021 2 0   ; Tower Stair
+D 0 30023 0 0   ; Servants' Entrance
+D 0 30023 3 0   ; Servants' Entrance
+D 0 30024 1 0   ; Servants' Quarters
+D 0 30025 0 1   ; Audience Hall
+O 0 30783 65535 30026   ; A boobie trap
+D 0 30026 0 0   ; Guard's Post
+D 0 30026 1 1   ; Guard's Post
+D 0 30026 2 1   ; Guard's Post
+D 0 30026 3 1   ; Guard's Post
+D 0 30027 0 0   ; Hall of Grace
+D 0 30027 1 0   ; Hall of Grace
+D 0 30027 2 0   ; Hall of Grace
+D 0 30028 2 0   ; King's Worship Place
+M 0 30006 1 30030   ; the accountant
+D 0 30030 0 0   ; Office of the King's Account
+D 0 30030 3 1   ; Office of the King's Account
+M 0 30114 1 30031   ; a decomposing elf
+D 0 30031 3 0   ; Trapworks
+M 0 30102 1 30032   ; A beautiful woman
+E 1 30087 65535 17   ; the dirty key
+O 0 30780 65535 30032   ; A boobie trap
+D 0 30032 0 1   ; Maid's Hall
+D 0 30033 1 0   ; King's Apartment Stair
+M 0 30103 2 30035   ; A wraith
+D 0 30035 0 0   ; Facing Guardians
+D 0 30035 2 0   ; Facing Guardians
+D 0 30036 0 0   ; Dining Hall of the Count
+D 0 30036 1 0   ; Dining Hall of the Count
+D 0 30036 2 0   ; Dining Hall of the Count
+D 0 30036 3 0   ; Dining Hall of the Count
+M 0 30117 1 30037   ; A ghost
+D 0 30037 0 1   ; Study
+D 0 30037 1 0   ; Study
+D 0 30037 2 0   ; Study
+D 0 30037 3 0   ; Study
+D 0 30037 5 1   ; Study
+O 0 30769 65535 30038   ; a gold chest
+P 1 30779 2 30769   ; A boobie trap
+P 1 30775 1 30769   ; a silver longsword
+O 0 30767 65535 30038   ; a iron chest
+P 1 30778 1 30767   ; A boobie trap
+P 1 16724 1 30767   ; a big pile of coins
+O 0 30765 65535 30038   ; a large wooden chest
+P 1 30777 1 30765   ; A boobie trap
+P 1 30776 1 30765   ; a silver breast
+D 0 30038 0 1   ; TREASURY!
+D 0 30038 2 1   ; TREASURY!
+D 0 30039 0 1   ; Hall of Riches
+D 0 30039 1 1   ; Hall of Riches
+D 0 30039 2 1   ; Hall of Riches
+M 0 30104 5 30040   ; A large spider
+M 0 30104 5 30040   ; A large spider
+M 0 30104 5 30040   ; A large spider
+M 0 30104 5 30040   ; A large spider
+M 0 30104 5 30040   ; A large spider
+D 0 30040 2 1   ; Belfry
+D 0 30040 3 1   ; Belfry
+O 0 30750 65535 30041   ; a gleaming sun sword
+O 0 30767 65535 30041   ; a iron chest
+P 1 30779 2 30767   ; A boobie trap
+P 1 30774 1 30767   ; a hammer
+P 1 30773 1 30767   ; a white shield
+P 1 30772 1 30767   ; a white staff
+D 0 30041 1 1   ; Treasure, Glory and Wealth!
+M 0 30118 11 30042   ; A lost soul
+M 0 30105 1 30042   ; Mad Gertruda
+D 0 30042 0 0   ; Bedchamber
+D 0 30042 1 0   ; Bedchamber
+D 0 30042 2 0   ; Bedchamber
+D 0 30042 3 1   ; Bedchamber
+M 0 30116 1 30043   ; A spectre
+D 0 30043 0 0   ; Bath Chamber
+D 0 30043 1 0   ; Bath Chamber
+D 0 30043 3 0   ; Bath Chamber
+D 0 30044 3 0   ; Closet
+D 0 30045 1 1   ; Hall Of Heros
+D 0 30047 0 0   ; The Landing
+O 0 30784 65535 30048   ; A boobie trap
+D 0 30048 5 0   ; Offstair
+D 0 30049 0 0   ; Lounge
+D 0 30049 1 0   ; Lounge
+M 0 30000 19 30050   ; a zombie
+D 0 30050 1 0   ; Guestroom
+D 0 30050 3 0   ; Guestroom
+O 0 30785 65535 30051   ; A boobie trap
+D 0 30051 3 0   ; Closet
+D 0 30051 4 0   ; Closet
+M 0 30106 3 30054   ; A cat
+M 0 30106 3 30054   ; A cat
+M 0 30106 3 30054   ; A cat
+D 0 30054 0 0   ; Familiar Room
+D 0 30054 1 0   ; Familiar Room
+O 0 30784 65535 30055   ; A boobie trap
+D 0 30055 0 1   ; Element Room
+D 0 30055 3 1   ; Element Room
+D 0 30055 5 1   ; Element Room
+M 0 30100 1 30056   ; the witch Gritz
+E 1 30752 65535 12   ; a dirty grey robe
+E 1 30070 65535 17   ; the steel key
+M 0 30101 1 30056   ; Grezelda the Witch
+E 1 30753 65535 12   ; a dirty black robe
+E 1 30081 65535 17   ; the smooth key
+M 0 30111 1 30056   ; Heli the Witch
+E 1 30754 65535 12   ; a dark dirty green robe
+E 1 30770 65535 17   ; a gold key
+D 0 30056 2 1   ; Caldron
+D 0 30057 3 0   ; Parapet Pentagram
+D 0 30058 1 0   ; Bridge
+D 0 30061 3 0   ; Tower Stairs
+D 0 30062 0 0   ; Servant's Hall
+D 0 30062 1 0   ; Servant's Hall
+D 0 30062 2 0   ; Servant's Hall
+D 0 30062 3 0   ; Servant's Hall
+M 0 30000 19 30063   ; a zombie
+D 0 30063 2 0   ; Wine Cellar
+D 0 30064 2 0   ; Guards' Stair
+M 0 30109 3 30065   ; A zombie
+M 0 30109 3 30065   ; A zombie
+M 0 30109 3 30065   ; A zombie
+D 0 30065 1 0   ; Kitchen
+D 0 30066 1 0   ; Butler's Quarters
+D 0 30067 0 0   ; Guards' Hall
+D 0 30067 1 0   ; Guards' Hall
+D 0 30067 3 2   ; Guards' Hall
+D 0 30068 0 0   ; Guards' Room
+D 0 30068 3 0   ; Guards' Room
+M 0 30000 19 30069   ; a zombie
+M 0 30110 10 30069   ; A skeleton
+M 0 30110 10 30069   ; A skeleton
+M 0 30110 10 30069   ; A skeleton
+M 0 30110 10 30069   ; A skeleton
+E 1 30766 65535 17   ; a rusty red key
+M 0 30110 10 30069   ; A skeleton
+M 0 30110 10 30069   ; A skeleton
+M 0 30110 10 30069   ; A skeleton
+M 0 30110 10 30069   ; A skeleton
+M 0 30110 10 30069   ; A skeleton
+M 0 30110 10 30069   ; A skeleton
+D 0 30070 0 1   ; Kingsman Hall
+D 0 30070 1 2   ; Kingsman Hall
+D 0 30070 3 1   ; Kingsman Hall
+D 0 30071 2 1   ; Kingsman Quarters
+M 0 30112 1 30072   ; A shadowy figure
+E 1 30085 65535 17   ; the quartz key
+D 0 30072 1 1   ; Office of Vengeance
+D 0 30072 2 2   ; Office of Vengeance
+D 0 30073 1 0   ; Dungeon Hall
+D 0 30073 2 0   ; Dungeon Hall
+D 0 30073 3 0   ; Dungeon Hall
+D 0 30074 1 0   ; Western Dungeon
+D 0 30075 3 0   ; Eastern Dungeon
+D 0 30076 0 0   ; Torture Room
+D 0 30077 3 0   ; Obervation Balcony
+M 0 30107 2 30078   ; A iron statue
+E 1 30768 65535 17   ; a key
+M 0 30107 2 30078   ; A iron statue
+D 0 30078 0 0   ; Braizer Room
+D 0 30078 1 0   ; Braizer Room
+D 0 30078 2 0   ; Braizer Room
+D 0 30078 3 0   ; Braizer Room
+D 0 30079 0 0   ; Souther Stair
+D 0 30080 1 0   ; Center Stair
+D 0 30081 0 2   ; Tunnel
+M 0 30118 11 30083   ; A lost soul
+G 1 30780 65535 0   ; A boobie trap
+G 1 30787 65535 0   ; A boobie trap
+D 0 30083 2 0   ; Southern Stair
+D 0 30085 4 2   ; Tomb of Von Zarovich
+M 0 30113 1 30086   ; A handsome man
+E 1 30755 65535 3   ; a flowing black cape
+E 1 30756 65535 7   ; a pair of black trousers
+E 1 30758 65535 8   ; a pair of black evil looking boots
+E 1 30760 65535 9   ; a pair of black gloves
+E 1 30757 65535 11   ; a black shield
+E 1 30759 65535 16   ; a black longsword
+O 0 30751 65535 30086   ; a beautifully carved silver holy symbol
+O 0 30761 65535 30086   ; a black coffin
+D 0 30086 4 2   ; Tomb
+D 0 30087 4 2   ; Guardians
+D 0 30112 0 1   ; Turret Post Access Hall
+D 0 30114 0 0   ; Hall of Faith
+D 0 30114 2 0   ; Hall of Faith
+M 0 30118 11 30121   ; A lost soul
+D 0 30121 2 0   ; Tower Stair
+M 0 30000 19 30129   ; a zombie
+O 0 30782 65535 30132   ; A boobie trap
+D 0 30132 1 1   ; Hallway
+D 0 30132 2 1   ; Hallway
+D 0 30132 3 0   ; Hallway
+D 0 30137 0 0   ; Behind Fireplace
+D 0 30137 2 1   ; Behind Fireplace
+D 0 30145 1 1   ; Hidden Small Room
+D 0 30145 3 1   ; Hidden Small Room
+D 0 30147 2 0   ; The Landing
+O 0 30784 65535 30148   ; A boobie trap
+D 0 30148 2 0   ; Offstair
+D 0 30148 5 0   ; Offstair
+D 0 30162 0 0   ; Servants' Hallway
+D 0 30162 2 0   ; Servants' Hallway
+D 0 30162 3 0   ; Servants' Hallway
+D 0 30177 1 0   ; Small Chamber
+D 0 30177 3 0   ; Small Chamber
+D 0 30179 0 2   ; Southern Stair
+D 0 30212 0 0   ; Turret Post
+M 0 30007 1 30214   ; A evil werewolf
+M 0 30118 11 30219   ; A lost soul
+G 1 30787 65535 0   ; A boobie trap
+M 0 30118 11 30221   ; A lost soul
+M 0 30115 1 30221   ; A roo ghoul
+D 0 30221 2 0   ; Tower Stair
+M 0 30000 19 30228   ; a zombie
+O 0 30783 65535 30231   ; A boobie trap
+D 0 30231 3 1   ; Small Room
+D 0 30237 1 0   ; Short Hall
+O 0 30785 65535 30283   ; A boobie trap
+D 0 30283 4 1   ; Southern Stair
+D 0 30364 2 1   ; Guards' Stair
+M 0 30118 11 30412   ; A lost soul
+M 0 30000 19 30414   ; a zombie
+D 0 30512 0 0   ; Turret Post
+D 0 30521 2 0   ; Tower Stair
+M 0 30118 11 30546   ; A lost soul
+D 0 30546 0 0   ; Courtyard Overlook
+M 0 30118 11 30618   ; A lost soul
+D 0 30718 0 2   ; Bottom of High Tower Shaft
+M 0 30118 11 30746   ; A lost soul
+M 0 30118 11 30846   ; A lost soul
+M 0 30000 19 30902   ; a zombie
+M 0 30000 19 30903   ; a zombie
+M 0 30000 19 30904   ; a zombie
+M 0 30000 19 30905   ; a zombie
+M 0 30000 19 30907   ; a zombie
+M 0 30000 19 30907   ; a zombie
+E 1 30068 65535 17   ; the gold key
+M 0 30000 19 30907   ; a zombie
+D 0 30908 2 0   ; Lost in the Fog
+M 0 30000 19 30913   ; a zombie
+D 0 31000 2 2   ; Crypt
+M 0 30000 19 31001   ; a zombie
+D 0 31001 2 0   ; Crypt
+D 0 31002 2 0   ; Crypt
+D 0 31002 5 2   ; Crypt
+D 0 31003 2 0   ; Crypt
+D 0 31004 2 0   ; Crypt
+D 0 31005 2 0   ; Crypt
+M 0 30002 4 31006   ; a bat
+M 0 30002 4 31006   ; a bat
+M 0 30002 4 31006   ; a bat
+M 0 30002 4 31006   ; a bat
+D 0 31006 2 0   ; Crypt
+D 0 31007 2 0   ; Crypt
+D 0 31008 2 0   ; Crypt
+M 0 30000 19 31009   ; a zombie
+D 0 31009 2 0   ; Crypt
+M 0 30004 1 31019   ; the banshee
+E 1 30086 65535 17   ; the stone key
+D 0 31019 2 0   ; Crypt
+D 0 31020 2 0   ; Crypt
+M 0 30103 2 31021   ; A wraith
+D 0 31021 2 0   ; Crypt
+M 0 30000 19 31022   ; a zombie
+D 0 31022 2 0   ; Crypt
+D 0 31023 2 0   ; Crypt
+D 0 31024 2 0   ; Crypt
+D 0 31025 2 0   ; Crypt
+D 0 31026 2 0   ; Crypt
+D 0 31026 5 2   ; Crypt
+D 0 31027 2 0   ; Crypt
+D 0 31037 2 0   ; Crypt
+M 0 30003 4 31038   ; The vampire
+M 0 30003 4 31038   ; The vampire
+M 0 30003 4 31038   ; The vampire
+M 0 30003 4 31038   ; The vampire
+D 0 31038 2 0   ; Crypt
+D 0 31039 2 0   ; Crypt
+D 0 31040 2 0   ; Crypt
+D 0 31041 2 0   ; Crypt
+D 0 31042 2 0   ; Crypt
+D 0 31043 2 0   ; Crypt
+D 0 31044 2 0   ; Crypt
+D 0 31051 5 2   ; Crypt
+D 0 31053 2 2   ; Crypt
+S

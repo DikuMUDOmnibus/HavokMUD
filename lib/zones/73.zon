@@ -1,0 +1,93 @@
+*Zone 73, rooms 16300-16645, last modified by Coal
+O 0 109 65535 16603   ; A rubber ball
+M 0 16650 1 16613   ; A High Priest
+G 1 16635 65535 0   ; A pitch black potion
+M 0 16640 7 16613   ; A Priest
+M 0 16640 7 16613   ; A Priest
+M 0 16640 7 16613   ; A Priest
+M 0 16640 7 16613   ; A Priest
+M 0 16640 7 16613   ; A Priest
+M 0 16640 7 16613   ; A Priest
+M 0 16640 7 16613   ; A Priest
+M 0 16620 1 16614   ; The Black Dragon
+G 1 16610 65535 0   ; The Crystal Sword
+M 0 16630 15 16620   ; The Portal guard
+M 0 16630 15 16620   ; The Portal guard
+M 0 16630 15 16620   ; The Portal guard
+M 0 16630 15 16620   ; The Portal guard
+M 0 16630 15 16620   ; The Portal guard
+M 0 16630 15 16620   ; The Portal guard
+M 0 16630 15 16620   ; The Portal guard
+M 0 16630 15 16620   ; The Portal guard
+M 0 16630 15 16620   ; The Portal guard
+M 0 16630 15 16620   ; The Portal guard
+M 0 16630 15 16620   ; The Portal guard
+M 0 16630 15 16620   ; The Portal guard
+M 0 16630 15 16620   ; The Portal guard
+M 0 16630 15 16620   ; The Portal guard
+M 0 16630 15 16620   ; The Portal guard
+M 0 16690 1 16623   ; A Air Elemental
+M 0 16694 1 16625   ; A Fire Elemental
+M 0 16692 1 16627   ; A Earth Elemental
+M 0 16696 1 16630   ; A Water Elemental
+M 0 16670 2 16632   ; A Elven warrior
+E 1 16630 65535 17   ; A magical wand
+G 1 16625 65535 0   ; The elven key
+M 0 16670 2 16632   ; A Elven warrior
+E 1 16630 65535 17   ; A magical wand
+D 0 16632 1 2   ; The Dark Doorway
+M 0 16680 15 16633   ; The Drow Maiden
+E 1 5110 65535 17   ; A silvery blue wand
+M 0 16680 15 16633   ; The Drow Maiden
+E 1 5110 65535 17   ; A silvery blue wand
+M 0 16680 15 16633   ; The Drow Maiden
+E 1 5110 65535 17   ; A silvery blue wand
+M 0 16680 15 16633   ; The Drow Maiden
+E 1 5110 65535 17   ; A silvery blue wand
+M 0 16680 15 16633   ; The Drow Maiden
+E 1 5110 65535 17   ; A silvery blue wand
+M 0 16680 15 16633   ; The Drow Maiden
+E 1 5110 65535 17   ; A silvery blue wand
+M 0 16680 15 16633   ; The Drow Maiden
+E 1 5110 65535 17   ; A silvery blue wand
+M 0 16680 15 16633   ; The Drow Maiden
+E 1 5110 65535 17   ; A silvery blue wand
+M 0 16680 15 16633   ; The Drow Maiden
+E 1 5110 65535 17   ; A silvery blue wand
+M 0 16680 15 16633   ; The Drow Maiden
+E 1 5110 65535 17   ; A silvery blue wand
+M 0 16680 15 16633   ; The Drow Maiden
+E 1 5110 65535 17   ; A silvery blue wand
+M 0 16680 15 16633   ; The Drow Maiden
+E 1 5110 65535 17   ; A silvery blue wand
+M 0 16680 15 16633   ; The Drow Maiden
+E 1 5110 65535 17   ; A silvery blue wand
+M 0 16680 15 16633   ; The Drow Maiden
+E 1 5110 65535 17   ; A silvery blue wand
+M 0 16680 15 16633   ; The Drow Maiden
+E 1 5110 65535 17   ; A silvery blue wand
+D 0 16633 1 1   ; The Doorway to the Unknown
+D 0 16633 3 2   ; The Doorway to the Unknown
+D 0 16634 1 1   ; The Mini Maze
+D 0 16634 3 1   ; The Mini Maze
+M 0 16660 14 16635   ; The Minotaur
+M 0 16660 14 16635   ; The Minotaur
+M 0 16660 14 16635   ; The Minotaur
+M 0 16660 14 16635   ; The Minotaur
+M 0 16660 14 16635   ; The Minotaur
+M 0 16660 14 16635   ; The Minotaur
+M 0 16660 14 16635   ; The Minotaur
+M 0 16660 14 16635   ; The Minotaur
+M 0 16660 14 16635   ; The Minotaur
+M 0 16660 14 16635   ; The Minotaur
+M 0 16660 14 16635   ; The Minotaur
+M 0 16660 14 16635   ; The Minotaur
+M 0 16660 14 16635   ; The Minotaur
+M 0 16660 14 16635   ; The Minotaur
+D 0 16635 3 1   ; The Guardians of the Maze
+D 0 16635 5 0   ; The Guardians of the Maze
+D 0 16636 4 0   ; Going down?
+M 0 16610 1 16641   ; The Hoeur
+E 1 16615 65535 3   ; Talisman d'Balor
+E 1 16620 65535 16   ; a flaming whip
+S

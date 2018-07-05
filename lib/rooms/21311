@@ -1,0 +1,34 @@
+#21311
+Practice Yard~
+    This half of the practice yard must have been used for more advanced
+training than in the yard to the east.  That would be your guess, anyway,
+because you can't really tell how the stuff in here operates well enough to
+assess what it was used for. There is one contraption with several pieces of
+wire tied at varying heights between two tall, flexible wooden poles. There is
+also an area where the floor is covered by a strange flexible material, which
+deforms and sinks when you put weight on it. Plus, there's a large, flat piece
+of wood with several holes drilled in various places all over it. Other, even
+stranger devices make you scratch your head in wonder. The practice yard
+continues to the east, which is the only exit.
+~
+84 9 1
+D1
+~
+~
+0 -1 21303 -1
+E
+board holes~
+A person standing on one side of the board would have to react quite quicky
+to projectiles coming through the holes from the other side. Perhaps that
+is what it was used for.
+~
+E
+flexible material~
+It makes you feel very strange to stand on it, since it deforms underneath
+you. It might be good for practicing fighting on very unsure ground.
+~
+E
+contraption~
+It's a curious looking thing, but you have no idea how it worked.
+~
+S

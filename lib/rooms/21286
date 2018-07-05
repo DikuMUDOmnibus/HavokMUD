@@ -1,0 +1,29 @@
+#21286
+Mustering Square~
+    This is the largest artificially created area you've seen down here underneath
+the mountain.  It is a assembling grounds for the troops getting ready to go out
+to battle.  As you hold your light aloft, you can barely see the roof where a large,
+broken sphere once provided light to the grounds.  There is a wide opening to the
+west, and narrower tunnels lead to the north and south.  From here it is impossible
+to tell where any of these exits lead.
+~
+84 2057 1
+D0
+~
+~
+0 -1 21285 -1
+D2
+~
+~
+0 -1 21287 -1
+D3
+~
+~
+0 -1 21293 -1
+E
+sphere~
+It looks like a big empty glass sphere. It is far above you, anchored to the
+ceiling by a large chain. There is a big crack in it, and a couple of places
+where the glass is broken to reveal a hole in the sphere.
+~
+S

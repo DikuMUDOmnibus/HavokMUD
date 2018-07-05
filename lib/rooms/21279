@@ -1,0 +1,27 @@
+#21279
+The Gatehouse~
+    This area served as a checkpoint for those entering the outpost from the
+outside. There is an extremely large and imposing-looking gate to the east.
+In times of old it must have served to guard the outpost from any opposition
+forces. It shows no signs of damage, on this side, at least, so perhaps it was
+never needed to fulfill that purpose. It has a large, complicated  locking
+mechanism, which even the most competent thief would turn green trying to pick.
+There is a passage to the west, and the gate stands to the east, leading to
+unknown destinations.
+~
+84 9 1
+D1
+~
+gate~
+6 0 21272 -1
+D3
+~
+~
+0 -1 21286 -1
+E
+lock gate~
+The gate is large and impressive. The lock is large and extremely complex. It
+looks like it would be impossible to pick, without a lot of specialized tools,
+anyway. The key would have to be an odd-looking piece of equipment.
+~
+S

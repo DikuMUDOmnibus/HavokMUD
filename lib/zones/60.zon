@@ -1,0 +1,47 @@
+*Zone 60, rooms 13700-13713, last modified by Coal
+M 0 13713 4 13703   ; the assassin
+M 0 13706 3 13706   ; A brave warrior
+M 0 13706 3 13706   ; A brave warrior
+M 0 13706 3 13706   ; A brave warrior
+M 0 3006 2 13707   ; the Skipper
+M 0 3007 2 13707   ; the Lifeguard
+M 0 13713 4 13708   ; the assassin
+M 0 13709 8 13709   ; A Graecian Guard
+E 1 3040 65535 5   ; a breast plate
+E 1 3088 65535 10   ; a pair of plate sleeves
+E 1 3090 65535 16   ; a two-handed sword
+M 0 13709 8 13709   ; A Graecian Guard
+E 1 3040 65535 5   ; a breast plate
+E 1 3088 65535 10   ; a pair of plate sleeves
+E 1 3090 65535 16   ; a two-handed sword
+M 0 13709 8 13709   ; A Graecian Guard
+E 1 3040 65535 5   ; a breast plate
+E 1 3088 65535 10   ; a pair of plate sleeves
+E 1 3090 65535 16   ; a two-handed sword
+M 0 13709 8 13709   ; A Graecian Guard
+E 1 3040 65535 5   ; a breast plate
+E 1 3088 65535 10   ; a pair of plate sleeves
+E 1 3090 65535 16   ; a two-handed sword
+M 0 13709 8 13710   ; A Graecian Guard
+E 1 3040 65535 5   ; a breast plate
+E 1 3088 65535 10   ; a pair of plate sleeves
+E 1 3090 65535 16   ; a two-handed sword
+M 0 13709 8 13710   ; A Graecian Guard
+E 1 3040 65535 5   ; a breast plate
+E 1 3088 65535 10   ; a pair of plate sleeves
+E 1 3090 65535 16   ; a two-handed sword
+M 0 13713 4 13710   ; the assassin
+M 0 13711 1 13711   ; King Agamemnon
+M 0 13712 3 13711   ; A scholar
+M 0 13712 3 13711   ; A scholar
+M 0 13712 3 13711   ; A scholar
+M 0 13713 4 13713   ; the assassin
+M 0 13709 8 13713   ; A Graecian Guard
+E 1 3040 65535 5   ; a breast plate
+E 1 3088 65535 10   ; a pair of plate sleeves
+E 1 3090 65535 16   ; a two-handed sword
+M 0 13709 8 13713   ; A Graecian Guard
+E 1 3040 65535 5   ; a breast plate
+E 1 3088 65535 10   ; a pair of plate sleeves
+E 1 3090 65535 16   ; a two-handed sword
+S

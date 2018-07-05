@@ -1,0 +1,207 @@
+*Zone 47, rooms 7500-7699, last modified by Delight
+O 0 40100 65535 7502   ; The Heroes Bulletin Board
+D 0 7504 1 1   ; Hallway
+D 0 7504 3 1   ; Hallway
+D 0 7505 1 1   ; Hallway
+D 0 7505 3 1   ; Hallway
+D 0 7506 0 1   ; Bend in the Hallway
+D 0 7506 3 1   ; Bend in the Hallway
+D 0 7507 0 1   ; Hallway
+D 0 7507 2 1   ; Hallway
+D 0 7508 0 1   ; Hallway
+D 0 7508 2 1   ; Hallway
+D 0 7509 0 1   ; Hallway
+D 0 7509 2 1   ; Hallway
+D 0 7510 0 1   ; Hallway
+D 0 7510 2 1   ; Hallway
+D 0 7511 0 1   ; Bend in the Hallway
+D 0 7511 1 1   ; Bend in the Hallway
+D 0 7512 1 1   ; Hallway
+D 0 7512 3 1   ; Hallway
+D 0 7513 1 1   ; Hallway
+D 0 7513 3 1   ; Hallway
+D 0 7514 1 1   ; Bend in the Hallway
+D 0 7514 2 1   ; Bend in the Hallway
+D 0 7515 0 1   ; Hallway
+D 0 7515 2 1   ; Hallway
+D 0 7516 0 1   ; Hallway
+D 0 7516 2 1   ; Hallway
+D 0 7517 0 1   ; Hallway
+D 0 7517 2 1   ; Hallway
+D 0 7518 0 1   ; Hallway
+D 0 7518 2 1   ; Hallway
+D 0 7519 3 1   ; Vacant Room
+D 0 7520 1 1   ; Vacant Room
+D 0 7521 3 1   ; Vacant Room
+D 0 7522 1 1   ; Vacant Room
+D 0 7523 1 1   ; Vacant Room
+D 0 7524 2 1   ; Vacant Room
+D 0 7525 2 1   ; Vacant Room
+D 0 7526 0 1   ; Vacant Room
+D 0 7527 2 1   ; Vacant Room
+D 0 7528 0 1   ; Vacant Room
+D 0 7529 2 1   ; Vacant Room
+D 0 7530 0 1   ; Vacant Room
+D 0 7531 2 1   ; Vacant Room
+D 0 7532 0 1   ; Vacant Room
+D 0 7533 2 1   ; Vacant Room
+D 0 7534 3 1   ; Vacant Room
+D 0 7535 3 1   ; Vacant Room
+D 0 7536 1 1   ; Vacant Room
+D 0 7537 3 1   ; Vacant Room
+O 0 7538 65535 7538   ; A giant throne made from onyx and black marble sits here.
+D 0 7538 1 1   ; Carom's Throne Room
+O 0 7539 65535 7539   ; A giant throne carved from solid ice.
+D 0 7539 3 1   ; Cavern of the Ice Knight
+O 0 7514 65535 7540   ; A red dragon throne.
+D 0 7540 0 1   ; Hellforge's Flaming Throne Room
+D 0 7541 0 1   ; Vacant Room
+D 0 7542 2 1   ; Vacant Room
+D 0 7543 0 1   ; Vacant Room
+D 0 7544 2 1   ; Vacant Room
+D 0 7545 0 1   ; Vacant Room
+D 0 7546 2 1   ; Vacant Room
+D 0 7547 0 1   ; Vacant Room
+D 0 7548 2 1   ; Vacant Room
+D 0 7550 1 1   ; Hallway
+D 0 7550 3 1   ; Hallway
+D 0 7551 1 1   ; Hallway
+D 0 7551 3 1   ; Hallway
+D 0 7552 0 1   ; Bend in the Hallway
+D 0 7552 3 1   ; Bend in the Hallway
+D 0 7553 0 1   ; Hallway
+D 0 7553 2 1   ; Hallway
+D 0 7554 0 1   ; Hallway
+D 0 7554 2 1   ; Hallway
+D 0 7555 0 1   ; Hallway
+D 0 7555 2 1   ; Hallway
+D 0 7556 0 1   ; Hallway
+D 0 7556 2 1   ; Hallway
+D 0 7557 0 1   ; Bend in the Hallway
+D 0 7557 1 1   ; Bend in the Hallway
+D 0 7558 1 1   ; Hallway
+D 0 7558 3 1   ; Hallway
+D 0 7559 1 1   ; Hallway
+D 0 7559 3 1   ; Hallway
+D 0 7560 1 1   ; Bend in the Hallway
+D 0 7560 2 1   ; Bend in the Hallway
+D 0 7561 0 1   ; Hallway
+D 0 7561 2 1   ; Hallway
+D 0 7562 0 1   ; Hallway
+D 0 7562 2 1   ; Hallway
+D 0 7563 0 1   ; Hallway
+D 0 7563 2 1   ; Hallway
+D 0 7564 0 1   ; Hallway
+D 0 7564 2 1   ; Hallway
+D 0 7565 3 1   ; Vacant Room
+D 0 7566 1 0   ; Vacant Room
+D 0 7567 1 1   ; Vacant Room
+D 0 7568 2 1   ; Vacant Room
+D 0 7569 2 1   ; Vacant Room
+D 0 7570 0 1   ; Vacant Room
+D 0 7571 2 1   ; Vacant Room
+D 0 7572 0 1   ; Vacant Room
+D 0 7573 2 1   ; Vacant Room
+D 0 7574 0 1   ; Vacant Room
+D 0 7575 2 1   ; Vacant Room
+D 0 7576 0 1   ; Vacant Room
+D 0 7577 2 1   ; Vacant Room
+D 0 7578 3 1   ; Vacant Room
+D 0 7579 3 1   ; Vacant Room
+D 0 7580 1 1   ; Vacant Room
+D 0 7581 3 1   ; Vacant Room
+D 0 7582 1 1   ; Vacant Room
+D 0 7583 3 1   ; Vacant Room
+D 0 7584 0 1   ; Vacant Room
+D 0 7585 0 1   ; Vacant Room
+D 0 7586 2 1   ; Vacant Room
+D 0 7587 0 1   ; Vacant Room
+D 0 7588 2 1   ; Vacant Room
+D 0 7589 0 1   ; Vacant Room
+D 0 7590 2 1   ; Vacant Room
+D 0 7591 0 1   ; Vacant Room
+D 0 7592 2 1   ; Vacant Room
+D 0 7593 3 1   ; Vacant Room
+D 0 7594 1 1   ; Vacant Room
+D 0 7596 1 1   ; Hallway
+D 0 7596 3 1   ; Hallway
+D 0 7597 1 1   ; Hallway
+D 0 7597 3 1   ; Hallway
+D 0 7598 0 1   ; Bend in the Hallway
+D 0 7598 3 1   ; Bend in the Hallway
+D 0 7599 0 1   ; Hallway
+D 0 7599 2 1   ; Hallway
+D 0 7600 0 1   ; Hallway
+D 0 7600 2 1   ; Hallway
+D 0 7601 0 1   ; Hallway
+D 0 7601 2 1   ; Hallway
+D 0 7602 0 1   ; Hallway
+D 0 7602 2 1   ; Hallway
+D 0 7603 0 1   ; Bend in the Hallway
+D 0 7603 1 1   ; Bend in the Hallway
+D 0 7604 1 1   ; Hallway
+D 0 7604 3 1   ; Hallway
+D 0 7605 1 1   ; Hallway
+D 0 7605 3 1   ; Hallway
+D 0 7606 1 1   ; Bend in the Hallway
+D 0 7606 2 1   ; Bend in the Hallway
+D 0 7607 0 1   ; Hallway
+D 0 7607 2 1   ; Hallway
+D 0 7608 0 1   ; Hallway
+D 0 7608 2 1   ; Hallway
+D 0 7609 0 1   ; Hallway
+D 0 7609 2 1   ; Hallway
+D 0 7610 0 1   ; Hallway
+D 0 7610 2 1   ; Hallway
+D 0 7611 3 1   ; Vacant Room
+D 0 7612 1 1   ; Vacant Room
+D 0 7613 3 1   ; Vacant Room
+D 0 7614 1 1   ; Vacant Room
+D 0 7615 1 1   ; Vacant Room
+D 0 7616 2 1   ; Vacant Room
+D 0 7617 2 1   ; Vacant Room
+D 0 7618 0 1   ; Vacant Room
+D 0 7619 2 1   ; Vacant Room
+D 0 7620 0 1   ; Vacant Room
+D 0 7621 2 1   ; Vacant Room
+D 0 7622 0 1   ; Vacant Room
+D 0 7623 2 1   ; Vacant Room
+D 0 7624 0 1   ; Vacant Room
+D 0 7625 2 1   ; Vacant Room
+D 0 7626 3 1   ; Vacant Room
+D 0 7627 3 1   ; Vacant Room
+D 0 7628 1 1   ; Vacant Room
+D 0 7629 3 1   ; Vacant Room
+D 0 7630 1 1   ; Vacant Room
+D 0 7631 3 1   ; Vacant Room
+D 0 7632 0 1   ; Vacant Room
+D 0 7633 0 1   ; Vacant Room
+D 0 7634 2 1   ; Vacant Room
+D 0 7635 0 1   ; Vacant Room
+D 0 7636 2 1   ; Vacant Room
+D 0 7637 0 1   ; Vacant Room
+D 0 7638 2 1   ; Vacant Room
+D 0 7639 0 1   ; Vacant Room
+D 0 7640 2 1   ; Vacant Room
+D 0 7642 1 1   ; Hallway
+D 0 7642 3 1   ; Hallway
+D 0 7643 0 1   ; Bend in the Hallway
+D 0 7643 3 1   ; Bend in the Hallway
+D 0 7644 0 1   ; Bend in the Hallway
+D 0 7644 1 1   ; Bend in the Hallway
+D 0 7645 1 1   ; Hallway
+D 0 7645 3 1   ; Hallway
+D 0 7646 1 1   ; Bend in the Hallway
+D 0 7646 2 0   ; Bend in the Hallway
+D 0 7647 1 1   ; Vacant Room
+D 0 7648 3 1   ; Torture Chamber
+D 0 7649 1 1   ; Sanctuary of the First Brood
+D 0 7650 2 1   ; Palace of Joy and Pleasure
+D 0 7651 2 1   ; Room where Sunrise & Sunset Mingle
+D 0 7652 3 1   ; Vacant Room
+D 0 7653 1 1   ; Crossroads of the Mind
+D 0 7654 3 1   ; The Eye of the Storm
+D 0 7655 3 1   ; Pool of Delight
+D 0 7656 0 0   ; Vacant Room
+D 0 7699 5 0   ; Xenakis' Office
+S

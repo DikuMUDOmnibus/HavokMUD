@@ -1,0 +1,70 @@
+April 14, 2004
+
+The purpose of this document is to provide the
+information needed to set up and run HavokMUD
+source code.  This document assumes some mud
+experience, some experience in C, and some
+experience using a Unix operating system.  If
+you do not have experience in these fields, please
+take the time to find a good tutorial on those
+subjects.
+
+You recieved the HavokMUD distribution in a single package,
+the directories are set up as needed, there is no installation
+needed.
+
+MAKE : 
+	You begin by typeing "make" in the src directory 
+	(/havok/src).  This will compile the code.  It may 
+	take a few minute depending on the speed of your 
+	computer.
+RUNNING THE GAME :
+	After compiling, type ./dmserver in the src directory.
+CONNECTING :
+	There are several options for connecting to the mud once
+	you have it running.  Since there are too many mud clients
+	to detail each of them, this document will use telnet since
+	it is standard on almost every computer.
+	Telnet to localhost 4000.
+	4000 is the default port for running HavokMUD.
+MISC :
+	When you create your first character, the character will
+	be level 59.  After this first character, all characters
+	will start at level 1.  Now that you have your level 59
+	character, type wizhelp, this is a list of the commands
+	available.  There is a wizhelp file for each of the
+	commands listed accessable using: wizhelp command  
+    	The following commands cannot be added to help files due
+	to their nature:
+		" - a shortcut for "think", the immortal communication
+		    channel (think hey gods)
+		# - is used to set the level or minimum position for
+		    a command (# set advance level 55)
+BUGMAIL :
+	Set up bugmail by replacing Gordon with the name of the
+	character that should recieve bugmail, at line 669 in
+	mail.c
+MOTD/WMOTD/INFO/NEWS :
+	The message of the day, wizards message of the day, info 
+	and news can be changed using the chtext command, or by 
+	editing the files motd, wmotd, info, and news in the
+	/havok/lib/ directory.
+ADD_HELP   :
+	each time someone attempts to call a helpfile that doesn't
+	exist, an entry is added to ADD_HELP, you can see this file
+	in game by first setting your wizreport value to 1
+	(@wizreport character 1), this enables the character to use
+	view to see the file (view help).
+REIMB :
+	the directory reimb must be present for characters to rent,
+	this directory stores a copy of the character each time he
+	rents.  In the event that a character loses his equipment
+	due to a mud error, you can reset him to this state
+	(reimb character)
+LOGIN :
+	You can set your login screen to whatever you choose by
+	editing the file /havok/lib/login
+CREDITS :
+	You may add to the credits file, but you may not remove
+	any information from it.
+

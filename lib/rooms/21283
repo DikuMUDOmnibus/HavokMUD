@@ -1,0 +1,18 @@
+#21283
+Barracks~
+    This room clearly serves as a military barracks, where men can sleep and spend
+some of their free time.  There are several rows of bunks here, stacked two high to
+maximize the space in the room.  There is an opening in the south wall leading into
+more barracks.
+~
+84 9 1
+D2
+~
+~
+0 0 21277 -1
+E
+bunks lockers~
+The bunks and lockers look they were chewed up, swallowed, partially digested,
+and vomited back up. There's very little left of them.
+~
+S

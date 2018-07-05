@@ -1,0 +1,96 @@
+*Zone 54, rooms 9601-9699, last modified by Coal
+M 0 2 5 9602   ; The Ringwraith
+M 0 9603 22 9602   ; A goblin
+M 0 9603 22 9602   ; A goblin
+M 0 9614 7 9606   ; a small woodland ferrit
+M 0 9614 7 9607   ; a small woodland ferrit
+M 0 9614 7 9607   ; a small woodland ferrit
+M 0 9614 7 9608   ; a small woodland ferrit
+M 0 9614 7 9608   ; a small woodland ferrit
+M 0 9614 7 9608   ; a small woodland ferrit
+M 0 9614 7 9610   ; a small woodland ferrit
+D 0 9611 5 0   ; Center of Clearing
+M 0 9612 5 9615   ; A dire wolf
+E 1 9608 65535 16   ; a dwarven hammer
+G 1 9610 65535 0   ; a shimmering blue potion
+G 1 9610 65535 0   ; a shimmering blue potion
+G 1 9610 65535 0   ; a shimmering blue potion
+G 1 9610 65535 0   ; a shimmering blue potion
+M 0 9603 22 9615   ; A goblin
+M 0 2 5 9616   ; The Ringwraith
+M 0 9603 22 9617   ; A goblin
+M 0 9603 22 9618   ; A goblin
+M 0 9603 22 9618   ; A goblin
+M 0 9610 7 9620   ; A small furry spider
+M 0 9610 7 9626   ; A small furry spider
+M 0 9612 5 9626   ; A dire wolf
+M 0 9611 1 9627   ; A very large spider
+G 1 9611 65535 0   ; a bubbly brown potion
+M 0 2 5 9628   ; The Ringwraith
+M 0 9612 5 9629   ; A dire wolf
+M 0 9603 22 9631   ; A goblin
+G 1 9610 65535 0   ; a shimmering blue potion
+M 0 9601 2 9632   ; A goblin sentry
+E 1 9602 65535 5   ; a suit of leather armor
+E 1 9605 65535 6   ; a dented helm
+M 0 9601 2 9632   ; A goblin sentry
+E 1 9602 65535 5   ; a suit of leather armor
+E 1 9603 65535 8   ; a pair of leather boots
+E 1 9604 65535 10   ; a pair of rusty arm plates
+M 0 9603 22 9633   ; A goblin
+M 0 9613 6 9634   ; A small rat
+M 0 9613 6 9634   ; A small rat
+M 0 9613 6 9634   ; A small rat
+M 0 9613 6 9634   ; A small rat
+M 0 9613 6 9634   ; A small rat
+M 0 9613 6 9634   ; A small rat
+M 0 9603 22 9634   ; A goblin
+G 1 9610 65535 0   ; a shimmering blue potion
+M 0 9610 7 9637   ; A small furry spider
+M 0 9603 22 9639   ; A goblin
+G 1 9610 65535 0   ; a shimmering blue potion
+M 0 9603 22 9643   ; A goblin
+M 0 9610 7 9645   ; A small furry spider
+M 0 3076 1 9645   ; the archer
+E 1 10 65535 5   ; a studded leather training jacket
+E 1 3084 65535 7   ; a pair of studded leather pants
+M 0 9610 7 9646   ; A small furry spider
+M 0 9607 1 9646   ; A blacksmith goblin
+M 0 9608 1 9647   ; A dumb half-giant
+E 1 9607 65535 16   ; a large axe
+M 0 9603 22 9647   ; A goblin
+M 0 9603 22 9649   ; A goblin
+M 0 9603 22 9649   ; A goblin
+M 0 9603 22 9650   ; A goblin
+M 0 9609 1 9651   ; A goblin cook
+M 0 9610 7 9654   ; A small furry spider
+M 0 9610 7 9655   ; A small furry spider
+M 0 9603 22 9655   ; A goblin
+M 0 9604 1 9656   ; The goblin general
+E 1 9602 65535 5   ; a suit of leather armor
+E 1 9605 65535 6   ; a dented helm
+E 1 9603 65535 8   ; a pair of leather boots
+M 0 9603 22 9656   ; A goblin
+M 0 9605 6 9657   ; A sleepy goblin soldier
+M 0 9605 6 9657   ; A sleepy goblin soldier
+M 0 9605 6 9657   ; A sleepy goblin soldier
+M 0 9605 6 9657   ; A sleepy goblin soldier
+M 0 9605 6 9657   ; A sleepy goblin soldier
+M 0 9605 6 9657   ; A sleepy goblin soldier
+M 0 9612 5 9657   ; A dire wolf
+M 0 9603 22 9658   ; A goblin
+M 0 9602 2 9658   ; A goblin sentry
+M 0 9602 2 9658   ; A goblin sentry
+D 0 9658 0 0   ; Culdesac
+M 0 9603 22 9659   ; A goblin
+D 0 9659 2 0   ; Shack Entryway
+M 0 9603 22 9660   ; A goblin
+M 0 9606 1 9660   ; The goblin king
+E 1 9608 65535 16   ; a dwarven hammer
+G 1 9610 65535 0   ; a shimmering blue potion
+M 0 9603 22 9661   ; A goblin
+M 0 9612 5 9661   ; A dire wolf
+M 0 9603 22 9662   ; A goblin
+O 0 9609 65535 9664   ; a necklace weaved like a vine
+D 0 9664 4 0   ; Under the Water in the Pool
+S

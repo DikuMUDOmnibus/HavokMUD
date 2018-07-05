@@ -1,0 +1,72 @@
+*Zone 31, rooms 5000-5099, last modified by Taniwha
+M 0 5011 1 5008   ; The drider
+E 1 5033 65535 16   ; a black spear
+G 1 3057 65535 0   ; a silver potion
+O 0 64 65535 5008   ; A huge rock
+D 0 5008 3 1   ; Cave-in
+O 0 65 65535 5009   ; A small boulder
+M 0 5010 1 5011   ; The dracolich
+E 1 5001 65535 5   ; A glowing suit of banded mail
+E 1 5002 65535 16   ; the halberd
+O 0 5005 65535 5011   ; A large leg bone
+M 0 5003 1 5012   ; The small scorpion
+O 0 64 65535 5013   ; A huge rock
+M 0 5013 8 5017   ; The myconoid
+D 0 5018 1 1   ; Large cavern
+M 0 5013 8 5020   ; The myconoid
+M 0 5013 8 5020   ; The myconoid
+M 0 5013 8 5020   ; The myconoid
+M 0 5013 8 5020   ; The myconoid
+M 0 5013 8 5021   ; The myconoid
+M 0 5014 1 5021   ; The myconoid shaman
+E 1 5003 65535 3   ; the amulet
+G 1 3056 65535 0   ; a golden potion
+M 0 5013 8 5022   ; The myconoid
+G 1 3055 65535 0   ; a white potion
+M 0 5013 8 5023   ; The myconoid
+O 0 501 65535 5030   ; The huge cactus
+O 0 5006 65535 5031   ; a small cactus cup
+M 0 5015 3 5033   ; The dustdigger
+M 0 5004 1 5036   ; The giant, purple sand worm
+E 1 5021 65535 3   ; a strange bow
+E 1 5020 65535 17   ; a platinum wand
+G 1 5019 65535 0   ; a pink potion
+M 0 5015 3 5039   ; The dustdigger
+O 0 5006 65535 5044   ; a small cactus cup
+M 0 5015 3 5049   ; The dustdigger
+G 1 5006 65535 0   ; a small cactus cup
+M 0 5002 1 5055   ; The coral snake
+M 0 5009 1 5057   ; The slave
+M 0 5017 1 5058   ; The rabid camel
+M 0 5008 1 5059   ; The nomad warrior
+E 1 5018 65535 16   ; a long, pointed cutlass
+M 0 5007 1 5060   ; The nomad commander
+E 1 5017 65535 16   ; a curved scimitar
+O 0 5007 65535 5060   ; a small wicker basket
+P 1 5011 1 5007   ; a coil of rope
+P 1 5012 1 5007   ; a bunch of stakes
+M 0 5006 1 5061   ; The nomad leader
+E 1 5016 65535 16   ; a long, curved sabre
+O 0 5010 65535 5061   ; a small wicker basket
+P 1 5013 1 5010   ; an old, tattered map
+O 0 5009 65535 5061   ; a small wicker basket
+O 0 5008 65535 5061   ; a small wicker basket
+P 1 5014 1 5008   ; a thick padded turban
+M 0 5005 1 5065   ; The brass dragon
+G 1 5024 65535 0   ; a golden key
+G 1 3056 65535 0   ; a golden potion
+G 1 3056 65535 0   ; a golden potion
+G 1 5022 65535 0   ; An encrypted scroll
+O 0 5015 65535 5070   ; a great pile of treasure
+O 0 5023 65535 5070   ; an iron bound chest
+P 1 5031 1 5023   ; the red-eyed jewel
+P 1 5032 1 5023   ; a fiery green emerald
+P 1 5030 1 5023   ; the Tiger Jewel
+P 1 5029 1 5023   ; a deep blue lapis lazuli
+P 1 5028 1 5023   ; A brilliant sapphire
+P 1 5027 1 5023   ; A glittering diamond
+P 1 5026 1 5023   ; A large ruby
+M 0 5021 1 5072   ; A large Umberhulk
+G 1 5038 65535 0   ; the carapace of an umberhulk
+D 0 5072 3 0   ; Umberhulk's Lair
+S

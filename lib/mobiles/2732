@@ -1,0 +1,21 @@
+#2732
+color pool~
+A color pool~
+A gray color pool can be seen as you approach.
+~
+   You are now standing on the drawbridge of an ancient castle. Two huge
+statues of some strange creature float in mid-air directly above the pit
+beneath the drawbridge on which you now stand. You can't see any farther
+than the inside of the entrance, for the castle appears to be totally
+without light.
+~
+~
+~
+2115  2048  0  1.0 
+ 1  0  10  2  1d1+1 
+ -1  0  1  48 
+ 8  8  0  0  0  0 
+ 0 
+~
+~
+~

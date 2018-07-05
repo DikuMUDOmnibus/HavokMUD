@@ -1,0 +1,18 @@
+#3683
+patch bartender~
+Patch the bartender~
+A large half-orc with a patch over one eye pours beer behind the counter
+~
+You see a really big guy here who seems to have lost an eye in one manner
+or another.
+~
+~
+~
+67  8  -500  2.0 
+ 20  0  -10  182  3d8+10 
+ -1  410  2  1 
+ 8  8  1  0  0  0 
+ 0 
+~
+~
+~

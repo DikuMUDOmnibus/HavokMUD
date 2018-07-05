@@ -1,0 +1,187 @@
+*Zone 98, rooms 27200-27999, last modified by Coal
+M 0 27411 1 27401   ; The Roo Hunter
+E 1 27407 65535 16   ; A Roo Gun
+G 1 27412 65535 0   ; A Roo Pouch
+P 1 1103 25 27412   ; a pipeweed bread
+P 1 1103 25 27412   ; a pipeweed bread
+P 1 1103 25 27412   ; a pipeweed bread
+P 1 1103 25 27412   ; a pipeweed bread
+P 1 3102 83 27412   ; a cup
+P 1 3102 83 27412   ; a cup
+P 1 3102 83 27412   ; a cup
+P 1 3102 83 27412   ; a cup
+M 0 27427 4 27405   ; A Eucalyptus Tree
+M 0 27427 4 27408   ; A Eucalyptus Tree
+O 0 508 65535 27408   ; The eucalyptus tree
+M 0 27417 15 27410   ; The Aborigine Warrior
+M 0 27417 15 27413   ; The Aborigine Warrior
+M 0 27417 15 27413   ; The Aborigine Warrior
+M 0 27415 1 27420   ; The Aborigine Stalker
+E 1 27404 65535 5   ; A Roo-Hide Vest
+E 1 27403 65535 7   ; Some Roo-Hide Leggings
+E 1 27402 65535 8   ; A pair of Roo-Hide Boots
+E 1 27406 65535 9   ; A pair of Roo-Hide Gloves
+E 1 27405 65535 10   ; Some Roo-Hide Sleeves
+E 1 27401 65535 13   ; A Roo-Hide Belt
+E 1 27409 65535 16   ; A Stalker's Knife
+E 1 3032 65535 17   ; a bag
+P 1 1103 25 3032   ; a pipeweed bread
+P 1 1103 25 3032   ; a pipeweed bread
+P 1 1103 25 3032   ; a pipeweed bread
+P 1 1103 25 3032   ; a pipeweed bread
+P 1 3102 83 3032   ; a cup
+P 1 3102 83 3032   ; a cup
+P 1 3102 83 3032   ; a cup
+P 1 3102 83 3032   ; a cup
+M 0 27412 12 27421   ; A Roo Youth
+M 0 27407 15 27422   ; The Roo soldier
+M 0 27412 12 27423   ; A Roo Youth
+M 0 27427 4 27424   ; A Eucalyptus Tree
+M 0 27407 15 27424   ; The Roo soldier
+M 0 27412 12 27424   ; A Roo Youth
+M 0 27412 12 27425   ; A Roo Youth
+M 0 27407 15 27426   ; The Roo soldier
+M 0 27407 15 27428   ; The Roo soldier
+M 0 27427 4 27429   ; A Eucalyptus Tree
+M 0 27412 12 27430   ; A Roo Youth
+M 0 27407 15 27430   ; The Roo soldier
+M 0 27412 12 27430   ; A Roo Youth
+M 0 27407 15 27430   ; The Roo soldier
+M 0 27407 15 27430   ; The Roo soldier
+M 0 27407 15 27432   ; The Roo soldier
+M 0 27412 12 27432   ; A Roo Youth
+M 0 27407 15 27432   ; The Roo soldier
+M 0 27425 5 27437   ; An Aborigine Woman
+M 0 27425 5 27439   ; An Aborigine Woman
+M 0 27425 5 27440   ; An Aborigine Woman
+M 0 27417 15 27440   ; The Aborigine Warrior
+M 0 27425 5 27442   ; An Aborigine Woman
+M 0 27425 5 27443   ; An Aborigine Woman
+M 0 27417 15 27444   ; The Aborigine Warrior
+M 0 27417 15 27445   ; The Aborigine Warrior
+M 0 27417 15 27445   ; The Aborigine Warrior
+M 0 27418 7 27446   ; The Aborigine Warrior
+M 0 27417 15 27446   ; The Aborigine Warrior
+M 0 27418 7 27447   ; The Aborigine Warrior
+M 0 27418 7 27447   ; The Aborigine Warrior
+M 0 27417 15 27448   ; The Aborigine Warrior
+M 0 27418 7 27449   ; The Aborigine Warrior
+M 0 27410 1 27450   ; The Roo Prisoner
+D 0 27450 1 2   ; POW Cage
+M 0 27419 1 27451   ; The Aborigine Warrior
+G 1 27416 65535 0   ; A cheap key
+D 0 27451 3 2   ; Outside the POW Cage
+M 0 27417 15 27452   ; The Aborigine Warrior
+D 0 27453 1 2   ; Outside of the Dingo Kennel
+M 0 27426 4 27454   ; A Dingo
+M 0 27426 4 27454   ; A Dingo
+M 0 27426 4 27454   ; A Dingo
+M 0 27426 4 27454   ; A Dingo
+D 0 27454 3 2   ; The Dingo Kennel
+M 0 27421 1 27455   ; The Aborigine Tanner
+E 1 27404 65535 5   ; A Roo-Hide Vest
+E 1 27403 65535 7   ; Some Roo-Hide Leggings
+E 1 27405 65535 10   ; Some Roo-Hide Sleeves
+M 0 27417 15 27456   ; The Aborigine Warrior
+M 0 27422 1 27457   ; The Aborigine Elder
+E 1 27413 65535 2   ; A Clear Glass Ring
+M 0 27417 15 27458   ; The Aborigine Warrior
+M 0 27423 3 27458   ; An Aborigine Teen
+M 0 27423 3 27458   ; An Aborigine Teen
+M 0 27423 3 27458   ; An Aborigine Teen
+M 0 27420 1 27458   ; The Aborigine Trainer
+E 1 27404 65535 5   ; A Roo-Hide Vest
+E 1 27403 65535 7   ; Some Roo-Hide Leggings
+E 1 27405 65535 10   ; Some Roo-Hide Sleeves
+M 0 27417 15 27459   ; The Aborigine Warrior
+M 0 27418 7 27459   ; The Aborigine Warrior
+M 0 27418 7 27460   ; The Aborigine Warrior
+M 0 27418 7 27460   ; The Aborigine Warrior
+D 0 27460 2 0   ; Congregation Hall
+M 0 27417 15 27461   ; The Aborigine Warrior
+M 0 27417 15 27462   ; The Aborigine Warrior
+M 0 27424 4 27464   ; An Aborigine Child
+M 0 27424 4 27464   ; An Aborigine Child
+M 0 27424 4 27464   ; An Aborigine Child
+M 0 27424 4 27464   ; An Aborigine Child
+M 0 27414 2 27465   ; A Aborigine Holy Man
+M 0 27414 2 27465   ; A Aborigine Holy Man
+D 0 27465 0 0   ; Acolyte's Chamber
+M 0 27413 1 27466   ; The Aborigine Shaman
+E 1 27404 65535 5   ; A Roo-Hide Vest
+E 1 27410 65535 6   ; The Shaman's Headdress
+M 0 27416 1 27467   ; The Aborigine Chief
+E 1 27404 65535 5   ; A Roo-Hide Vest
+E 1 27403 65535 7   ; Some Roo-Hide Leggings
+E 1 27405 65535 10   ; Some Roo-Hide Sleeves
+E 1 27401 65535 13   ; A Roo-Hide Belt
+G 1 27415 65535 0   ; A Rusted Key
+M 0 27407 15 27469   ; The Roo soldier
+M 0 27406 6 27469   ; The Roo Sentry
+M 0 27407 15 27469   ; The Roo soldier
+M 0 27409 1 27470   ; The Roo Soldier
+D 0 27470 1 2   ; Inside the Fortress
+M 0 27430 1 27471   ; The Tasmanian Devil
+G 1 122 65535 0   ; A dolls head
+D 0 27471 3 2   ; The Beast's Cage
+M 0 27406 6 27472   ; The Roo Sentry
+M 0 27408 4 27473   ; The Roo Soldier
+M 0 27408 4 27473   ; The Roo Soldier
+M 0 27407 15 27474   ; The Roo soldier
+M 0 27412 12 27474   ; A Roo Youth
+M 0 27412 12 27474   ; A Roo Youth
+M 0 27407 15 27474   ; The Roo soldier
+M 0 27406 6 27475   ; The Roo Sentry
+D 0 27476 1 2   ; Fortress Dungeon
+D 0 27476 2 2   ; Fortress Dungeon
+M 0 27406 6 27477   ; The Roo Sentry
+M 0 27412 12 27477   ; A Roo Youth
+D 0 27477 3 2   ; Fortress Hallway
+M 0 27406 6 27479   ; The Roo Sentry
+M 0 27401 1 27480   ; Captain Kanga-Roo
+M 0 27406 6 27481   ; The Roo Sentry
+M 0 27407 15 27481   ; The Roo soldier
+M 0 27407 15 27481   ; The Roo soldier
+D 0 27481 0 2   ; Kitchen
+M 0 27412 12 27482   ; A Roo Youth
+M 0 27412 12 27482   ; A Roo Youth
+M 0 27408 4 27482   ; The Roo Soldier
+M 0 27408 4 27482   ; The Roo Soldier
+M 0 27403 1 27485   ; Prince Roo-Pert
+G 1 27412 65535 0   ; A Roo Pouch
+P 1 1103 25 27412   ; a pipeweed bread
+P 1 1103 25 27412   ; a pipeweed bread
+P 1 1103 25 27412   ; a pipeweed bread
+P 1 1103 25 27412   ; a pipeweed bread
+P 1 3102 83 27412   ; a cup
+P 1 3102 83 27412   ; a cup
+P 1 3102 83 27412   ; a cup
+P 1 3102 83 27412   ; a cup
+M 0 27405 1 27485   ; The Roo Elder
+M 0 27404 1 27486   ; The Roo Queen
+G 1 27414 65535 0   ; The Ornate Key
+G 1 27411 65535 0   ; A Superior Stick
+D 0 27486 1 2   ; Queen's Chamber
+M 0 27402 1 27487   ; Prince Roo-Preckt
+D 0 27487 3 2   ; Padded Room
+M 0 27429 4 27493   ; A Crocodile
+M 0 27429 4 27493   ; A Crocodile
+M 0 27429 4 27493   ; A Crocodile
+M 0 27429 4 27493   ; A Crocodile
+M 0 27428 16 27496   ; A Koala Bear
+M 0 27428 16 27496   ; A Koala Bear
+M 0 27428 16 27496   ; A Koala Bear
+M 0 27428 16 27496   ; A Koala Bear
+M 0 27428 16 27497   ; A Koala Bear
+M 0 27428 16 27497   ; A Koala Bear
+M 0 27428 16 27497   ; A Koala Bear
+M 0 27428 16 27497   ; A Koala Bear
+M 0 27428 16 27498   ; A Koala Bear
+M 0 27428 16 27498   ; A Koala Bear
+M 0 27428 16 27498   ; A Koala Bear
+M 0 27428 16 27498   ; A Koala Bear
+M 0 27428 16 27499   ; A Koala Bear
+M 0 27428 16 27499   ; A Koala Bear
+M 0 27428 16 27499   ; A Koala Bear
+M 0 27428 16 27499   ; A Koala Bear
+S

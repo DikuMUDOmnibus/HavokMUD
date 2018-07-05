@@ -1,0 +1,17 @@
+#16031
+centipede~
+A white centipede~
+A small, white centipede scurries about,
+~
+Its just a harmless insect, but it looks hungry!
+~
+~
+~
+32  0  -100  1.0 
+ 1  20  10  4  1d3+0 
+ -1  0  1  12 
+ 8  8  0  0  0  0 
+ 0 
+~
+~
+~

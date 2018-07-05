@@ -1,0 +1,31 @@
+#21306
+Recreation Room~
+    The people of this place apparently know how to have a good time, as well
+as to drill and fight.  This rec room has a pool table, two dartboards, and a
+couple of chess and checker boards sitting on the tables.  Best of all, there
+is a bar in the back, which looks like it still has some bottles.
+~
+84 9 1
+D1
+~
+~
+0 -1 21299 -1
+E
+pool~
+There are six pockets on a long, flat table covered with a strange fuzzy
+material. It is covered by a thin layer of dust. There are no signs of any
+balls or cues.
+~
+E
+dart darts~
+You could use it as a shield if it had some kind of handle. But unfortunately,
+neither does it have a handle, nor does it look like it would survive much
+damage, as it is constructed out of a pliable material. You can't find any
+darts for it.
+~
+E
+chess checker boards board table~
+The chess and checker boards are glued right down on the tables. You notice
+there are stains on them - looks like very old beer stains.
+~
+S

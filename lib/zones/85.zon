@@ -1,0 +1,44 @@
+*Zone 85, rooms 21351-21901, last modified by Jopa
+D 0 21801 1 1   ; The Waterfall
+D 0 21802 3 1   ; Damp Tunnel
+M 0 21804 4 21808   ; The elasmosaurus
+M 0 21802 1 21809   ; The brontosaurus
+M 0 21804 4 21811   ; The elasmosaurus
+M 0 21807 1 21812   ; The plesiosaurus
+M 0 21804 4 21814   ; The elasmosaurus
+M 0 21804 4 21823   ; The elasmosaurus
+M 0 21801 3 21827   ; The allosaurus
+M 0 21801 3 21829   ; The allosaurus
+M 0 21809 1 21830   ; The triceratops
+M 0 21810 1 21836   ; Tyrannosaurus Rex
+O 0 30 65535 21836   ; A pile of scraps
+M 0 21806 2 21838   ; The paleoscincus
+M 0 21806 2 21838   ; The paleoscincus
+M 0 21808 2 21839   ; The stegosaurus
+M 0 21801 3 21841   ; The allosaurus
+G 1 10002 65535 0   ; a small dart
+M 0 21800 2 21847   ; The ankylosaurus
+D 0 21854 1 1   ; Tall Grass
+M 0 21800 2 21857   ; The ankylosaurus
+M 0 21805 6 21858   ; The iguanadon
+M 0 21805 6 21860   ; The iguanadon
+M 0 21805 6 21861   ; The iguanadon
+M 0 21805 6 21861   ; The iguanadon
+M 0 21808 2 21862   ; The stegosaurus
+M 0 21805 6 21865   ; The iguanadon
+M 0 21805 6 21865   ; The iguanadon
+D 0 21866 3 1   ; Inside a cave
+D 0 21869 5 1   ; The Den
+O 0 16 65535 21870   ; A rat-shaped medallion
+O 0 102 65535 21870   ; A fire trap
+D 0 21870 4 1   ; The Grubby Cellar
+M 0 21803 2 21884   ; The dinischtys
+M 0 21803 2 21885   ; The dinischtys
+O 0 7910 65535 21885   ; a wooden chest
+P 1 7504 1 7910   ; a beautiful red rose
+P 1 7207 1 7910   ; a pair of muddy gauntlets
+P 1 7214 1 7910   ; a chaos helmet
+P 1 24761 1 7910   ; some black curtains
+P 1 1552 1 7910   ; a waybread
+D 0 21886 4 1   ; A Strange Forest
+S

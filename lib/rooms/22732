@@ -1,0 +1,30 @@
+#22732
+A Short Hallway~
+   The hardwood floors end here.  The floor is now covered with a
+plush red carpet.  The walls are decorated with portraits of
+the original leaders of The Order.  A magical orb provides ample
+illumination.  The the east the armory can be seen, and to the
+west is a small adventurers store.
+~
+87 2168 0
+D0
+~
+~
+0 0 22735 -1
+D1
+~
+~
+0 0 22733 -1
+D2
+~
+door~
+7 22731 22731 -1
+D3
+~
+~
+0 0 22734 -1
+D4
+~
+door~
+33 22731 9940 -1
+S

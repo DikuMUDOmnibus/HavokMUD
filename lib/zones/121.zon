@@ -1,0 +1,183 @@
+*Zone 121, rooms 38900-38999, last modified by Coal
+D 0 38901 2 1   ; Stream source
+D 0 38902 0 1   ; Hidden cave
+M 0 38924 3 38903   ; A skeleton
+M 0 38924 3 38903   ; A skeleton
+M 0 38924 3 38903   ; A skeleton
+D 0 38903 0 1   ; Mayhem!
+D 0 38904 2 1   ; Overlook
+M 0 38900 16 38908   ; forest snake
+M 0 38900 16 38908   ; forest snake
+M 0 38900 16 38909   ; forest snake
+M 0 38900 16 38909   ; forest snake
+M 0 38900 16 38909   ; forest snake
+M 0 38900 16 38910   ; forest snake
+M 0 38900 16 38912   ; forest snake
+D 0 38912 0 2   ; Forest junction
+D 0 38913 2 2   ; Secret room
+M 0 38900 16 38914   ; forest snake
+M 0 38900 16 38915   ; forest snake
+M 0 38900 16 38915   ; forest snake
+M 0 38900 16 38916   ; forest snake
+M 0 38900 16 38917   ; forest snake
+M 0 38900 16 38917   ; forest snake
+D 0 38918 3 2   ; Log cabin?
+M 0 38901 1 38919   ; The huge aurum vorax
+G 1 38903 65535 0   ; A barkwood key
+D 0 38919 1 2   ; Inside the cabin
+M 0 38900 16 38920   ; forest snake
+M 0 38900 16 38921   ; forest snake
+M 0 38900 16 38922   ; forest snake
+M 0 38902 1 38923   ; The twisted treant
+G 1 38904 65535 0   ; An iron wrought key
+D 0 38923 2 2   ; Iron wrought gate
+M 0 38906 20 38924   ; Swamp spider
+M 0 38906 20 38924   ; Swamp spider
+M 0 38906 20 38924   ; Swamp spider
+D 0 38924 0 2   ; Island
+M 0 38906 20 38925   ; Swamp spider
+M 0 38906 20 38925   ; Swamp spider
+M 0 38906 20 38926   ; Swamp spider
+M 0 38906 20 38926   ; Swamp spider
+M 0 38906 20 38927   ; Swamp spider
+M 0 38906 20 38928   ; Swamp spider
+G 1 38999 65535 0   ; A silk ball
+G 1 38999 65535 0   ; A silk ball
+G 1 38999 65535 0   ; A silk ball
+M 0 38906 20 38928   ; Swamp spider
+M 0 38906 20 38929   ; Swamp spider
+M 0 38906 20 38929   ; Swamp spider
+M 0 38906 20 38931   ; Swamp spider
+M 0 38906 20 38931   ; Swamp spider
+M 0 38906 20 38932   ; Swamp spider
+M 0 38906 20 38933   ; Swamp spider
+M 0 38906 20 38934   ; Swamp spider
+M 0 38906 20 38934   ; Swamp spider
+O 0 9724 65535 38934   ; A boobie trap
+D 0 38934 4 2   ; Second story
+M 0 38906 20 38935   ; Swamp spider
+M 0 38906 20 38935   ; Swamp spider
+M 0 38905 1 38935   ; The mad hermit
+E 1 38921 65535 2   ; A silk web ring
+D 0 38935 5 2   ; Top of the treehouse
+M 0 38909 8 38939   ; An unseen servant
+M 0 38909 8 38939   ; An unseen servant
+M 0 38909 8 38939   ; An unseen servant
+M 0 38918 17 38940   ; The Rakshasa guard
+M 0 38918 17 38940   ; The Rakshasa guard
+M 0 38918 17 38940   ; The Rakshasa guard
+M 0 38918 17 38942   ; The Rakshasa guard
+M 0 38918 17 38942   ; The Rakshasa guard
+M 0 38918 17 38942   ; The Rakshasa guard
+M 0 38918 17 38942   ; The Rakshasa guard
+M 0 38925 7 38943   ; The Rakshasa elite guard
+M 0 38925 7 38943   ; The Rakshasa elite guard
+M 0 38925 7 38943   ; The Rakshasa elite guard
+M 0 38925 7 38943   ; The Rakshasa elite guard
+M 0 38909 8 38944   ; An unseen servant
+D 0 38945 2 1   ; Grand hall
+O 0 12186 65535 38947   ; a chunky of bloody meat
+D 0 38947 2 1   ; Store room
+M 0 38910 9 38948   ; The slave of the Rakshasa
+M 0 38910 9 38948   ; The slave of the Rakshasa
+M 0 38910 9 38948   ; The slave of the Rakshasa
+M 0 38910 9 38948   ; The slave of the Rakshasa
+M 0 38910 9 38948   ; The slave of the Rakshasa
+M 0 38910 9 38948   ; The slave of the Rakshasa
+M 0 38910 9 38948   ; The slave of the Rakshasa
+M 0 38910 9 38948   ; The slave of the Rakshasa
+D 0 38948 0 1   ; Slave quarters
+D 0 38948 3 1   ; Slave quarters
+M 0 38910 9 38949   ; The slave of the Rakshasa
+E 1 38935 65535 15   ; A pair of rusty shackles
+D 0 38949 2 1   ; Secret shrine
+D 0 38950 0 2   ; Master slave's chamber
+M 0 38918 17 38951   ; The Rakshasa guard
+M 0 38918 17 38951   ; The Rakshasa guard
+M 0 38918 17 38951   ; The Rakshasa guard
+M 0 38918 17 38951   ; The Rakshasa guard
+M 0 38911 1 38951   ; The Slave Master
+D 0 38951 0 2   ; Ambush!?
+M 0 38909 8 38952   ; An unseen servant
+D 0 38952 0 1   ; Long Hall
+D 0 38952 2 1   ; Long Hall
+M 0 38926 5 38953   ; The Rakshasa maiden
+G 1 38936 65535 0   ; Silk slippers
+M 0 38926 5 38953   ; The Rakshasa maiden
+M 0 38926 5 38953   ; The Rakshasa maiden
+M 0 38926 5 38953   ; The Rakshasa maiden
+M 0 38926 5 38953   ; The Rakshasa maiden
+D 0 38953 2 1   ; Harem
+D 0 38954 0 1   ; Dining Hall
+M 0 38909 8 38955   ; An unseen servant
+D 0 38955 0 1   ; Long Hall
+M 0 38918 17 38956   ; The Rakshasa guard
+M 0 38918 17 38956   ; The Rakshasa guard
+M 0 38918 17 38956   ; The Rakshasa guard
+M 0 38918 17 38956   ; The Rakshasa guard
+M 0 38918 17 38956   ; The Rakshasa guard
+M 0 38918 17 38956   ; The Rakshasa guard
+D 0 38957 2 2   ; End of the hall
+D 0 38957 3 1   ; End of the hall
+M 0 38912 1 38958   ; Sarras the Rakshasa Ruhk Captain
+G 1 38933 65535 0   ; An ebony trident
+D 0 38958 1 1   ; Sarras' chamber
+M 0 38914 1 38959   ; The Dwarven Blacksmith
+E 1 38922 65535 0   ; A dwarven figurine
+D 0 38959 2 1   ; Armory
+D 0 38960 0 2   ; Dusty hall
+D 0 38961 5 1   ; Dark hallway
+M 0 38913 1 38970   ; The Revenant
+E 1 38932 65535 3   ; A tainted bone necklace
+G 1 38917 65535 0   ; An odd silver coin
+D 0 38970 4 1   ; Tomb of the revenant
+D 0 38972 0 1   ; Hallway
+D 0 38973 1 1   ; Rakshasa temple
+D 0 38973 2 1   ; Rakshasa temple
+M 0 38919 2 38975   ; The Rakshasa Rajah Priest
+O 0 38920 65535 38975   ; The armoire
+P 1 38923 1 38920   ; A leather bound key
+D 0 38975 0 1   ; Rajah priest's chamber
+M 0 38919 2 38976   ; The Rakshasa Rajah Priest
+G 1 38907 65535 0   ; A porticulis key
+D 0 38976 1 2   ; Rajah priest's chamber
+D 0 38976 3 1   ; Rajah priest's chamber
+O 0 5305 65535 38977   ; a huge treasure
+O 0 38937 65535 38977   ; holy blood vial
+D 0 38977 3 2   ; Temple treasury
+M 0 38909 8 38978   ; An unseen servant
+D 0 38979 0 1   ; Throne room
+D 0 38979 2 1   ; Throne room
+M 0 38909 8 38981   ; An unseen servant
+M 0 38925 7 38983   ; The Rakshasa elite guard
+M 0 38925 7 38983   ; The Rakshasa elite guard
+M 0 38925 7 38983   ; The Rakshasa elite guard
+D 0 38983 0 1   ; Lavish guard room
+D 0 38983 2 1   ; Lavish guard room
+M 0 38929 1 38984   ; Karashka the Rakshasa Maharaja
+G 1 38916 65535 0   ; A black key
+G 1 38931 65535 0   ; A bloody tooth earring
+D 0 38984 0 1   ; Karashka's bedroom
+D 0 38984 1 2   ; Karashka's bedroom
+M 0 38927 1 38985   ; The tortured guard
+D 0 38985 2 1   ; Torture chamber
+D 0 38986 3 2   ; Cell
+D 0 38987 1 2   ; Cell
+M 0 38915 1 38988   ; The Prison Guard
+G 1 38908 65535 0   ; A ring of keys
+D 0 38988 0 1   ; Prison guard room
+D 0 38988 1 0   ; Prison guard room
+D 0 38988 2 1   ; Prison guard room
+D 0 38988 3 0   ; Prison guard room
+M 0 38930 1 38989   ; The Saber-Tooth Tiger
+D 0 38990 3 2   ; Black hallway
+O 0 5305 65535 38991   ; a huge treasure
+O 0 30777 65535 38991   ; A boobie trap
+D 0 38991 5 2   ; Karashka's Hoard!
+O 0 38938 65535 38992   ; An ebony earring
+O 0 38934 65535 38992   ; A pair of ebony leggings
+D 0 38992 4 2   ; Black cubicle
+D 0 38996 0 1   ; Kitchen
+D 0 38996 1 1   ; Kitchen
+D 0 38996 2 2   ; Kitchen
+S

@@ -1,0 +1,57 @@
+*Zone 108, rooms 33100-33149, last modified by Ashamael
+D 0 33101 0 1   ; North Tower Ruins.
+M 0 33109 4 33105   ; the Snow Wolf
+M 0 33109 4 33113   ; the Snow Wolf
+M 0 33109 4 33113   ; the Snow Wolf
+D 0 33113 2 2   ; Southern Bank of Lake Istaris.
+D 0 33114 1 0   ; Eastern Bank of Lake Istaris.
+D 0 33116 5 0   ; On Lake Istaris.
+M 0 33117 1 33117   ; Istaris of the Lake
+G 1 33117 65535 0   ; The Tooth of Istaris
+D 0 33117 4 0   ; Within the Icy Grip of Lake Istaris.
+M 0 33119 1 33119   ; A longdead farmer
+E 1 33119 65535 0   ; A Lantern of Shadows
+G 1 32800 65535 0   ; bone key
+M 0 33124 15 33124   ; The skeleton of a longdead knight
+M 0 33124 15 33124   ; The skeleton of a longdead knight
+M 0 33124 15 33124   ; The skeleton of a longdead knight
+M 0 33124 15 33124   ; The skeleton of a longdead knight
+M 0 33124 15 33124   ; The skeleton of a longdead knight
+M 0 33124 15 33125   ; The skeleton of a longdead knight
+M 0 33124 15 33125   ; The skeleton of a longdead knight
+M 0 33124 15 33125   ; The skeleton of a longdead knight
+M 0 33124 15 33125   ; The skeleton of a longdead knight
+M 0 33124 15 33125   ; The skeleton of a longdead knight
+M 0 33124 15 33126   ; The skeleton of a longdead knight
+M 0 33124 15 33126   ; The skeleton of a longdead knight
+M 0 33124 15 33126   ; The skeleton of a longdead knight
+M 0 33124 15 33126   ; The skeleton of a longdead knight
+M 0 33124 15 33126   ; The skeleton of a longdead knight
+D 0 33127 2 1   ; Beyond the Snow Drifts.
+M 0 33130 1 33130   ; The skeleton of a digging human
+D 0 33130 3 1   ; A Miserable Icy Ending.
+M 0 33132 1 33131   ; Ainsbrith
+E 1 33131 65535 5   ; Ainsbrith's Brigandine Armor
+E 1 33120 65535 16   ; A shortsword
+M 0 33133 2 33131   ; The Priestess of the Sept
+E 1 33120 65535 16   ; A shortsword
+M 0 33134 1 33131   ; Nathchim
+E 1 33120 65535 16   ; A shortsword
+D 0 33131 4 1   ; Den O' Thieves.
+M 0 33120 6 33132   ; The brigand
+E 1 33120 65535 16   ; A shortsword
+M 0 33120 6 33132   ; The brigand
+E 1 33120 65535 16   ; A shortsword
+M 0 33120 6 33132   ; The brigand
+E 1 33120 65535 16   ; A shortsword
+M 0 33133 2 33133   ; The Priestess of the Sept
+E 1 33133 65535 21   ; The Mask of the Sept
+D 0 33133 0 2   ; A Solitary Sept.
+M 0 33120 6 33137   ; The brigand
+E 1 33120 65535 16   ; A shortsword
+M 0 33120 6 33137   ; The brigand
+E 1 33120 65535 16   ; A shortsword
+M 0 33120 6 33137   ; The brigand
+E 1 33120 65535 16   ; A shortsword
+M 0 33109 4 33137   ; the Snow Wolf
+S

@@ -1,0 +1,239 @@
+*Zone 28, rooms 4000-4099, last modified by Ashamael
+D 0 4001 4 0   ; The hills
+M 0 4004 19 4010   ; the orc
+M 0 4003 19 4010   ; the kobold
+M 0 4005 19 4010   ; the orc
+E 1 3057 65535 17   ; a silver potion
+M 0 4005 19 4011   ; the orc
+M 0 4004 19 4011   ; the orc
+E 1 3057 65535 17   ; a silver potion
+M 0 4005 19 4012   ; the orc
+E 1 4000 65535 1   ; a yellow and green ring
+M 0 4003 19 4012   ; the kobold
+E 1 3055 65535 17   ; a white potion
+M 0 4004 19 4013   ; the orc
+M 0 4003 19 4013   ; the kobold
+E 1 3056 65535 17   ; a golden potion
+M 0 4003 19 4014   ; the kobold
+M 0 4005 19 4014   ; the orc
+E 1 3057 65535 17   ; a silver potion
+M 0 4003 19 4014   ; the kobold
+G 1 4002 65535 0   ; some coins
+M 0 4004 19 4014   ; the orc
+E 1 3057 65535 17   ; a silver potion
+M 0 4020 2 4014   ; the bugbear
+E 1 45 65535 16   ; a short sword
+G 1 4002 65535 0   ; some coins
+M 0 4003 19 4014   ; the kobold
+M 0 4005 19 4014   ; the orc
+M 0 4004 19 4015   ; the orc
+M 0 4001 10 4015   ; the green snake
+M 0 4001 10 4015   ; the green snake
+M 0 4001 10 4015   ; the green snake
+M 0 4001 10 4015   ; the green snake
+M 0 4003 19 4016   ; the kobold
+M 0 4005 19 4016   ; the orc
+E 1 3057 65535 17   ; a silver potion
+M 0 4003 19 4016   ; the kobold
+M 0 4004 19 4017   ; the orc
+M 0 4004 19 4017   ; the orc
+E 1 44 65535 16   ; a long sword
+M 0 4002 9 4017   ; the centipede
+G 1 3055 65535 0   ; a white potion
+M 0 4002 9 4017   ; the centipede
+M 0 4002 9 4017   ; the centipede
+M 0 4002 9 4017   ; the centipede
+M 0 4002 9 4017   ; the centipede
+M 0 4003 19 4018   ; the kobold
+M 0 4003 19 4018   ; the kobold
+E 1 3055 65535 17   ; a white potion
+M 0 4005 19 4018   ; the orc
+M 0 4003 19 4018   ; the kobold
+M 0 4005 19 4018   ; the orc
+M 0 4005 19 4018   ; the orc
+M 0 4005 19 4018   ; the orc
+M 0 4003 19 4018   ; the kobold
+M 0 4003 19 4018   ; the kobold
+M 0 4004 19 4018   ; the orc
+E 1 44 65535 16   ; a long sword
+M 0 4002 9 4020   ; the centipede
+M 0 4002 9 4020   ; the centipede
+M 0 4004 19 4022   ; the orc
+M 0 4005 19 4022   ; the orc
+E 1 4000 65535 1   ; a yellow and green ring
+M 0 4003 19 4022   ; the kobold
+M 0 4004 19 4023   ; the orc
+E 1 44 65535 16   ; a long sword
+M 0 4002 9 4023   ; the centipede
+M 0 4002 9 4023   ; the centipede
+M 0 4004 19 4023   ; the orc
+G 1 4002 65535 0   ; some coins
+M 0 4004 19 4023   ; the orc
+M 0 4003 19 4024   ; the kobold
+M 0 4003 19 4024   ; the kobold
+E 1 3057 65535 17   ; a silver potion
+M 0 4005 19 4024   ; the orc
+E 1 4000 65535 1   ; a yellow and green ring
+M 0 4004 19 4024   ; the orc
+M 0 4005 19 4025   ; the orc
+M 0 4005 19 4025   ; the orc
+G 1 4002 65535 0   ; some coins
+M 0 4004 19 4025   ; the orc
+M 0 4001 10 4025   ; the green snake
+M 0 4001 10 4025   ; the green snake
+M 0 4001 10 4025   ; the green snake
+M 0 4001 10 4025   ; the green snake
+M 0 4001 10 4025   ; the green snake
+M 0 4001 10 4025   ; the green snake
+M 0 4020 2 4026   ; the bugbear
+E 1 3055 65535 17   ; a white potion
+M 0 4005 19 4026   ; the orc
+M 0 4004 19 4026   ; the orc
+M 0 4004 19 4027   ; the orc
+M 0 4005 19 4027   ; the orc
+E 1 4000 65535 1   ; a yellow and green ring
+O 0 1540 65535 4027   ; a pile of coins is here
+O 0 3055 65535 4027   ; a white potion
+M 0 4004 19 4029   ; the orc
+E 1 3057 65535 17   ; a silver potion
+M 0 4004 19 4029   ; the orc
+M 0 4005 19 4029   ; the orc
+M 0 4003 19 4029   ; the kobold
+M 0 4003 19 4029   ; the kobold
+M 0 4005 19 4029   ; the orc
+E 1 3057 65535 17   ; a silver potion
+M 0 4003 19 4031   ; the kobold
+E 1 3056 65535 17   ; a golden potion
+M 0 4005 19 4031   ; the orc
+E 1 3057 65535 17   ; a silver potion
+M 0 4004 19 4031   ; the orc
+E 1 44 65535 16   ; a long sword
+M 0 4055 19 4050   ; the hobgoblin
+M 0 4056 19 4050   ; the orc
+M 0 4052 18 4050   ; the hobgoblin
+E 1 3056 65535 17   ; a golden potion
+M 0 4052 18 4050   ; the hobgoblin
+M 0 4051 6 4050   ; the warrior
+M 0 4052 18 4050   ; the hobgoblin
+E 1 3056 65535 17   ; a golden potion
+M 0 4055 19 4050   ; the hobgoblin
+M 0 4052 18 4050   ; the hobgoblin
+G 1 4002 65535 0   ; some coins
+M 0 4055 19 4050   ; the hobgoblin
+E 1 3057 65535 17   ; a silver potion
+M 0 4052 18 4050   ; the hobgoblin
+M 0 4055 19 4051   ; the hobgoblin
+M 0 4056 19 4051   ; the orc
+M 0 4056 19 4051   ; the orc
+M 0 4056 19 4051   ; the orc
+M 0 4051 6 4051   ; the warrior
+M 0 4057 6 4051   ; the bugbear
+M 0 4052 18 4051   ; the hobgoblin
+E 1 3055 65535 17   ; a white potion
+M 0 4051 6 4051   ; the warrior
+E 1 3055 65535 17   ; a white potion
+M 0 4052 18 4051   ; the hobgoblin
+E 1 3055 65535 17   ; a white potion
+M 0 4056 19 4051   ; the orc
+E 1 3057 65535 17   ; a silver potion
+M 0 4052 18 4051   ; the hobgoblin
+M 0 4055 19 4051   ; the hobgoblin
+M 0 4056 19 4052   ; the orc
+E 1 3025 65535 16   ; A battle axe
+M 0 4055 19 4052   ; the hobgoblin
+M 0 4055 19 4052   ; the hobgoblin
+M 0 4057 6 4052   ; the bugbear
+M 0 4052 18 4052   ; the hobgoblin
+G 1 4002 65535 0   ; some coins
+M 0 4055 19 4052   ; the hobgoblin
+M 0 4055 19 4052   ; the hobgoblin
+M 0 4054 9 4052   ; the centipede
+M 0 4054 9 4052   ; the centipede
+M 0 4054 9 4052   ; the centipede
+M 0 4056 19 4052   ; the orc
+M 0 4052 18 4052   ; the hobgoblin
+M 0 4052 18 4052   ; the hobgoblin
+M 0 4056 19 4052   ; the orc
+M 0 4055 19 4053   ; the hobgoblin
+M 0 4057 6 4053   ; the bugbear
+E 1 3055 65535 17   ; a white potion
+M 0 4056 19 4053   ; the orc
+E 1 3025 65535 16   ; A battle axe
+M 0 4054 9 4053   ; the centipede
+M 0 4054 9 4053   ; the centipede
+M 0 4054 9 4053   ; the centipede
+M 0 4056 19 4053   ; the orc
+M 0 4055 19 4053   ; the hobgoblin
+E 1 3055 65535 17   ; a white potion
+M 0 4055 19 4054   ; the hobgoblin
+M 0 4056 19 4054   ; the orc
+M 0 4056 19 4054   ; the orc
+M 0 4055 19 4054   ; the hobgoblin
+M 0 4055 19 4054   ; the hobgoblin
+M 0 4056 19 4054   ; the orc
+M 0 4058 2 4054   ; the ogre
+M 0 4056 19 4055   ; the orc
+M 0 4057 6 4055   ; the bugbear
+E 1 3056 65535 17   ; a golden potion
+M 0 4052 18 4055   ; the hobgoblin
+E 1 3057 65535 17   ; a silver potion
+M 0 4057 6 4056   ; the bugbear
+E 1 3056 65535 17   ; a golden potion
+M 0 4052 18 4056   ; the hobgoblin
+M 0 4055 19 4056   ; the hobgoblin
+M 0 4057 6 4056   ; the bugbear
+E 1 3055 65535 17   ; a white potion
+M 0 4052 18 4056   ; the hobgoblin
+E 1 45 65535 16   ; a short sword
+M 0 4053 9 4058   ; the snake
+M 0 4053 9 4058   ; the snake
+M 0 4053 9 4058   ; the snake
+G 1 3056 65535 0   ; a golden potion
+M 0 4053 9 4058   ; the snake
+M 0 4053 9 4058   ; the snake
+M 0 4055 19 4060   ; the hobgoblin
+M 0 4054 9 4060   ; the centipede
+M 0 4054 9 4060   ; the centipede
+G 1 3056 65535 0   ; a golden potion
+M 0 4054 9 4060   ; the centipede
+M 0 4052 18 4060   ; the hobgoblin
+M 0 4051 6 4061   ; the warrior
+E 1 3057 65535 17   ; a silver potion
+M 0 4051 6 4061   ; the warrior
+M 0 4056 19 4061   ; the orc
+M 0 4052 18 4061   ; the hobgoblin
+E 1 45 65535 16   ; a short sword
+M 0 4056 19 4061   ; the orc
+O 0 64 65535 4061   ; A huge rock
+M 0 4055 19 4062   ; the hobgoblin
+E 1 3057 65535 17   ; a silver potion
+M 0 4050 4 4062   ; the warrior
+E 1 3057 65535 17   ; a silver potion
+G 1 4002 65535 0   ; some coins
+M 0 4050 4 4062   ; the warrior
+E 1 3056 65535 17   ; a golden potion
+M 0 4050 4 4062   ; the warrior
+E 1 4051 65535 6   ; a metal helmet
+M 0 4055 19 4065   ; the hobgoblin
+E 1 3055 65535 17   ; a white potion
+M 0 4058 2 4065   ; the ogre
+M 0 4056 19 4066   ; the orc
+M 0 4056 19 4068   ; the orc
+M 0 4053 9 4068   ; the snake
+M 0 4053 9 4068   ; the snake
+G 1 3057 65535 0   ; a silver potion
+M 0 4053 9 4068   ; the snake
+M 0 4053 9 4068   ; the snake
+O 0 4052 65535 4068   ; a mushroom
+M 0 4052 18 4069   ; the hobgoblin
+M 0 4055 19 4069   ; the hobgoblin
+O 0 4052 65535 4069   ; a mushroom
+O 0 4052 65535 4070   ; a mushroom
+M 0 4056 19 4071   ; the orc
+E 1 3055 65535 17   ; a white potion
+O 0 4052 65535 4071   ; a mushroom
+M 0 4051 6 4073   ; the warrior
+G 1 4002 65535 0   ; some coins
+M 0 4052 18 4073   ; the hobgoblin
+E 1 3057 65535 17   ; a silver potion
+S

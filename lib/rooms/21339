@@ -1,0 +1,26 @@
+#21339
+Entering the Seige Camp~
+   This is very clearly the entrance to an army's war camp.  There seems to be at
+least two guards on duty here at all times.  To the north you see a tent that is used
+as the soldiers' living quarters.  The path through the camp continues to the east
+and west they both lead to campfires.  The path to the south seems to lead to a very
+large oak tree.
+~
+84 0 2
+D0
+~
+door~
+0 0 21348 0
+D1
+~
+~
+0 0 21340 -1
+D2
+~
+door~
+0 0 21338 0
+D3
+~
+~
+0 0 21341 -1
+S

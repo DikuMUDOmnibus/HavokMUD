@@ -1,0 +1,173 @@
+*Zone 16, rooms 1944-1999, last modified by Ashamael
+M 0 1952 1 1946   ; A jungle giant
+E 1 1944 65535 13   ; a loin cloth
+E 1 1953 65535 16   ; a giant wood spear
+D 0 1947 4 0   ; Base of the Pyramid
+M 0 1951 3 1948   ; A flying snake
+D 0 1948 4 0   ; On a Thick Vine
+D 0 1948 5 0   ; On a Thick Vine
+D 0 1949 4 0   ; Climbing In Vines
+D 0 1949 5 0   ; Climbing In Vines
+D 0 1950 4 0   ; Thining Vines
+D 0 1950 5 0   ; Thining Vines
+M 0 1951 3 1951   ; A flying snake
+D 0 1951 4 0   ; End of the Vine Growth
+D 0 1951 5 0   ; End of the Vine Growth
+D 0 1952 5 0   ; Near the Top of the Pyramid
+M 0 1951 3 1954   ; A flying snake
+D 0 1955 4 0   ; Twisting Snake
+M 0 1949 2 1956   ; A large snake
+D 0 1956 5 0   ; Along the Snakes Upper Body
+D 0 1959 4 0   ; Twist in the Snakes Body
+D 0 1960 5 0   ; Peek of the Great Pyramid
+D 0 1961 4 0   ; Almost There
+D 0 1962 5 0   ; Below the Maw of the Snake
+M 0 1944 9 1964   ; A plainly tattooed priest
+E 1 1945 65535 5   ; a reed breast
+E 1 1946 65535 8   ; a pair of leather sandals
+E 1 1944 65535 13   ; a loin cloth
+E 1 1947 65535 14   ; A arm bracer
+E 1 1947 65535 15   ; A arm bracer
+E 1 1948 65535 16   ; a wooden spear
+M 0 1949 2 1964   ; A large snake
+M 0 1944 9 1965   ; A plainly tattooed priest
+E 1 1945 65535 5   ; a reed breast
+E 1 1946 65535 8   ; a pair of leather sandals
+E 1 1944 65535 13   ; a loin cloth
+E 1 1947 65535 14   ; A arm bracer
+E 1 1947 65535 15   ; A arm bracer
+E 1 1948 65535 16   ; a wooden spear
+M 0 1945 8 1965   ; A fairly tattooed priest
+E 1 1949 65535 5   ; a suit of leather armor
+E 1 1946 65535 8   ; a pair of leather sandals
+E 1 1944 65535 13   ; a loin cloth
+E 1 1947 65535 14   ; A arm bracer
+E 1 1947 65535 15   ; A arm bracer
+E 1 1951 65535 16   ; a steel spear
+D 0 1965 5 0   ; Short Hallway
+D 0 1966 0 2   ; Grand Entry
+D 0 1966 4 0   ; Grand Entry
+D 0 1966 5 0   ; Grand Entry
+M 0 1945 8 1971   ; A fairly tattooed priest
+E 1 1949 65535 5   ; a suit of leather armor
+E 1 1946 65535 8   ; a pair of leather sandals
+E 1 1944 65535 13   ; a loin cloth
+E 1 1947 65535 14   ; A arm bracer
+E 1 1947 65535 15   ; A arm bracer
+E 1 1951 65535 16   ; a steel spear
+D 0 1971 3 1   ; Dark Hallway
+M 0 1944 9 1972   ; A plainly tattooed priest
+E 1 1945 65535 5   ; a reed breast
+E 1 1946 65535 8   ; a pair of leather sandals
+E 1 1944 65535 13   ; a loin cloth
+E 1 1947 65535 14   ; A arm bracer
+E 1 1947 65535 15   ; A arm bracer
+E 1 1948 65535 16   ; a wooden spear
+M 0 1945 8 1973   ; A fairly tattooed priest
+E 1 1949 65535 5   ; a suit of leather armor
+E 1 1946 65535 8   ; a pair of leather sandals
+E 1 1944 65535 13   ; a loin cloth
+E 1 1947 65535 14   ; A arm bracer
+E 1 1947 65535 15   ; A arm bracer
+E 1 1951 65535 16   ; a steel spear
+D 0 1974 0 2   ; Dark Hallway
+M 0 1944 9 1975   ; A plainly tattooed priest
+E 1 1945 65535 5   ; a reed breast
+E 1 1946 65535 8   ; a pair of leather sandals
+E 1 1944 65535 13   ; a loin cloth
+E 1 1947 65535 14   ; A arm bracer
+E 1 1947 65535 15   ; A arm bracer
+E 1 1948 65535 16   ; a wooden spear
+M 0 1945 8 1977   ; A fairly tattooed priest
+E 1 1949 65535 5   ; a suit of leather armor
+E 1 1946 65535 8   ; a pair of leather sandals
+E 1 1944 65535 13   ; a loin cloth
+E 1 1947 65535 14   ; A arm bracer
+E 1 1947 65535 15   ; A arm bracer
+E 1 1951 65535 16   ; a steel spear
+M 0 1944 9 1978   ; A plainly tattooed priest
+E 1 1945 65535 5   ; a reed breast
+E 1 1946 65535 8   ; a pair of leather sandals
+E 1 1944 65535 13   ; a loin cloth
+E 1 1947 65535 14   ; A arm bracer
+E 1 1947 65535 15   ; A arm bracer
+E 1 1948 65535 16   ; a wooden spear
+M 0 1944 9 1978   ; A plainly tattooed priest
+E 1 1945 65535 5   ; a reed breast
+E 1 1946 65535 8   ; a pair of leather sandals
+E 1 1944 65535 13   ; a loin cloth
+E 1 1947 65535 14   ; A arm bracer
+E 1 1947 65535 15   ; A arm bracer
+E 1 1948 65535 16   ; a wooden spear
+M 0 1945 8 1980   ; A fairly tattooed priest
+E 1 1949 65535 5   ; a suit of leather armor
+E 1 1946 65535 8   ; a pair of leather sandals
+E 1 1944 65535 13   ; a loin cloth
+E 1 1947 65535 14   ; A arm bracer
+E 1 1947 65535 15   ; A arm bracer
+E 1 1951 65535 16   ; a steel spear
+M 0 1948 2 1980   ; A guardian snake
+M 0 1948 2 1980   ; A guardian snake
+D 0 1980 2 1   ; Shrine Entrance
+M 0 1945 8 1981   ; A fairly tattooed priest
+E 1 1951 65535 0   ; a steel spear
+E 1 1949 65535 5   ; a suit of leather armor
+E 1 1946 65535 8   ; a pair of leather sandals
+E 1 1944 65535 13   ; a loin cloth
+E 1 1947 65535 14   ; A arm bracer
+E 1 1947 65535 15   ; A arm bracer
+M 0 1944 9 1981   ; A plainly tattooed priest
+E 1 1945 65535 5   ; a reed breast
+E 1 1946 65535 8   ; a pair of leather sandals
+E 1 1944 65535 13   ; a loin cloth
+E 1 1947 65535 14   ; A arm bracer
+E 1 1947 65535 15   ; A arm bracer
+E 1 1948 65535 16   ; a wooden spear
+M 0 1944 9 1982   ; A plainly tattooed priest
+E 1 1945 65535 5   ; a reed breast
+E 1 1946 65535 8   ; a pair of leather sandals
+E 1 1944 65535 13   ; a loin cloth
+E 1 1947 65535 14   ; A arm bracer
+E 1 1947 65535 15   ; A arm bracer
+E 1 1948 65535 16   ; a wooden spear
+M 0 1946 1 1983   ; A wildly tattooed priest
+E 1 1949 65535 5   ; a suit of leather armor
+E 1 1950 65535 6   ; a beaded headdress
+E 1 1946 65535 8   ; a pair of leather sandals
+E 1 1944 65535 13   ; a loin cloth
+E 1 1947 65535 14   ; A arm bracer
+E 1 1947 65535 15   ; A arm bracer
+E 1 1952 65535 16   ; a great hammer
+M 0 1947 1 1983   ; A humanoid snake
+E 1 1961 65535 17   ; a black key
+O 0 1960 65535 1983   ; a evil altar
+P 1 1959 1 1960   ; a plain wood staff
+P 1 1956 1 1960   ; a silver helm
+P 1 1955 1 1960   ; a silver shield
+P 1 1957 1 1960   ; a small silver wand
+P 1 1954 1 1960   ; a silver spear
+P 1 1958 1 1960   ; a dark wool cloak
+M 0 1945 8 1984   ; A fairly tattooed priest
+E 1 1949 65535 5   ; a suit of leather armor
+E 1 1946 65535 8   ; a pair of leather sandals
+E 1 1944 65535 13   ; a loin cloth
+E 1 1947 65535 14   ; A arm bracer
+E 1 1947 65535 15   ; A arm bracer
+E 1 1951 65535 16   ; a steel spear
+M 0 1944 9 1984   ; A plainly tattooed priest
+E 1 1945 65535 5   ; a reed breast
+E 1 1946 65535 8   ; a pair of leather sandals
+E 1 1944 65535 13   ; a loin cloth
+E 1 1947 65535 14   ; A arm bracer
+E 1 1947 65535 15   ; A arm bracer
+E 1 1948 65535 16   ; a wooden spear
+M 0 1945 8 1987   ; A fairly tattooed priest
+E 1 1949 65535 5   ; a suit of leather armor
+E 1 1946 65535 8   ; a pair of leather sandals
+E 1 1944 65535 13   ; a loin cloth
+E 1 1947 65535 14   ; A arm bracer
+E 1 1947 65535 15   ; A arm bracer
+E 1 1951 65535 16   ; a steel spear
+D 0 1988 2 2   ; Priest's Room
+D 0 1989 1 1   ; Common Priest's Rooms
+S

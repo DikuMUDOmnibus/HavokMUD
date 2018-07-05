@@ -1,0 +1,17 @@
+#248
+snake twoheaded~
+A two-headed snake~
+A snake slithers about here.. It has a head at either end!
+~
+It must move about by gripping one head with the other!
+~
+~
+~
+165  0  0  2.0 
+ 6  16  3  24  1d3+0 
+ -1  20  3  22 
+ 8  8  0  0  2  0 
+ 0 
+~
+~
+~

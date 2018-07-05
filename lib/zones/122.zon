@@ -1,0 +1,23 @@
+*Zone 122, rooms 39000-39099, last modified by Tunx
+D 0 39001 5 0   ; Inside The Temple
+D 0 39003 5 2
+D 0 39004 1 1   ; Air Elemental's Lair
+D 0 39004 5 2   ; Air Elemental's Lair
+D 0 39006 1 1   ; The End of the Grand Hallway
+D 0 39006 3 1   ; The End of the Grand Hallway
+D 0 39007 1 1   ; Water Elemental's Lair
+D 0 39007 5 2   ; Water Elemental's Lair
+D 0 39008 3 1   ; Earth Elemental's Lair
+D 0 39008 5 2   ; Earth Elemental's Lair
+D 0 39022 5 1   ; Dead End
+D 0 39023 4 1   ; Den of the Searing Dragon
+D 0 39027 1 2   ; End of the Hallway
+D 0 39028 1 2   ; Flaming Hallway
+D 0 39028 3 2   ; Flaming Hallway
+D 0 39029 3 2   ; Lair of the Fiery Dragon Lord
+D 0 39035 4 1   ; Bottom of the Underground Cavern
+D 0 39051 5 1   ; Air Pocket
+D 0 39061 4 0   ; Treasure Room
+D 0 39072 3 0   ; Western Side Of The Bottom Floor
+D 0 39099 5 0   ; The Throne of Tunx
+S

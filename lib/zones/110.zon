@@ -1,0 +1,194 @@
+*Zone 110, rooms 37200-37299, last modified by Coal
+M 0 37206 5 37203   ; a sneaky guard
+E 1 37212 65535 16   ; a dagger
+M 0 37204 6 37203   ; a well-built guard
+E 1 37210 65535 16   ; a long sword
+M 0 37204 6 37203   ; a well-built guard
+E 1 37210 65535 16   ; a long sword
+M 0 37229 1 37204   ; a stray dog
+M 0 37205 5 37205   ; a half-giant guard
+E 1 37211 65535 16   ; a two-handed sword
+M 0 37205 5 37205   ; a half-giant guard
+E 1 37211 65535 16   ; a two-handed sword
+M 0 37205 5 37205   ; a half-giant guard
+E 1 37211 65535 16   ; a two-handed sword
+D 0 37210 1 1   ; Inside the wall
+M 0 37204 6 37211   ; a well-built guard
+E 1 37210 65535 16   ; a long sword
+D 0 37211 1 1   ; Under the portico
+D 0 37211 3 1   ; Under the portico
+D 0 37212 3 1   ; Inside the wall
+M 0 37205 5 37215   ; a half-giant guard
+E 1 37211 65535 16   ; a two-handed sword
+M 0 37205 5 37215   ; a half-giant guard
+E 1 37211 65535 16   ; a two-handed sword
+M 0 37210 6 37223   ; a spectre
+M 0 37212 2 37225   ; a giant skeleton
+M 0 37212 2 37225   ; a giant skeleton
+D 0 37225 0 2   ; Northern end of the compound
+M 0 37210 6 37226   ; a spectre
+M 0 37206 5 37230   ; a sneaky guard
+E 1 37212 65535 16   ; a dagger
+M 0 37211 1 37230   ; the war mammoth
+E 1 37222 65535 17   ; a bit of wool
+G 1 37221 65535 0   ; an enchanted tusk
+D 0 37230 2 2   ; Southern end of the Sanctuary
+D 0 37234 1 1   ; Broom closet
+D 0 37235 3 1   ; Western end of the Sanctuary
+D 0 37237 1 1   ; Eastern end of the Sanctuary
+D 0 37238 3 1   ; Coat closet
+M 0 37210 6 37239   ; a spectre
+M 0 37206 5 37240   ; a sneaky guard
+E 1 37212 65535 16   ; a dagger
+D 0 37242 5 1   ; The Altar
+M 0 37210 6 37245   ; a spectre
+M 0 37202 1 37247   ; Leri
+E 1 37205 65535 5   ; a chain mail jerkin
+E 1 37206 65535 16   ; Void
+M 0 37210 6 37250   ; a spectre
+G 1 37250 65535 0   ; the Sanctuary key
+D 0 37250 1 1   ; Inside the wall
+O 0 37211 65535 37251   ; a two-handed sword
+O 0 37232 65535 37251   ; a soft cloth
+D 0 37251 0 1   ; Inside the wall
+D 0 37251 1 1   ; Inside the wall
+D 0 37251 3 1   ; Inside the wall
+M 0 37230 2 37252   ; a spectre
+G 1 37220 65535 0   ; some dark rags
+M 0 37230 2 37252   ; a spectre
+D 0 37252 1 1   ; Inside the wall
+D 0 37252 3 1   ; Inside the wall
+O 0 37232 65535 37253   ; a soft cloth
+O 0 37212 65535 37253   ; a dagger
+O 0 37210 65535 37253   ; a long sword
+O 0 37211 65535 37253   ; a two-handed sword
+D 0 37253 1 1   ; Inside the wall
+D 0 37253 3 1   ; Inside the wall
+M 0 37210 6 37254   ; a spectre
+D 0 37254 3 1   ; Inside the wall
+M 0 37208 1 37255   ; Ministraal
+E 1 37216 65535 3   ; a black medallion
+E 1 37215 65535 17   ; a fiery wand
+E 1 37217 65535 20   ; a black earring
+D 0 37256 0 1   ; Xiorana's bedroom
+M 0 37209 1 37257   ; Joshua von Richten
+E 1 37219 65535 2   ; a ring of regeneration
+E 1 37218 65535 17   ; a luminescent potion
+D 0 37257 1 1   ; Guest bedroom
+D 0 37258 1 1   ; Under the altar
+D 0 37258 2 1   ; Under the altar
+D 0 37258 3 1   ; Under the altar
+D 0 37258 4 1   ; Under the altar
+M 0 37207 1 37259   ; Dherguth
+E 1 37213 65535 5   ; some tarnished plate mail
+E 1 37214 65535 12   ; the Robe of the Undead
+D 0 37259 3 1   ; Guest bedroom
+M 0 37206 5 37269   ; a sneaky guard
+E 1 37212 65535 16   ; a dagger
+M 0 37204 6 37272   ; a well-built guard
+E 1 37210 65535 16   ; a long sword
+M 0 37204 6 37272   ; a well-built guard
+E 1 37210 65535 16   ; a long sword
+M 0 37204 6 37273   ; a well-built guard
+E 1 37210 65535 16   ; a long sword
+M 0 37206 5 37273   ; a sneaky guard
+E 1 37212 65535 16   ; a dagger
+D 0 37274 3 1   ; Dirt road
+M 0 37213 5 37276   ; a young halfling
+M 0 37213 5 37276   ; a young halfling
+D 0 37276 0 0   ; A small house
+D 0 37277 0 0   ; Dirt path through a village
+D 0 37277 1 1   ; Dirt path through a village
+D 0 37277 2 0   ; Dirt path through a village
+M 0 37217 2 37278   ; a halfling merchant
+D 0 37278 0 1   ; A merchant's house
+D 0 37278 2 0   ; A merchant's house
+M 0 37201 1 37279   ; Xiorana
+E 1 37203 65535 6   ; the Helm of the Athenian
+E 1 37204 65535 16   ; the Staff of the Athenian
+D 0 37279 2 1   ; A merchant's storeroom
+M 0 37213 5 37280   ; a young halfling
+M 0 37214 6 37280   ; a halfling guard
+E 1 37223 65535 16   ; a short sword
+M 0 37216 1 37280   ; a halfling farmer
+E 1 37224 65535 16   ; a short hoe
+D 0 37280 0 0   ; A farmer's house
+M 0 37214 6 37281   ; a halfling guard
+E 1 37223 65535 16   ; a short sword
+M 0 37214 6 37281   ; a halfling guard
+E 1 37223 65535 16   ; a short sword
+D 0 37281 0 0   ; Dirt path through a village
+D 0 37281 2 0   ; Dirt path through a village
+M 0 37217 2 37282   ; a halfling merchant
+G 1 37225 65535 0   ; a black leather pouch
+D 0 37282 2 0   ; A merchant's house
+M 0 37222 1 37283   ; the chief's wife
+G 1 37230 65535 0   ; a hair comb
+D 0 37283 3 0   ; Chief's cottage
+M 0 37215 5 37284   ; a sneaky halfling
+E 1 37212 65535 16   ; a dagger
+M 0 37215 5 37284   ; a sneaky halfling
+E 1 37212 65535 16   ; a dagger
+D 0 37284 0 0   ; A warehouse
+M 0 37215 5 37285   ; a sneaky halfling
+E 1 37212 65535 16   ; a dagger
+M 0 37214 6 37285   ; a halfling guard
+E 1 37223 65535 16   ; a short sword
+M 0 37215 5 37285   ; a sneaky halfling
+E 1 37212 65535 16   ; a dagger
+M 0 37214 6 37285   ; a halfling guard
+E 1 37223 65535 16   ; a short sword
+M 0 37213 5 37285   ; a young halfling
+M 0 37213 5 37285   ; a young halfling
+D 0 37285 1 0   ; Dirt path through a village
+D 0 37285 2 0   ; Dirt path through a village
+M 0 37215 5 37286   ; a sneaky halfling
+E 1 37212 65535 16   ; a dagger
+D 0 37286 0 0   ; Dirt path through a village
+M 0 37218 1 37287   ; the thief elder
+E 1 37226 65535 16   ; a shiny short sword
+M 0 37219 1 37287   ; the mage elder
+E 1 37227 65535 16   ; a crooked staff
+M 0 37220 1 37287   ; the priestess elder
+E 1 37228 65535 3   ; an owl medallion
+M 0 37221 1 37287   ; the halfling chief
+E 1 37229 65535 2   ; a mithril ring
+G 1 37251 65535 0   ; a key shaped from wood
+D 0 37287 2 0   ; Meeting lodge
+D 0 37288 0 0   ; A warehouse
+D 0 37289 2 0   ; Dirt path through a village
+D 0 37289 3 0   ; Dirt path through a village
+M 0 37224 4 37291   ; a wall polisher
+E 1 37232 65535 17   ; a soft cloth
+M 0 37224 4 37292   ; a wall polisher
+E 1 37232 65535 17   ; a soft cloth
+D 0 37292 1 1   ; A gold-lined cave
+M 0 37224 4 37293   ; a wall polisher
+E 1 37232 65535 17   ; a soft cloth
+M 0 37224 4 37293   ; a wall polisher
+E 1 37232 65535 17   ; a soft cloth
+M 0 37203 1 37293   ; Iceberg
+G 1 37236 65535 0   ; a sword handle made of mithril
+G 1 37207 65535 0   ; a mithril scroll
+G 1 37208 65535 0   ; a mace of disruption
+G 1 37209 65535 0   ; some silver dragon armor
+M 0 37223 2 37293   ; a scale shiner
+E 1 37231 65535 17   ; a coarse rag
+M 0 37223 2 37293   ; a scale shiner
+M 0 37226 2 37293   ; a treasure counter
+M 0 37226 2 37293   ; a treasure counter
+E 1 37234 65535 17   ; an abacus
+M 0 37225 2 37293   ; a dragon feeder
+G 1 37233 65535 0   ; a roasted goat
+M 0 37225 2 37293   ; a dragon feeder
+G 1 37233 65535 0   ; a roasted goat
+D 0 37294 3 1   ; Rough-hewn stairs
+M 0 37214 6 37295   ; a halfling guard
+E 1 37223 65535 16   ; a short sword
+D 0 37295 1 0   ; An equipment shed
+M 0 37227 3 37297   ; a spirit of a priest
+M 0 37227 3 37298   ; a spirit of a priest
+M 0 37228 1 37298   ; the spirit of the high priest
+G 1 37235 65535 0   ; a stark white robe
+M 0 37227 3 37299   ; a spirit of a priest
+S

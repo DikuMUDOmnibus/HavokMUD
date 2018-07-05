@@ -1,0 +1,37 @@
+#21331
+Officer's Mess~
+    This room served as the dining chamber of the commanders of this place,
+and whatever guests they happened to be entertaining. There are four tables
+in this mid-sized room, each successively a bit nicer than the one before,
+going clockwise from the northeastern most table. There are no settings on
+any of them now. There is a doorway to the north, with only swinging doors
+separating this room from the kitchen that you can just make out in that
+direction. You can also exit to the hallway eastwards.
+~
+84 9 1
+D0
+~
+swinging~
+0 -1 21330 -1
+D1
+~
+~
+0 -1 21326 -1
+E
+1.table northeast~
+The northeast table made of sturdy pine. Surrounded by like chairs.
+~
+E
+2.table southeast~
+The table in the southeast corner is made of birch, as are the chairs.
+~
+E
+3.table southwest~
+An oaken table and chair set sit in the southwest end of the chamber. Very
+nice but too heavy to take anywhere.
+~
+E
+4.table northwest~
+In the northwest corner there is a table made of mahogany.
+~
+S

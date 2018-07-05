@@ -1,0 +1,21 @@
+#2730
+color pool~
+A color pool~
+A dusty green color pool can be seen as you approach.
+~
+    From this height, you can see the Eucalyptus Forest around you as
+well as the Aborigine Stronghold to the distant South-West, the Roo Fortress
+to the South, and the Eucalyptus River flowing between them towards a Lake.
+    It looks like you can make it down the steep Western and Northern 
+side from the top but not back up from the bottom.
+~
+~
+~
+2115  2048  0  1.0 
+ 1  0  10  2  1d1+1 
+ -1  0  1  48 
+ 8  8  0  0  0  0 
+ 0 
+~
+~
+~

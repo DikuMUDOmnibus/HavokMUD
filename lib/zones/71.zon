@@ -1,0 +1,97 @@
+*Zone 71, rooms 16100-16199, last modified by Jopa
+D 0 16100 0 1   ; Southern Entrance to the Gypsy Village
+M 0 16101 12 16101   ; The Gypsy Guard
+E 1 16101 65535 16   ; a long, curved sabre
+M 0 16101 12 16101   ; The Gypsy Guard
+E 1 16101 65535 16   ; a long, curved sabre
+D 0 16101 2 1   ; Gypsy Trail
+M 0 16101 12 16103   ; The Gypsy Guard
+E 1 16101 65535 16   ; a long, curved sabre
+M 0 16104 2 16104   ; The Gypsy Child
+E 1 119 65535 16   ; A pen knife
+M 0 16104 2 16104   ; The Gypsy Child
+M 0 16106 3 16104   ; An Ugly Dog
+M 0 16100 2 16104   ; Abdul
+M 0 16100 2 16104   ; Abdul
+M 0 16101 12 16104   ; The Gypsy Guard
+E 1 16101 65535 16   ; a long, curved sabre
+M 0 16101 12 16105   ; The Gypsy Guard
+E 1 16101 65535 16   ; a long, curved sabre
+M 0 16103 2 16106   ; The Drunken Gypsy
+M 0 16101 12 16106   ; The Gypsy Guard
+E 1 16101 65535 16   ; a long, curved sabre
+M 0 16106 3 16106   ; An Ugly Dog
+M 0 16103 2 16106   ; The Drunken Gypsy
+M 0 16102 2 16106   ; The Gypsy Merchant
+M 0 16101 12 16107   ; The Gypsy Guard
+E 1 16101 65535 16   ; a long, curved sabre
+D 0 16107 0 0   ; Gypsy Trail
+M 0 16101 12 16108   ; The Gypsy Guard
+E 1 16101 65535 16   ; a long, curved sabre
+D 0 16108 2 0   ; Northern Entrance to Gypsy Village
+M 0 16115 1 16109   ; The Gypsy Shopkeeper
+G 1 3636 65535 0   ; a backpack
+G 1 3635 65535 0   ; an oil lamp
+G 1 429 65535 0   ; Bag of many pockets
+M 0 16107 1 16110   ; The Gypsy Warlord
+E 1 16103 65535 3   ; a gypsy medallion
+M 0 16111 1 16111   ; The Warrior CaravanMaster
+M 0 16116 1 16112   ; The Gypsy Weaponsmith
+G 1 16101 65535 0   ; a long, curved sabre
+G 1 3022 65535 0   ; a long sword
+G 1 3613 65535 0   ; a scimitar
+G 1 3614 65535 0   ; a rapier
+G 1 3615 65535 0   ; a suit of banded mail
+M 0 16117 1 16113   ; The Gypsy Armorer
+G 1 3070 65535 0   ; a pair of bronze gauntlets
+G 1 3622 65535 0   ; a buckler
+G 1 3618 65535 0   ; a suit of ringmail
+G 1 3631 65535 0   ; a pair of studded leather pants
+G 1 3047 65535 0   ; An elven chain shirt
+G 1 3085 65535 0   ; a pair of bronze sleeves
+M 0 16118 1 16114   ; The Gypsy Alchemist
+G 1 3057 65535 0   ; a silver potion
+G 1 3055 65535 0   ; a white potion
+G 1 3051 65535 0   ; a yellow potion of see invisible
+G 1 17017 65535 0   ; a potion of protection from evil
+M 0 16108 1 16115   ; The Gypsy Wizard
+E 1 16102 65535 6   ; a glowing red turban
+M 0 16112 1 16116   ; The Mage CaravanMaster
+M 0 16109 1 16117   ; The Gypsy Assassin
+E 1 16100 65535 17   ; a pair of dice
+M 0 16113 1 16118   ; The Thief CaravanMaster
+M 0 16102 2 16119   ; The Gypsy Merchant
+M 0 16101 12 16119   ; The Gypsy Guard
+E 1 16101 65535 16   ; a long, curved sabre
+M 0 16101 12 16119   ; The Gypsy Guard
+E 1 16101 65535 16   ; a long, curved sabre
+M 0 16106 3 16119   ; An Ugly Dog
+M 0 16119 1 16119   ; The Gypsy Bartender
+G 1 3668 65535 0   ; a glass of wine
+G 1 3002 65535 0   ; a bottle
+D 0 16119 5 1   ; The Gypsy Tavern
+M 0 16120 1 16121   ; The Gypsy Marketmaster
+G 1 3050 65535 0   ; a scroll of identify
+G 1 3050 65535 0   ; a scroll of identify
+D 0 16121 4 1   ; The Black Market
+M 0 16105 1 16122   ; The Palmreader
+M 0 16101 12 16123   ; The Gypsy Guard
+E 1 16101 65535 16   ; a long, curved sabre
+M 0 16101 12 16123   ; The Gypsy Guard
+E 1 16101 65535 16   ; a long, curved sabre
+M 0 16121 1 16123   ; The Gypsy Innkeeper
+G 1 3640 65535 0   ; a hunk of cheese
+G 1 3642 65535 0   ; some dry rations
+G 1 3643 65535 0   ; some iron rations
+M 0 16122 1 16124   ; The Gypsy Receptionist
+M 0 16110 1 16126   ; The Gypsy Paladin
+M 0 16114 1 16127   ; The Priest CaravanMaster
+M 0 16124 6 16129   ; A pile of vines
+M 0 16124 6 16132   ; A pile of vines
+M 0 16123 1 16136   ; The Swamp Thing
+E 1 21012 65535 17   ; an opal potion
+M 0 16124 6 16137   ; A pile of vines
+M 0 16124 6 16142   ; A pile of vines
+M 0 16124 6 16143   ; A pile of vines
+M 0 16124 6 16143   ; A pile of vines
+S

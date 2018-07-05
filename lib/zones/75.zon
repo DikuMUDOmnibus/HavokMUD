@@ -1,0 +1,87 @@
+*Zone 75, rooms 17000-17200, last modified by Coal
+D 0 17012 0 1   ; The end of a steamy cave
+M 0 17000 1 17014   ; The black pudding
+G 1 17021 65535 0   ; a Jello pudding pop
+D 0 17014 2 1   ; Top of a stairwell
+D 0 17024 0 1   ; A north-south corridor
+M 0 17004 1 17028   ; The gynosphinx
+G 1 17022 65535 0   ; an ivory scroll
+M 0 17001 1 17028   ; The invisible stalker
+G 1 296 65535 0   ; a Bag of Holding
+D 0 17028 2 1   ; A four-way intersection
+M 0 17010 7 17042   ; The green slime
+M 0 17003 2 17042   ; The bugbear
+D 0 17045 2 0   ; A north-south hallway
+M 0 17003 2 17046   ; The bugbear
+D 0 17048 0 2   ; A well lit room
+D 0 17048 1 0   ; A well lit room
+D 0 17048 2 1   ; A well lit room
+D 0 17048 3 1   ; A well lit room
+D 0 17048 4 0   ; A well lit room
+D 0 17048 5 0   ; A well lit room
+M 0 17005 3 17049   ; The shadow
+M 0 17005 3 17049   ; The shadow
+G 1 17003 65535 0   ; a jade key
+D 0 17049 3 0   ; The closet
+O 0 17023 65535 17050   ; a scroll of charm person
+O 0 17003 65535 17050   ; a jade key
+D 0 17050 0 1   ; The 2.closet
+M 0 17006 1 17051   ; The air elemental
+G 1 17003 65535 0   ; a jade key
+G 1 17007 65535 0   ; an expensive necklace
+D 0 17051 1 1   ; The 3.closet
+O 0 17003 65535 17052   ; a jade key
+O 0 17008 65535 17052   ; a blue potion
+D 0 17052 5 0   ; The 4.closet
+M 0 17005 3 17053   ; The shadow
+O 0 17002 65535 17053   ; a jade key
+O 0 17003 65535 17053   ; a jade key
+D 0 17053 4 0   ; The 5.closet
+M 0 17020 1 17054   ; The flesh golem
+M 0 17021 1 17054   ; The flesh golem
+M 0 17022 1 17054   ; The flesh golem
+M 0 17023 1 17054   ; The flesh golem
+M 0 17024 1 17054   ; The flesh golem
+D 0 17054 0 0   ; A well lit room
+D 0 17056 2 0   ; Stairs
+M 0 17009 2 17066   ; A geyser spouts below you
+M 0 17009 2 17070   ; A geyser spouts below you
+D 0 17074 3 0   ; An east-west passageway
+M 0 17011 1 17076   ; The Vampire Amelia
+G 1 17009 65535 0   ; a scroll of dispel magic
+G 1 17011 65535 0   ; an unholy symbol
+G 1 17011 65535 0   ; an unholy symbol
+D 0 17076 3 0   ; Lair of the vampire
+D 0 17080 0 1   ; Top of stairs
+M 0 17012 1 17082   ; The giant crab
+D 0 17082 0 1   ; A huge bubble
+D 0 17082 2 1   ; A huge bubble
+D 0 17084 2 1   ; Hall of Poseidon
+M 0 17013 1 17086   ; The mimic
+G 1 17001 65535 0   ; a sapphire bracelet
+G 1 17012 65535 0   ; a storm giant's bolt
+G 1 17013 65535 0   ; Wave
+M 0 17002 1 17088   ; The wight
+G 1 17009 65535 0   ; a scroll of dispel magic
+M 0 17014 6 17092   ; The ghoul
+M 0 17014 6 17092   ; The ghoul
+M 0 17014 6 17092   ; The ghoul
+M 0 17014 6 17092   ; The ghoul
+M 0 17014 6 17092   ; The ghoul
+M 0 17014 6 17092   ; The ghoul
+G 1 17004 65535 0   ; a scroll of charm person
+G 1 17010 65535 0   ; a scroll of sanctuary
+G 1 17016 65535 0   ; a potion of sense life
+D 0 17096 2 0   ; A bend in the passage
+D 0 17098 0 0   ; Top of Huge stairs
+M 0 17015 1 17100   ; The giant crayfish
+M 0 17016 1 17104   ; The sea lion
+D 0 17106 5 1   ; Bottom step
+M 0 17017 1 17108   ; A chubby hobbit
+G 1 17017 65535 0   ; a potion of protection from evil
+G 1 17018 65535 0   ; a suit of full plate
+G 1 17015 65535 0   ; a gold bracelet
+G 1 17015 65535 0   ; a gold bracelet
+G 1 17014 65535 0   ; Blackrazor
+D 0 17108 4 1   ; A warm, dry cave
+S

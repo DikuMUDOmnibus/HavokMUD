@@ -1,0 +1,18 @@
+*Zone 92, rooms 24791-24799, last modified by Coal
+D 0 24791 4 1   ; Below the backroom
+M 0 24780 2 24794   ; The wight
+M 0 24780 2 24795   ; The wight
+M 0 24781 1 24795   ; Black Curtiss
+E 1 24761 65535 5   ; some black curtains
+M 0 24784 1 24795   ; Dr. Pepper
+G 1 24774 65535 0   ; a spice cabinet
+P 1 24775 1 24774   ; a flask of prune juice
+M 0 24779 2 24796   ; A corpse
+M 0 24779 2 24797   ; A corpse
+M 0 24777 1 24798   ; A salty corpse
+E 1 24771 65535 11   ; a shield fashioned of human skin
+M 0 24783 1 24798   ; The Salter
+E 1 24772 65535 7   ; a rotting pair of pants
+M 0 24778 1 24799   ; A pepped up corpse
+E 1 24771 65535 11   ; a shield fashioned of human skin
+S

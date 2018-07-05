@@ -1,0 +1,24 @@
+#21299
+Hallway~
+    You are in a dark north-south hallway in the mountain defense station.  The
+walls are smooth, cut from the solid rock here deep inside the mountain.  The
+hallway continues to the south as far as your light will show you, to the north
+it looks like it bends to the east. There is an opening in the west wall here, 
+through which you just make out what might be a rec room.  There are more openings
+further north along the corridor, but your light can't penetrate the inky darkness
+from here.
+~
+84 9 1
+D0
+~
+~
+0 -1 21298 -1
+D2
+~
+~
+0 -1 21300 -1
+D3
+~
+~
+0 -1 21306 -1
+S

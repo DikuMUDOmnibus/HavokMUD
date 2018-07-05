@@ -1,0 +1,20 @@
+#21281
+Armory~
+    This room once served as a repository for weapons and armor for the people
+that occupied this outpost.  Though this room has been ransacked, you can still
+make out a fair number of weapons of various kinds hanging on the three weapons
+racks that occupy the north, south, and east walls.  There are a couple of stands
+in the center of the room that look like they were designed to hold armor, but
+little of the armor has been left behind.  There is an exit to the west.
+~
+84 9 1
+D3
+~
+~
+0 -1 21288 -1
+E
+stands~
+They are metallic frames upon which armor could be hung. They are firmly bolted
+into the stone floor. No armor hangs on them now.
+~
+S

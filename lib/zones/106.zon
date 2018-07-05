@@ -1,0 +1,15 @@
+*Zone 106, rooms 33000-33049, last modified by Ashamael
+M 0 33011 1 33011   ; a River Snake
+M 0 33020 1 33020   ; The ArchDruid of Ice
+E 1 33020 65535 6   ; The ArchDruids Hood
+M 0 33033 4 33027   ; A Grizzly Bear
+O 0 1102 65535 33028   ; a sign
+M 0 33029 1 33029   ; A Wounded Giant
+G 1 33039 65535 0   ; a capped potion
+M 0 33033 4 33030   ; A Grizzly Bear
+M 0 33033 4 33033   ; A Grizzly Bear
+M 0 33037 1 33037   ; A Grizzled Ranger
+E 1 33037 65535 3   ; a Forest Cape
+M 0 33033 4 33037   ; A Grizzly Bear
+M 0 33038 1 33038   ; Argonath the Ranger Guildmaster
+S

@@ -1,0 +1,22 @@
+#21315
+Large Cell~
+    This is a large cell, surrounded by granite walls that look quite solid.  It
+is quite chilly here, as the stone walls seem to radiate a coldness. A few
+tapestries have been added to help fight off the chill. The cell has a bed made
+of heavy oak bolted to the south wall and floor, and a very small hole in the
+southwest corner for waste disposal. There is a curtain hung to the north to
+give the occupants an illusion of privacy.
+~
+84 169 0
+D0
+~
+curtain
+~
+3 0 21314 374
+E
+hole~
+It is too dark to see very far into it, but you think you hear the faintest
+trace of rushing water far below. There is no odor belying its function,
+though its presence and position in the cell make that clear.
+~
+S

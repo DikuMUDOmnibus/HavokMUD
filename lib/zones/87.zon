@@ -1,0 +1,17 @@
+*Zone 87, rooms 22731-22745, last modified by Gordon
+D 0 22731 0 2   ; Entrance Hall
+D 0 22732 2 2   ; A Short Hallway
+M 0 22732 1 22736   ; Tanjori
+M 0 22731 1 22737   ; Aaron
+O 0 22731 65535 22737   ; Key of Order
+M 0 22733 1 22738   ; Delaney
+O 0 22730 65535 22739   ; The message board of The Order
+D 0 22739 0 1   ; Meeting Room
+D 0 22740 0 0   ; Portal Room
+D 0 22740 1 0   ; Portal Room
+D 0 22740 2 1   ; Portal Room
+D 0 22740 3 0   ; Portal Room
+D 0 22740 5 0   ; Portal Room
+O 0 22731 65535 22743   ; Key of Order
+O 0 22731 65535 22745   ; Key of Order
+S

@@ -1,0 +1,54 @@
+*Zone 65, rooms 13799-13850, last modified by Coal
+M 0 13802 1 13802   ; A rabid dog
+M 0 13806 1 13806   ; A witch
+E 1 13806 65535 17   ; staff
+M 0 13812 3 13812   ; A cyclops
+M 0 13813 1 13813   ; The Cyclops King
+E 1 13813 65535 13   ; A Shiny Belt
+M 0 13812 3 13813   ; A cyclops
+M 0 13812 3 13813   ; A cyclops
+M 0 13816 3 13816   ; A serpent
+M 0 13816 3 13816   ; A serpent
+M 0 13816 3 13816   ; A serpent
+M 0 13819 2 13819   ; A mermaid
+M 0 13819 2 13819   ; A mermaid
+M 0 13821 3 13821   ; A gorgon
+M 0 13821 3 13823   ; A gorgon
+M 0 13821 3 13823   ; A gorgon
+M 0 13826 1 13826   ; A Golem
+E 1 13826 65535 17   ; key
+D 0 13826 1 2   ; Hidden Grove
+O 0 13827 65535 13827   ; The Golden Fleece
+D 0 13827 3 2   ; Peaceful Grove
+M 0 13834 2 13834   ; A harpy
+M 0 13834 2 13834   ; A harpy
+M 0 13837 12 13837   ; A pirate
+M 0 13837 12 13837   ; A pirate
+M 0 13837 12 13838   ; A pirate
+M 0 13837 12 13838   ; A pirate
+M 0 13837 12 13838   ; A pirate
+M 0 13837 12 13838   ; A pirate
+M 0 13837 12 13839   ; A pirate
+M 0 13837 12 13839   ; A pirate
+M 0 13840 1 13840   ; Medusa
+E 1 13840 65535 6   ; A crown
+M 0 13841 2 13841   ; A pirate corporal
+M 0 13841 2 13841   ; A pirate corporal
+E 1 13841 65535 16   ; A sabre
+M 0 13837 12 13842   ; A pirate
+M 0 13837 12 13842   ; A pirate
+D 0 13842 0 0   ; Inner Chamber
+D 0 13842 2 0   ; Inner Chamber
+D 0 13842 3 1   ; Inner Chamber
+M 0 13843 1 13843   ; An elf
+D 0 13843 0 0   ; Leaders Quarters
+D 0 13844 2 0   ; Office
+M 0 13837 12 13845   ; A pirate
+M 0 13837 12 13845   ; A pirate
+D 0 13845 1 1   ; Secret Passage
+M 0 13846 2 13846   ; A pirate leader
+M 0 13846 2 13846   ; A pirate leader
+E 1 13846 65535 11   ; A buckler
+M 0 13849 1 13849   ; A Minotaur
+E 1 13849 65535 14   ; A bracelet
+S

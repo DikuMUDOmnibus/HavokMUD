@@ -1,0 +1,20 @@
+#9607
+forge_master_goblin goblin forger~
+A blacksmith goblin~
+A goblin that looks somewhat like the blacksmith pounds on a hot piece of metal
+~
+ He wears a black leather apron, his arms and face are coated with black
+powder. He looks pretty mean
+~
+The goblin smith pounds his hammer on a red hot piece of metal
+~
+A ringing of a hammer on hot metal sounds out nearby
+~
+7  32768  0  3.0 
+ 15  6  5  125  1d8+6 
+ -1  0  2  30 
+ 8  8  1  0  0  0 
+ 0 
+~
+~
+~

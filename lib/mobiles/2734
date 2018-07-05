@@ -1,0 +1,24 @@
+#2734
+color pool~
+A color pool~
+A rusty orange color pool can be seen as you approach.~
+In Front of the Villa
+   You stand in the front yard of this lavish courtyard.  There is a
+beautiful marble fountain of a dragon with water flowing from its mouth,
+positioned in the center of the walkway.  Large apple and orange trees line
+the sides of the building as you look at it, giving you a sense of peaceful
+splendor.
+   The fresh-cut lawn and exotic flowers show you that the owner of this
+place has much wealth.
+   Northward, through the marble support columns, is a large double door.
+~
+~
+~
+2115  2048  0  1.0 
+ 1  0  10  6  1d1+1 
+ -1  0  1  48 
+ 8  8  0  0  134655  0 
+ 0 
+~
+~
+~

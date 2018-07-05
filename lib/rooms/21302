@@ -1,0 +1,23 @@
+#21302
+Hallway~
+    You are in a dark hallway in the mountain defense station.  The walls are
+smooth, cut from the solid rock here deep inside the mountain.  The ceiling is
+high, almost fifteen feet.  The hallway bends here at a right angle it now heads
+to the north and east.  Through the opening in the west wall the ovens and stoves
+of a kitchen are visible.  Through the opening to the south you see what certainly
+must have been a practice yard.
+~
+84 9 1
+D0
+~
+~
+0 -1 21301 -1
+D2
+~
+~
+0 -1 21303 -1
+D3
+~
+~
+0 -1 21310 -1
+S

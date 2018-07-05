@@ -1,0 +1,68 @@
+*Zone 45, rooms 7200-7399, last modified by Ashamael
+O 0 7204 65535 7200   ; an neon blue potion
+O 0 7210 65535 7200   ; a huge treasure
+D 0 7200 1 0   ; The Treasury
+M 0 7200 1 7201   ; The master mindflayer
+E 1 1967 65535 1   ; a helm of telepathy
+E 1 7203 65535 3   ; a purple cloak
+E 1 7200 65535 16   ; the devil rod
+G 1 7205 65535 0   ; a black key
+D 0 7201 2 0   ; The inner Lair
+D 0 7201 3 2   ; The inner Lair
+D 0 7202 0 0   ; The Lair
+M 0 7202 4 7204   ; The junior mindflayer
+E 1 7202 65535 16   ; the small mace
+E 1 3057 65535 17   ; a silver potion
+M 0 7202 4 7204   ; The junior mindflayer
+E 1 7202 65535 16   ; the small mace
+E 1 3057 65535 17   ; a silver potion
+D 0 7204 2 0   ; The Lair
+O 0 7206 65535 7206   ; a strange white skull
+M 0 7201 1 7207   ; The senior mindflayer
+E 1 7201 65535 16   ; the large mace
+D 0 7207 3 0   ; The lair.
+D 0 7208 0 1   ; The lair entrance.
+M 0 7203 10 7211   ; The ugly wererat
+E 1 7211 65535 16   ; a short sword
+M 0 7203 10 7214   ; The ugly wererat
+E 1 7211 65535 16   ; a short sword
+M 0 7203 10 7215   ; The ugly wererat
+E 1 7211 65535 16   ; a short sword
+M 0 7203 10 7215   ; The ugly wererat
+E 1 7211 65535 16   ; a short sword
+M 0 7203 10 7215   ; The ugly wererat
+E 1 7211 65535 16   ; a short sword
+M 0 7203 10 7219   ; The ugly wererat
+E 1 7211 65535 16   ; a short sword
+E 1 3057 65535 17   ; a silver potion
+M 0 7203 10 7220   ; The ugly wererat
+E 1 7211 65535 16   ; a short sword
+M 0 7203 10 7225   ; The ugly wererat
+E 1 7211 65535 16   ; a short sword
+O 0 7208 65535 7230   ; a small stick
+M 0 7203 10 7231   ; The ugly wererat
+E 1 7211 65535 16   ; a short sword
+M 0 7203 10 7232   ; The ugly wererat
+E 1 7211 65535 16   ; a short sword
+M 0 7204 1 7233   ; The gigantic rat
+E 1 7190 65535 2   ; a glinting ring of silver
+M 0 7000 8 7234   ; The horrifying Mudmonster
+D 0 7279 4 0   ; The Wall of the Abyss
+M 0 7000 8 7280   ; The horrifying Mudmonster
+G 1 3057 65535 0   ; a silver potion
+D 0 7280 0 0   ; The entrance.
+D 0 7280 4 1   ; The entrance.
+M 0 7000 8 7281   ; The horrifying Mudmonster
+M 0 7000 8 7281   ; The horrifying Mudmonster
+D 0 7281 2 0   ; The corridor.
+O 0 7406 65535 7284   ; A glazed shield
+M 0 7002 5 7285   ; The Great Sewer Rat
+M 0 7002 5 7285   ; The Great Sewer Rat
+M 0 7000 8 7285   ; The horrifying Mudmonster
+M 0 7000 8 7285   ; The horrifying Mudmonster
+G 1 3057 65535 0   ; a silver potion
+O 0 7209 65535 7285   ; a pair of muddy boots
+D 0 7285 2 0   ; The tortureroom.
+D 0 7286 0 0   ; The hells yard
+D 0 7301 0 0   ; The Entrance to the Realm of silence
+S

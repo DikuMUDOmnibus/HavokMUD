@@ -1,0 +1,439 @@
+*Zone 96, rooms 26000-26999, last modified by Lennya
+D 0 26008 0 0   ; Jaggonath River.
+D 0 26010 4 0   ; The Falls of Jaggonath.
+O 0 26015 65535 26015   ; The Huge White Oak Tree
+D 0 26015 1 0   ; A Grove of Pure White Oaks.
+D 0 26015 2 0   ; A Grove of Pure White Oaks.
+M 0 26016 25 26016   ; A Ravager
+M 0 26016 25 26016   ; A Ravager
+M 0 26016 25 26016   ; A Ravager
+M 0 26016 25 26016   ; A Ravager
+M 0 26002 8 26016   ; A Black Ravager
+M 0 26001 7 26016   ; A White Ravager
+D 0 26016 5 1   ; Ravager Outpost.
+D 0 26017 4 2   ; Northern End.
+M 0 26016 25 26019   ; A Ravager
+M 0 26016 25 26019   ; A Ravager
+D 0 26019 1 0   ; Well Traveled Tunnel.
+D 0 26019 3 0   ; Well Traveled Tunnel.
+M 0 26016 25 26021   ; A Ravager
+D 0 26021 2 2   ; Ravager Guard Post.
+D 0 26022 4 2   ; Strange Warning...
+M 0 26023 1 26023   ; Alarakis the Lich Lord
+E 1 26023 65535 8   ; Boots of the Lich Lord
+M 0 26026 1 26026   ; A pseudodragon
+M 0 26028 1 26026   ; Vryce Dragon Master
+E 1 26028 65535 12   ; a Cloak of the Night
+D 0 26026 1 1   ; Vryce's Chamber.
+M 0 25504 1 26028   ; The Blue Dragon
+O 0 5305 65535 26028   ; a huge treasure
+D 0 26028 3 1   ; Dragon's Hoard.
+M 0 26016 25 26029   ; A Ravager
+D 0 26029 0 2   ; Raiding Preperation Chamber.
+D 0 26029 3 2   ; Raiding Preperation Chamber.
+M 0 26047 17 26030   ; A Slave of the Ravagers
+M 0 26047 17 26030   ; A Slave of the Ravagers
+M 0 26047 17 26030   ; A Slave of the Ravagers
+M 0 26047 17 26030   ; A Slave of the Ravagers
+D 0 26030 1 2   ; Slave Pit.
+M 0 26016 25 26031   ; A Ravager
+M 0 26001 7 26031   ; A White Ravager
+D 0 26031 1 2   ; Ravager Central Cavern.
+M 0 26016 25 26032   ; A Ravager
+M 0 26016 25 26035   ; A Ravager
+M 0 26016 25 26035   ; A Ravager
+M 0 26016 25 26035   ; A Ravager
+M 0 26002 8 26035   ; A Black Ravager
+M 0 26001 7 26036   ; A White Ravager
+D 0 26040 4 0   ; Between the Jaggonath Falls.
+D 0 26041 1 0   ; Southern Jaggonath River.
+M 0 26047 17 26042   ; A Slave of the Ravagers
+M 0 26047 17 26042   ; A Slave of the Ravagers
+M 0 26047 17 26042   ; A Slave of the Ravagers
+D 0 26042 3 0   ; Hideout.
+M 0 26047 17 26043   ; A Slave of the Ravagers
+M 0 26043 1 26043   ; Wardig the White
+M 0 26047 17 26043   ; A Slave of the Ravagers
+M 0 26001 7 26044   ; A White Ravager
+M 0 26016 25 26044   ; A Ravager
+M 0 26016 25 26045   ; A Ravager
+M 0 26016 25 26045   ; A Ravager
+M 0 26002 8 26045   ; A Black Ravager
+M 0 26047 17 26046   ; A Slave of the Ravagers
+M 0 26047 17 26046   ; A Slave of the Ravagers
+M 0 26047 17 26046   ; A Slave of the Ravagers
+M 0 26047 17 26046   ; A Slave of the Ravagers
+D 0 26046 3 2   ; Slave Pit.
+M 0 26002 8 26047   ; A Black Ravager
+G 1 26029 65535 0   ; a ravager key
+M 0 26016 25 26048   ; A Ravager
+M 0 26016 25 26048   ; A Ravager
+D 0 26048 1 2   ; Ravager's Throne Room.
+D 0 26048 3 2   ; Ravager's Throne Room.
+M 0 26049 1 26049   ; Gannon Slavemaster
+D 0 26049 1 2   ; Gannon's Room.
+M 0 26052 1 26050   ; Calesta Slavemaster
+D 0 26050 3 2   ; Calesta's Room.
+D 0 26052 2 2   ; Black Throne of the Ravagers.
+D 0 26053 0 2   ; A Secret Tunnel.
+M 0 26054 1 26054   ; Tarrant the Black
+G 1 26285 65535 0   ; Grimm's key
+D 0 26055 0 0   ; Tarrant's Pleasure Chamber.
+M 0 26056 5 26058   ; A Swamp Horror
+M 0 26056 5 26058   ; A Swamp Horror
+M 0 26056 5 26059   ; A Swamp Horror
+M 0 26056 5 26059   ; A Swamp Horror
+M 0 26056 5 26059   ; A Swamp Horror
+M 0 26061 1 26059   ; the Swamp Witch
+D 0 26067 1 0   ; A Light Path on the Plains.
+D 0 26067 3 0   ; A Light Path on the Plains.
+M 0 26016 25 26068   ; A Ravager
+M 0 26016 25 26068   ; A Ravager
+M 0 26016 25 26068   ; A Ravager
+M 0 26001 7 26068   ; A White Ravager
+M 0 26002 8 26068   ; A Black Ravager
+M 0 26016 25 26069   ; A Ravager
+M 0 26016 25 26069   ; A Ravager
+M 0 26016 25 26069   ; A Ravager
+M 0 26002 8 26069   ; A Black Ravager
+M 0 26001 7 26069   ; A White Ravager
+M 0 26002 8 26069   ; A Black Ravager
+D 0 26071 1 2   ; Outside the Border Keep Gates
+D 0 26071 3 2   ; Outside the Border Keep Gates
+M 0 26501 20 26072   ; A Border Keep Guard
+M 0 26501 20 26072   ; A Border Keep Guard
+D 0 26072 1 2   ; Guard House for Border Keep.
+M 0 26501 20 26073   ; A Border Keep Guard
+M 0 26501 20 26073   ; A Border Keep Guard
+D 0 26073 3 2   ; Guard House for Border Keep.
+M 0 26074 1 26074   ; the unicorn
+D 0 26074 3 0   ; Hidden Amongst the Oaks.
+M 0 26075 1 26076   ; the Water Naga
+D 0 26076 1 0   ; A Tepid Pool.
+O 0 5305 65535 26077   ; a huge treasure
+D 0 26077 3 0   ; Beyond the Pool.
+M 0 26016 25 26078   ; A Ravager
+M 0 26001 7 26078   ; A White Ravager
+M 0 26002 8 26078   ; A Black Ravager
+D 0 26078 5 2   ; Ravager Guard Post.
+M 0 26105 12 26105   ; A Jaggonath City Guard
+O 0 26109 65535 26109   ; StormCloak Fountain
+M 0 26105 12 26110   ; A Jaggonath City Guard
+M 0 13715 5 26113   ; a horse
+M 0 13715 5 26113   ; a horse
+M 0 13715 5 26113   ; a horse
+M 0 26114 1 26113   ; the Horsetrader
+E 1 26113 65535 17   ; a set of horse reigns
+M 0 26105 12 26114   ; A Jaggonath City Guard
+M 0 26105 12 26116   ; A Jaggonath City Guard
+M 0 26105 12 26116   ; A Jaggonath City Guard
+M 0 26105 12 26116   ; A Jaggonath City Guard
+M 0 26105 12 26117   ; A Jaggonath City Guard
+M 0 26105 12 26121   ; A Jaggonath City Guard
+M 0 26124 1 26124   ; The Armorer of Jaggonath
+E 1 26124 65535 16   ; a Bludgeon
+M 0 26105 12 26125   ; A Jaggonath City Guard
+M 0 26105 12 26126   ; A Jaggonath City Guard
+M 0 26126 1 26126   ; The Jaggonath Baker
+M 0 26127 1 26127   ; The Jaggonath Bowyer
+M 0 26105 12 26131   ; A Jaggonath City Guard
+M 0 26105 12 26131   ; A Jaggonath City Guard
+M 0 26133 1 26133   ; Thomas Mangrum
+M 0 26134 1 26134   ; Shalmara Grimsley
+G 1 47965 65535 0   ; a glowing ember
+M 0 26135 1 26135   ; Alton Sharp
+M 0 26136 1 26136   ; Markham Woodhew
+M 0 26137 1 26137   ; Hulan Taltagar
+D 0 26138 0 2   ; StormCloak Guildhall Exterior.
+D 0 26206 2 2   ; South West of the Big Tent.
+M 0 26208 4 26208   ; A Circus Clown
+M 0 26208 4 26208   ; A Circus Clown
+M 0 26208 4 26208   ; A Circus Clown
+M 0 26208 4 26208   ; A Circus Clown
+M 0 26209 1 26209   ; the Strongman
+M 0 26210 1 26210   ; Cirrelius
+M 0 26211 3 26211   ; an acrobat
+M 0 26211 3 26211   ; an acrobat
+M 0 26211 3 26211   ; an acrobat
+D 0 26212 0 2   ; West End of a Row of Cages.
+D 0 26212 2 2   ; West End of a Row of Cages.
+D 0 26213 2 2   ; Row of Cages.
+D 0 26214 2 2   ; Row of Cages.
+D 0 26215 1 2   ; East End of a Row of Cages.
+D 0 26215 2 2   ; East End of a Row of Cages.
+M 0 26217 1 26216   ; Nembaugh
+G 1 26216 65535 0   ; a cage key
+D 0 26216 3 1   ; Trainers Room.
+M 0 25011 1 26217   ; the Treant
+D 0 26217 0 2   ; Cage.
+M 0 38781 1 26218   ; A two-headed lion 
+D 0 26218 0 2   ; Cage.
+M 0 26553 3 26219   ; A Griffon
+D 0 26219 0 2   ; Cage.
+D 0 26220 0 2   ; Cage.
+D 0 26221 2 1   ; Dragonbreath Inn Inner Grounds.
+D 0 26223 1 0   ; A Short Hallway.
+D 0 26224 3 0   ; Privite Dining Room of the Dragonbreath Inn.
+D 0 26225 1 1   ; East end of the Bar.
+M 0 26226 4 26226   ; A Jaggonath Assassin
+E 1 26552 65535 16   ; Dagger of Intrusion
+M 0 26226 4 26226   ; A Jaggonath Assassin
+E 1 26552 65535 16   ; Dagger of Intrusion
+M 0 26226 4 26226   ; A Jaggonath Assassin
+E 1 26552 65535 16   ; Dagger of Intrusion
+M 0 26226 4 26226   ; A Jaggonath Assassin
+E 1 26552 65535 16   ; Dagger of Intrusion
+D 0 26226 1 0   ; Assassination attempt!
+M 0 26228 1 26227   ; Dragonbreath the Bartender
+M 0 13715 5 26230   ; a horse
+M 0 13715 5 26230   ; a horse
+D 0 26230 3 1   ; Dragonbreath Inn Stables.
+M 0 26240 6 26231   ; the Mercenary
+M 0 26240 6 26231   ; the Mercenary
+D 0 26232 2 2   ; West End of Inner Balcony.
+D 0 26233 2 2   ; Inner Balcony.
+D 0 26234 2 2   ; Inner Balcony.
+D 0 26235 2 2   ; Inner Balcony.
+D 0 26236 2 2   ; East End of Inner Balcony.
+M 0 26237 1 26237   ; A Karsinyan Noble
+D 0 26237 0 2   ; A Room at the Dragonbreath Inn.
+M 0 26240 6 26238   ; the Mercenary
+M 0 26240 6 26238   ; the Mercenary
+D 0 26238 0 2   ; A Room at the Dragonbreath Inn.
+M 0 26242 1 26239   ; A Jaggonath Merchant
+D 0 26239 0 2   ; A Room at the Dragonbreath Inn.
+M 0 26240 6 26240   ; the Mercenary
+M 0 26240 6 26240   ; the Mercenary
+D 0 26240 0 2   ; A Room at the Dragonbreath Inn.
+M 0 26241 1 26241   ; An Errant Mage
+E 1 26559 65535 9   ; The Gloves of the Magi
+D 0 26241 0 2   ; A Room at the Dragonbreath Inn.
+D 0 26245 2 2   ; Entance to the Thieves Guild.
+M 0 26246 2 26246   ; An Ensurer
+M 0 26246 2 26246   ; An Ensurer
+D 0 26246 0 2   ; Thieves Guild Guard Hall.
+D 0 26246 4 2   ; Thieves Guild Guard Hall.
+D 0 26247 5 2   ; Rite of Cleansing.
+D 0 26248 5 0   ; Above a Long Climb.
+D 0 26249 2 1   ; Continuing the Climb.
+D 0 26249 4 0   ; Continuing the Climb.
+D 0 26249 5 0   ; Continuing the Climb.
+D 0 26250 3 0   ; Halls of Training.
+D 0 26253 0 1   ; Thieves Quarters.
+M 0 26254 1 26254   ; The Master of Spy
+E 1 26552 65535 16   ; Dagger of Intrusion
+M 0 26255 1 26255   ; The Master of Theft
+E 1 26552 65535 16   ; Dagger of Intrusion
+M 0 26260 1 26256   ; The Master of Death
+E 1 26552 65535 16   ; Dagger of Intrusion
+D 0 26256 2 1   ; Chamber of the Blade.
+M 0 26262 1 26257   ; The Master of Sneak
+E 1 26257 65535 5   ; ShadowPlate
+E 1 26552 65535 16   ; Dagger of Intrusion
+M 0 26263 1 26258   ; The Master of Hide
+E 1 26552 65535 16   ; Dagger of Intrusion
+M 0 26259 1 26259   ; Slayr
+D 0 26259 1 0   ; Sneaking by Instant Death...
+D 0 26260 1 0   ; Perilious Climb...
+M 0 26261 1 26261   ; Thiefcatcher
+G 1 26261 65535 0   ; the tome of thieves
+D 0 26261 3 0   ; A Simple Job of Pilfering...
+M 0 26267 1 26267   ; Slyfoot the Master Thief
+E 1 26552 65535 16   ; Dagger of Intrusion
+D 0 26267 0 1   ; Slyfoot's Quarters.
+D 0 26268 4 0   ; Thieves Run.
+M 0 26276 8 26270   ; A Citadel Guard
+M 0 26275 4 26270   ; A Citadel Golem
+M 0 26275 4 26271   ; A Citadel Golem
+M 0 26276 8 26272   ; A Citadel Guard
+D 0 26272 5 1   ; North West Tower.
+M 0 26276 8 26273   ; A Citadel Guard
+D 0 26273 2 0   ; North Citadel Guard.
+M 0 26276 8 26274   ; A Citadel Guard
+M 0 26047 17 26275   ; A Slave of the Ravagers
+M 0 26047 17 26275   ; A Slave of the Ravagers
+M 0 26047 17 26275   ; A Slave of the Ravagers
+M 0 26047 17 26275   ; A Slave of the Ravagers
+D 0 26275 4 1   ; Hidden Dungeon.
+D 0 26278 2 1   ; Short Escape Tunnel.
+M 0 26282 1 26279   ; Queen sa'Grimm
+M 0 26281 1 26279   ; King Grimm IVth
+E 1 26279 65535 6   ; an obsidian helm of the titan
+D 0 26279 0 1   ; Private Chambers.
+D 0 26279 5 0   ; Private Chambers.
+M 0 26276 8 26280   ; A Citadel Guard
+D 0 26281 0 0   ; Conference Hall.
+D 0 26281 1 0   ; Conference Hall.
+D 0 26281 2 0   ; Conference Hall.
+D 0 26281 3 0   ; Conference Hall.
+D 0 26281 4 0   ; Conference Hall.
+D 0 26281 5 0   ; Conference Hall.
+M 0 26276 8 26282   ; A Citadel Guard
+M 0 26276 8 26282   ; A Citadel Guard
+D 0 26282 1 0   ; West Citadel Guard.
+D 0 26283 3 0   ; East Citadel Guard.
+M 0 26285 2 26285   ; A Royal Cleric
+M 0 26285 2 26285   ; A Royal Cleric
+D 0 26285 2 2   ; Royal Crypt.
+D 0 26285 4 0   ; Royal Crypt.
+M 0 26286 1 26286   ; King Grimm IIIrd
+E 1 26054 65535 11   ; a jet black shield
+G 1 5305 65535 0   ; a huge treasure
+G 1 5305 65535 0   ; a huge treasure
+D 0 26286 0 2   ; Grimm Resting Place.
+M 0 26275 4 26287   ; A Citadel Golem
+M 0 26275 4 26288   ; A Citadel Golem
+M 0 26276 8 26289   ; A Citadel Guard
+D 0 26290 0 0   ; South Citadel Guard.
+M 0 26303 7 26300   ; An evil cleric
+M 0 26303 7 26300   ; An evil cleric
+M 0 26303 7 26300   ; An evil cleric
+M 0 26302 1 26302   ; A painting of a demon
+E 1 26302 65535 18   ; A Gaping Hole
+D 0 26310 1 0   ; Hall of Quarters.
+D 0 26315 3 0   ; Strangely Serene Hall.
+D 0 26319 1 0   ; Strangely Serene Hall.
+M 0 26320 1 26320   ; Cerious the Patriarch
+E 1 26319 65535 5   ; HolyPlate
+E 1 26315 65535 16   ; Scourge
+D 0 26320 3 0   ; Patriarch's Chambers.
+O 0 26321 65535 26321   ; A Book of Training
+D 0 26322 1 0   ; Temple Library.
+D 0 26323 3 0   ; Strangely Serene Hall.
+M 0 26303 7 26324   ; An evil cleric
+M 0 26303 7 26324   ; An evil cleric
+M 0 26303 7 26324   ; An evil cleric
+M 0 26303 7 26324   ; An evil cleric
+E 1 26321 65535 17   ; A Book of Training
+D 0 26324 1 2   ; Temple Guard.
+D 0 26325 1 0   ; South End of a Serene Hall.
+D 0 26325 2 2   ; South End of a Serene Hall.
+D 0 26325 3 0   ; South End of a Serene Hall.
+D 0 26326 3 0   ; Temple Guard.
+D 0 26327 0 2   ; Rows of Pews.
+D 0 26500 2 2   ; Drawbridge.
+M 0 26501 20 26501   ; A Border Keep Guard
+M 0 26501 20 26501   ; A Border Keep Guard
+D 0 26502 2 0   ; Mews.
+D 0 26503 2 2   ; West Gate Tower.
+M 0 26501 20 26504   ; A Border Keep Guard
+M 0 26501 20 26504   ; A Border Keep Guard
+D 0 26504 0 2   ; Between the Towers.
+D 0 26504 2 2   ; Between the Towers.
+D 0 26505 2 2   ; East Gate Tower.
+D 0 26506 2 0   ; Grooms Quarters.
+D 0 26508 0 0   ; Barn.
+D 0 26508 1 2   ; Barn.
+D 0 26508 2 0   ; Barn.
+D 0 26509 0 2   ; North West Bailey.
+D 0 26509 3 0   ; North West Bailey.
+D 0 26510 0 2   ; North Bailey.
+D 0 26511 0 2   ; North East Bailey.
+D 0 26511 1 0   ; North East Bailey.
+D 0 26512 0 0   ; Stables.
+D 0 26512 3 0   ; Stables.
+M 0 2311 2 26513   ; The large war dog
+M 0 2311 2 26513   ; The large war dog
+D 0 26513 0 0   ; Kennels.
+D 0 26514 3 0   ; South West Bailey.
+D 0 26515 2 2   ; South Bailey.
+D 0 26516 1 0   ; South East Bailey.
+M 0 1020 1 26517   ; the blacksmith
+D 0 26517 3 0   ; Smithy.
+D 0 26518 1 2   ; Hallway between Bailey and Open Court.
+D 0 26518 2 2   ; Hallway between Bailey and Open Court.
+D 0 26519 0 2   ; Chapel Tower Dungeon.
+D 0 26519 2 2   ; Chapel Tower Dungeon.
+D 0 26520 1 2   ; Cellar.
+D 0 26521 0 2   ; Open Court.
+D 0 26521 1 2   ; Open Court.
+D 0 26521 3 2   ; Open Court.
+D 0 26522 1 2   ; Guard Room.
+D 0 26522 2 2   ; Guard Room.
+D 0 26523 0 2   ; Hallway.
+D 0 26523 1 2   ; Hallway.
+D 0 26523 3 2   ; Hallway.
+M 0 26501 20 26524   ; A Border Keep Guard
+M 0 26501 20 26524   ; A Border Keep Guard
+D 0 26524 3 2   ; Training Yard.
+D 0 26526 0 2   ; Hallway inside the Keep.
+D 0 26526 1 2   ; Hallway inside the Keep.
+M 0 26501 20 26527   ; A Border Keep Guard
+M 0 26501 20 26527   ; A Border Keep Guard
+D 0 26527 1 2   ; Outer Armory.
+D 0 26527 2 2   ; Outer Armory.
+D 0 26527 3 2   ; Outer Armory.
+D 0 26528 0 2   ; Inner Armory.
+D 0 26528 3 2   ; Inner Armory.
+D 0 26530 1 2   ; Storage.
+D 0 26530 2 2   ; Storage.
+D 0 26530 3 2   ; Storage.
+M 0 26501 20 26531   ; A Border Keep Guard
+D 0 26531 0 1   ; Storage.
+D 0 26531 1 2   ; Storage.
+D 0 26531 2 2   ; Storage.
+D 0 26531 3 2   ; Storage.
+D 0 26532 3 2   ; Cellar.
+D 0 26533 0 2   ; Wine Cellar.
+D 0 26533 1 1   ; Wine Cellar.
+D 0 26534 0 2   ; Cook's Quarters.
+M 0 26501 20 26535   ; A Border Keep Guard
+D 0 26535 0 2   ; Kitchen.
+D 0 26535 1 2   ; Kitchen.
+D 0 26535 2 2   ; Kitchen.
+D 0 26536 3 2   ; Ale House.
+M 0 26538 1 26537   ; Damian
+D 0 26537 0 2   ; South Guest Room.
+M 0 26501 20 26538   ; A Border Keep Guard
+M 0 26501 20 26538   ; A Border Keep Guard
+D 0 26538 0 2   ; Barracks.
+D 0 26538 2 2   ; Barracks.
+M 0 26540 1 26539   ; Cianni
+D 0 26539 1 2   ; West Guest Room.
+M 0 26501 20 26540   ; A Border Keep Guard
+M 0 26501 20 26540   ; A Border Keep Guard
+D 0 26540 0 2   ; Guest Hall.
+D 0 26540 1 2   ; Guest Hall.
+D 0 26540 2 2   ; Guest Hall.
+D 0 26540 3 2   ; Guest Hall.
+M 0 26501 20 26541   ; A Border Keep Guard
+D 0 26541 0 2   ; Storage.
+D 0 26541 1 2   ; Storage.
+D 0 26541 2 2   ; Storage.
+D 0 26541 3 2   ; Storage.
+D 0 26542 3 2   ; Servant's Quarters.
+D 0 26543 2 2   ; North Guest Room.
+M 0 26544 1 26544   ; Seirie the Border Guard Captain
+E 1 26544 65535 7   ; A pair of Ranger Leggings
+D 0 26544 2 2   ; Captain's Quarters.
+M 0 26545 2 26545   ; A Border Keep Cleric
+M 0 26545 2 26545   ; A Border Keep Cleric
+D 0 26545 0 2   ; Chapel.
+D 0 26546 0 2   ; Great Hall.
+D 0 26546 1 2   ; Great Hall.
+D 0 26546 2 2   ; Great Hall.
+D 0 26547 1 2   ; Steward's Suite.
+D 0 26547 3 2   ; Steward's Suite.
+M 0 26549 1 26548   ; Devron
+E 1 26548 65535 8   ; boots of free movement
+D 0 26548 3 2   ; Lord's Suite.
+D 0 26549 2 1   ; Cistern.
+D 0 26549 5 0   ; Cistern.
+D 0 26550 4 1   ; Solar.
+M 0 26553 3 26551   ; A Griffon
+M 0 26553 3 26551   ; A Griffon
+D 0 26551 5 1   ; Roof of the Border Keep.
+M 0 26552 2 26552   ; an intruder
+E 1 26552 65535 16   ; Dagger of Intrusion
+M 0 26552 2 26552   ; an intruder
+E 1 26552 65535 16   ; Dagger of Intrusion
+D 0 26552 3 1   ; Hideout.
+M 0 26501 20 26553   ; A Border Keep Guard
+D 0 26553 0 2   ; Postern.
+D 0 26553 2 2   ; Postern.
+D 0 26554 0 2   ; Long Dusty Road south of the Border Keep.
+D 0 26564 2 0   ; From out of the woods!
+D 0 26573 0 0   ; A Different World or Time!?
+D 0 26581 4 0   ; A leaning tree.
+D 0 26601 5 0   ; Atop the walls of Corpa-Bukat.
+S

@@ -1,0 +1,27 @@
+#2717
+color pool~
+A color pool~
+A checkered color pool can be seen as you approach.
+~
+Much to your surprise you are standing on dusty clifftop overlooking
+a magnificent ocean.  The sun seems to be frozen just over the horizon,
+turning the ocean into a swirling plain of gold and black reflections.
+A warm and gentle breeze brushes your face.  You hear the roar of the
+waves crashing rhythmically on the rocks below, interspersed with cries
+of seagulls floating lazily overhead.
+     To the north you can see a large city by the ocean side, far larger
+than Shadowdale, perhaps far larger than any city you've seen before.  It
+seems to extend infinitely to the north.  From this distance the city
+resembles a spectacular field of colorful lights, twinkling before you
+in silent majesty.
+~
+~
+~
+2115  2048  0  1.0 
+ 1  0  10  2  1d1+1 
+ -1  0  1  48 
+ 8  8  0  0  0  0 
+ 0 
+~
+~
+~

@@ -1,0 +1,29 @@
+*Zone 46, rooms 7400-7499, last modified by Ashamael
+D 0 7400 4 0   ; Cave entrance
+D 0 7404 2 1   ; Cave turning-point
+O 0 7405 65535 7405   ; A crystal globe
+D 0 7405 0 1   ; The secret room
+D 0 7405 2 1   ; The secret room
+D 0 7406 0 1   ; The mudhole
+M 0 7044 1 7407   ; The lemure
+D 0 7415 0 1   ; The blind end room
+D 0 7416 2 1   ; The treasure room
+D 0 7418 1 1   ; The square lair
+M 0 7045 1 7419   ; Jones 'cruncher' the ettin
+E 1 3057 65535 17   ; a silver potion
+D 0 7421 3 1   ; East tunnel
+M 0 7046 1 7424   ; Harold 'the mouse-killer' ettin
+D 0 7424 1 1   ; The Circular hall.
+D 0 7425 3 1   ; Dusty tunnel
+M 0 7010 1 7427   ; the evil chr-eff'n
+E 1 3057 65535 17   ; a silver potion
+M 0 7040 3 7428   ; The red dragon
+G 1 3056 65535 0   ; a golden potion
+M 0 7042 1 7435   ; The guardian naga
+M 0 7043 1 7438   ; The scaled basilisk
+G 1 3057 65535 0   ; a silver potion
+G 1 7230 65535 0   ; A basilisk's scale
+M 0 7041 1 7442   ; The sea hag
+G 1 3057 65535 0   ; a silver potion
+G 1 1758 65535 0   ; an iron nail
+S

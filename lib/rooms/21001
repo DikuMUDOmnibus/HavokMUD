@@ -1,0 +1,26 @@
+#21001
+Ershteep Road~
+   You are standing on a thin trail only wide enough for two. The
+trail was once, apparently, the middle of a large and busy
+thoroughfare. It now lies overgrown by thick, impassable forest to
+the east and west. The trail leads further north where a small
+cottage becomes apparent and south, through the forest.  A bright
+red ribbon stretches across the road, preventing travel northward.
+A note flutters on the breeze.
+~
+81 0 3
+D0
+~
+door~
+0 0 21002 0
+D2
+~
+~
+0 -1 18007 -1
+E
+note~
+The Temple and City of Saffron are currently under construction.
+They will be opened when they are deemed safe enough for mortal
+excursions.
+~
+S

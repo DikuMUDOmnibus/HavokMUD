@@ -1,0 +1,27 @@
+#21288
+Hallway~
+    You are in a dark hallway in the mountain defense station.  The walls are
+smooth, cut from the solid rock here deep inside the mountain.  The ceiling is
+high, almost fifteen feet.  The hallway heads four ways, it heads to the north,
+east, south, and west.  The hall continues to the north.  To the east, you can
+see racks and hooks for armaments, some of which still hold equipment.  To the
+south and west you see the bunks and cabinets that indicate a barracks.
+~
+84 9 1
+D0
+~
+~
+0 -1 21287 -1
+D1
+~
+~
+0 -1 21281 -1
+D2
+~
+~
+0 -1 21289 -1
+D3
+~
+~
+0 0 21290 -1
+S

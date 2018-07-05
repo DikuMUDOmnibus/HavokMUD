@@ -1,0 +1,344 @@
+*Zone 12, rooms 1500-1699, last modified by Jopa
+M 0 1500 6 1502   ; A shadow guardian
+M 0 1500 6 1503   ; A shadow guardian
+M 0 1500 6 1504   ; A shadow guardian
+M 0 1500 6 1504   ; A shadow guardian
+M 0 1500 6 1506   ; A shadow guardian
+M 0 1501 1 1511   ; A lost adventurer
+E 1 3030 65535 0   ; a torch
+E 1 3022 15 16   ; a long sword
+G 1 1729 65535 0   ; a map
+G 1 3010 65535 0   ; a bread
+G 1 3000 65535 0   ; a barrel
+M 0 1503 1 1512   ; The golem
+M 0 1500 6 1513   ; A shadow guardian
+M 0 1504 7 1513   ; A mage
+M 0 1504 7 1514   ; A mage
+M 0 1504 7 1514   ; A mage
+O 0 1500 65535 1514   ; A fountain
+D 0 1517 5 1   ; Dark Hallway
+M 0 1504 7 1518   ; A mage
+M 0 1504 7 1518   ; A mage
+M 0 1505 1 1518   ; Strick the bartender
+G 1 6013 65535 0   ; the barrel
+G 1 3101 65535 0   ; a cup
+G 1 3100 65535 0   ; a cup
+G 1 3010 65535 0   ; a bread
+G 1 1552 65535 0   ; a waybread
+G 1 1551 65535 0   ; a herbal brew
+M 0 1506 1 1519   ; Tatorious
+G 1 1554 65535 0   ; a feather quill
+G 1 1553 65535 0   ; a parchment
+G 1 3053 65535 0   ; a wand of invisibility
+G 1 3051 65535 0   ; a yellow potion of see invisible
+G 1 3050 65535 0   ; a scroll of identify
+G 1 3033 65535 0   ; a box
+M 0 1504 7 1520   ; A mage
+M 0 1508 1 1520   ; The cook's assistant
+G 1 106 65535 0   ; A toad's eye
+M 0 1507 1 1520   ; Ezmerelda
+E 1 1555 65535 16   ; a meat cleaver
+O 0 1502 65535 1520   ; A meat locker
+P 1 1506 3 1502   ; A finger sandwich
+P 1 1506 3 1502   ; A finger sandwich
+P 1 1506 3 1502   ; A finger sandwich
+P 1 1505 1 1502   ; A large chunk of meat
+O 0 1501 65535 1520   ; An oven
+P 1 1504 5 1501   ; A slice of pizza
+P 1 1504 5 1501   ; A slice of pizza
+P 1 1504 5 1501   ; A slice of pizza
+P 1 1504 5 1501   ; A slice of pizza
+P 1 1504 5 1501   ; A slice of pizza
+D 0 1521 4 1   ; Below the trapdoor
+D 0 1523 0 2   ; A dark passage
+D 0 1524 1 0   ; A dark passage
+M 0 1509 1 1527   ; The prisoner
+E 1 1556 65535 14   ; some chain shackles
+D 0 1527 2 2   ; A dark cell
+M 0 1510 1 1528   ; The Jailor
+E 1 1523 65535 17   ; an old key
+D 0 1528 3 0   ; The Jailor's office
+M 0 1504 7 1530   ; A mage
+D 0 1530 0 0   ; The hallway
+D 0 1530 2 0   ; The hallway
+D 0 1531 0 1   ; A bend in the hallway
+D 0 1531 1 1   ; A bend in the hallway
+D 0 1531 2 1   ; A bend in the hallway
+D 0 1532 2 0   ; A store room
+M 0 1511 2 1533   ; A broom
+M 0 1511 2 1533   ; A broom
+O 0 1507 65535 1533   ; A straw broom
+D 0 1533 0 0   ; A broom closet
+D 0 1534 1 1   ; A hallway
+D 0 1534 2 1   ; A hallway
+M 0 1513 5 1535   ; A pair of disembodied eyes
+M 0 1512 7 1535   ; A pair of disembodied hands
+M 0 1512 7 1535   ; A pair of disembodied hands
+M 0 1512 7 1535   ; A pair of disembodied hands
+M 0 1512 7 1535   ; A pair of disembodied hands
+D 0 1535 0 1   ; Guardians chamber
+D 0 1536 3 1   ; A guest bedroom
+M 0 1514 1 1537   ; The mage
+D 0 1537 3 1   ; A guest bedroom
+D 0 1538 1 1   ; A hallway
+D 0 1539 3 1   ; The burnt room
+D 0 1540 0 1   ; A hallway
+M 0 1512 7 1541   ; A pair of disembodied hands
+M 0 1517 2 1542   ; A young apprentice
+M 0 1516 2 1542   ; A young apprentice
+M 0 1515 2 1542   ; A young apprentice magic user
+D 0 1542 2 1   ; The Apprentice's Barracks
+D 0 1543 0 1   ; A hallway
+M 0 1517 2 1544   ; A young apprentice
+M 0 1516 2 1544   ; A young apprentice
+M 0 1515 2 1544   ; A young apprentice magic user
+D 0 1544 2 1   ; The Apprentice's barracks
+M 0 1519 1 1545   ; A small kitten
+G 1 1703 65535 0   ; a ball of string
+M 0 1518 3 1545   ; A young apprentice
+M 0 1518 3 1545   ; A young apprentice
+M 0 1518 3 1545   ; A young apprentice
+D 0 1545 0 1   ; A hallway
+D 0 1546 2 1   ; The apprentice's workshop
+D 0 1548 3 1   ; The hallway
+M 0 1521 1 1549   ; An instructor of magic
+M 0 1520 4 1549   ; A student
+M 0 1520 4 1549   ; A student
+M 0 1520 4 1549   ; A student
+M 0 1520 4 1549   ; A student
+D 0 1549 1 1   ; A classroom
+D 0 1550 3 1   ; A hallway
+D 0 1551 3 1   ; A hallway
+D 0 1552 1 1   ; An empty classroom
+M 0 1523 1 1554   ; A spell teacher
+M 0 1522 4 1554   ; A student of spells
+M 0 1522 4 1554   ; A student of spells
+M 0 1522 4 1554   ; A student of spells
+M 0 1522 4 1554   ; A student of spells
+D 0 1554 1 1   ; An empty classroom
+D 0 1555 2 1   ; A hallway
+D 0 1556 2 1   ; A hallway
+M 0 1525 1 1557   ; A wizard
+M 0 1524 3 1557   ; A student of spells
+M 0 1524 3 1557   ; A student of spells
+M 0 1524 3 1557   ; A student of spells
+D 0 1557 0 1   ; The ampitheatre
+D 0 1558 2 1   ; A hallway
+M 0 1527 1 1559   ; The battle mistress
+E 1 1557 65535 17   ; a silvery dagger
+M 0 1526 3 1559   ; A young mage
+E 1 1557 65535 16   ; a silvery dagger
+M 0 1526 3 1559   ; A young mage
+E 1 1557 65535 16   ; a silvery dagger
+M 0 1526 3 1559   ; A young mage
+E 1 1557 65535 16   ; a silvery dagger
+D 0 1559 0 1   ; The training room
+D 0 1561 0 1   ; A dueling room
+M 0 1512 7 1562   ; A pair of disembodied hands
+D 0 1562 1 1   ; A hallway
+D 0 1563 1 1   ; A hallway
+M 0 1528 1 1564   ; A spell teacher
+E 1 3053 65535 17   ; a wand of invisibility
+D 0 1564 3 1   ; The spellmaster's lounge
+M 0 1529 1 1565   ; An aged wizard
+E 1 3053 65535 17   ; a wand of invisibility
+D 0 1565 3 1   ; A bedroom
+D 0 1566 1 1   ; A hallway
+M 0 1530 1 1567   ; A scribe
+D 0 1567 3 1   ; The study
+M 0 1539 5 1568   ; A wooden golem
+D 0 1570 0 1   ; A hallway
+M 0 1531 2 1571   ; A scribe
+M 0 1531 2 1571   ; A scribe
+D 0 1571 2 1   ; A small office
+D 0 1571 3 1   ; A small office
+M 0 1533 1 1573   ; The scribe's assistant
+G 1 1562 65535 0   ; an old scroll
+M 0 1532 1 1573   ; The master scribe
+E 1 1558 65535 17   ; a golden feather quill
+G 1 1561 65535 0   ; a long cylindrical tube
+G 1 1560 65535 0   ; a bound scroll
+G 1 1559 65535 0   ; a scroll
+D 0 1573 1 1   ; The master scribe's workshop
+D 0 1574 0 1   ; A hallway
+M 0 1513 5 1575   ; A pair of disembodied eyes
+D 0 1575 2 1   ; A store room
+D 0 1577 3 1   ; A hallway
+D 0 1578 3 1   ; A hallway
+O 0 1513 65535 1579   ; A bar of adamantite
+O 0 1512 65535 1579   ; A bar of mithril
+O 0 1511 65535 1579   ; A bar of gold
+O 0 1510 65535 1579   ; A bar of silver
+O 0 1509 65535 1579   ; A cabinet
+P 1 7211 12 1509   ; a short sword
+P 1 3022 15 1509   ; a long sword
+P 1 3022 15 1509   ; a long sword
+P 1 3020 3 1509   ; a dagger
+D 0 1579 1 1   ; A store room
+O 0 1514 65535 1581   ; a mithril hammer
+D 0 1581 0 0   ; A very hot room
+D 0 1581 1 1   ; A very hot room
+D 0 1581 2 1   ; A very hot room
+D 0 1581 4 1   ; A very hot room
+M 0 1535 1 1582   ; A dancing sword
+M 0 1534 1 1582   ; The Enchanter
+E 1 1516 65535 17   ; a humming key
+G 1 1563 65535 0   ; a scroll written on blue paper
+O 0 1515 65535 1582   ; A chest
+P 1 1519 1 1515   ; a curved scimitar
+P 1 1518 1 1515   ; a silver dagger
+P 1 1517 68 1515   ; a long sword
+D 0 1582 0 1   ; The master Enchanter's chamber
+D 0 1584 2 1   ; A hallway
+D 0 1586 0 1   ; A laboratory
+D 0 1587 2 1   ; A hallway
+M 0 1536 1 1588   ; The Mad Alchemist
+E 1 1564 65535 17   ; a leather pouch
+P 1 1570 1 1564   ; a milky white potion
+P 1 1569 1 1564   ; an efervecent potion
+P 1 1568 1 1564   ; a green potion
+P 1 1567 1 1564   ; a bright red potion
+P 1 1566 1 1564   ; a lavendar potion
+P 1 1565 1 1564   ; a blue potion
+M 0 30 1 1590   ; the Mage Guildmaster
+M 0 1537 1 1590   ; The master summoner
+E 1 1571 65535 17   ; a black staff
+D 0 1590 0 1   ; The pentagram chamber
+D 0 1591 1 1   ; A hallway
+M 0 1513 5 1593   ; A pair of disembodied eyes
+D 0 1593 1 0   ; A hallway
+D 0 1594 3 1   ; An empty room
+M 0 1538 1 1595   ; The master charmer
+E 1 1572 65535 17   ; a golden flute
+G 1 1573 65535 0   ; a small figurine
+D 0 1595 0 0   ; The charm master's chamber
+D 0 1595 3 1   ; The charm master's chamber
+M 0 3060 6 1597   ; the Cityguard
+M 0 4000 4 1597   ; the snake
+M 0 3094 1 1597   ; the Wolf
+D 0 1597 2 0   ; The animal pens
+M 0 1539 5 1598   ; A wooden golem
+M 0 1539 5 1598   ; A wooden golem
+D 0 1600 0 1   ; A hallway
+D 0 1601 2 1   ; A store room
+D 0 1601 3 1   ; A store room
+M 0 1540 1 1602   ; The master spell binder
+E 1 1574 65535 13   ; a holstered belt
+P 1 1575 1 1574   ; a blackened wand
+E 1 1525 65535 17   ; a silvery key
+D 0 1602 1 1   ; The master spellbinder's chamber
+D 0 1602 3 1   ; The master spellbinder's chamber
+O 0 1522 65535 1603   ; a silver chased cabinet
+P 1 1530 1 1522   ; a metal wand
+P 1 1529 1 1522   ; a wooden stick
+O 0 1521 65535 1603   ; a silver chased cabinet
+P 1 1527 1 1521   ; a burnt staff
+P 1 1526 1 1521   ; a red and white staff
+D 0 1603 1 1   ; The spellbinder's cache
+D 0 1603 2 1   ; The spellbinder's cache
+D 0 1605 0 1   ; A hallway
+D 0 1608 3 1   ; A hallway
+M 0 1545 1 1609   ; A cloth golem
+M 0 1542 1 1609   ; A granite golem
+M 0 1541 1 1609   ; The golem maker
+E 1 1576 65535 17   ; a runed chisel
+D 0 1609 1 1   ; The golem master's workshop
+D 0 1609 5 1   ; The golem master's workshop
+M 0 1547 1 1611   ; A clay golem
+M 0 1546 1 1611   ; An adamantite golem
+M 0 1544 1 1611   ; A flesh golem
+M 0 1543 1 1611   ; A bronze golem
+D 0 1612 4 1   ; It is very dark here...
+D 0 1612 5 1   ; It is very dark here...
+D 0 1616 2 1   ; A hallway
+M 0 1548 1 1617   ; The master of illusions
+E 1 1577 65535 13   ; a beltpouch
+P 1 1578 1 1577   ; some sparkling dust
+D 0 1617 0 1   ; The master of illusion's chamber
+D 0 1619 2 1   ; A hallway
+D 0 1620 0 1   ; The meditation chamber
+D 0 1622 1 1   ; A hallway
+D 0 1623 3 1   ; A dark room
+M 0 1551 1 1625   ; An undead giant
+E 1 1581 65535 16   ; a huge spiked club
+M 0 1550 2 1625   ; An animated skeleton
+M 0 1550 2 1625   ; An animated skeleton
+M 0 1549 1 1625   ; The Necromancer
+E 1 1579 65535 3   ; a dark cowl
+E 1 1580 65535 17   ; an ashen wand
+M 0 1512 7 1628   ; A pair of disembodied hands
+M 0 1539 5 1628   ; A wooden golem
+M 0 1539 5 1628   ; A wooden golem
+M 0 1513 5 1632   ; A pair of disembodied eyes
+D 0 1634 1 1   ; A corridor
+M 0 1552 3 1635   ; An ugly witch
+M 0 1552 3 1635   ; An ugly witch
+M 0 1552 3 1635   ; An ugly witch
+O 0 1531 65535 1635   ; a black cauldron
+P 1 1533 1 1531   ; an eyeball
+P 1 1532 1 1531   ; a small pair of bat wings
+D 0 1635 3 1   ; The scrying chamber
+D 0 1636 3 0   ; A corridor
+M 0 1553 1 1637   ; The Librarian
+O 0 1534 65535 1645   ; the book of magic
+P 1 1535 1 1534   ; a pair of spectacles
+D 0 1652 2 1   ; A grey tiled hallway
+M 0 1554 1 1653   ; The master's apprentice
+E 1 1582 65535 12   ; a grey robe
+E 1 1584 65535 14   ; a glinting silver bracelet
+D 0 1653 0 1   ; The antechamber
+M 0 1556 1 1654   ; The master of Neutrality
+E 1 1583 65535 3   ; a long grey cloak
+E 1 1585 65535 16   ; an iron shod staff
+E 1 1586 65535 17   ; a ward minor
+M 0 1555 1 1654   ; A gray cat
+D 0 1660 1 1   ; The end of the hallway
+M 0 1557 1 1661   ; A black robed apprentice
+E 1 1587 65535 12   ; a black robe
+E 1 1588 65535 14   ; an onyx bracelet
+D 0 1661 3 1   ; The chamber of darkness
+M 0 1559 1 1664   ; The master of the black robes
+E 1 1589 65535 3   ; a dark black cloak
+E 1 1590 65535 16   ; a sharp shard of obsidian
+E 1 1586 65535 17   ; a ward minor
+M 0 1558 1 1664   ; A black cat
+M 0 1513 5 1665   ; A pair of disembodied eyes
+D 0 1666 3 1   ; A bright hallway
+M 0 1560 1 1667   ; A white robed apprentice
+E 1 1591 65535 12   ; a white robe
+E 1 1592 65535 14   ; a white gold bracelet
+D 0 1667 1 1   ; An antechamber
+M 0 1562 1 1669   ; The master of goodness
+E 1 1593 65535 3   ; a white cloak
+E 1 1594 65535 16   ; an ivory hilted dagger
+E 1 1586 65535 17   ; a ward minor
+M 0 1561 1 1669   ; A white cat
+D 0 1673 0 1   ; A wide hallway
+D 0 1674 0 1   ; A wide hallway
+D 0 1674 2 1   ; A wide hallway
+D 0 1675 0 1   ; A wide hallway
+D 0 1675 2 1   ; A wide hallway
+D 0 1676 2 1   ; The entranceway
+M 0 1564 1 1677   ; The Grand Master
+E 1 1597 65535 1   ; a small emerald ring
+E 1 1601 65535 5   ; a tight fitting green dragon scale shirt
+E 1 1598 65535 14   ; an emerald bracelet
+E 1 1600 65535 16   ; the ebony kris
+E 1 1599 65535 17   ; a ward major
+G 1 1539 65535 0   ; an intricately carved key
+M 0 1563 1 1677   ; A calico cat
+E 1 1595 65535 3   ; a spiked collar
+O 0 1536 65535 1680   ; a golden altar
+P 1 1537 1 1536   ; a heart shaped medallion
+D 0 1680 1 1   ; The altar
+D 0 1680 3 1   ; The altar
+O 0 1538 65535 1681   ; a large chest
+P 1 1540 155 1538   ; a pile of gold coins
+D 0 1681 3 1   ; The treasury
+O 0 1545 65535 1682   ; a leather backpack
+P 1 1544 1 1545   ; a seashell ring
+O 0 1543 65535 1682   ; a pair of old boots
+O 0 1542 65535 1682   ; a chameleon poncho
+O 0 1541 65535 1682   ; a brown cloak
+D 0 1699 5 1   ; Skylar's Hideout
+S

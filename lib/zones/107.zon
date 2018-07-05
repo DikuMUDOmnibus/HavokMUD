@@ -1,0 +1,24 @@
+*Zone 107, rooms 33050-33099, last modified by Ashamael
+O 0 1102 65535 33050   ; a sign
+D 0 33058 4 0   ; An End to An Icy Road.
+D 0 33059 5 0   ; Atop the Glacier.
+D 0 33063 5 0   ; Buffeting Winds.
+D 0 33065 4 0   ; Entryway to Castle Peril.
+M 0 33075 1 33075   ; WhiteFire the White Dragon
+G 1 33075 65535 0   ; WhiteFire Blade
+D 0 33075 4 0   ; Bottom of the Glaciers Southern Face.
+M 0 33082 4 33078   ; a Rikken Demon
+M 0 33082 4 33080   ; a Rikken Demon
+M 0 33082 4 33081   ; a Rikken Demon
+M 0 33085 4 33081   ; a Carsjag Demon
+D 0 33083 3 1   ; Browsing the Northern Market.
+D 0 33084 1 1   ; An Empty Vending Boothe.
+M 0 33085 4 33085   ; a Carsjag Demon
+M 0 33085 4 33085   ; a Carsjag Demon
+M 0 33082 4 33085   ; a Rikken Demon
+D 0 33085 1 1   ; An Interesting Boothe.
+D 0 33086 3 1   ; Secrets of the Black Boothe.
+M 0 33087 1 33087   ; a demonic gateway
+G 1 33087 65535 0   ; the Demon's Blade
+M 0 33085 4 33088   ; a Carsjag Demon
+S

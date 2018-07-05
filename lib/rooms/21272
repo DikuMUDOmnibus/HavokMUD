@@ -1,0 +1,28 @@
+#21272
+Ancient Road~
+    Long ago, this road must have been a thoroughfare, as it is easily forty
+feet across. The stones that form it are still in very good shape here, as the
+elements have not been able to abuse it here as they have where it is exposed
+to the open sky. There is a massive gate set in the western wall here, it looks
+to be made of a strange, black metal that resists all your efforts to identify
+it. There is a heavy metal bolt-lock built into the center of the gate. It
+appears to have been here for quite a while. However, despite the passage of
+time it shows few signs of aging; apparently it was built to last. The tunnel
+of the ancient road continues north and south, as well.
+~
+84 9 1
+D0
+~
+~
+0 -1 21271 -1
+D2
+~
+~
+0 -1 21273 -1
+E
+lock gate~
+The gate is large and impressive. The lock is large and extremely complex. It
+looks like it would be impossible to pick, without a lot of specialized tools,
+anyway. The key would have to be an odd-looking piece of equipment.
+~
+S

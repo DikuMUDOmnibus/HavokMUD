@@ -1,0 +1,72 @@
+*Zone 11, rooms 1200-1499, last modified by Jopa
+M 0 1417 2 1399   ; A tiny kitten
+M 0 1497 1 1399   ; The Mother Cat
+M 0 1420 5 1400   ; A fish
+M 0 1420 5 1401   ; A fish
+M 0 1420 5 1402   ; A fish
+M 0 1456 1 1402   ; The Farmer's Son
+O 0 1412 65535 1407   ; an oily potion
+M 0 1420 5 1408   ; A fish
+O 0 1401 65535 1409   ; a Shiny Hook
+M 0 1433 3 1412   ; The Butterfly
+M 0 1433 3 1415   ; The Butterfly
+M 0 1451 1 1415   ; A chicken
+M 0 1414 1 1415   ; a chicken
+M 0 1420 5 1416   ; A fish
+M 0 1495 1 1420   ; A Scare Crow
+M 0 1454 1 1421   ; A chicken
+M 0 1433 3 1421   ; The Butterfly
+D 0 1424 3 1   ; A Dusty Farm Road
+M 0 1405 1 1429   ; The Farmer's Daughter
+M 0 1448 1 1430   ; A chicken
+M 0 1417 2 1430   ; A tiny kitten
+M 0 1411 1 1430   ; a chicken
+M 0 1410 1 1430   ; a chicken
+M 0 1409 1 1430   ; a chicken
+M 0 1407 1 1430   ; The Farm Boy
+M 0 1402 1 1430   ; The Farmer's Daughter
+M 0 1449 1 1431   ; A chicken
+M 0 1463 1 1432   ; The Farmer's Son
+D 0 1433 2 1   ; A Muddy Farm Trail
+M 0 1452 1 1434   ; A chicken
+M 0 1453 1 1436   ; A chicken
+M 0 1458 1 1437   ; The Farmer's daughter
+M 0 1408 1 1438   ; a chicken
+M 0 1412 1 1438   ; a chicken
+M 0 1413 1 1438   ; a chicken
+M 0 1419 5 1441   ; The Cow
+M 0 1419 5 1441   ; The Cow
+M 0 1419 5 1441   ; The Cow
+D 0 1441 0 1   ; Cow Pasture
+M 0 1437 2 1442   ; Cow Patti
+M 0 1419 5 1442   ; The Cow
+M 0 1437 2 1442   ; Cow Patti
+M 0 1419 5 1442   ; The Cow
+G 1 1413 65535 0   ; a cow bell
+M 0 1461 3 1442   ; The Farmer's daughter
+M 0 1403 1 1446   ; Grandma
+M 0 1455 1 1447   ; A chicken
+M 0 1400 1 1447   ; The Farm Boy
+M 0 1461 3 1451   ; The Farmer's daughter
+M 0 1462 2 1451   ; a skeleton in white
+M 0 1462 2 1451   ; a skeleton in white
+M 0 1461 3 1452   ; The Farmer's daughter
+M 0 1460 1 1453   ; Grandpa
+D 0 1454 2 1   ; The Front Porch
+M 0 1457 1 1459   ; a skeleton in white
+M 0 1406 1 1460   ; a skeleton
+M 0 1401 1 1460   ; a skeleton
+M 0 1472 1 1461   ; The Flame
+G 1 1430 65535 0   ; the Sword of the Phoenix
+G 1 1420 65535 0   ; the leggings of the Phoenix
+O 0 1410 65535 1461   ; a sack of flour
+D 0 1462 0 1   ; The House
+M 0 1459 1 1463   ; The Farmer's wife
+M 0 1404 1 1474   ; Billy-Joe the Farmer
+E 1 1421 65535 16   ; the Vorpal Blade
+G 1 1411 65535 0   ; an ivory scroll
+G 1 4050 65535 0   ; a purple potion
+D 0 1474 1 1   ; A Barn
+D 0 1498 1 0   ; A Dusty Farm Road
+D 0 1499 3 0   ; A Dusty Road
+S

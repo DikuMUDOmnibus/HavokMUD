@@ -1,0 +1,32 @@
+#21310
+Kitchen~
+    Two large ovens dominate this room, along with the stove that occupies the
+room's center. There are large iron pots all over the stove, and there are
+several shelves and drawers in the cabinets along the walls that have other
+kitchen utensils. The ovens are what draw your attention, though. They are
+both along the south wall, but are so large as to stick out several feet into
+the kitchen's center. They are about ten feet tall, and tower above you
+impressively. They look like they would be capable of feeding an army, which
+is good, because apparently that's what they did. There are two exits; east
+through a small door to a hallway, and north to the mess hall.
+~
+84 9 1
+D0
+~
+~
+0 -1 21308 -1
+D1
+~
+door~
+1 -1 21302 -1
+E
+shelves drawers~
+They have kitchen stuff in them. It all looks very dusty.
+~
+E
+utensils~
+You know, knives and spoons and forks and stuff like that. Cheese graters,
+pots and pans of various sizes. Kitchen stuff. Nothing of much interest to
+anyone other than a cook.
+~
+S

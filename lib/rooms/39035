@@ -1,0 +1,22 @@
+#39035
+Bottom of the Underground Cavern~
+   As you continue further along the bottom of the underground cavern you
+notice a thick layer of algae all around you.  You cannot distinguish where
+the cavern wall begins and ends.  Nothing is certain and your only exits appear
+to be to the north and to the west.
+~
+122 73 9
+D0
+~
+door~
+0 0 39034 0
+D3
+~
+door~
+0 0 39032 0
+D4
+~
+algae
+~
+11 0 39051 374
+S

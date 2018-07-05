@@ -1,0 +1,84 @@
+*Zone 34, rooms 5300-5399, last modified by Ashamael
+M 0 5304 1 5301   ; The mummy
+G 1 5317 65535 0   ; A bit of wrapping
+O 0 5316 65535 5301   ; The outer sarcophagus
+P 1 5315 1 5316   ; The inner sarcophagus
+P 1 5308 1 5315   ; a pair of bracers
+P 1 5309 12 5315   ; The medallion of Akinra
+D 0 5301 4 2   ; Sarcophagi of Akinra
+M 0 5305 1 5302   ; The statue
+D 0 5304 1 2   ; Tomb of King Akinra
+D 0 5304 4 2   ; Tomb of King Akinra
+D 0 5304 5 2   ; Tomb of King Akinra
+O 0 5306 65535 5306   ; a sacrificial knife
+M 0 5307 4 5308   ; The mimic
+G 1 5305 65535 0   ; a huge treasure
+G 1 1761 65535 0   ; a Log
+M 0 5307 4 5308   ; The mimic
+M 0 5307 4 5308   ; The mimic
+M 0 5307 4 5308   ; The mimic
+D 0 5308 3 2   ; Treasure room
+M 0 5302 1 5314   ; The stone golem
+E 1 5300 65535 17   ; A stone key
+D 0 5314 2 1   ; Guardian's Room
+D 0 5315 0 1   ; West Corridor
+D 0 5315 2 1   ; West Corridor
+M 0 5301 1 5316   ; The clay golem
+E 1 5302 65535 17   ; a diamond key
+D 0 5316 0 1   ; Guardian's Room
+M 0 5300 1 5317   ; The iron golem
+E 1 5303 65535 17   ; an emerald key
+D 0 5317 2 1   ; Guardian's Room
+D 0 5318 0 1   ; East Corridor
+D 0 5318 2 2   ; East Corridor
+M 0 5306 1 5319   ; Anubis
+E 1 5301 65535 3   ; A glowing key
+D 0 5319 0 2   ; Room of Anubis
+D 0 5320 5 2   ; Culdesac
+M 0 5311 7 5322   ; The guardian naga
+M 0 5311 7 5322   ; The guardian naga
+M 0 5311 7 5322   ; The guardian naga
+M 0 5311 7 5322   ; The guardian naga
+M 0 5311 7 5322   ; The guardian naga
+M 0 5312 20 5326   ; The rabid rat
+M 0 5312 20 5327   ; The rabid rat
+M 0 5312 20 5327   ; The rabid rat
+M 0 5312 20 5327   ; The rabid rat
+M 0 5312 20 5327   ; The rabid rat
+M 0 5312 20 5328   ; The rabid rat
+M 0 5303 1 5331   ; The spectre
+E 1 5311 65535 8   ; mercury's boots
+E 1 5304 65535 14   ; a sapphire bracelet
+O 0 5313 65535 5331   ; a dagger of slicing
+M 0 5310 11 5332   ; The Nile crocodile
+M 0 5310 11 5332   ; The Nile crocodile
+M 0 5312 20 5332   ; The rabid rat
+M 0 5312 20 5333   ; The rabid rat
+M 0 5312 20 5333   ; The rabid rat
+M 0 5312 20 5333   ; The rabid rat
+M 0 5312 20 5333   ; The rabid rat
+M 0 5312 20 5334   ; The rabid rat
+M 0 5312 20 5334   ; The rabid rat
+M 0 5312 20 5334   ; The rabid rat
+M 0 5312 20 5334   ; The rabid rat
+D 0 5334 4 2   ; Maze ?
+M 0 5312 20 5335   ; The rabid rat
+M 0 5308 4 5337   ; A rust monster
+M 0 5310 11 5338   ; The Nile crocodile
+M 0 5310 11 5338   ; The Nile crocodile
+M 0 5310 11 5338   ; The Nile crocodile
+M 0 5310 11 5338   ; The Nile crocodile
+M 0 5310 11 5338   ; The Nile crocodile
+M 0 5310 11 5338   ; The Nile crocodile
+M 0 5312 20 5339   ; The rabid rat
+M 0 5312 20 5339   ; The rabid rat
+M 0 5312 20 5339   ; The rabid rat
+M 0 5312 20 5340   ; The rabid rat
+M 0 5308 4 5343   ; A rust monster
+M 0 5308 4 5343   ; A rust monster
+M 0 5310 11 5344   ; The Nile crocodile
+M 0 5310 11 5344   ; The Nile crocodile
+M 0 5310 11 5344   ; The Nile crocodile
+D 0 5344 5 2   ; Maze ?
+M 0 5308 4 5349   ; A rust monster
+S

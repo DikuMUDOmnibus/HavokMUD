@@ -1,0 +1,125 @@
+*Zone 20, rooms 2701-2820, last modified by Ashamael
+D 0 2701 0 0   ; Edge of the Astral Void
+D 0 2701 1 0   ; Edge of the Astral Void
+D 0 2701 2 0   ; Edge of the Astral Void
+D 0 2701 4 0   ; Edge of the Astral Void
+D 0 2702 0 0   ; Formless Void of the Astral Plane
+D 0 2702 1 0   ; Formless Void of the Astral Plane
+D 0 2702 2 0   ; Formless Void of the Astral Plane
+D 0 2702 3 0   ; Formless Void of the Astral Plane
+D 0 2702 4 0   ; Formless Void of the Astral Plane
+D 0 2703 3 0   ; Pulsing Red Area
+D 0 2704 0 0   ; Strange Campsite
+D 0 2705 0 0   ; Wide Expanse
+D 0 2705 1 0   ; Wide Expanse
+D 0 2705 5 0   ; Wide Expanse
+M 0 2703 1 2706   ; A githyanki knight
+E 1 2701 65535 5   ; a suit of banded mail
+E 1 2700 65535 16   ; a silvery sword
+D 0 2706 1 0   ; Split in the Path
+D 0 2706 2 0   ; Split in the Path
+D 0 2706 3 0   ; Split in the Path
+M 0 2713 2 2707   ; An invisible stalker
+M 0 2716 1 2707   ; A color pool
+D 0 2707 3 0   ; Edge of the Astral Plane
+D 0 2707 4 0   ; Edge of the Astral Plane
+M 0 2717 1 2708   ; A color pool
+D 0 2708 0 0   ; Astral Plane
+D 0 2708 1 0   ; Astral Plane
+D 0 2708 2 0   ; Astral Plane
+D 0 2708 3 0   ; Astral Plane
+M 0 2718 1 2709   ; A color pool
+D 0 2709 2 0   ; Astral Plane
+M 0 2711 2 2710   ; A red slaadi
+E 1 2706 65535 13   ; a loincloth
+M 0 2720 1 2710   ; A color pool
+D 0 2710 0 0   ; Astral Plane
+D 0 2710 1 0   ; Astral Plane
+D 0 2710 2 0   ; Astral Plane
+M 0 2701 3 2711   ; A githyanki soldier
+E 1 2701 65535 5   ; a suit of banded mail
+E 1 2700 65535 16   ; a silvery sword
+M 0 2719 1 2711   ; A color pool
+D 0 2711 0 0   ; Astral Plane
+D 0 2711 1 0   ; Astral Plane
+D 0 2711 2 0   ; Astral Plane
+M 0 2721 1 2712   ; A color pool
+D 0 2712 0 0   ; Astral Plane
+D 0 2712 1 0   ; Astral Plane
+D 0 2712 2 0   ; Astral Plane
+D 0 2712 3 0   ; Astral Plane
+D 0 2712 4 0   ; Astral Plane
+M 0 2722 1 2713   ; A color pool
+D 0 2713 3 0   ; Astral Plane
+M 0 2723 1 2714   ; A color pool
+D 0 2714 2 0   ; Astral Plane
+M 0 2724 1 2715   ; A color pool
+D 0 2715 1 0   ; Astral Plane
+M 0 2725 1 2716   ; A color pool
+D 0 2716 0 0   ; Astral Plane
+D 0 2716 1 0   ; Astral Plane
+D 0 2716 2 0   ; Astral Plane
+D 0 2716 3 0   ; Astral Plane
+D 0 2716 5 0   ; Astral Plane
+M 0 2714 1 2717   ; An astrally projecting senior mindflayer
+E 1 7201 65535 16   ; the large mace
+D 0 2717 2 0   ; Astral Plane
+M 0 2726 1 2718   ; A color pool
+D 0 2718 3 0   ; Astral Plane
+D 0 2719 0 0   ; Astral Plane
+M 0 2727 1 2720   ; A color pool
+D 0 2720 1 0   ; Astral Plane
+D 0 2720 4 0   ; Astral Plane
+D 0 2721 0 0   ; Astral Plane
+D 0 2721 1 0   ; Astral Plane
+D 0 2721 2 0   ; Astral Plane
+D 0 2721 3 0   ; Astral Plane
+D 0 2721 4 0   ; Astral Plane
+D 0 2721 5 0   ; Astral Plane
+M 0 2728 1 2722   ; A color pool
+M 0 2702 1 2722   ; A githyanki mage
+E 1 2703 65535 12   ; a vile robe
+E 1 2704 65535 17   ; an old scroll
+G 1 2705 65535 0   ; a dirty potion
+D 0 2722 2 0   ; Astral Plane
+M 0 2729 1 2723   ; A color pool
+D 0 2723 3 0   ; Astral Plane
+M 0 2731 1 2724   ; A color pool
+D 0 2724 0 0   ; Astral Plane
+M 0 2730 1 2725   ; A color pool
+D 0 2725 1 0   ; Astral Plane
+M 0 2732 1 2726   ; A color pool
+D 0 2726 5 0   ; Astral Plane
+M 0 2713 2 2727   ; An invisible stalker
+E 1 3053 65535 17   ; a wand of invisibility
+M 0 2712 1 2727   ; An insectoid-like mezzodaemon
+E 1 6111 65535 11   ; a large round shield
+E 1 3090 65535 16   ; a two-handed sword
+G 1 3056 65535 0   ; a golden potion
+M 0 2736 1 2727   ; A color pool
+D 0 2727 0 0   ; Astral Plane
+M 0 2734 1 2728   ; A color pool
+M 0 2701 3 2728   ; A githyanki soldier
+E 1 2701 65535 5   ; a suit of banded mail
+E 1 2700 65535 16   ; a silvery sword
+D 0 2728 5 0   ; Edge of the Astral Plane
+M 0 2735 1 2729   ; A color pool
+D 0 2729 2 0   ; Formless Void of the Astral Plane
+M 0 2733 1 2730   ; A color pool
+D 0 2730 1 0   ; Astral Plane.
+D 0 2730 3 0   ; Astral Plane.
+M 0 2700 1 2731   ; A berbalang with bat-like wings
+E 1 3056 65535 17   ; a golden potion
+M 0 2737 1 2731   ; A color pool
+D 0 2731 3 0   ; Astral Plane
+M 0 2701 3 2732   ; A githyanki soldier
+E 1 2701 65535 5   ; a suit of banded mail
+E 1 2700 65535 16   ; a silvery sword
+M 0 2711 2 2732   ; A red slaadi
+E 1 2706 65535 13   ; a loincloth
+E 1 2707 65535 17   ; a red potion
+M 0 2715 1 2732   ; A color pool
+D 0 2732 0 0   ; Astral Plane
+M 0 2738 1 2733   ; A color pool
+M 0 2739 1 2734   ; A color pool
+S

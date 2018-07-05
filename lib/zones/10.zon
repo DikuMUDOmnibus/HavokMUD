@@ -1,0 +1,152 @@
+*Zone 10, rooms 1100-1199, last modified by Jopa
+M 0 1162 1 1102   ; A corrupt shiriff
+E 1 11 65535 5   ; a scale mail training jacket
+O 0 1102 65535 1103   ; a sign
+M 0 1018 1 1105   ; the shopkeeper
+G 1 8121 65535 0   ; a leather satchel
+G 1 8121 65535 0   ; a leather satchel
+G 1 6004 65535 0   ; a hooded brass lantern
+M 0 1004 2 1108   ; a nursemaid
+M 0 1004 2 1108   ; a nursemaid
+M 0 1003 6 1108   ; a toddler
+M 0 1003 6 1108   ; a toddler
+M 0 1003 6 1108   ; a toddler
+M 0 1003 6 1108   ; a toddler
+M 0 1003 6 1108   ; a toddler
+M 0 1003 6 1108   ; a toddler
+M 0 1010 8 1110   ; a shiriff
+E 1 3043 65535 5   ; a leather jacket
+E 1 1109 65535 16   ; a tiny dagger
+M 0 1010 8 1110   ; a shiriff
+E 1 3043 65535 5   ; a leather jacket
+M 0 1011 4 1110   ; a shiriff
+E 1 3043 65535 5   ; a leather jacket
+D 0 1110 1 0   ; Shiriff Post of the Eastern Shire
+M 0 1012 1 1111   ; the Thain
+E 1 1108 65535 13   ; the thain girth
+E 1 3022 65535 16   ; a long sword
+D 0 1111 3 0   ; Thain's Office
+M 0 1028 4 1114   ; a country bumpkin
+G 1 255 65535 0   ; a staff of cure light wounds
+M 0 1028 4 1115   ; a country bumpkin
+M 0 1013 1 1116   ; the Innkeeper
+G 1 1110 65535 0   ; an egg
+G 1 3002 65535 0   ; a bottle
+G 1 3100 65535 0   ; a cup
+M 0 1023 5 1116   ; a seasoned adventurer
+M 0 1023 5 1116   ; a seasoned adventurer
+M 0 1024 2 1116   ; a local gossip
+M 0 1024 2 1116   ; a local gossip
+M 0 1027 7 1116   ; a chic urbanite
+M 0 1027 7 1116   ; a chic urbanite
+M 0 1027 7 1116   ; a chic urbanite
+M 0 1021 1 1117   ; the battle master
+G 1 4 65535 0   ; a small training sword
+M 0 1026 3 1117   ; a trainee
+E 1 3021 65535 16   ; a small sword
+M 0 1026 3 1117   ; a trainee
+E 1 3021 65535 16   ; a small sword
+M 0 1026 3 1117   ; a trainee
+E 1 3021 65535 16   ; a small sword
+M 0 1010 8 1119   ; a shiriff
+E 1 3043 65535 5   ; a leather jacket
+E 1 1109 65535 16   ; a tiny dagger
+M 0 1010 8 1119   ; a shiriff
+E 1 3043 65535 5   ; a leather jacket
+M 0 1011 4 1119   ; a shiriff
+E 1 3043 65535 5   ; a leather jacket
+M 0 1019 1 1121   ; the grocer
+G 1 1103 65535 0   ; a pipeweed bread
+M 0 1015 6 1123   ; the mill worker
+M 0 1015 6 1123   ; the mill worker
+M 0 1015 6 1124   ; the mill worker
+M 0 1015 6 1124   ; the mill worker
+M 0 1015 6 1124   ; the mill worker
+M 0 1014 1 1124   ; the Miller
+D 0 1124 2 0   ; The Watermill
+M 0 1015 6 1125   ; the mill worker
+M 0 1025 1 1128   ; a halfling beauty
+M 0 1000 1 1128   ; the Elven Wizard
+E 1 1100 65535 0   ; the rainbow staff
+E 1 1104 65535 12   ; a silvery cloak
+O 0 504 65535 1130   ; The peach tree
+D 0 1130 3 2   ; Western end of grassy field
+D 0 1134 0 0   ; Delving Lane
+D 0 1135 1 0   ; Bag End
+M 0 1016 1 1136   ; the elven warrior
+E 1 3075 65535 6   ; a bronze helmet
+E 1 1106 65535 16   ; an elven bow
+M 0 1017 1 1136   ; the dwarven prince
+E 1 3046 65535 5   ; a bronze breast plate
+E 1 1107 65535 16   ; a mithril axe
+G 1 107 65535 0   ; A dwarven holy symbol
+O 0 1101 65535 1137   ; Sting
+D 0 1137 3 0   ; Pantry
+M 0 1008 1 1138   ; a bull
+M 0 1002 1 1141   ; Farmer Gamgee
+M 0 1005 2 1142   ; a cow
+M 0 1005 2 1142   ; a cow
+M 0 1009 4 1142   ; a horse
+M 0 1009 4 1142   ; a horse
+M 0 1009 4 1142   ; a horse
+M 0 1009 4 1142   ; a horse
+M 0 1007 3 1143   ; a chicken
+G 1 1110 65535 0   ; an egg
+M 0 1007 3 1143   ; a chicken
+G 1 1110 65535 0   ; an egg
+M 0 1007 3 1143   ; a chicken
+G 1 1110 65535 0   ; an egg
+M 0 1171 1 1144   ; The halfling youth
+E 1 1101 65535 16   ; Sting
+G 1 1101 65535 0   ; Sting
+G 1 1101 65535 0   ; Sting
+M 0 1030 1 1144   ; the Innkeeper
+G 1 12172 65535 0   ; a wooden mug
+G 1 12174 65535 0   ; a tin drinking mug
+M 0 1023 5 1144   ; a seasoned adventurer
+M 0 1023 5 1144   ; a seasoned adventurer
+M 0 1023 5 1144   ; a seasoned adventurer
+M 0 1027 7 1144   ; a chic urbanite
+M 0 1027 7 1144   ; a chic urbanite
+M 0 1027 7 1144   ; a chic urbanite
+M 0 1027 7 1144   ; a chic urbanite
+M 0 1010 8 1145   ; a shiriff
+E 1 3043 65535 5   ; a leather jacket
+E 1 1109 65535 16   ; a tiny dagger
+M 0 1010 8 1145   ; a shiriff
+E 1 3043 65535 5   ; a leather jacket
+M 0 1011 4 1145   ; a shiriff
+E 1 3043 65535 5   ; a leather jacket
+M 0 1010 8 1153   ; a shiriff
+E 1 3043 65535 5   ; a leather jacket
+E 1 1109 65535 16   ; a tiny dagger
+M 0 1010 8 1153   ; a shiriff
+E 1 3043 65535 5   ; a leather jacket
+M 0 1011 4 1153   ; a shiriff
+E 1 3043 65535 5   ; a leather jacket
+M 0 1028 4 1154   ; a country bumpkin
+M 0 1028 4 1155   ; a country bumpkin
+M 0 1031 1 1157   ; the receptionist
+D 0 1158 1 2   ; Thick Undergrowth 
+D 0 1158 3 2   ; Thick Undergrowth 
+M 0 1168 1 1164   ; The Drunk
+M 0 1167 1 1164   ; The Drunk
+M 0 1165 1 1164   ; The Innkeeper
+M 0 1161 1 1164   ; A corrupt shiriff
+M 0 1170 1 1165   ; The Madame
+M 0 1169 2 1165   ; The brothel girl
+M 0 1169 2 1165   ; The brothel girl
+M 0 1163 1 1172   ; Saruman the Wizard
+E 1 1162 65535 6   ; a white pointy hat
+E 1 1163 65535 12   ; a white robe
+D 0 1172 5 0   ; Saruman's Room
+M 0 1164 4 1173   ; A oversized orc
+M 0 1164 4 1173   ; A oversized orc
+M 0 1164 4 1176   ; A oversized orc
+M 0 1164 4 1176   ; A oversized orc
+M 0 1172 1 1177   ; A corrupt shiriff
+M 0 1173 1 1177   ; A corrupt shiriff
+M 0 1174 1 1177   ; A corrupt shiriff
+D 0 1178 1 2   ; Thick Undergrowth 
+D 0 1178 3 2   ; Thick Undergrowth 
+S

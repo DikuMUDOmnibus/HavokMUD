@@ -1,0 +1,25 @@
+#21318
+Hallway~
+    You are in the south end of a hallway. There is an opening in the west wall,
+and it seems to lead into some kind of torture room, though it's hard to tell if it
+is occupied from here. There is a strong looking door made of iron bars set in the
+eastern wall, with a large metal locking mechanism and handle. The hall also
+extends to the north, beyond the range of your light source. There are sconces
+on the wall here, but they have no torches in them now. The corridor here, as 
+everything in this area, is cut from solid stone.
+~
+84 9 0
+D0
+~
+~
+0 -1 21317 -1
+D1
+~
+cell bars
+~
+39 21270 21314 -1
+D3
+~
+~
+0 -1 21321 -1
+S

@@ -1,0 +1,23 @@
+#21275
+At the gate~
+    Long ago, this road must have been a thoroughfare, as it is easily forty
+feet across. The stones that form it are still visible through the grass that
+seems to have grown up through the cracks here and there, nourished by the
+light that comes through the tunnel entrance to the south. The mouth where the
+road enters the mountain here is blocked by a series of crosshatched bars of
+a strange black metal. Each bar is a little less than two inches in width, and
+they are spaced two feet apart, creating a square grid through which you can
+see the countryside beyond. In the center of this is a gate, easily twenty feet
+across and high, of the same crosshatched material, set into a rectangular
+metal frame. There is no apparent lock on the gate.
+~
+84 9 1
+D0
+~
+~
+0 -1 21274 -1
+D2
+~
+gate~
+39 21271 21276 -1
+S

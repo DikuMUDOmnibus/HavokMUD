@@ -1,0 +1,35 @@
+#21289
+Barracks~
+   This room clearly serves as a military barracks, where men (certainly some
+kind of humanoid, from the shape of the bunks) sleep and spend some of their
+free time.  There are several rows of bunks here, stacked two high for efficiency.
+At the foot of each is a locker, all of which hang open, most of which are
+twisted and battered, apparently the attempts at looting have been successful.
+Whoever cleaned out whatever was in these lockers looks to have spent a great
+deal of time in this area, not a single locker remains unopened.  You can leave
+east and west to other parts of the barracks, or north to a hallway.
+~
+84 9 1
+D0
+~
+~
+0 -1 21288 -1
+D1
+~
+~
+0 -1 21282 -1
+D3
+~
+~
+0 -1 21296 -1
+E
+lockers~
+The lockers here are in pretty bad shape. Whoever got into them worked them
+over pretty good in order to do so.
+~
+E
+bunks~
+The bunks are undamaged, but don't look like they've been used in the past
+few centuries.
+~
+S

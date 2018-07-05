@@ -1,0 +1,29 @@
+#3677
+giant hornet~
+the giant hornet~
+The giant hornet hovers here.
+~
+The giant hornet hits you very hard!
+That REALLY hurt!
+You wish you wounds would stop BLEEDING so much!
+You feel less perceptive.
+Welcome to DikuMUD.
+
+0) Exit from DikuMUD.
+1) Enter the game.
+2) Enter Desciption.
+3) Read the background story
+4) Change password.
+ 
+     Make your choice:
+~
+~
+~
+96  0  0  1.0 
+ 5  15  4  29  1d4+0 
+ -1  0  1  12 
+ 8  8  1  0  0  0 
+ 0 
+~
+~
+~

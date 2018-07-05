@@ -1,0 +1,98 @@
+*Zone 25, rooms 3400-3499, last modified by Zaron
+D 0 3400 0 2   ; A Gravel Road on the Graveyard
+M 0 3401 4 3405   ; A Skeleton
+E 1 3401 65535 16   ; a rusty sword
+D 0 3405 2 0   ; On the steps of the Old Church
+M 0 3401 4 3408   ; A Skeleton
+E 1 3401 65535 16   ; a rusty sword
+M 0 3401 4 3410   ; A Skeleton
+E 1 3401 65535 16   ; a rusty sword
+D 0 3414 0 0   ; The Foyer
+M 0 3403 1 3415   ; A zombie
+E 1 3402 65535 16   ; A normal sword
+M 0 3407 1 3418   ; A large bugbear
+E 1 3409 65535 16   ; a large spear
+D 0 3418 0 0   ; End of the Hallway
+D 0 3418 1 0   ; End of the Hallway
+D 0 3418 2 0   ; End of the Hallway
+M 0 3405 2 3419   ; An ogre
+E 1 3408 65535 5   ; a loincloth
+E 1 3409 65535 16   ; a large spear
+M 0 221 1 3419   ; a bugbear
+E 1 3409 65535 16   ; a large spear
+M 0 3406 1 3419   ; An ogre chieftain
+E 1 3408 65535 5   ; a loincloth
+E 1 3409 65535 16   ; a large spear
+G 1 3414 65535 0   ; a grey scroll
+D 0 3419 2 0   ; The Schoolroom
+M 0 3405 2 3420   ; An ogre
+E 1 3408 65535 5   ; a loincloth
+E 1 3409 65535 16   ; a large spear
+D 0 3420 0 0   ; The Schoolroom
+D 0 3421 3 0   ; The Bottom of the Belltower
+D 0 3421 4 0   ; The Bottom of the Belltower
+M 0 3418 1 3422   ; A trembling hunchback
+E 1 3400 65535 17   ; a candlestick
+M 0 3404 3 3423   ; A wight
+E 1 3403 65535 16   ; the old sword
+G 1 3411 65535 0   ; a grey key
+M 0 3402 7 3435   ; A Ghoul
+M 0 3402 7 3439   ; A Ghoul
+M 0 3413 4 3443   ; The minotaur
+G 1 3417 65535 0   ; a light brown potion
+M 0 3402 7 3444   ; A Ghoul
+E 1 3419 65535 2   ; a brass ring
+M 0 3402 7 3446   ; A Ghoul
+D 0 3446 5 1   ; Behind Altar
+D 0 3448 3 1   ; The Priest's Closet
+M 0 3413 4 3449   ; The minotaur
+G 1 3406 65535 0   ; a tiny crown
+G 1 3419 65535 0   ; a brass ring
+G 1 3406 65535 0   ; a tiny crown
+G 1 3417 65535 0   ; a light brown potion
+O 0 3404 65535 3449   ; an old chest rests here
+D 0 3449 1 1   ; The Priest's Hidden Closet!
+D 0 3451 4 1   ; Beneath the Church
+M 0 3402 7 3452   ; A Ghoul
+M 0 3413 4 3453   ; The minotaur
+G 1 3417 65535 0   ; a light brown potion
+M 0 3402 7 3455   ; A Ghoul
+M 0 3402 7 3455   ; A Ghoul
+M 0 3413 4 3458   ; The minotaur
+G 1 3417 65535 0   ; a light brown potion
+M 0 3417 1 3458   ; A large troll
+E 1 3415 65535 6   ; the helm of sight
+M 0 3425 1 3461   ; A froghemoth
+G 1 3407 65535 0   ; an ancient longsword
+M 0 3404 3 3466   ; A wight
+M 0 3404 3 3466   ; A wight
+M 0 3426 1 3467   ; The skeleton King
+G 1 3413 65535 0   ; a dark green potion
+M 0 3409 2 3469   ; A Ghast
+G 1 3414 65535 0   ; a grey scroll
+M 0 3409 2 3469   ; A Ghast
+G 1 3414 65535 0   ; a grey scroll
+M 0 3416 1 3473   ; A Spectre
+G 1 3413 65535 0   ; a dark green potion
+M 0 3412 1 3477   ; The Medusa
+G 1 3413 65535 0   ; a dark green potion
+M 0 3408 1 3483   ; The Ghost
+G 1 3413 65535 0   ; a dark green potion
+M 0 3414 1 3484   ; A Spirit Naga
+M 0 3411 1 3485   ; The Very Evil Lich
+E 1 3416 65535 0   ; a brass sceptre
+M 0 3420 1 3487   ; Rilke the Demon
+M 0 3422 1 3489   ; Mahat the Devil
+M 0 3421 1 3490   ; Balor the Demon
+M 0 3423 1 3492   ; Dogretch the Evil Devil
+M 0 3419 1 3493   ; A Vampire
+M 0 3415 1 3494   ; A Nightmare
+O 0 3418 65535 3494   ; a pair of sneaky boots
+M 0 3410 2 3495   ; A Hell Hound
+M 0 3410 2 3495   ; A Hell Hound
+D 0 3495 0 0   ; Guardians Chamber
+M 0 3424 1 3496   ; Slavalous The Devil
+E 1 3410 65535 3   ; a hero's medal
+E 1 3405 65535 17   ; the ruby rod
+D 0 3497 4 2   ; Jail
+S

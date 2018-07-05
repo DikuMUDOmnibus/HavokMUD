@@ -1,0 +1,257 @@
+*Zone 70, rooms 15901-16099, last modified by Jopa
+M 0 15843 5 15904   ; the Gelfling Guardsman
+G 1 15826 65535 0   ; A Skexie Ankh
+G 1 15825 65535 0   ; Skexie Gauntlets
+G 1 15828 65535 0   ; A Skexie Helm
+M 0 15848 5 15904   ; the Warrior Gelfling
+M 0 15844 1 15910   ; the Gelfling Cleric
+G 1 15832 65535 0   ; A Skexie Medallion
+G 1 15829 65535 0   ; A Skexie Robe
+M 0 15848 5 15910   ; the Warrior Gelfling
+M 0 15837 4 15911   ; the Gelfling Child
+M 0 15843 5 15911   ; the Gelfling Guardsman
+M 0 15854 1 15912   ; Driscol the Gelfling
+G 1 15827 65535 0   ; Skexie Thieves Boots
+M 0 15847 1 15912   ; the Mad Gelfling
+M 0 15845 1 15913   ; Gilkey
+M 0 15852 1 15913   ; Dasillea the Gelfling
+G 1 15813 65535 0   ; a Gelfling Cloak
+M 0 15837 4 15914   ; the Gelfling Child
+M 0 15848 5 15921   ; the Warrior Gelfling
+M 0 15849 3 15922   ; the Beautiful Gelfling
+G 1 15815 65535 0   ; a red tulip
+M 0 15853 1 15922   ; Thrack the Gelfling
+G 1 15824 65535 0   ; a sexy pair of silk boxers
+M 0 15840 1 15923   ; the Polkadotted Bechemel
+M 0 15843 5 15925   ; the Gelfling Guardsman
+M 0 15841 1 15925   ; the Herringbone Bechemel
+E 1 15819 65535 12   ; a bechemel hide
+M 0 15849 3 15925   ; the Beautiful Gelfling
+G 1 15814 65535 0   ; a yellow tulip
+G 1 15823 65535 0   ; a sexy silk teddy
+G 1 15817 65535 0   ; a black tulip
+M 0 15839 1 15925   ; the Striped Bechemel
+E 1 15830 65535 5   ; A Black Skexie Suit
+M 0 15837 4 15930   ; the Gelfling Child
+M 0 15848 5 15931   ; the Warrior Gelfling
+M 0 15855 1 15931   ; Horgg the Gelfling
+G 1 15820 65535 0   ; Horgg's Pied Piper flute
+M 0 15846 1 15931   ; the Gelfling Weaponsmaster
+G 1 15812 65535 0   ; an ice pike
+M 0 15848 5 15933   ; the Warrior Gelfling
+M 0 15851 1 15933   ; Feuq the Gelfling
+G 1 15821 65535 0   ; a suit of feathery body armor
+M 0 15849 3 15933   ; the Beautiful Gelfling
+G 1 15822 65535 0   ; a feathery trinket
+G 1 15816 65535 0   ; a blue tulip
+M 0 15843 5 15950   ; the Gelfling Guardsman
+M 0 15837 4 15950   ; the Gelfling Child
+M 0 15843 5 15950   ; the Gelfling Guardsman
+G 1 15825 65535 0   ; Skexie Gauntlets
+G 1 15826 65535 0   ; A Skexie Ankh
+G 1 15828 65535 0   ; A Skexie Helm
+M 0 15850 1 15950   ; the Porgi
+G 1 15818 65535 0   ; a pair of Gelfling snow boots
+M 0 16038 2 16012   ; A stirge
+M 0 16034 2 16017   ; A gray goblin soldier
+M 0 503 9 16018   ; the bodyguard
+M 0 16032 6 16019   ; A gray goblin
+M 0 16038 2 16020   ; A stirge
+O 0 506 65535 16024   ; The mountain pine
+M 0 503 9 16027   ; the bodyguard
+M 0 16027 1 16029   ; A paladin
+E 1 18209 65535 5   ; a metal breast plate
+E 1 4051 65535 6   ; a metal helmet
+E 1 18214 65535 7   ; a pair of metal leggings
+E 1 18212 65535 9   ; a pair of metal gauntlets
+E 1 18215 65535 10   ; a pair of metal sleeves
+E 1 16021 65535 11   ; A glass shield
+E 1 1517 65535 16   ; a long sword
+O 0 1517 65535 16029   ; a long sword
+M 0 16028 2 16031   ; A small gray goblin
+E 1 3076 65535 6   ; a leather cap
+M 0 16028 2 16031   ; A small gray goblin
+E 1 16033 65535 17   ; A centipede sandwich
+O 0 16034 65535 16031   ; A piece of bone
+O 0 16034 65535 16032   ; A piece of bone
+O 0 16035 65535 16032   ; A skull
+O 0 16033 65535 16032   ; A centipede sandwich
+M 0 16030 10 16033   ; A gray goblin girl
+O 0 16034 65535 16033   ; A piece of bone
+O 0 16035 65535 16033   ; A skull
+O 0 16033 65535 16033   ; A centipede sandwich
+M 0 16030 10 16034   ; A gray goblin girl
+O 0 16034 65535 16034   ; A piece of bone
+M 0 16200 11 16035   ; the ogre
+O 0 16034 65535 16035   ; A piece of bone
+O 0 16033 65535 16035   ; A centipede sandwich
+O 0 16035 65535 16035   ; A skull
+M 0 16033 3 16036   ; A gray goblin guard
+E 1 3076 65535 6   ; a leather cap
+O 0 16035 65535 16036   ; A skull
+O 0 16036 65535 16036   ; A scrap of cloth
+O 0 16034 65535 16036   ; A piece of bone
+M 0 16029 2 16037   ; A small gray goblin
+M 0 16030 10 16037   ; A gray goblin girl
+M 0 16030 10 16037   ; A gray goblin girl
+M 0 16030 10 16037   ; A gray goblin girl
+M 0 16200 11 16037   ; the ogre
+E 1 3041 65535 5   ; a chain mail shirt
+E 1 3074 65535 9   ; a pair of studded leather gloves
+O 0 16033 65535 16038   ; A centipede sandwich
+O 0 16034 65535 16038   ; A piece of bone
+O 0 16035 65535 16038   ; A skull
+M 0 16030 10 16039   ; A gray goblin girl
+M 0 16032 6 16040   ; A gray goblin
+E 1 3076 65535 6   ; a leather cap
+M 0 16030 10 16040   ; A gray goblin girl
+M 0 16200 11 16040   ; the ogre
+M 0 16200 11 16040   ; the ogre
+O 0 16034 65535 16040   ; A piece of bone
+O 0 16033 65535 16040   ; A centipede sandwich
+M 0 16200 11 16041   ; the ogre
+O 0 16034 65535 16041   ; A piece of bone
+M 0 16031 2 16042   ; A white centipede
+M 0 16031 2 16042   ; A white centipede
+O 0 16035 65535 16042   ; A skull
+O 0 16036 65535 16042   ; A scrap of cloth
+M 0 16030 10 16043   ; A gray goblin girl
+M 0 16200 11 16043   ; the ogre
+O 0 16033 65535 16043   ; A centipede sandwich
+O 0 16034 65535 16043   ; A piece of bone
+M 0 16030 10 16044   ; A gray goblin girl
+M 0 16032 6 16046   ; A gray goblin
+E 1 3076 65535 6   ; a leather cap
+M 0 16030 10 16046   ; A gray goblin girl
+O 0 16036 65535 16046   ; A scrap of cloth
+M 0 16033 3 16047   ; A gray goblin guard
+E 1 3076 65535 6   ; a leather cap
+M 0 16033 3 16047   ; A gray goblin guard
+E 1 3076 65535 6   ; a leather cap
+O 0 16036 65535 16047   ; A scrap of cloth
+D 0 16048 1 2   ; The chief's area
+D 0 16049 2 2   ; The chief's Room
+D 0 16049 3 2   ; The chief's Room
+D 0 16050 0 2   ; The treasure room
+D 0 16050 4 1   ; The treasure room
+M 0 16037 7 16051   ; A dwarven worker
+E 1 16045 65535 16   ; a mining pick
+E 1 8121 65535 17   ; a leather satchel
+P 1 16041 4 8121   ; A small diamond
+M 0 16037 7 16052   ; A dwarven worker
+E 1 16045 65535 16   ; a mining pick
+G 1 16041 65535 0   ; A small diamond
+M 0 16037 7 16052   ; A dwarven worker
+E 1 16045 65535 16   ; a mining pick
+G 1 16041 65535 0   ; A small diamond
+M 0 16022 3 16052   ; A warrior
+M 0 16022 3 16054   ; A warrior
+M 0 16037 7 16054   ; A dwarven worker
+M 0 16022 3 16054   ; A warrior
+O 0 16047 65535 16054   ; a wheelbarrow
+O 0 16043 65535 16054   ; a gold nugget
+M 0 5012 2 16055   ; The dark dwarf
+E 1 16045 65535 16   ; a mining pick
+M 0 16037 7 16055   ; A dwarven worker
+O 0 16045 65535 16055   ; a mining pick
+O 0 16046 65535 16055   ; A shovel
+O 0 16048 65535 16055   ; A brace
+M 0 16037 7 16056   ; A dwarven worker
+E 1 16045 65535 16   ; a mining pick
+G 1 16042 65535 0   ; a diamond gem
+G 1 16046 65535 0   ; A shovel
+O 0 16049 65535 16056   ; A cog
+M 0 16037 7 16057   ; A dwarven worker
+O 0 16041 65535 16057   ; A small diamond
+O 0 16047 65535 16057   ; a wheelbarrow
+O 0 16048 65535 16057   ; A brace
+O 0 16043 65535 16057   ; a gold nugget
+O 0 16048 65535 16058   ; A brace
+O 0 16049 65535 16058   ; A cog
+O 0 16043 65535 16058   ; a gold nugget
+O 0 16044 65535 16058   ; A large gold nugget
+M 0 5012 2 16059   ; The dark dwarf
+E 1 16045 65535 16   ; a mining pick
+O 0 16048 65535 16059   ; A brace
+O 0 16049 65535 16059   ; A cog
+M 0 16048 5 16061   ; A hill giant
+M 0 16048 5 16061   ; A hill giant
+M 0 16043 4 16062   ; A hill giant
+M 0 16043 4 16062   ; A hill giant
+M 0 16043 4 16062   ; A hill giant
+M 0 16043 4 16062   ; A hill giant
+D 0 16062 1 0   ; A large tunnel
+O 0 16054 65535 16063   ; A huge pile of trash
+D 0 16064 3 0   ; A huge cavern
+M 0 16048 5 16065   ; A hill giant
+M 0 16048 5 16065   ; A hill giant
+M 0 16054 3 16066   ; A hill giant
+M 0 16053 1 16066   ; A polar bear
+M 0 16055 2 16066   ; A hill giant
+M 0 16055 2 16066   ; A hill giant
+M 0 16054 3 16066   ; A hill giant
+M 0 16054 3 16066   ; A hill giant
+M 0 16051 1 16066   ; The giant queen
+E 1 16059 65535 3   ; A silver necklace
+E 1 16061 65535 6   ; A silver crown
+M 0 16050 1 16066   ; The giant king
+E 1 16060 65535 3   ; A golden necklace
+E 1 16062 65535 6   ; A golden crown
+M 0 16048 5 16067   ; A hill giant
+D 0 16067 0 0   ; A large stone hallway
+D 0 16068 0 0   ; A large stone hallway
+M 0 16042 6 16069   ; A hill giant
+M 0 16042 6 16069   ; A hill giant
+M 0 16052 1 16069   ; The giant cook
+M 0 16049 1 16070   ; A dwarven prisoner
+O 0 16056 65535 16070   ; A large torch
+O 0 16057 65535 16070   ; A salted corpse
+O 0 16058 65535 16070   ; A salted corpse
+M 0 16057 1 16071   ; A quasit
+M 0 16056 1 16071   ; A drow priestess
+E 1 16070 65535 3   ; A diamond necklace
+E 1 16064 65535 5   ; A drow chain shirt
+E 1 16066 65535 7   ; A pair of drow chain leggings
+E 1 16067 65535 8   ; A pair of drow-chain boots
+E 1 16069 65535 9   ; a pair of drow chain gauntlets
+E 1 16065 65535 10   ; A pair of drow chain sleeves
+E 1 16068 65535 11   ; A small drow shield
+E 1 16063 65535 16   ; A drow longsword
+G 1 16042 65535 0   ; a diamond gem
+D 0 16071 2 0   ; A guest's quarters
+D 0 16072 2 0   ; A guest's quarters
+M 0 16042 6 16073   ; A hill giant
+M 0 16042 6 16073   ; A hill giant
+M 0 16047 2 16074   ; A hill giant
+M 0 16047 2 16074   ; A hill giant
+M 0 16045 3 16074   ; A hill giant
+M 0 16045 3 16074   ; A hill giant
+M 0 16045 3 16074   ; A hill giant
+M 0 16042 6 16074   ; A hill giant
+M 0 16042 6 16074   ; A hill giant
+O 0 16055 65535 16074   ; A bear skin
+M 0 16039 1 16085   ; A roc
+G 1 16022 65535 0   ; BrittleMace
+G 1 16053 65535 0   ; A huge pile of gold coins
+G 1 16052 65535 0   ; a huge diamond
+G 1 16053 65535 0   ; A huge pile of gold coins
+G 1 16052 65535 0   ; a huge diamond
+M 0 16041 4 16091   ; A harpy sentry
+M 0 16041 4 16091   ; A harpy sentry
+M 0 16040 12 16091   ; A harpy
+M 0 16040 12 16091   ; A harpy
+M 0 16041 4 16093   ; A harpy sentry
+M 0 16041 4 16093   ; A harpy sentry
+M 0 16040 12 16093   ; A harpy
+M 0 16040 12 16093   ; A harpy
+G 1 16015 65535 0   ; An iron fist
+M 0 16040 12 16094   ; A harpy
+M 0 16040 12 16094   ; A harpy
+M 0 16040 12 16094   ; A harpy
+M 0 16040 12 16095   ; A harpy
+M 0 16040 12 16095   ; A harpy
+M 0 16040 12 16096   ; A harpy
+M 0 16040 12 16096   ; A harpy
+M 0 16040 12 16097   ; A harpy
+D 0 16099 5 1   ; A trashpile
+S

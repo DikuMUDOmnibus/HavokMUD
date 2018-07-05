@@ -1,0 +1,80 @@
+*Zone 82, rooms 21101-21199, last modified by Coal
+M 0 5001 1 21102   ; The dervish
+E 1 3022 65535 16   ; a long sword
+G 1 3055 65535 0   ; a white potion
+M 0 5020 1 21102   ; The sand worm
+G 1 255 65535 0   ; a staff of cure light wounds
+G 1 3057 65535 0   ; a silver potion
+M 0 5000 1 21103   ; The dervish
+E 1 7211 65535 16   ; a short sword
+M 0 21100 2 21112   ; a desert coyote
+M 0 21101 1 21112   ; a grass snake
+M 0 21102 1 21113   ; a large stallion
+M 0 21100 2 21114   ; a desert coyote
+M 0 33 1 21124   ; the Warrior Guildmaster
+M 0 21103 1 21126   ; a mountain goat
+O 0 64 65535 21126   ; A huge rock
+D 0 21130 1 1   ; Inside the Fissure
+D 0 21131 3 0   ; Natural Cave
+M 0 21135 4 21133   ; the cave troll
+M 0 21104 26 21133   ; the dark bat
+M 0 21104 26 21133   ; the dark bat
+M 0 21104 26 21133   ; the dark bat
+M 0 21104 26 21133   ; the dark bat
+M 0 21104 26 21133   ; the dark bat
+M 0 21104 26 21135   ; the dark bat
+M 0 21104 26 21135   ; the dark bat
+M 0 21104 26 21135   ; the dark bat
+M 0 21104 26 21135   ; the dark bat
+M 0 21104 26 21135   ; the dark bat
+M 0 21104 26 21135   ; the dark bat
+M 0 21104 26 21135   ; the dark bat
+M 0 21104 26 21136   ; the dark bat
+M 0 21104 26 21136   ; the dark bat
+M 0 21104 26 21136   ; the dark bat
+M 0 21104 26 21136   ; the dark bat
+M 0 21104 26 21136   ; the dark bat
+M 0 21104 26 21137   ; the dark bat
+M 0 21104 26 21137   ; the dark bat
+M 0 21104 26 21137   ; the dark bat
+M 0 21104 26 21137   ; the dark bat
+M 0 21104 26 21137   ; the dark bat
+M 0 21104 26 21137   ; the dark bat
+M 0 21104 26 21137   ; the dark bat
+M 0 21104 26 21137   ; the dark bat
+M 0 21104 26 21137   ; the dark bat
+M 0 21106 1 21140   ; the yellow mold
+M 0 21107 1 21140   ; the red mold
+O 0 64 65535 21140   ; A huge rock
+M 0 21105 3 21141   ; the cave fisher
+M 0 21105 3 21141   ; the cave fisher
+M 0 21105 3 21141   ; the cave fisher
+O 0 65 65535 21141   ; A small boulder
+O 0 21114 65535 21141   ; a long iron rod
+O 0 21118 65535 21141   ; a pile of broken bones
+O 0 21119 65535 21141   ; a clenched skeletal fist
+P 1 21120 1 21119   ; a ring with a sapphire set in gold
+M 0 21135 4 21142   ; the cave troll
+M 0 21108 1 21145   ; the cave wight
+D 0 21150 3 2   ; Dry Stream Bed
+M 0 21135 4 21165   ; the cave troll
+O 0 65 65535 21170   ; A small boulder
+O 0 1708 65535 21170   ; a piece of luminous green fungus
+M 0 21131 5 21175   ; a blind fish
+M 0 21131 5 21175   ; a blind fish
+M 0 21131 5 21176   ; a blind fish
+M 0 21132 1 21177   ; the mud eel
+M 0 21131 5 21178   ; a blind fish
+M 0 21133 2 21178   ; a lake crayfish
+M 0 21133 2 21180   ; a lake crayfish
+M 0 21134 2 21181   ; a humongous lake gar
+M 0 21134 2 21181   ; a humongous lake gar
+M 0 21131 5 21181   ; a blind fish
+O 0 21140 65535 21181   ; a pile of broken bones
+P 1 21117 1 21140   ; a large shiny chrome-plated hoop of metal
+M 0 21135 4 21190   ; the cave troll
+M 0 21136 7 21196   ; a cobra
+O 0 21158 65535 21197   ; a battered desk
+P 1 21132 1 21158   ; the grey metal key
+P 1 1553 7 21158   ; a parchment
+S

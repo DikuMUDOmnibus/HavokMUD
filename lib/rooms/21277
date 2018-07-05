@@ -1,0 +1,24 @@
+#21277
+Barracks~
+    This room clearly serves as a military barracks, where men (certainly some
+kind of humanoid, from the shape of the bunks) would sleep and spend some of their
+free time.  There are several rows of bunks here, stacked two high for efficiency.
+At the foot of each is a locker, most of which hang open thoroughly looted.  This
+room has a lived-in look, and from the unidentifyable tracks along the floor, the
+occupant was here rather recently.  The barracks continue to the north and south.
+There is also an opening in the west wall leading out into the corridor.
+~
+84 9 1
+D0
+~
+door~
+0 0 21283 0
+D2
+~
+~
+0 -1 21278 -1
+D3
+~
+~
+0 -1 21284 -1
+S

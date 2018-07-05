@@ -1,0 +1,8 @@
+*Zone 117, rooms 38100-38499, last modified by Coal
+O 0 38399 65535 38399   ; some red and black berries
+M 0 38415 1 38415   ; The Huge Dwarven Statue
+D 0 38425 1 2   ; Gates of Mithril Hall
+D 0 38442 0 0   ; Bottom of the Cliff
+D 0 38442 4 0   ; Bottom of the Cliff
+D 0 38444 5 0   ; Top of Cliff
+S

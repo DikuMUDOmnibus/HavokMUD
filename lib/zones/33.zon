@@ -1,0 +1,114 @@
+*Zone 33, rooms 5200-5299, last modified by Ashamael
+M 0 5210 8 5201   ; The lamia
+G 1 3057 65535 0   ; a silver potion
+M 0 5207 6 5204   ; The horned lizard
+M 0 3071 1 5204   ; The Super Repair Guy
+M 0 5201 14 5204   ; The lamia
+E 1 3020 65535 16   ; a dagger
+G 1 5231 65535 0   ; A scarlet and blue stone
+M 0 5207 6 5210   ; The horned lizard
+D 0 5210 1 0   ; A side street
+M 0 5210 8 5211   ; The lamia
+M 0 5210 8 5214   ; The lamia
+E 1 3020 65535 16   ; a dagger
+M 0 5210 8 5214   ; The lamia
+M 0 5207 6 5217   ; The horned lizard
+M 0 5210 8 5217   ; The lamia
+G 1 3057 65535 0   ; a silver potion
+G 1 5236 65535 0   ; A pale lavender stone
+G 1 5235 65535 0   ; A pearly white stone
+M 0 5201 14 5217   ; The lamia
+E 1 3020 65535 16   ; a dagger
+G 1 5219 65535 0   ; A chunk of venison
+G 1 3055 65535 0   ; a white potion
+M 0 5204 1 5219   ; The mimic
+G 1 5218 65535 0   ; A demon-faced talisman
+M 0 5201 14 5219   ; The lamia
+E 1 3020 65535 16   ; a dagger
+G 1 5207 65535 0   ; A battered iron breast plate
+G 1 5234 65535 0   ; A pink stone
+M 0 5201 14 5221   ; The lamia
+E 1 3020 65535 16   ; a dagger
+G 1 3057 65535 0   ; a silver potion
+M 0 5201 14 5223   ; The lamia
+E 1 3020 65535 16   ; a dagger
+M 0 5201 14 5224   ; The lamia
+E 1 3020 65535 16   ; a dagger
+G 1 3057 65535 0   ; a silver potion
+G 1 5232 65535 0   ; A incandescent blue stone
+M 0 5201 14 5224   ; The lamia
+E 1 3020 65535 16   ; a dagger
+G 1 5237 65535 0   ; A lavender and green stone
+M 0 5203 1 5226   ; The mimic
+G 1 5215 65535 0   ; A tattered scroll
+O 0 65 65535 5227   ; A small boulder
+O 0 5238 65535 5227   ; A dusty rose stone
+M 0 5201 14 5229   ; The lamia
+E 1 3020 65535 16   ; a dagger
+M 0 5202 1 5229   ; The mimic
+E 1 5214 65535 17   ; A smooth quartz ball
+M 0 5201 14 5230   ; The lamia
+E 1 3020 65535 16   ; a dagger
+G 1 5217 65535 0   ; A silver flute
+O 0 5250 65535 5230   ; A mandolin
+O 0 5251 65535 5230   ; A golden harp
+O 0 5239 65535 5230   ; A dull grey stone
+M 0 5210 8 5231   ; The lamia
+O 0 5225 65535 5231   ; the desk
+P 1 5215 4 5225   ; A tattered scroll
+P 1 5216 1 5225   ; A bound scroll
+M 0 5201 14 5232   ; The lamia
+E 1 3020 65535 16   ; a dagger
+G 1 3055 65535 0   ; a white potion
+G 1 5230 65535 0   ; A pale blue stone
+M 0 5201 14 5232   ; The lamia
+E 1 3020 65535 16   ; a dagger
+G 1 5240 65535 0   ; A vibrant purple stone
+M 0 5207 6 5233   ; The horned lizard
+O 0 5227 65535 5233   ; the glass cabinet
+P 1 5201 1 5227   ; An iron helm
+P 1 5202 1 5227   ; A pair of iron gauntlets
+P 1 5203 1 5227   ; Some iron sleeves
+P 1 5204 1 5227   ; A pair of iron boots
+P 1 5205 2 5227   ; A set of iron leggings
+P 1 5206 1 5227   ; An iron girth
+O 0 5220 65535 5234   ; a large cracked fountain
+M 0 5201 14 5236   ; The lamia
+E 1 3020 65535 16   ; a dagger
+G 1 3056 65535 0   ; a golden potion
+M 0 5206 1 5236   ; The mimic
+E 1 5222 65535 12   ; A black silk robe
+O 0 63 65535 5236   ; A big rock
+M 0 5205 1 5238   ; The mimic
+E 1 5214 65535 17   ; A smooth quartz ball
+G 1 3055 65535 0   ; a white potion
+M 0 5210 8 5238   ; The lamia
+G 1 5211 65535 0   ; An orange potion
+G 1 5210 65535 0   ; A black potion
+G 1 5233 65535 0   ; A deep red stone
+G 1 5241 65535 0   ; A pink and green stone
+G 1 5213 65535 0   ; A green serpentine staff
+O 0 64 65535 5241   ; A huge rock
+O 0 5228 65535 5242   ; A rotten arm
+M 0 5201 14 5243   ; The lamia
+E 1 3020 65535 16   ; a dagger
+M 0 5210 8 5244   ; The lamia
+E 1 3020 65535 16   ; a dagger
+G 1 3057 65535 0   ; a silver potion
+M 0 5208 3 5246   ; The stone golem
+E 1 30000 65535 1   ; A golden ring
+E 1 5226 65535 17   ; An engraved ivory seal
+O 0 5243 65535 5246   ; A clear stone
+M 0 5208 3 5247   ; The stone golem
+E 1 5200 65535 5   ; A ringmail vest
+E 1 5224 65535 17   ; An engraved ebony seal
+M 0 5201 14 5248   ; The lamia
+E 1 3020 65535 16   ; a dagger
+G 1 5242 65535 0   ; A pale green stone
+M 0 5208 3 5248   ; The stone golem
+E 1 5221 65535 16   ; A two-handed sword
+M 0 5200 1 5250   ; The mighty beholder
+E 1 5223 65535 3   ; A dark green cloak
+E 1 5208 65535 11   ; A sturdy iron shield
+O 0 5244 65535 5250   ; An irridescent stone
+S

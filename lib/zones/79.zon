@@ -1,0 +1,68 @@
+*Zone 79, rooms 19200-19999, last modified by Coal
+M 0 19212 1 19202   ; Edgar
+M 0 19200 4 19206   ; A goblin
+E 1 7211 65535 16   ; a short sword
+M 0 19200 4 19206   ; A goblin
+E 1 7211 65535 16   ; a short sword
+M 0 19200 4 19206   ; A goblin
+E 1 7211 65535 16   ; a short sword
+M 0 19200 4 19206   ; A goblin
+E 1 7211 65535 16   ; a short sword
+M 0 19205 4 19207   ; A huge white wolf
+M 0 19201 3 19209   ; A trader
+E 1 19203 65535 16   ; a large axe
+G 1 19204 65535 0   ; A small moonstone
+M 0 19211 8 19211   ; A wandering goblin
+M 0 19211 8 19212   ; A wandering goblin
+M 0 19211 8 19214   ; A wandering goblin
+M 0 19205 4 19217   ; A huge white wolf
+M 0 19203 4 19217   ; A large kobold
+E 1 19209 65535 16   ; a long spear
+M 0 19203 4 19217   ; A large kobold
+E 1 19209 65535 16   ; a long spear
+M 0 19203 4 19217   ; A large kobold
+E 1 19209 65535 16   ; a long spear
+M 0 19203 4 19217   ; A large kobold
+E 1 19209 65535 16   ; a long spear
+M 0 19201 3 19219   ; A trader
+E 1 7211 65535 16   ; a short sword
+M 0 19201 3 19220   ; A trader
+E 1 7211 65535 16   ; a short sword
+O 0 19200 65535 19221   ; a large leather chest
+P 1 103 1 19200   ; A nitro trap
+M 0 19211 8 19223   ; A wandering goblin
+O 0 19201 65535 19225   ; The statue of a shepherd
+M 0 19211 8 19229   ; A wandering goblin
+G 1 19205 65535 0   ; A small jasper stone
+M 0 19211 8 19231   ; A wandering goblin
+M 0 19202 3 19231   ; A stirge
+M 0 19202 3 19231   ; A stirge
+M 0 19202 3 19231   ; A stirge
+M 0 19206 1 19233   ; The evil priestess
+E 1 19209 65535 16   ; a long spear
+O 0 19206 65535 19233   ; A large altar of Set
+P 1 19207 3 19206   ; a small black vial
+P 1 19207 3 19206   ; a small black vial
+M 0 19208 1 19237   ; A crab spider
+M 0 19211 8 19238   ; A wandering goblin
+M 0 19205 4 19239   ; A huge white wolf
+O 0 19204 65535 19240   ; A small moonstone
+M 0 19205 4 19243   ; A huge white wolf
+M 0 19211 8 19244   ; A wandering goblin
+M 0 19207 2 19244   ; The fire beetle
+G 1 19202 65535 0   ; a glowing gland
+M 0 19207 2 19244   ; The fire beetle
+G 1 19202 65535 0   ; a glowing gland
+D 0 19247 1 2   ; A utility room
+D 0 19248 3 2   ; The hallway
+M 0 19209 3 19253   ; The bandit
+E 1 7211 65535 16   ; a short sword
+M 0 19209 3 19253   ; The bandit
+E 1 7211 65535 16   ; a short sword
+M 0 19209 3 19253   ; The bandit
+E 1 7211 65535 16   ; a short sword
+M 0 19210 1 19253   ; The bandit leader
+E 1 19208 65535 16   ; a short sword
+G 1 19205 65535 0   ; A small jasper stone
+G 1 19204 65535 0   ; A small moonstone
+S

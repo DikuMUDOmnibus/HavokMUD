@@ -1,0 +1,255 @@
+*Zone 86, rooms 21902-22699, last modified by Coal
+D 0 22202 0 0   ; Feith's Sanctuary
+D 0 22202 1 0   ; Feith's Sanctuary
+D 0 22202 3 0   ; Feith's Sanctuary
+D 0 22202 5 0   ; Feith's Sanctuary
+M 0 22605 1 22602   ; Timnus
+E 1 22699 65535 17   ; A titanium key
+D 0 22602 0 2   ; The tall oak
+M 0 22621 4 22603   ; A butterfly
+M 0 22603 6 22634   ; The forest elf
+M 0 22603 6 22634   ; The forest elf
+D 0 22636 2 2   ; Inside the tall oak
+M 0 22624 4 22639   ; A bear cub
+M 0 22624 4 22639   ; A bear cub
+M 0 22624 4 22639   ; A bear cub
+M 0 22624 4 22639   ; A bear cub
+M 0 22604 1 22639   ; The mother grizzly bear
+G 1 22605 65535 0   ; A pile of dung
+P 1 22603 3 22605   ; A swirly potion
+P 1 22602 1 22605   ; A torn scroll
+M 0 22621 4 22640   ; A butterfly
+M 0 22621 4 22641   ; A butterfly
+M 0 22611 3 22641   ; A fuzzy caterpillar
+M 0 22606 9 22642   ; A brook trout
+G 1 22606 65535 0   ; A trout fillet
+M 0 22606 9 22642   ; A brook trout
+G 1 22606 65535 0   ; A trout fillet
+M 0 22606 9 22642   ; A brook trout
+G 1 22606 65535 0   ; A trout fillet
+M 0 22613 4 22643   ; An elven child
+M 0 22619 13 22644   ; A wandering elf
+M 0 22606 9 22644   ; A brook trout
+G 1 22606 65535 0   ; A trout fillet
+M 0 22606 9 22644   ; A brook trout
+G 1 22606 65535 0   ; A trout fillet
+M 0 22606 9 22644   ; A brook trout
+G 1 22606 65535 0   ; A trout fillet
+M 0 22619 13 22645   ; A wandering elf
+M 0 22603 6 22645   ; The forest elf
+M 0 22603 6 22645   ; The forest elf
+M 0 22611 3 22645   ; A fuzzy caterpillar
+M 0 22603 6 22646   ; The forest elf
+M 0 22613 4 22647   ; An elven child
+M 0 22621 4 22647   ; A butterfly
+M 0 22606 9 22648   ; A brook trout
+G 1 22606 65535 0   ; A trout fillet
+M 0 22606 9 22648   ; A brook trout
+G 1 22606 65535 0   ; A trout fillet
+M 0 22606 9 22648   ; A brook trout
+G 1 22606 65535 0   ; A trout fillet
+O 0 3061 65535 22649   ; a canoe
+M 0 22603 6 22650   ; The forest elf
+M 0 22625 7 22651   ; A duck
+M 0 22625 7 22651   ; A duck
+M 0 22625 7 22651   ; A duck
+M 0 22622 3 22652   ; The Elven Woodsman
+E 1 22615 65535 17   ; A crooked stick
+M 0 22609 6 22653   ; The young doe
+M 0 22622 3 22654   ; The Elven Woodsman
+E 1 22615 65535 17   ; A crooked stick
+M 0 22613 4 22655   ; An elven child
+M 0 22614 1 22656   ; A female elf
+E 1 22603 65535 17   ; A swirly potion
+G 1 22617 65535 0   ; A fruit basket
+P 1 22611 14 22617   ; A banana
+P 1 22610 14 22617   ; An orange
+P 1 22609 14 22617   ; A cherry
+P 1 22608 14 22617   ; A juicy apple
+M 0 22625 7 22657   ; A duck
+M 0 22625 7 22657   ; A duck
+M 0 22625 7 22658   ; A duck
+M 0 22625 7 22658   ; A duck
+M 0 22623 12 22659   ; The Elven Orchard Worker
+E 1 22617 65535 17   ; A fruit basket
+P 1 22611 14 22617   ; A banana
+P 1 22610 14 22617   ; An orange
+P 1 22609 14 22617   ; A cherry
+P 1 22608 14 22617   ; A juicy apple
+M 0 22623 12 22659   ; The Elven Orchard Worker
+E 1 22617 65535 17   ; A fruit basket
+P 1 22611 14 22617   ; A banana
+P 1 22610 14 22617   ; An orange
+P 1 22609 14 22617   ; A cherry
+P 1 22608 14 22617   ; A juicy apple
+M 0 22612 2 22659   ; A fisherman elf
+E 1 22620 65535 3   ; An Elven Cloak
+E 1 22619 65535 8   ; Elven Boots
+G 1 22603 65535 0   ; A swirly potion
+G 1 22614 65535 0   ; A dark blue scroll
+M 0 22623 12 22660   ; The Elven Orchard Worker
+E 1 22617 65535 17   ; A fruit basket
+P 1 22611 14 22617   ; A banana
+P 1 22610 14 22617   ; An orange
+P 1 22609 14 22617   ; A cherry
+P 1 22608 14 22617   ; A juicy apple
+M 0 22612 2 22660   ; A fisherman elf
+E 1 22620 65535 3   ; An Elven Cloak
+E 1 22619 65535 8   ; Elven Boots
+G 1 22613 65535 0   ; A transparent scroll
+G 1 22612 65535 0   ; An aquamarine potion
+M 0 22620 3 22660   ; The Elven Noble
+M 0 22607 2 22661   ; The Elven Woodcutter
+E 1 22615 65535 17   ; A crooked stick
+M 0 22623 12 22662   ; The Elven Orchard Worker
+E 1 22617 65535 17   ; A fruit basket
+P 1 22611 14 22617   ; A banana
+P 1 22610 14 22617   ; An orange
+P 1 22609 14 22617   ; A cherry
+P 1 22608 14 22617   ; A juicy apple
+M 0 22623 12 22662   ; The Elven Orchard Worker
+E 1 22617 65535 17   ; A fruit basket
+P 1 22611 14 22617   ; A banana
+P 1 22610 14 22617   ; An orange
+P 1 22609 14 22617   ; A cherry
+P 1 22608 14 22617   ; A juicy apple
+M 0 22608 1 22662   ; The Elven Princess
+E 1 2507 65535 16   ; the Warp Blade
+E 1 22607 65535 17   ; A marble
+M 0 22602 4 22662   ; The Elven Archer
+E 1 22620 65535 3   ; An Elven Cloak
+E 1 22621 65535 6   ; An Elven Archer's hat
+E 1 5034 65535 16   ; A long bow
+E 1 16010 65535 22   ; An arrow
+G 1 16010 65535 0   ; An arrow
+G 1 16010 65535 0   ; An arrow
+G 1 16010 65535 0   ; An arrow
+M 0 22623 12 22663   ; The Elven Orchard Worker
+E 1 22617 65535 17   ; A fruit basket
+P 1 22611 14 22617   ; A banana
+P 1 22610 14 22617   ; An orange
+P 1 22609 14 22617   ; A cherry
+P 1 22608 14 22617   ; A juicy apple
+M 0 22623 12 22663   ; The Elven Orchard Worker
+E 1 22617 65535 17   ; A fruit basket
+P 1 22611 14 22617   ; A banana
+P 1 22610 14 22617   ; An orange
+P 1 22609 14 22617   ; A cherry
+P 1 22608 14 22617   ; A juicy apple
+G 1 22617 65535 0   ; A fruit basket
+P 1 22611 14 22617   ; A banana
+P 1 22610 14 22617   ; An orange
+P 1 22609 14 22617   ; A cherry
+P 1 22608 14 22617   ; A juicy apple
+M 0 22623 12 22663   ; The Elven Orchard Worker
+E 1 22617 65535 17   ; A fruit basket
+P 1 22611 14 22617   ; A banana
+P 1 22610 14 22617   ; An orange
+P 1 22609 14 22617   ; A cherry
+P 1 22608 14 22617   ; A juicy apple
+M 0 22602 4 22663   ; The Elven Archer
+E 1 22620 65535 3   ; An Elven Cloak
+E 1 22621 65535 6   ; An Elven Archer's hat
+E 1 5034 65535 16   ; A long bow
+E 1 16010 65535 22   ; An arrow
+G 1 16010 65535 0   ; An arrow
+G 1 16010 65535 0   ; An arrow
+G 1 16010 65535 0   ; An arrow
+M 0 22623 12 22663   ; The Elven Orchard Worker
+E 1 22617 65535 17   ; A fruit basket
+P 1 22611 14 22617   ; A banana
+P 1 22610 14 22617   ; An orange
+P 1 22609 14 22617   ; A cherry
+P 1 22608 14 22617   ; A juicy apple
+M 0 22607 2 22664   ; The Elven Woodcutter
+E 1 22615 65535 17   ; A crooked stick
+M 0 22623 12 22666   ; The Elven Orchard Worker
+E 1 22617 65535 17   ; A fruit basket
+P 1 22611 14 22617   ; A banana
+P 1 22610 14 22617   ; An orange
+P 1 22609 14 22617   ; A cherry
+P 1 22608 14 22617   ; A juicy apple
+M 0 22601 6 22666   ; The Elven Guard
+E 1 22618 65535 5   ; An Elven Shirt
+E 1 22623 65535 7   ; Some Elven leather pants
+E 1 22619 65535 8   ; Elven Boots
+E 1 22622 65535 9   ; A pair of Elven Gloves
+E 1 22624 65535 10   ; Elven Sleeves
+E 1 22625 65535 13   ; A large Elven Belt
+M 0 22620 3 22668   ; The Elven Noble
+M 0 22601 6 22668   ; The Elven Guard
+E 1 22618 65535 5   ; An Elven Shirt
+E 1 22623 65535 7   ; Some Elven leather pants
+E 1 22619 65535 8   ; Elven Boots
+E 1 22622 65535 9   ; A pair of Elven Gloves
+E 1 22624 65535 10   ; Elven Sleeves
+E 1 22625 65535 13   ; A large Elven Belt
+M 0 22623 12 22669   ; The Elven Orchard Worker
+E 1 22623 65535 7   ; Some Elven leather pants
+E 1 22617 65535 17   ; A fruit basket
+P 1 22611 14 22617   ; A banana
+P 1 22610 14 22617   ; An orange
+P 1 22609 14 22617   ; A cherry
+P 1 22608 14 22617   ; A juicy apple
+M 0 22602 4 22669   ; The Elven Archer
+E 1 22620 65535 3   ; An Elven Cloak
+E 1 22621 65535 6   ; An Elven Archer's hat
+E 1 22623 65535 7   ; Some Elven leather pants
+E 1 5034 65535 16   ; A long bow
+E 1 16010 65535 22   ; An arrow
+G 1 16010 65535 0   ; An arrow
+G 1 16010 65535 0   ; An arrow
+G 1 16010 65535 0   ; An arrow
+M 0 22602 4 22670   ; The Elven Archer
+E 1 22620 65535 3   ; An Elven Cloak
+M 0 22623 12 22671   ; The Elven Orchard Worker
+E 1 22617 65535 17   ; A fruit basket
+P 1 22611 14 22617   ; A banana
+P 1 22610 14 22617   ; An orange
+P 1 22609 14 22617   ; A cherry
+P 1 22608 14 22617   ; A juicy apple
+M 0 22618 1 22671   ; The Elven Archbishop
+E 1 22604 65535 16   ; The SunSword
+E 1 22601 65535 17   ; A dirty scroll
+M 0 22615 2 22672   ; An Elven Lumberjack
+E 1 6000 65535 16   ; a lumber axe
+M 0 22601 6 22673   ; The Elven Guard
+M 0 22619 13 22674   ; A wandering elf
+M 0 22619 13 22674   ; A wandering elf
+M 0 22619 13 22674   ; A wandering elf
+M 0 22622 3 22674   ; The Elven Woodsman
+E 1 22615 65535 17   ; A crooked stick
+M 0 22609 6 22674   ; The young doe
+M 0 22615 2 22675   ; An Elven Lumberjack
+E 1 6000 65535 16   ; a lumber axe
+M 0 22601 6 22676   ; The Elven Guard
+M 0 22611 3 22676   ; A fuzzy caterpillar
+M 0 22610 4 22676   ; A groundhog
+M 0 22619 13 22677   ; A wandering elf
+M 0 22609 6 22677   ; The young doe
+M 0 22617 5 22678   ; A bee
+M 0 22617 5 22678   ; A bee
+M 0 22617 5 22678   ; A bee
+M 0 22617 5 22678   ; A bee
+M 0 22617 5 22678   ; A bee
+M 0 22616 1 22678   ; An Elven Beekeeper
+E 1 22612 65535 17   ; An aquamarine potion
+G 1 22616 65535 0   ; A jar of honey
+M 0 22619 13 22679   ; A wandering elf
+M 0 22609 6 22679   ; The young doe
+M 0 22610 4 22679   ; A groundhog
+M 0 22609 6 22680   ; The young doe
+M 0 22619 13 22681   ; A wandering elf
+M 0 22619 13 22681   ; A wandering elf
+M 0 22619 13 22681   ; A wandering elf
+M 0 22619 13 22681   ; A wandering elf
+M 0 22619 13 22681   ; A wandering elf
+M 0 22613 4 22681   ; An elven child
+M 0 22610 4 22681   ; A groundhog
+M 0 22610 4 22682   ; A groundhog
+M 0 22609 6 22682   ; The young doe
+M 0 22619 13 22682   ; A wandering elf
+M 0 22620 3 22684   ; The Elven Noble
+M 0 22601 6 22687   ; The Elven Guard
+M 0 22601 6 22687   ; The Elven Guard
+S

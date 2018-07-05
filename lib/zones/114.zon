@@ -1,0 +1,48 @@
+*Zone 114, rooms 37700-37799, last modified by Jopa
+M 0 37751 5 37710   ; a roaming elf
+G 1 37751 65535 0   ; A potion of brilliant white
+M 0 37751 5 37715   ; a roaming elf
+G 1 37706 65535 0   ; A cup of coffee
+M 0 37751 5 37718   ; a roaming elf
+G 1 37706 65535 0   ; A cup of coffee
+M 0 37751 5 37719   ; a roaming elf
+G 1 37706 65535 0   ; A cup of coffee
+M 0 37751 5 37719   ; a roaming elf
+G 1 37751 65535 0   ; A potion of brilliant white
+M 0 37700 2 37727   ; a hunting elf
+G 1 37703 65535 0   ; a black potion filled with points of light
+M 0 37707 2 37733   ; a hunting elf
+M 0 37707 2 37733   ; a hunting elf
+G 1 37703 65535 0   ; a black potion filled with points of light
+M 0 37700 2 37735   ; a hunting elf
+M 0 37702 6 37738   ; A sneaking elf
+G 1 37752 65535 0   ; A vial of a red, viscous liquid
+M 0 37701 6 37738   ; A sneaking elf
+G 1 37702 65535 0   ; a misty potion
+M 0 37701 6 37739   ; A sneaking elf
+M 0 37701 6 37741   ; A sneaking elf
+M 0 37701 6 37742   ; A sneaking elf
+M 0 37702 6 37743   ; A sneaking elf
+M 0 37702 6 37748   ; A sneaking elf
+M 0 37704 4 37753   ; A fuzzy little bunny
+M 0 37799 4 37754   ; A little chipmunk
+G 1 37700 65535 0   ; A vial of a red, clotted liquid
+M 0 37799 4 37754   ; A little chipmunk
+G 1 37700 65535 0   ; A vial of a red, clotted liquid
+M 0 37799 4 37755   ; A little chipmunk
+M 0 37704 4 37755   ; A fuzzy little bunny
+M 0 37704 4 37756   ; A fuzzy little bunny
+M 0 37799 4 37757   ; A little chipmunk
+G 1 37700 65535 0   ; A vial of a red, clotted liquid
+M 0 37704 4 37759   ; A fuzzy little bunny
+M 0 37701 6 37762   ; A sneaking elf
+G 1 37702 65535 0   ; a misty potion
+M 0 37701 6 37768   ; A sneaking elf
+M 0 37702 6 37771   ; A sneaking elf
+G 1 37752 65535 0   ; A vial of a red, viscous liquid
+M 0 37702 6 37772   ; A sneaking elf
+M 0 37702 6 37777   ; A sneaking elf
+M 0 37703 1 37777   ; the king of the Shatterwood Elves
+E 1 37705 65535 17   ; A bit of webbing
+G 1 37701 65535 0   ; a grass-green potion
+S

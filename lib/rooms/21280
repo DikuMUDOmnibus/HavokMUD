@@ -1,0 +1,29 @@
+#21280
+Infirmary~
+    The purpose of the long flat beds you noticed from the corridor is clearer
+now that you can get a better look at them, as is the purpose of the cabinets.
+The beds are on rollers, and from what you can see in the cabinets that are open,
+they are filled with linens and bandages.  This room is used as a medical facility.
+Among the furniture here are several open storage cabinets, and a couple closed
+ones.  There is an exit to the west.
+~
+84 41 0
+D3
+~
+~
+0 -1 21287 -1
+E
+beds~
+The beds are on rollers, but they have rusted into their current position. At
+one time the wounded were transported on them, you figure.
+~
+E
+linens~
+They are very old and moth-eaten, and what remains of them is covered with
+a layer of dust.
+~
+E
+cabinets~
+The open cabinets have some old linens inside.
+~
+S

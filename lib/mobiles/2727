@@ -1,0 +1,20 @@
+#2727
+color pool~
+A color pool~
+A sea green color pool can be seen as you approach.
+~
+You are sailing on a huge ocean that extends in many directions.  Due to
+the changing winds you cannot always go the direction you choose.  You
+can see several islands along the coast in all directions.  You hope
+that your compass is working properly.
+~
+~
+~
+2115  2048  0  1.0 
+ 1  0  10  2  1d1+1 
+ -1  0  1  48 
+ 8  8  0  0  0  0 
+ 0 
+~
+~
+~

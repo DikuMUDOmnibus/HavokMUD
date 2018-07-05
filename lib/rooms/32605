@@ -1,0 +1,20 @@
+#32605
+Madrig's Stairwell.~
+   A thick metal railing runs around the outside of the stairwell,
+hopefully strong enough to keep you aboard the stairs if you mis-
+step!  A faint light from above does nothing to light the dark
+stairway, only giving a sense of.. up...  As the stairs continue
+down, the darkness gets only thicker.  Another hatch blocks your
+travel downwards into the bowels of Madrig's Tower.
+~
+104 5 0
+D4
+~
+hatch ~
+39 32608 32604 -1
+D5
+~
+hatch
+~
+39 32638 32647 -1
+S

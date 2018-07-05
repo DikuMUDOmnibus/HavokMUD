@@ -1,0 +1,360 @@
+*Zone 116, rooms 37900-38099, last modified by Coal
+M 0 37910 87 37900   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37901   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37901   ; a tiny guppy
+M 0 37910 87 37901   ; a tiny guppy
+M 0 37911 1 37901   ; Tina, the Guppy Princess
+G 1 37934 65535 0   ; a pair of seagrass sandals
+G 1 40123 65535 0   ; a small treasure
+M 0 37910 87 37902   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37903   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37903   ; a tiny guppy
+M 0 37910 87 37903   ; a tiny guppy
+M 0 37910 87 37903   ; a tiny guppy
+M 0 37910 87 37903   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37904   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+D 0 37904 5 0   ; Lake of Shining Waters
+M 0 37910 87 37905   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37905   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37905   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37905   ; a tiny guppy
+M 0 37910 87 37905   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37905   ; a tiny guppy
+M 0 37919 23 37906   ; a tiny butterfly
+G 1 40120 65535 0   ; a small treasure
+M 0 37924 6 37907   ; a night owl
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37910   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37911   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37912   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37912   ; a tiny guppy
+M 0 37910 87 37913   ; a tiny guppy
+M 0 37910 87 37913   ; a tiny guppy
+M 0 37910 87 37913   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37913   ; a tiny guppy
+M 0 37910 87 37914   ; a tiny guppy
+M 0 37910 87 37914   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37914   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37914   ; a tiny guppy
+M 0 37910 87 37914   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37912 1 37914   ; Todd, the Guppy Prince
+G 1 40124 65535 0   ; a treasure
+M 0 37910 87 37915   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37915   ; a tiny guppy
+M 0 37910 87 37915   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37920 24 37916   ; a tiny ladybug
+G 1 40120 65535 0   ; a small treasure
+M 0 37919 23 37916   ; a tiny butterfly
+G 1 40120 65535 0   ; a small treasure
+M 0 37924 6 37919   ; a night owl
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37920   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37920   ; a tiny guppy
+M 0 37910 87 37920   ; a tiny guppy
+M 0 37910 87 37921   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37921   ; a tiny guppy
+M 0 37910 87 37921   ; a tiny guppy
+M 0 37910 87 37921   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37922   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37922   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37922   ; a tiny guppy
+M 0 37910 87 37922   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37922   ; a tiny guppy
+M 0 37910 87 37922   ; a tiny guppy
+M 0 37910 87 37922   ; a tiny guppy
+M 0 37910 87 37923   ; a tiny guppy
+M 0 37910 87 37923   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37923   ; a tiny guppy
+M 0 37910 87 37924   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37925   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37919 23 37926   ; a tiny butterfly
+G 1 40120 65535 0   ; a small treasure
+M 0 37924 6 37927   ; a night owl
+G 1 40120 65535 0   ; a small treasure
+M 0 37916 5 37930   ; a tiny sand crab
+M 0 37916 5 37930   ; a tiny sand crab
+G 1 40120 65535 0   ; a small treasure
+M 0 37916 5 37930   ; a tiny sand crab
+G 1 40120 65535 0   ; a small treasure
+M 0 37916 5 37930   ; a tiny sand crab
+G 1 40120 65535 0   ; a small treasure
+M 0 37916 5 37930   ; a tiny sand crab
+G 1 40120 65535 0   ; a small treasure
+M 0 37918 1 37930   ; Ethan, the Sand Crab King
+G 1 40124 65535 0   ; a treasure
+G 1 37938 65535 0   ; a small sand crab shell shield
+M 0 37919 23 37931   ; a tiny butterfly
+G 1 40120 65535 0   ; a small treasure
+M 0 37919 23 37931   ; a tiny butterfly
+G 1 40120 65535 0   ; a small treasure
+M 0 37920 24 37931   ; a tiny ladybug
+G 1 40120 65535 0   ; a small treasure
+M 0 37919 23 37933   ; a tiny butterfly
+G 1 40120 65535 0   ; a small treasure
+M 0 37920 24 37933   ; a tiny ladybug
+G 1 40120 65535 0   ; a small treasure
+M 0 37919 23 37934   ; a tiny butterfly
+G 1 40120 65535 0   ; a small treasure
+M 0 37919 23 37934   ; a tiny butterfly
+G 1 40120 65535 0   ; a small treasure
+M 0 37919 23 37934   ; a tiny butterfly
+G 1 40120 65535 0   ; a small treasure
+M 0 37920 24 37935   ; a tiny ladybug
+G 1 40120 65535 0   ; a small treasure
+M 0 37920 24 37935   ; a tiny ladybug
+G 1 40120 65535 0   ; a small treasure
+M 0 37920 24 37935   ; a tiny ladybug
+G 1 40120 65535 0   ; a small treasure
+M 0 37919 23 37936   ; a tiny butterfly
+G 1 40120 65535 0   ; a small treasure
+M 0 37920 24 37937   ; a tiny ladybug
+G 1 40120 65535 0   ; a small treasure
+M 0 37920 24 37937   ; a tiny ladybug
+G 1 40120 65535 0   ; a small treasure
+G 1 40120 65535 0   ; a small treasure
+M 0 37920 24 37938   ; a tiny ladybug
+G 1 40120 65535 0   ; a small treasure
+M 0 37919 23 37939   ; a tiny butterfly
+G 1 40120 65535 0   ; a small treasure
+M 0 37920 24 37939   ; a tiny ladybug
+G 1 40120 65535 0   ; a small treasure
+M 0 37901 5 37940   ; a small violet fairy
+E 1 37917 65535 2   ; a violet-chain ring
+E 1 37916 65535 19   ; a violet earring
+E 1 37916 65535 20   ; a violet earring
+M 0 37910 87 37942   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37942   ; a tiny guppy
+M 0 37910 87 37942   ; a tiny guppy
+M 0 37910 87 37942   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37942   ; a tiny guppy
+M 0 37910 87 37942   ; a tiny guppy
+M 0 37910 87 37942   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37915 19 37943   ; a tiny bee
+G 1 40120 65535 0   ; a small treasure
+M 0 37915 19 37943   ; a tiny bee
+G 1 40120 65535 0   ; a small treasure
+M 0 37915 19 37943   ; a tiny bee
+G 1 40120 65535 0   ; a small treasure
+M 0 37915 19 37943   ; a tiny bee
+G 1 40120 65535 0   ; a small treasure
+O 0 37937 65535 37943   ; an apple blossom
+M 0 37920 24 37945   ; a tiny ladybug
+G 1 40120 65535 0   ; a small treasure
+M 0 37919 23 37946   ; a tiny butterfly
+G 1 40120 65535 0   ; a small treasure
+M 0 37920 24 37946   ; a tiny ladybug
+G 1 40120 65535 0   ; a small treasure
+O 0 37933 65535 37946   ; a large tulip
+M 0 37924 6 37947   ; a night owl
+G 1 40120 65535 0   ; a small treasure
+G 1 37944 65535 0   ; the cape of the night owl
+M 0 37910 87 37952   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37952   ; a tiny guppy
+M 0 37910 87 37952   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37952   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37952   ; a tiny guppy
+M 0 37915 19 37953   ; a tiny bee
+M 0 37915 19 37953   ; a tiny bee
+G 1 40120 65535 0   ; a small treasure
+G 1 40120 65535 0   ; a small treasure
+M 0 37915 19 37953   ; a tiny bee
+G 1 40120 65535 0   ; a small treasure
+M 0 37915 19 37953   ; a tiny bee
+G 1 40120 65535 0   ; a small treasure
+M 0 37915 19 37953   ; a tiny bee
+G 1 40120 65535 0   ; a small treasure
+O 0 37937 65535 37953   ; an apple blossom
+M 0 37906 1 37955   ; a congenial cook
+E 1 37920 65535 6   ; a chef's hat
+M 0 37919 23 37956   ; a tiny butterfly
+M 0 37919 23 37956   ; a tiny butterfly
+G 1 40120 65535 0   ; a small treasure
+G 1 40120 65535 0   ; a small treasure
+M 0 37920 24 37957   ; a tiny ladybug
+G 1 40120 65535 0   ; a small treasure
+M 0 37920 24 37957   ; a tiny ladybug
+G 1 40120 65535 0   ; a small treasure
+M 0 37924 6 37959   ; a night owl
+G 1 40120 65535 0   ; a small treasure
+M 0 37901 5 37961   ; a small violet fairy
+E 1 37915 65535 3   ; a violet-chain necklace
+E 1 37913 65535 15   ; a violet-chain bracelet
+M 0 37910 87 37962   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37962   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37962   ; a tiny guppy
+M 0 37910 87 37962   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37962   ; a tiny guppy
+M 0 37915 19 37963   ; a tiny bee
+G 1 40120 65535 0   ; a small treasure
+M 0 37915 19 37963   ; a tiny bee
+G 1 40120 65535 0   ; a small treasure
+O 0 37937 65535 37963   ; an apple blossom
+M 0 37919 23 37964   ; a tiny butterfly
+G 1 40120 65535 0   ; a small treasure
+M 0 37921 1 37965   ; a stray dog
+G 1 40120 65535 0   ; a small treasure
+M 0 37922 1 37965   ; a stray cat
+G 1 40120 65535 0   ; a small treasure
+M 0 37923 1 37965   ; the Haven Humane Society Worker
+G 1 40120 65535 0   ; a small treasure
+M 0 37919 23 37967   ; a tiny butterfly
+G 1 40120 65535 0   ; a small treasure
+M 0 37920 24 37967   ; a tiny ladybug
+G 1 40120 65535 0   ; a small treasure
+M 0 37920 24 37968   ; a tiny ladybug
+G 1 40120 65535 0   ; a small treasure
+M 0 37919 23 37968   ; a tiny butterfly
+G 1 40120 65535 0   ; a small treasure
+M 0 37919 23 37968   ; a tiny butterfly
+G 1 40120 65535 0   ; a small treasure
+M 0 37901 5 37971   ; a small violet fairy
+E 1 37932 65535 6   ; a coronet of violets
+E 1 37935 65535 17   ; a bouquet of violets
+M 0 37910 87 37972   ; a tiny guppy
+M 0 37910 87 37972   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37972   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37972   ; a tiny guppy
+M 0 37910 87 37972   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37972   ; a tiny guppy
+M 0 37910 87 37972   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37972   ; a tiny guppy
+M 0 37915 19 37973   ; a tiny bee
+G 1 40120 65535 0   ; a small treasure
+M 0 37915 19 37973   ; a tiny bee
+G 1 40120 65535 0   ; a small treasure
+M 0 37915 19 37973   ; a tiny bee
+G 1 40120 65535 0   ; a small treasure
+O 0 37937 65535 37973   ; an apple blossom
+M 0 37920 24 37974   ; a tiny ladybug
+G 1 40120 65535 0   ; a small treasure
+M 0 37920 24 37974   ; a tiny ladybug
+G 1 40120 65535 0   ; a small treasure
+M 0 37975 1 37975   ; a tiny dryad
+G 1 37918 65535 0   ; a small vial of the dryad's potion
+O 0 37919 65535 37976   ; a big, black Bible
+M 0 37920 24 37978   ; a tiny ladybug
+G 1 40120 65535 0   ; a small treasure
+O 0 37933 65535 37978   ; a large tulip
+M 0 37901 5 37980   ; a small violet fairy
+E 1 37911 65535 5   ; a pretty violet dress
+E 1 37912 65535 7   ; a pair of violet tights
+M 0 37910 87 37982   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37982   ; a tiny guppy
+M 0 37910 87 37982   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37982   ; a tiny guppy
+M 0 37915 19 37983   ; a tiny bee
+G 1 40120 65535 0   ; a small treasure
+M 0 37915 19 37983   ; a tiny bee
+G 1 40120 65535 0   ; a small treasure
+M 0 37915 19 37983   ; a tiny bee
+G 1 40120 65535 0   ; a small treasure
+M 0 37915 19 37983   ; a tiny bee
+G 1 40120 65535 0   ; a small treasure
+M 0 37915 19 37983   ; a tiny bee
+G 1 40120 65535 0   ; a small treasure
+O 0 37937 65535 37983   ; an apple blossom
+M 0 37919 23 37984   ; a tiny butterfly
+G 1 40120 65535 0   ; a small treasure
+M 0 37908 1 37985   ; the Bridal Boutique saleswoman
+O 0 37930 65535 37985   ; a pair of white high heels
+O 0 37929 65535 37985   ; a beautiful wedding veil
+O 0 37928 65535 37985   ; a beautiful wedding dress
+M 0 37907 1 37986   ; a tall, thin man
+O 0 37924 65535 37986   ; a black bow-tie
+O 0 37923 65535 37986   ; a white dress shirt
+O 0 37925 65535 37986   ; a pair of black dress shoes
+O 0 37921 65535 37986   ; a pair of black slacks
+O 0 37922 65535 37986   ; a formal black jacket
+M 0 37987 1 37987   ; a gardener
+O 0 37943 65535 37987   ; a pink rose
+M 0 37920 24 37988   ; a tiny ladybug
+G 1 40120 65535 0   ; a small treasure
+M 0 37920 24 37988   ; a tiny ladybug
+G 1 40120 65535 0   ; a small treasure
+M 0 37901 5 37991   ; a small violet fairy
+E 1 37936 65535 9   ; a pair of violet gloves
+E 1 37931 65535 13   ; a belt of violets
+M 0 37909 1 37992   ; Toe, the Guppy King
+G 1 37914 65535 0   ; a guppy tooth dagger
+G 1 40124 65535 0   ; a treasure
+M 0 37910 87 37992   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37992   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37992   ; a tiny guppy
+G 1 40120 65535 0   ; a small treasure
+M 0 37910 87 37992   ; a tiny guppy
+M 0 37910 87 37992   ; a tiny guppy
+M 0 37910 87 37992   ; a tiny guppy
+M 0 37914 1 37992   ; Tasha, the Guppy Queen
+G 1 40120 65535 0   ; a small treasure
+M 0 37917 1 37993   ; Matilda, the Queen Bee
+G 1 37942 65535 0   ; A bee stinger
+G 1 40124 65535 0   ; a treasure
+M 0 37919 23 37994   ; a tiny butterfly
+G 1 40120 65535 0   ; a small treasure
+M 0 37920 24 37995   ; a tiny ladybug
+G 1 40120 65535 0   ; a small treasure
+M 0 37920 24 37995   ; a tiny ladybug
+G 1 40120 65535 0   ; a small treasure
+M 0 37920 24 37996   ; a tiny ladybug
+G 1 40120 65535 0   ; a small treasure
+M 0 37919 23 37997   ; a tiny butterfly
+G 1 40120 65535 0   ; a small treasure
+M 0 37919 23 37998   ; a tiny butterfly
+G 1 40120 65535 0   ; a small treasure
+M 0 37919 23 37998   ; a tiny butterfly
+G 1 40120 65535 0   ; a small treasure
+M 0 37924 6 37999   ; a night owl
+G 1 40120 65535 0   ; a small treasure
+D 0 38064 1 0   ; Entrance To A Cave
+D 0 38065 2 0   ; Cave Maze
+D 0 38066 1 0   ; Cave Maze
+D 0 38066 2 0   ; Cave Maze
+D 0 38067 2 0   ; Cave Maze
+D 0 38067 3 0   ; Cave Maze
+S

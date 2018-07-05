@@ -1,0 +1,18 @@
+*Zone 44, rooms 7100-7199, last modified by Ashamael
+M 0 7006 3 7102   ; The slithering snake
+M 0 7004 1 7102   ; The giant earth beetle
+G 1 3055 65535 0   ; a white potion
+M 0 7000 2 7102   ; The horrifying Mudmonster
+G 1 3057 65535 0   ; a silver potion
+M 0 7000 2 7102   ; The horrifying Mudmonster
+D 0 7102 5 0   ; Under the Dark Pit
+M 0 7002 3 7104   ; The Great Sewer Rat
+M 0 7005 3 7104   ; The maggot
+D 0 7106 3 0   ; The northwestern corner of the ledge
+M 0 7005 3 7112   ; The maggot
+M 0 7006 3 7112   ; The slithering snake
+M 0 7006 3 7113   ; The slithering snake
+D 0 7116 5 1   ; The northeastern corner of the ledge
+D 0 7121 5 0   ; The southeastern corner of the ledge
+M 0 7005 3 7122   ; The maggot
+S

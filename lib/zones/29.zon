@@ -1,0 +1,103 @@
+*Zone 29, rooms 4100-4199, last modified by Jopa
+M 0 4102 6 4102   ; the snake
+M 0 4112 15 4103   ; the bugbear
+E 1 3025 65535 16   ; A battle axe
+M 0 4113 8 4103   ; the ogre
+M 0 4102 6 4104   ; the snake
+G 1 4103 65535 0   ; a green slime mold
+G 1 4104 65535 0   ; a green slime mold
+M 0 4102 6 4104   ; the snake
+E 1 3055 65535 17   ; a white potion
+M 0 4107 9 4108   ; the kobold
+G 1 4104 65535 0   ; a green slime mold
+M 0 4105 5 4108   ; a centipede
+M 0 4105 5 4108   ; a centipede
+M 0 4112 15 4108   ; the bugbear
+M 0 4112 15 4108   ; the bugbear
+E 1 3055 65535 17   ; a white potion
+M 0 4113 8 4108   ; the ogre
+M 0 4105 5 4108   ; a centipede
+M 0 4105 5 4108   ; a centipede
+M 0 4105 5 4108   ; a centipede
+M 0 32 1 4110   ; the Thief Guildmaster
+M 0 4102 6 4111   ; the snake
+M 0 4112 15 4111   ; the bugbear
+M 0 4113 8 4111   ; the ogre
+E 1 3055 65535 17   ; a white potion
+M 0 4102 6 4112   ; the snake
+G 1 4103 65535 0   ; a green slime mold
+M 0 4107 9 4113   ; the kobold
+G 1 4104 65535 0   ; a green slime mold
+M 0 4107 9 4113   ; the kobold
+G 1 4104 65535 0   ; a green slime mold
+M 0 4113 8 4113   ; the ogre
+E 1 3055 65535 17   ; a white potion
+G 1 6108 65535 0   ; a big pile of gold coins
+M 0 4112 15 4113   ; the bugbear
+M 0 4100 1 4114   ; the Mage
+E 1 3055 65535 17   ; a white potion
+G 1 4102 65535 0   ; a scroll which reads "ysafg"
+M 0 4112 15 4114   ; the bugbear
+E 1 3025 65535 16   ; A battle axe
+M 0 4113 8 4114   ; the ogre
+E 1 44 65535 16   ; a long sword
+M 0 4112 15 4114   ; the bugbear
+E 1 3025 65535 16   ; A battle axe
+M 0 4113 8 4114   ; the ogre
+E 1 3025 65535 16   ; A battle axe
+M 0 4102 6 4116   ; the snake
+G 1 4104 65535 0   ; a green slime mold
+M 0 4103 5 4116   ; the Thief
+E 1 3025 65535 16   ; A battle axe
+G 1 4104 65535 0   ; a green slime mold
+M 0 4103 5 4116   ; the Thief
+E 1 3025 65535 16   ; A battle axe
+G 1 4104 65535 0   ; a green slime mold
+M 0 4106 1 4116   ; the Warrior
+E 1 4101 65535 9   ; a swordsmans gloves
+E 1 3057 65535 17   ; a silver potion
+M 0 4107 9 4117   ; the kobold
+E 1 3025 65535 16   ; A battle axe
+G 1 4104 65535 0   ; a green slime mold
+M 0 4107 9 4117   ; the kobold
+G 1 4104 65535 0   ; a green slime mold
+M 0 4112 15 4119   ; the bugbear
+E 1 3025 65535 16   ; A battle axe
+M 0 4112 15 4119   ; the bugbear
+M 0 4112 15 4119   ; the bugbear
+M 0 4112 15 4119   ; the bugbear
+M 0 4112 15 4119   ; the bugbear
+E 1 3055 65535 17   ; a white potion
+M 0 4113 8 4119   ; the ogre
+M 0 4103 5 4119   ; the Thief
+G 1 4104 65535 0   ; a green slime mold
+M 0 4103 5 4120   ; the Thief
+E 1 5037 65535 16   ; a bloodstained fork
+E 1 3057 65535 17   ; a silver potion
+G 1 4104 65535 0   ; a green slime mold
+M 0 4107 9 4121   ; the kobold
+E 1 3055 65535 17   ; a white potion
+G 1 4104 65535 0   ; a green slime mold
+M 0 4107 9 4122   ; the kobold
+G 1 4104 65535 0   ; a green slime mold
+M 0 4101 4 4122   ; the troll
+E 1 3025 65535 16   ; A battle axe
+M 0 4101 4 4122   ; the troll
+G 1 3055 65535 0   ; a white potion
+M 0 4112 15 4122   ; the bugbear
+M 0 4101 4 4122   ; the troll
+E 1 3025 65535 16   ; A battle axe
+M 0 4101 4 4122   ; the troll
+E 1 4100 65535 16   ; a glittering blade
+M 0 4107 9 4122   ; the kobold
+E 1 3057 65535 17   ; a silver potion
+G 1 4104 65535 0   ; a green slime mold
+M 0 4107 9 4123   ; the kobold
+G 1 4104 65535 0   ; a green slime mold
+M 0 4112 15 4124   ; the bugbear
+M 0 4113 8 4124   ; the ogre
+M 0 4112 15 4124   ; the bugbear
+M 0 4103 5 4125   ; the Thief
+E 1 3055 65535 17   ; a white potion
+G 1 4104 65535 0   ; a green slime mold
+S

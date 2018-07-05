@@ -1,0 +1,59 @@
+*Zone 41, rooms 6701-6899, last modified by Ashamael
+M 0 6103 5 6801   ; the large, black wolf
+M 0 6813 2 6803   ; the moose
+M 0 6102 9 6803   ; the large, gray wolf
+O 0 6803 65535 6805   ; a silver chest
+P 1 6808 2 6803   ; a big pile of gold coins
+P 1 6805 2 6803   ; A diamond studded coronet
+P 1 6806 2 6803   ; Icy Gown
+M 0 6807 3 6807   ; the Arctic fox
+M 0 6804 2 6810   ; the Polar Bear
+M 0 6800 9 6811   ; the Killer Penguin
+M 0 6800 9 6812   ; the Killer Penguin
+M 0 6807 3 6816   ; the Arctic fox
+G 1 114 65535 0   ; a silver collar
+M 0 6824 1 6818   ; the purple dragon
+M 0 6813 2 6819   ; the moose
+M 0 6818 1 6819   ; the Otter
+M 0 6800 9 6819   ; the Killer Penguin
+M 0 6102 9 6819   ; the large, gray wolf
+M 0 6800 9 6821   ; the Killer Penguin
+M 0 6800 9 6824   ; the Killer Penguin
+M 0 6800 9 6825   ; the Killer Penguin
+M 0 6803 2 6825   ; the Killer Emperor Penguin
+E 1 6809 65535 6   ; A pair of Oakley Blades
+O 0 6801 65535 6826   ; icy pool
+M 0 4103 2 6827   ; the Thief
+M 0 6800 9 6831   ; the Killer Penguin
+M 0 6808 1 6832   ; the seal
+M 0 6810 1 6833   ; the cute mink
+M 0 6806 1 6833   ; the snow owl
+O 0 6801 65535 6834   ; icy pool
+M 0 6821 1 6835   ; the Snow Snake
+M 0 6800 9 6838   ; the Killer Penguin
+M 0 6817 2 6839   ; the Siberian Husky
+M 0 6819 1 6841   ; the Ice Lemure
+M 0 6803 2 6842   ; the Killer Emperor Penguin
+E 1 6809 65535 6   ; A pair of Oakley Blades
+M 0 6815 1 6844   ; Jack Frost
+M 0 6802 1 6846   ; the silver dragon
+E 1 6800 65535 17   ; The silver key
+M 0 6103 5 6847   ; the large, black wolf
+O 0 6810 65535 6854   ; A pair of purple Oakley froggers
+M 0 6103 5 6856   ; the large, black wolf
+M 0 6800 9 6858   ; the Killer Penguin
+M 0 6822 1 6861   ; the Snow Lizard
+M 0 6103 5 6864   ; the large, black wolf
+M 0 6817 2 6868   ; the Siberian Husky
+M 0 6811 2 6871   ; the yeti
+M 0 6823 1 6874   ; the Frost Giant
+E 1 6802 65535 16   ; large harpoon
+M 0 6807 3 6874   ; the Arctic fox
+M 0 6825 1 6876   ; the Winter Thief
+E 1 7211 65535 16   ; a short sword
+O 0 3001 65535 6876   ; a bottle
+O 0 3010 65535 6876   ; a bread
+M 0 6804 2 6877   ; the Polar Bear
+M 0 6103 5 6878   ; the large, black wolf
+M 0 6811 2 6880   ; the yeti
+S

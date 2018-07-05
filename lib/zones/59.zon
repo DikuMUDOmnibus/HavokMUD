@@ -1,0 +1,396 @@
+*Zone 59, rooms 13000-13699, last modified by Jopa
+M 0 3636 17 13400   ; the dock worker
+M 0 3604 1 13401   ; the receptionist
+M 0 3605 1 13402   ; the old withered mage/bartender
+G 1 3668 65535 0   ; a glass of wine
+G 1 3667 65535 0   ; a glass of blue oasis
+M 0 3606 1 13402   ; Brother John
+M 0 3607 1 13403   ; a panhandler
+M 0 3642 4 13403   ; the wandering prophet
+M 0 3608 1 13404   ; a panhandler
+M 0 3642 4 13404   ; the wandering prophet
+M 0 3609 6 13406   ; a beggar
+O 0 3602 65535 13406   ; The large central fountain
+M 0 503 3 13407   ; the bodyguard
+M 0 3682 15 13408   ; The Royal Guard
+M 0 3633 3 13409   ; A nomad merchant
+M 0 3661 32 13409   ; the sultans guard
+M 0 3643 4 13410   ; the alley cat
+M 0 3649 1 13411   ; the raggedy dervish
+M 0 3631 1 13411   ; Fatima
+D 0 13411 0 0   ; Outside the Southern Gate of New Thalos
+M 0 3662 20 13413   ; the sultans guard
+E 1 3617 65535 5   ; a suit of field plate
+M 0 3662 20 13413   ; the sultans guard
+E 1 3617 65535 5   ; a suit of field plate
+M 0 3662 20 13413   ; the sultans guard
+E 1 3617 65535 5   ; a suit of field plate
+M 0 3662 20 13413   ; the sultans guard
+E 1 3617 65535 5   ; a suit of field plate
+M 0 3662 20 13413   ; the sultans guard
+E 1 3617 65535 5   ; a suit of field plate
+M 0 3662 20 13413   ; the sultans guard
+E 1 3617 65535 5   ; a suit of field plate
+D 0 13413 2 0   ; Inside the South Gate of New Thalos
+M 0 3609 6 13414   ; a beggar
+M 0 3661 32 13414   ; the sultans guard
+M 0 3609 6 13416   ; a beggar
+M 0 3644 3 13417   ; the vulture
+M 0 3643 4 13418   ; the alley cat
+M 0 3661 32 13419   ; the sultans guard
+M 0 3633 3 13421   ; A nomad merchant
+M 0 3682 15 13421   ; The Royal Guard
+M 0 3662 20 13422   ; the sultans guard
+E 1 3617 65535 5   ; a suit of field plate
+M 0 3662 20 13422   ; the sultans guard
+E 1 3617 65535 5   ; a suit of field plate
+M 0 3662 20 13422   ; the sultans guard
+E 1 3617 65535 5   ; a suit of field plate
+M 0 3662 20 13422   ; the sultans guard
+E 1 3617 65535 5   ; a suit of field plate
+M 0 3662 20 13422   ; the sultans guard
+E 1 3617 65535 5   ; a suit of field plate
+M 0 3662 20 13422   ; the sultans guard
+E 1 3617 65535 5   ; a suit of field plate
+M 0 3661 32 13422   ; the sultans guard
+M 0 3636 17 13422   ; the dock worker
+D 0 13422 0 0   ; Inside the Northern Gate of New Thalos
+M 0 503 3 13423   ; the bodyguard
+M 0 3662 20 13423   ; the sultans guard
+E 1 3617 65535 5   ; a suit of field plate
+M 0 3662 20 13423   ; the sultans guard
+E 1 3617 65535 5   ; a suit of field plate
+M 0 3662 20 13423   ; the sultans guard
+E 1 3617 65535 5   ; a suit of field plate
+M 0 3662 20 13423   ; the sultans guard
+E 1 3617 65535 5   ; a suit of field plate
+D 0 13423 3 0   ; Inside the West Gate of New Thalos
+M 0 3620 2 13425   ; a construction worker
+E 1 3686 65535 16   ; a sledge hammer
+M 0 3620 2 13425   ; a construction worker
+E 1 3686 65535 16   ; a sledge hammer
+M 0 3619 1 13425   ; the foreman
+E 1 3685 65535 16   ; a fountain pen
+M 0 3668 12 13427   ; a tourist
+M 0 3668 12 13427   ; a tourist
+M 0 3668 12 13427   ; a tourist
+M 0 3668 12 13427   ; a tourist
+M 0 3668 12 13427   ; a tourist
+M 0 3668 12 13427   ; a tourist
+M 0 3668 12 13428   ; a tourist
+M 0 3668 12 13428   ; a tourist
+M 0 3668 12 13428   ; a tourist
+M 0 3668 12 13428   ; a tourist
+M 0 3668 12 13428   ; a tourist
+M 0 3668 12 13428   ; a tourist
+M 0 3633 3 13428   ; A nomad merchant
+M 0 3662 20 13431   ; the sultans guard
+E 1 3617 65535 5   ; a suit of field plate
+M 0 3662 20 13431   ; the sultans guard
+E 1 3617 65535 5   ; a suit of field plate
+M 0 3662 20 13431   ; the sultans guard
+E 1 3617 65535 5   ; a suit of field plate
+M 0 3662 20 13431   ; the sultans guard
+E 1 3617 65535 5   ; a suit of field plate
+M 0 3682 15 13431   ; The Royal Guard
+D 0 13431 1 0   ; Inside the Eastern Gate of New Thalos
+M 0 3618 1 13432   ; Cassandra
+G 1 3664 65535 0   ; a salted herring
+G 1 3665 65535 0   ; a muscle
+M 0 3661 32 13432   ; the sultans guard
+M 0 3682 15 13435   ; The Royal Guard
+M 0 3661 32 13436   ; the sultans guard
+M 0 3636 17 13437   ; the dock worker
+M 0 3636 17 13438   ; the dock worker
+M 0 3637 2 13439   ; the taxcollector
+G 1 3600 65535 0   ; The palace key of New Thalos
+M 0 3661 32 13440   ; the sultans guard
+M 0 3609 6 13442   ; a beggar
+M 0 3682 15 13444   ; The Royal Guard
+M 0 3661 32 13444   ; the sultans guard
+E 1 3617 65535 5   ; a suit of field plate
+M 0 3689 1 13446   ; the mayor
+G 1 3601 65535 0   ; The Key to the City of New Thalos
+M 0 3644 3 13446   ; the vulture
+M 0 3643 4 13450   ; the alley cat
+M 0 3636 17 13450   ; the dock worker
+M 0 3636 17 13450   ; the dock worker
+M 0 3661 32 13451   ; the sultans guard
+E 1 3617 65535 5   ; a suit of field plate
+M 0 3660 2 13453   ; a servant boy
+M 0 3636 17 13454   ; the dock worker
+M 0 3645 2 13455   ; the old man
+E 1 3690 65535 16   ; a chessboard
+M 0 3645 2 13455   ; the old man
+E 1 3690 65535 16   ; a chessboard
+D 0 13459 5 0   ; Alley
+M 0 3682 15 13460   ; The Royal Guard
+M 0 3636 17 13467   ; the dock worker
+M 0 3609 6 13467   ; a beggar
+M 0 3643 4 13468   ; the alley cat
+M 0 3632 1 13469   ; Kareem
+M 0 3609 6 13470   ; a beggar
+D 0 13470 5 0   ; Alley
+M 0 3661 32 13473   ; the sultans guard
+D 0 13474 5 0   ; Alley
+D 0 13475 4 0   ; Underground
+M 0 3661 32 13477   ; the sultans guard
+D 0 13478 4 0   ; Underground
+D 0 13481 4 0   ; Underground
+M 0 3644 3 13486   ; the vulture
+M 0 3637 2 13489   ; the taxcollector
+G 1 3600 65535 0   ; The palace key of New Thalos
+D 0 13491 4 0   ; Dark Passage
+D 0 13494 0 0   ; Common Room of the Clan MacCleod
+D 0 13494 1 0   ; Common Room of the Clan MacCleod
+D 0 13494 2 2   ; Common Room of the Clan MacCleod
+D 0 13494 3 0   ; Common Room of the Clan MacCleod
+D 0 13494 4 0   ; Common Room of the Clan MacCleod
+D 0 13494 5 0   ; Common Room of the Clan MacCleod
+D 0 13495 5 0   ; Iuz's Room
+M 0 3669 1 13496   ; Priscilla
+D 0 13496 3 0   ; Ice's Room
+D 0 13497 1 0   ; Naazgul's Room
+D 0 13498 4 0   ; Tank's Room
+D 0 13499 1 0   ; Inside the Castle of Clan MacCleod
+D 0 13499 2 0   ; Inside the Castle of Clan MacCleod
+M 0 3601 1 13503   ; the guildmaster
+D 0 13503 1 1   ; Cleric's Sanctum
+M 0 3681 1 13504   ; the high priest
+M 0 3682 15 13504   ; The Royal Guard
+M 0 3629 1 13507   ; Aziz
+M 0 3682 15 13509   ; The Royal Guard
+M 0 3624 1 13511   ; The statue of Hachiman
+M 0 3622 1 13511   ; The statue of Excavator
+M 0 3623 1 13511   ; The statue of Haplo
+M 0 3621 1 13511   ; The statue of Conner
+M 0 3657 1 13512   ; the guildguard
+M 0 3661 32 13512   ; the sultans guard
+M 0 3613 1 13514   ; Ahkeem the tailor
+E 1 3683 65535 16   ; a pair of sewing shears
+G 1 3647 65535 0   ; a pair of hiking boots
+G 1 3646 65535 0   ; a belt
+G 1 3628 65535 0   ; a pair of padded leather boots
+G 1 3649 65535 0   ; a girdle
+M 0 3636 17 13514   ; the dock worker
+M 0 3614 1 13515   ; Vera the veggie lady
+G 1 3660 65535 0   ; some dates
+G 1 3659 65535 0   ; a fig
+G 1 3658 65535 0   ; a tomatoe
+G 1 3657 65535 0   ; a carrot
+G 1 3656 65535 0   ; an egg
+M 0 3628 1 13516   ; The statue of Stranger
+M 0 3627 1 13516   ; The statue of Steppenwolf
+M 0 3626 1 13516   ; The statue of Herne
+M 0 3625 1 13516   ; The statue of Vulcan
+M 0 3660 2 13516   ; a servant boy
+D 0 13517 2 0   ; Base of the Tower
+M 0 3630 1 13520   ; Mustafah
+M 0 3615 1 13522   ; Butch the meat cutter
+G 1 3661 65535 0   ; a leg of lamb
+M 0 3679 1 13523   ; Elvria
+G 1 3674 65535 0   ; a dark blue potion
+G 1 3673 65535 0   ; an off white potion
+G 1 3672 65535 0   ; a crystal clear potion
+G 1 3671 65535 0   ; a deep-green potion
+G 1 3670 65535 0   ; a glowing blue vial
+M 0 3680 1 13524   ; Braheem
+G 1 3682 65535 0   ; a pink wand
+G 1 3681 65535 0   ; a wand of oak
+G 1 3680 65535 0   ; a wand of glinting yellow
+G 1 3679 65535 0   ; a grey-silver wand
+G 1 3678 65535 0   ; a scroll of recall
+M 0 3682 15 13524   ; The Royal Guard
+M 0 3656 1 13525   ; the guildguard
+M 0 3658 1 13526   ; the guildguard
+M 0 3642 4 13526   ; the wandering prophet
+M 0 3611 1 13528   ; the shopkeeper
+M 0 3616 1 13529   ; Abdul the armorer
+G 1 3621 65535 0   ; a splinted shield
+G 1 3616 65535 0   ; a suit of brigandine
+G 1 3615 65535 0   ; a suit of banded mail
+D 0 13530 1 0   ; The Mercenary's Guild
+M 0 3642 4 13532   ; the wandering prophet
+M 0 3659 1 13532   ; the guildguard
+D 0 13532 3 0   ; Entrance to the Thief's Guild
+M 0 3661 32 13533   ; the sultans guard
+M 0 3602 1 13534   ; the guildmaster
+D 0 13534 1 1   ; Tournament and Practice Yard
+M 0 3610 1 13535   ; the baker
+G 1 3645 65535 0   ; some nuts
+G 1 3643 65535 0   ; some iron rations
+G 1 3642 65535 0   ; some dry rations
+G 1 3641 65535 0   ; a bread
+G 1 3640 65535 0   ; a hunk of cheese
+M 0 3661 32 13536   ; the sultans guard
+M 0 3617 1 13536   ; Igor the weaponsmith
+E 1 3691 65535 17   ; a sesame seed
+G 1 3613 65535 0   ; a scimitar
+G 1 3612 65535 0   ; a two-handed bastard sword
+G 1 3611 65535 0   ; a sickle
+G 1 3610 65535 0   ; a guisarme
+G 1 3609 65535 0   ; a glaive
+G 1 3608 65535 0   ; a fauchard
+G 1 3607 65535 0   ; a bill-guisarme
+G 1 3606 65535 0   ; a bec de corbine
+G 1 3604 65535 0   ; an awl-pike
+G 1 3603 65535 0   ; a morningstar
+M 0 3661 32 13536   ; the sultans guard
+D 0 13536 5 2   ; Igor's Implements of Destruction
+M 0 3684 1 13537   ; Stitch, the leather dude.
+G 1 3625 65535 0   ; a leather cap
+G 1 3624 65535 0   ; a pair of leather sleeves
+G 1 3623 65535 0   ; a leather jacket
+G 1 3622 65535 0   ; a buckler
+M 0 3636 17 13537   ; the dock worker
+M 0 3683 1 13538   ; Patch the bartender
+G 1 3677 65535 0   ; a shot of whisky
+G 1 3676 65535 0   ; a barrel of beer
+G 1 3675 65535 0   ; a flaming scorpion
+M 0 3636 17 13540   ; the dock worker
+M 0 3682 15 13542   ; The Royal Guard
+M 0 3665 1 13542   ; the shipwright
+M 0 3666 1 13544   ; the blacksmith
+G 1 3689 65535 0   ; a riding crop
+G 1 3688 65535 0   ; a saddle
+G 1 3687 65535 0   ; a horse shoe
+M 0 3667 6 13545   ; a horse
+M 0 3667 6 13545   ; a horse
+M 0 3667 6 13545   ; a horse
+M 0 3667 6 13545   ; a horse
+M 0 3667 6 13545   ; a horse
+M 0 3667 6 13545   ; a horse
+M 0 3603 1 13546   ; the guildmaster
+D 0 13546 2 0   ; The Secret Yard
+M 0 503 3 13547   ; the bodyguard
+M 0 3600 1 13548   ; the guildmaster
+M 0 3682 15 13550   ; The Royal Guard
+M 0 3661 32 13550   ; the sultans guard
+D 0 13550 1 0   ; The Grand Entrance
+M 0 3661 32 13551   ; the sultans guard
+D 0 13553 0 0   ; Jail
+M 0 3682 15 13554   ; The Royal Guard
+M 0 3661 32 13557   ; the sultans guard
+M 0 3661 32 13557   ; the sultans guard
+D 0 13558 3 0   ; The Palace Gate
+M 0 3690 1 13561   ; the chef
+M 0 3636 17 13561   ; the dock worker
+D 0 13561 0 0   ; Kitchen
+D 0 13563 2 0   ; Hall
+D 0 13565 0 0   ; Hall
+M 0 3655 1 13566   ; Allah
+D 0 13566 2 0   ; Shrine of Allah
+M 0 3636 17 13567   ; the dock worker
+D 0 13569 1 0   ; Outside the West Gate of New Thalos
+M 0 3661 32 13571   ; the sultans guard
+D 0 13572 2 0   ; Hall
+M 0 3682 15 13574   ; The Royal Guard
+D 0 13574 0 0   ; Hall
+D 0 13575 2 0   ; Entrance to the Dungeon
+D 0 13575 5 0   ; Entrance to the Dungeon
+M 0 3661 32 13577   ; the sultans guard
+E 1 3617 65535 5   ; a suit of field plate
+D 0 13577 2 0   ; Hall
+M 0 3685 1 13578   ; the gardener
+G 1 1737 65535 0   ; an encyclopedia vol. G
+M 0 3661 32 13579   ; the sultans guard
+M 0 3661 32 13579   ; the sultans guard
+D 0 13579 0 0   ; Hall
+M 0 3688 1 13580   ; the mimic
+G 1 1718 65535 0   ; a tan history book
+D 0 13580 2 0   ; Art Exhibit
+M 0 3661 32 13582   ; the sultans guard
+E 1 3617 65535 5   ; a suit of field plate
+M 0 3661 32 13582   ; the sultans guard
+D 0 13582 2 0   ; Hall
+D 0 13582 3 0   ; Hall
+M 0 3686 1 13583   ; the nightmare
+M 0 3678 1 13583   ; the pegasus
+M 0 3636 17 13584   ; the dock worker
+D 0 13584 0 0   ; Hall
+D 0 13584 3 0   ; Hall
+D 0 13585 2 0   ; Guard Room
+M 0 3653 4 13587   ; a eunuch
+M 0 3653 4 13587   ; a eunuch
+M 0 3653 4 13587   ; a eunuch
+M 0 3653 4 13587   ; a eunuch
+M 0 3651 8 13587   ; a harem girl
+M 0 3651 8 13587   ; a harem girl
+M 0 3651 8 13587   ; a harem girl
+M 0 3651 8 13587   ; a harem girl
+M 0 3651 8 13587   ; a harem girl
+M 0 3651 8 13587   ; a harem girl
+M 0 3651 8 13587   ; a harem girl
+M 0 3651 8 13587   ; a harem girl
+D 0 13587 0 0   ; Harem
+M 0 3650 1 13589   ; The Sultan
+D 0 13589 0 0   ; Throne Room
+D 0 13589 1 0   ; Throne Room
+D 0 13589 2 0   ; Throne Room
+M 0 3652 1 13591   ; the jailer
+G 1 3693 65535 0   ; the jail key
+D 0 13591 1 0   ; Jailer's Room
+D 0 13591 4 0   ; Jailer's Room
+D 0 13592 0 2   ; Tunnel in the Dungeon
+D 0 13592 2 2   ; Tunnel in the Dungeon
+D 0 13592 3 0   ; Tunnel in the Dungeon
+D 0 13593 0 2   ; Tunnel in the Dungeon
+D 0 13593 2 2   ; Tunnel in the Dungeon
+D 0 13594 0 2   ; Tunnel in the Dungeon
+D 0 13594 2 2   ; Tunnel in the Dungeon
+D 0 13595 0 2   ; Tunnel in the Dungeon
+D 0 13595 1 0   ; Tunnel in the Dungeon
+D 0 13595 2 2   ; Tunnel in the Dungeon
+M 0 3687 1 13596   ; the wolverine
+E 1 3699 65535 16   ; The wolverine claw
+M 0 3635 1 13596   ; the skinny kid
+D 0 13596 3 0   ; Secret Cell
+M 0 3675 1 13597   ; the chimera
+D 0 13597 2 2   ; Cell
+M 0 3674 1 13598   ; the behir
+D 0 13598 2 2   ; Cell
+M 0 3672 5 13599   ; the death dog
+M 0 3672 5 13599   ; the death dog
+M 0 3672 5 13599   ; the death dog
+M 0 3672 5 13599   ; the death dog
+M 0 3672 5 13599   ; the death dog
+D 0 13599 2 2   ; Cell
+M 0 3670 1 13600   ; the cryohydra
+D 0 13600 2 2   ; Cell
+M 0 3677 1 13601   ; the giant hornet
+D 0 13601 0 2   ; Cell
+M 0 3676 1 13602   ; the couatl
+D 0 13602 0 2   ; Cell
+M 0 3673 1 13603   ; the spotted lion
+D 0 13603 0 2   ; Cell
+M 0 3671 1 13604   ; the minotaur lizard
+D 0 13604 0 2   ; Cell
+M 0 3661 32 13605   ; the sultans guard
+M 0 3661 32 13605   ; the sultans guard
+M 0 3661 32 13610   ; the sultans guard
+M 0 3636 17 13613   ; the dock worker
+M 0 3636 17 13615   ; the dock worker
+M 0 3661 32 13633   ; the sultans guard
+D 0 13643 3 0   ; The River of Lost Souls
+M 0 25008 5 13650   ; an Efreet
+M 0 25008 5 13650   ; an Efreet
+M 0 25008 5 13650   ; an Efreet
+M 0 25008 5 13650   ; an Efreet
+M 0 25008 5 13650   ; an Efreet
+O 0 3698 65535 13650   ; The Daemon Claw
+D 0 13650 4 2   ; Igor's Secret Chamber
+D 0 13653 1 0   ; In the mountains
+O 0 111 65535 13654   ; A piece of fool's gold
+O 0 6113 65535 13655   ; an iron sceptre
+D 0 13658 5 0   ; In the mountains
+M 0 3661 32 13681   ; the sultans guard
+M 0 3661 32 13683   ; the sultans guard
+M 0 3682 15 13683   ; The Royal Guard
+M 0 3682 15 13683   ; The Royal Guard
+M 0 3636 17 13694   ; the dock worker
+M 0 3661 32 13694   ; the sultans guard
+D 0 13698 3 0   ; Under the dock
+M 0 3691 1 13699   ; the Ixitxachitl
+G 1 120 65535 0   ; A small anchor
+D 0 13699 1 0   ; Lair of the Ixitxachitl
+S

@@ -1,0 +1,31 @@
+#21326
+Hallway~
+   This is the northern end of a short hallway. There are sconces on the wall
+for torches, but evidently no torches have blazed here for a long time. There
+are openings in the walls to the east and west, and the the rather long corridor
+continues to the south. The bare stone of the walls is here covered up with a
+thin layer of some kind of wood, which has the effect of making the place look
+less austere than elsewhere. A small stone is somehow looking wrongly placed.
+~
+84 9 1
+D0
+This wall looks odd
+~
+stone
+~
+11 0 21325 372
+D1
+~
+Golden Double Doors
+~
+3 0 21322 -1
+D2
+~
+stone
+~
+0 0 21327 -1
+D3
+~
+~
+0 -1 21331 -1
+S

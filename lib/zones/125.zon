@@ -1,0 +1,135 @@
+*Zone 125, rooms 40100-40199, last modified by Jopa
+D 0 40102 0 1   ; A Mangled Tree
+O 0 40119 65535 40106   ; the dead dragon
+D 0 40107 2 1   ; Overgrown Path
+M 0 40114 8 40110   ; a coyote soldier
+G 1 40121 65535 0   ; a small treasure
+M 0 40114 8 40110   ; a coyote soldier
+G 1 40121 65535 0   ; a small treasure
+M 0 40108 9 40113   ; the fox
+G 1 40121 65535 0   ; a small treasure
+M 0 40108 9 40113   ; the fox
+G 1 40121 65535 0   ; a small treasure
+M 0 40108 9 40113   ; the fox
+G 1 40121 65535 0   ; a small treasure
+M 0 40114 8 40114   ; a coyote soldier
+M 0 40108 9 40115   ; the fox
+G 1 40121 65535 0   ; a small treasure
+M 0 40108 9 40115   ; the fox
+G 1 40121 65535 0   ; a small treasure
+M 0 40114 8 40115   ; a coyote soldier
+G 1 40121 65535 0   ; a small treasure
+M 0 40114 8 40115   ; a coyote soldier
+G 1 40121 65535 0   ; a small treasure
+M 0 40104 3 40121   ; a baby snake
+M 0 40119 3 40121   ; the baby frog
+M 0 40119 3 40121   ; the baby frog
+M 0 40119 3 40121   ; the baby frog
+M 0 40125 3 40122   ; a baby hawk
+M 0 40125 3 40122   ; a baby hawk
+M 0 40125 3 40122   ; a baby hawk
+M 0 40124 1 40122   ; The Mother Hawk
+M 0 40104 3 40124   ; a baby snake
+M 0 40104 3 40125   ; a baby snake
+M 0 40107 1 40125   ; The Tree Frog
+M 0 40100 1 40127   ; A Tree Snake
+G 1 40125 65535 0   ; a treasure
+G 1 40101 65535 0   ; a slimy key
+M 0 40114 8 40129   ; a coyote soldier
+G 1 40121 65535 0   ; a small treasure
+M 0 40115 1 40129   ; The Coyote Watchman
+G 1 40124 65535 0   ; a treasure
+M 0 40114 8 40130   ; a coyote soldier
+G 1 40121 65535 0   ; a small treasure
+M 0 40114 8 40131   ; a coyote soldier
+G 1 40121 65535 0   ; a small treasure
+M 0 40116 1 40131   ; The Coyote Sapper
+G 1 40122 65535 0   ; a small treasure
+G 1 40107 65535 0   ; The Spade
+M 0 40117 1 40132   ; The Queen of the Coyotes
+G 1 9493 65535 0   ; A golden coin
+G 1 40121 65535 0   ; a small treasure
+G 1 40124 65535 0   ; a treasure
+G 1 40108 65535 0   ; A Coyote's Jaw
+M 0 40118 1 40132   ; The Coyote Advisor
+G 1 40123 65535 0   ; a small treasure
+G 1 40110 65535 0   ; A dark cloak
+D 0 40132 4 1   ; Throne Room
+M 0 40123 1 40133   ; A treasure guardian
+E 1 40114 65535 17   ; A flaming emerald
+G 1 40116 65535 0   ; A jade slab
+G 1 40117 65535 0   ; a nugget of pure silver
+D 0 40133 5 1   ; Treasure Room
+M 0 40108 9 40136   ; the fox
+G 1 40121 65535 0   ; a small treasure
+M 0 40109 1 40136   ; the fox guard
+G 1 40104 65535 0   ; A Foxes Paw
+M 0 40108 9 40137   ; the fox
+G 1 40121 65535 0   ; a small treasure
+M 0 40108 9 40138   ; the fox
+G 1 40121 65535 0   ; a small treasure
+M 0 40112 1 40139   ; The King's Pet
+G 1 40105 65535 0   ; The Fox Pet's Cap
+G 1 40123 65535 0   ; a small treasure
+G 1 40109 65535 0   ; A coyote's skin
+M 0 40111 1 40139   ; The King of Foxes
+G 1 40124 65535 0   ; a treasure
+G 1 40103 65535 0   ; A Foxes Tail
+M 0 40108 9 40140   ; the fox
+G 1 40121 65535 0   ; a small treasure
+M 0 40110 1 40143   ; the fox miner
+G 1 40122 65535 0   ; a small treasure
+G 1 40130 65535 0   ; The Pickaxe
+M 0 40106 6 40149   ; a bat
+M 0 40106 6 40150   ; a bat
+M 0 40101 1 40152   ; The Giant Bat
+G 1 40125 65535 0   ; a treasure
+G 1 40111 65535 0   ; the bat wings
+M 0 40106 6 40153   ; a bat
+M 0 40105 7 40156   ; a worm
+M 0 40106 6 40156   ; a bat
+M 0 40105 7 40157   ; a worm
+M 0 40105 7 40157   ; a worm
+M 0 40105 7 40157   ; a worm
+M 0 40105 7 40158   ; a worm
+M 0 40105 7 40159   ; a worm
+M 0 40106 6 40163   ; a bat
+M 0 40106 6 40165   ; a bat
+M 0 40105 7 40167   ; a worm
+O 0 16043 65535 40171   ; a gold nugget
+D 0 40173 3 1   ; A Silver Road
+D 0 40174 1 1   ; A Silver Road
+M 0 40103 7 40176   ; a zombie
+G 1 21125 65535 0   ; a bottle of fine aged whiskey
+G 1 40123 65535 0   ; a small treasure
+M 0 40103 7 40177   ; a zombie
+G 1 40123 65535 0   ; a small treasure
+M 0 40103 7 40178   ; a zombie
+G 1 40123 65535 0   ; a small treasure
+M 0 40121 1 40180   ; The Merchant
+G 1 40126 65535 0   ; a treasure
+G 1 40118 65535 0   ; The merchant boots
+M 0 40120 1 40182   ; The Vampire
+G 1 40126 65535 0   ; a treasure
+G 1 40112 65535 0   ; a vampire's girdle
+M 0 40103 7 40183   ; a zombie
+G 1 40123 65535 0   ; a small treasure
+M 0 40103 7 40183   ; a zombie
+G 1 40123 65535 0   ; a small treasure
+M 0 40103 7 40185   ; a zombie
+G 1 40123 65535 0   ; a small treasure
+M 0 40122 1 40186   ; The Armorer
+G 1 40126 65535 0   ; a treasure
+G 1 40115 65535 0   ; The Ghost Plate
+M 0 40103 7 40189   ; a zombie
+G 1 40123 65535 0   ; a small treasure
+M 0 40113 1 40192   ; The Blacksmith
+G 1 40126 65535 0   ; a treasure
+G 1 40106 65535 0   ; The Ghost Cloak
+D 0 40194 0 2   ; A Silver Enclosure
+D 0 40195 2 2   ; Above The Lair
+M 0 40102 1 40196   ; A Baby Brown Dragon
+G 1 40129 65535 0   ; a huge treasure
+G 1 40102 65535 0   ; A Dragon's Claw
+G 1 40131 65535 0   ; A Silver Shard
+S

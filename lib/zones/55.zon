@@ -1,0 +1,829 @@
+*Zone 55, rooms 9700-10899, last modified by Pentak
+M 0 9718 12 9700   ; A small gremlin
+M 0 9719 18 9701   ; A gnoll
+M 0 9717 15 9707   ; A grimlock
+M 0 9719 18 9709   ; A gnoll
+M 0 9717 15 9710   ; A grimlock
+E 1 1946 65535 8   ; a pair of leather sandals
+E 1 1944 65535 13   ; a loin cloth
+E 1 9601 65535 16   ; a short sword
+E 1 1564 65535 17   ; a leather pouch
+P 1 60 6 1564   ; A small stone
+M 0 9722 5 9711   ; A gnoll sentry
+E 1 3041 65535 5   ; a chain mail shirt
+E 1 3078 65535 6   ; a chain helm
+E 1 3083 65535 7   ; a pair of chain leggings
+E 1 3628 65535 8   ; a pair of padded leather boots
+E 1 3072 65535 9   ; a pair of chain gauntlets
+M 0 9722 5 9711   ; A gnoll sentry
+M 0 9722 5 9711   ; A gnoll sentry
+M 0 9722 5 9711   ; A gnoll sentry
+M 0 9722 5 9711   ; A gnoll sentry
+E 1 3041 65535 5   ; a chain mail shirt
+E 1 3078 65535 6   ; a chain helm
+E 1 3083 65535 7   ; a pair of chain leggings
+E 1 3628 65535 8   ; a pair of padded leather boots
+E 1 3072 65535 9   ; a pair of chain gauntlets
+M 0 9718 12 9712   ; A small gremlin
+M 0 9719 18 9712   ; A gnoll
+D 0 9713 2 0   ; Common Cavern
+M 0 9719 18 9714   ; A gnoll
+M 0 9719 18 9717   ; A gnoll
+M 0 9719 18 9717   ; A gnoll
+D 0 9717 0 0   ; Well Used Passageway
+D 0 9717 2 0   ; Well Used Passageway
+D 0 9717 3 0   ; Well Used Passageway
+D 0 9718 2 0   ; Large Common Sleeping Cavern
+M 0 9718 12 9719   ; A small gremlin
+D 0 9719 0 0   ; Decorated Room
+D 0 9720 1 0   ; Simple Sleeping Quarters
+D 0 9720 2 1   ; Simple Sleeping Quarters
+O 0 9714 3 9721   ; a pile of black coins
+D 0 9721 0 1   ; Secret Stash
+M 0 9716 6 9722   ; A hook horror
+M 0 9719 18 9722   ; A gnoll
+D 0 9722 0 0   ; Storage Room
+M 0 9727 2 9724   ; The Jade Spider Statue
+M 0 9727 2 9724   ; The Jade Spider Statue
+M 0 9718 12 9727   ; A small gremlin
+M 0 9716 6 9728   ; A hook horror
+M 0 9717 15 9729   ; A grimlock
+M 0 9719 18 9729   ; A gnoll
+M 0 9717 15 9730   ; A grimlock
+E 1 1946 65535 8   ; a pair of leather sandals
+E 1 1944 65535 13   ; a loin cloth
+E 1 9601 65535 16   ; a short sword
+E 1 1564 65535 17   ; a leather pouch
+P 1 60 6 1564   ; A small stone
+M 0 9719 18 9730   ; A gnoll
+M 0 9717 15 9731   ; A grimlock
+E 1 1946 65535 8   ; a pair of leather sandals
+E 1 1944 65535 13   ; a loin cloth
+E 1 9601 65535 16   ; a short sword
+E 1 1564 65535 17   ; a leather pouch
+P 1 60 6 1564   ; A small stone
+M 0 9717 15 9731   ; A grimlock
+M 0 9714 4 9732   ; A subterranean lizard
+M 0 9717 15 9733   ; A grimlock
+E 1 1946 65535 8   ; a pair of leather sandals
+E 1 1944 65535 13   ; a loin cloth
+E 1 9601 65535 16   ; a short sword
+E 1 1564 65535 17   ; a leather pouch
+P 1 60 6 1564   ; A small stone
+M 0 9718 12 9734   ; A small gremlin
+M 0 9714 4 9735   ; A subterranean lizard
+M 0 9721 1 9736   ; A gnoll chieftain
+M 0 9719 18 9739   ; A gnoll
+M 0 9719 18 9739   ; A gnoll
+M 0 9717 15 9740   ; A grimlock
+E 1 1946 65535 8   ; a pair of leather sandals
+E 1 1944 65535 13   ; a loin cloth
+E 1 9601 65535 16   ; a short sword
+E 1 1564 65535 17   ; a leather pouch
+P 1 60 6 1564   ; A small stone
+M 0 9718 12 9740   ; A small gremlin
+M 0 9718 12 9740   ; A small gremlin
+M 0 9719 18 9741   ; A gnoll
+D 0 9742 5 0   ; Dry Cavern
+D 0 9743 4 0   ; Underground Tunnel
+D 0 9756 2 0   ; Mining Tunnel
+M 0 9700 40 9760   ; A dark elf guard
+E 1 9704 65535 8   ; a pair of black boots
+E 1 9703 65535 12   ; a black mesh shirt
+E 1 9705 65535 13   ; a black leather sword belt
+E 1 9736 65535 16   ; a small crossbow
+E 1 9735 65535 22   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+M 0 9700 40 9760   ; A dark elf guard
+E 1 9704 65535 8   ; a pair of black boots
+E 1 9703 65535 12   ; a black mesh shirt
+E 1 9705 65535 13   ; a black leather sword belt
+E 1 9736 65535 16   ; a small crossbow
+E 1 9735 65535 22   ; a poison tipped arrow
+G 1 9601 65535 0   ; a short sword
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+M 0 9700 40 9760   ; A dark elf guard
+E 1 9704 65535 8   ; a pair of black boots
+E 1 9703 65535 12   ; a black mesh shirt
+E 1 9705 65535 13   ; a black leather sword belt
+E 1 9736 65535 16   ; a small crossbow
+E 1 9735 65535 22   ; a poison tipped arrow
+G 1 9601 65535 0   ; a short sword
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+M 0 9700 40 9760   ; A dark elf guard
+E 1 9704 65535 8   ; a pair of black boots
+E 1 9703 65535 12   ; a black mesh shirt
+E 1 9705 65535 13   ; a black leather sword belt
+E 1 9736 65535 16   ; a small crossbow
+E 1 9735 65535 22   ; a poison tipped arrow
+G 1 9601 65535 0   ; a short sword
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+M 0 9700 40 9760   ; A dark elf guard
+E 1 9704 65535 8   ; a pair of black boots
+E 1 9703 65535 12   ; a black mesh shirt
+E 1 9705 65535 13   ; a black leather sword belt
+E 1 9736 65535 16   ; a small crossbow
+E 1 9735 65535 22   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+D 0 9761 1 2   ; Large Stone Door
+M 0 9757 24 9762   ; A dwarven warrior
+M 0 9757 24 9762   ; A dwarven warrior
+M 0 9757 24 9762   ; A dwarven warrior
+M 0 9757 24 9762   ; A dwarven warrior
+M 0 9757 24 9762   ; A dwarven warrior
+D 0 9762 3 2   ; Guard Station
+D 0 9765 3 1   ; Short Tunnel
+O 0 9715 65535 9769   ; a diamond gem
+O 0 9716 65535 9769   ; a silvery chunk of metal
+O 0 1513 65535 9769   ; A bar of adamantite
+D 0 9769 1 1   ; Precious Metals
+M 0 9757 24 9770   ; A dwarven warrior
+M 0 9757 24 9770   ; A dwarven warrior
+M 0 9757 24 9770   ; A dwarven warrior
+M 0 9757 24 9770   ; A dwarven warrior
+M 0 9757 24 9770   ; A dwarven warrior
+M 0 9757 24 9770   ; A dwarven warrior
+M 0 9757 24 9770   ; A dwarven warrior
+M 0 9757 24 9770   ; A dwarven warrior
+D 0 9771 3 1   ; Meeting Hall
+O 0 9708 65535 9772   ; a backpack
+P 1 9714 3 9708   ; a pile of black coins
+P 1 9714 3 9708   ; a pile of black coins
+D 0 9772 1 1   ; Secret Stash!
+M 0 9717 15 9775   ; A grimlock
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+M 0 9717 15 9776   ; A grimlock
+E 1 1946 65535 8   ; a pair of leather sandals
+E 1 1944 65535 13   ; a loin cloth
+E 1 9601 65535 16   ; a short sword
+E 1 1564 65535 17   ; a leather pouch
+P 1 60 6 1564   ; A small stone
+G 1 5000 65535 0   ; A small mining pick
+G 1 9712 65535 0   ; a shovel
+M 0 9702 12 9783   ; A dark elf priestess
+M 0 9730 1 9785   ; Bladen'Kerst Baenre
+E 1 9701 65535 16   ; a triple headed snake whip
+M 0 9731 1 9789   ; Sos'Umptu Baenre
+E 1 9701 65535 16   ; a triple headed snake whip
+M 0 9717 15 9789   ; A grimlock
+G 1 9493 65535 0   ; A golden coin
+M 0 9702 12 9791   ; A dark elf priestess
+M 0 9717 15 9797   ; A grimlock
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9719 65535 0   ; A boobie trap
+G 1 9719 65535 0   ; A boobie trap
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+M 0 9717 15 9798   ; A grimlock
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+M 0 9756 31 9800   ; A drow combatant
+M 0 9756 31 9800   ; A drow combatant
+M 0 9756 31 9801   ; A drow combatant
+O 0 9493 65535 9801   ; A golden coin
+M 0 9756 31 9802   ; A drow combatant
+M 0 9756 31 9802   ; A drow combatant
+M 0 9756 31 9815   ; A drow combatant
+M 0 9756 31 9815   ; A drow combatant
+M 0 9756 31 9815   ; A drow combatant
+M 0 9756 31 9815   ; A drow combatant
+O 0 9493 65535 9815   ; A golden coin
+M 0 9756 31 9816   ; A drow combatant
+M 0 9756 31 9816   ; A drow combatant
+M 0 9756 31 9816   ; A drow combatant
+M 0 9756 31 9816   ; A drow combatant
+M 0 9756 31 9816   ; A drow combatant
+M 0 9756 31 9816   ; A drow combatant
+M 0 9756 31 9816   ; A drow combatant
+M 0 9756 31 9817   ; A drow combatant
+M 0 9756 31 9817   ; A drow combatant
+M 0 9756 31 9817   ; A drow combatant
+M 0 9755 2 9817   ; A Drow Duelist
+G 1 9734 65535 0   ; a small throwing dagger
+G 1 9734 65535 0   ; a small throwing dagger
+M 0 9755 2 9817   ; A Drow Duelist
+G 1 9734 65535 0   ; a small throwing dagger
+G 1 9734 65535 0   ; a small throwing dagger
+M 0 9756 31 9818   ; A drow combatant
+M 0 9756 31 9818   ; A drow combatant
+M 0 9756 31 9819   ; A drow combatant
+M 0 9756 31 9819   ; A drow combatant
+M 0 9756 31 9819   ; A drow combatant
+M 0 9756 31 9819   ; A drow combatant
+M 0 9756 31 9820   ; A drow combatant
+M 0 9756 31 9821   ; A drow combatant
+M 0 9756 31 9822   ; A drow combatant
+M 0 9756 31 9822   ; A drow combatant
+M 0 9756 31 9822   ; A drow combatant
+M 0 9756 31 9823   ; A drow combatant
+D 0 9824 4 2   ; Secret Passage
+M 0 9734 1 9825   ; Jarlaxle
+E 1 9741 65535 13   ; The Belt of Bandits
+M 0 9735 5 9826   ; The Drow Mercenary
+E 1 32803 65535 16   ; a very sharp dagger
+M 0 9735 5 9826   ; The Drow Mercenary
+E 1 32803 65535 16   ; a very sharp dagger
+M 0 9735 5 9826   ; The Drow Mercenary
+E 1 32803 65535 16   ; a very sharp dagger
+M 0 9735 5 9826   ; The Drow Mercenary
+E 1 32803 65535 16   ; a very sharp dagger
+M 0 9735 5 9826   ; The Drow Mercenary
+M 0 9752 1 9828   ; Artemis Entreri
+E 1 9757 65535 16   ; Dagger of Vampiric Touch
+G 1 9773 65535 0   ;  cloak of the bat
+M 0 9700 40 9830   ; A dark elf guard
+E 1 9704 65535 8   ; a pair of black boots
+E 1 9703 65535 12   ; a black mesh shirt
+E 1 9705 65535 13   ; a black leather sword belt
+E 1 9736 65535 16   ; a small crossbow
+E 1 9735 65535 22   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+M 0 9700 40 9830   ; A dark elf guard
+E 1 9736 65535 16   ; a small crossbow
+E 1 9735 65535 22   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9703 65535 0   ; a black mesh shirt
+G 1 9705 65535 0   ; a black leather sword belt
+G 1 9704 65535 0   ; a pair of black boots
+M 0 9700 40 9830   ; A dark elf guard
+E 1 9704 65535 8   ; a pair of black boots
+E 1 9703 65535 12   ; a black mesh shirt
+E 1 9705 65535 13   ; a black leather sword belt
+E 1 9736 65535 16   ; a small crossbow
+E 1 9735 65535 22   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9601 65535 0   ; a short sword
+M 0 9700 40 9830   ; A dark elf guard
+E 1 9704 65535 8   ; a pair of black boots
+E 1 9703 65535 12   ; a black mesh shirt
+E 1 9705 65535 13   ; a black leather sword belt
+E 1 9736 65535 16   ; a small crossbow
+E 1 9735 65535 22   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9601 65535 0   ; a short sword
+M 0 9700 40 9830   ; A dark elf guard
+E 1 9704 65535 8   ; a pair of black boots
+E 1 9703 65535 12   ; a black mesh shirt
+E 1 9705 65535 13   ; a black leather sword belt
+E 1 9736 65535 16   ; a small crossbow
+E 1 9735 65535 22   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9601 65535 0   ; a short sword
+O 0 9735 65535 9830   ; a poison tipped arrow
+M 0 9700 40 9831   ; A dark elf guard
+E 1 9704 65535 8   ; a pair of black boots
+E 1 9748 65535 12   ; Black Spider Cloak
+E 1 9705 65535 13   ; a black leather sword belt
+E 1 9736 65535 16   ; a small crossbow
+E 1 9735 65535 22   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+M 0 9700 40 9831   ; A dark elf guard
+E 1 9704 65535 8   ; a pair of black boots
+E 1 9748 65535 12   ; Black Spider Cloak
+E 1 9705 65535 13   ; a black leather sword belt
+E 1 9736 65535 16   ; a small crossbow
+E 1 9735 65535 22   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+M 0 9700 40 9831   ; A dark elf guard
+E 1 9704 65535 8   ; a pair of black boots
+E 1 9748 65535 12   ; Black Spider Cloak
+E 1 9705 65535 13   ; a black leather sword belt
+E 1 9736 65535 16   ; a small crossbow
+E 1 9735 65535 22   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+M 0 9700 40 9831   ; A dark elf guard
+E 1 9704 65535 8   ; a pair of black boots
+E 1 9748 65535 12   ; Black Spider Cloak
+E 1 9705 65535 13   ; a black leather sword belt
+E 1 9736 65535 16   ; a small crossbow
+E 1 9735 65535 22   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+M 0 9744 18 9833   ; A Drow Commoner
+M 0 9744 18 9833   ; A Drow Commoner
+M 0 9744 18 9833   ; A Drow Commoner
+M 0 9744 18 9833   ; A Drow Commoner
+M 0 9702 12 9835   ; A dark elf priestess
+M 0 9702 12 9835   ; A dark elf priestess
+M 0 9702 12 9835   ; A dark elf priestess
+M 0 9702 12 9835   ; A dark elf priestess
+M 0 9743 9 9837   ; A female drow
+M 0 9743 9 9837   ; A female drow
+M 0 9743 9 9837   ; A female drow
+M 0 9743 9 9837   ; A female drow
+M 0 9745 16 9839   ; a goblin slave
+M 0 9746 17 9839   ; a bugbear slave
+M 0 9700 40 9839   ; A dark elf guard
+E 1 9704 65535 8   ; a pair of black boots
+E 1 9703 65535 12   ; a black mesh shirt
+E 1 9705 65535 13   ; a black leather sword belt
+E 1 9736 65535 16   ; a small crossbow
+E 1 9735 65535 22   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+M 0 9700 40 9839   ; A dark elf guard
+E 1 9704 65535 8   ; a pair of black boots
+E 1 9703 65535 12   ; a black mesh shirt
+E 1 9705 65535 13   ; a black leather sword belt
+E 1 9736 65535 16   ; a small crossbow
+E 1 9735 65535 22   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9601 65535 0   ; a short sword
+M 0 9700 40 9839   ; A dark elf guard
+E 1 9704 65535 8   ; a pair of black boots
+E 1 9703 65535 12   ; a black mesh shirt
+E 1 9705 65535 13   ; a black leather sword belt
+E 1 9736 65535 16   ; a small crossbow
+E 1 9735 65535 22   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9601 65535 0   ; a short sword
+M 0 9745 16 9839   ; a goblin slave
+M 0 9745 16 9839   ; a goblin slave
+M 0 9745 16 9839   ; a goblin slave
+M 0 9746 17 9839   ; a bugbear slave
+M 0 9746 17 9839   ; a bugbear slave
+M 0 9746 17 9839   ; a bugbear slave
+M 0 9747 5 9840   ; A drow mage
+M 0 9747 5 9840   ; A drow mage
+M 0 9747 5 9840   ; A drow mage
+M 0 9747 5 9840   ; A drow mage
+E 1 9709 65535 5   ; a red robe
+M 0 9702 12 9841   ; A dark elf priestess
+M 0 9702 12 9841   ; A dark elf priestess
+M 0 9702 12 9841   ; A dark elf priestess
+M 0 9728 1 9843   ; El-Viddenvelp
+E 1 9775 65535 13   ; a purple sash
+M 0 9732 1 9844   ; Gromph Baenre
+E 1 9750 65535 15   ; Black Widow Bracelet
+M 0 9736 1 9845   ; Dantrag Baenre
+E 1 9737 65535 16   ; A Long Sword
+M 0 9729 1 9846   ; Triel Baenre
+E 1 9701 65535 16   ; a triple headed snake whip
+M 0 9733 1 9847   ; Matron Malice Do'Urden
+E 1 9749 65535 2   ; A Ring of Spiders
+E 1 9700 65535 16   ; a five headed snake whip
+D 0 9847 1 2   ; High Chamber
+M 0 9725 4 9848   ; The Yochlol
+M 0 9725 4 9848   ; The Yochlol
+O 0 5305 65535 9848   ; a huge treasure
+D 0 9848 3 2   ; Secret Vault
+D 0 9850 2 2   ; Huge Gate
+D 0 9851 0 2   ; Doorway
+D 0 9851 2 0   ; Doorway
+M 0 9700 40 9852   ; A dark elf guard
+E 1 9703 65535 12   ; a black mesh shirt
+M 0 9700 40 9852   ; A dark elf guard
+E 1 9703 65535 12   ; a black mesh shirt
+M 0 9700 40 9852   ; A dark elf guard
+E 1 9704 65535 8   ; a pair of black boots
+E 1 9703 65535 12   ; a black mesh shirt
+E 1 9705 65535 13   ; a black leather sword belt
+E 1 9736 65535 16   ; a small crossbow
+E 1 9735 65535 22   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9601 65535 0   ; a short sword
+M 0 9700 40 9852   ; A dark elf guard
+E 1 9704 65535 8   ; a pair of black boots
+E 1 9703 65535 12   ; a black mesh shirt
+E 1 9705 65535 13   ; a black leather sword belt
+E 1 9736 65535 16   ; a small crossbow
+E 1 9735 65535 22   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9601 65535 0   ; a short sword
+D 0 9852 0 0   ; Guard Post
+M 0 9700 40 9853   ; A dark elf guard
+M 0 9700 40 9853   ; A dark elf guard
+M 0 9700 40 9853   ; A dark elf guard
+E 1 9704 65535 8   ; a pair of black boots
+E 1 9703 65535 12   ; a black mesh shirt
+E 1 9736 65535 16   ; a small crossbow
+E 1 9735 65535 22   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9601 65535 0   ; a short sword
+M 0 9700 40 9853   ; A dark elf guard
+E 1 9704 65535 8   ; a pair of black boots
+E 1 9703 65535 12   ; a black mesh shirt
+E 1 9705 65535 13   ; a black leather sword belt
+E 1 9736 65535 16   ; a small crossbow
+E 1 9735 65535 22   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9601 65535 0   ; a short sword
+M 0 9700 40 9854   ; A dark elf guard
+E 1 9704 65535 8   ; a pair of black boots
+E 1 9703 65535 12   ; a black mesh shirt
+E 1 9736 65535 16   ; a small crossbow
+E 1 9735 65535 22   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9601 65535 0   ; a short sword
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 38917 65535 0   ; An odd silver coin
+M 0 9700 40 9854   ; A dark elf guard
+M 0 9700 40 9854   ; A dark elf guard
+M 0 9700 40 9854   ; A dark elf guard
+E 1 9704 65535 8   ; a pair of black boots
+E 1 9703 65535 12   ; a black mesh shirt
+E 1 9736 65535 16   ; a small crossbow
+E 1 9735 65535 22   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9601 65535 0   ; a short sword
+M 0 9743 9 9856   ; A female drow
+M 0 9743 9 9856   ; A female drow
+M 0 9743 9 9856   ; A female drow
+M 0 9743 9 9856   ; A female drow
+M 0 9743 9 9856   ; A female drow
+M 0 9744 18 9857   ; A Drow Commoner
+M 0 9744 18 9857   ; A Drow Commoner
+M 0 9744 18 9857   ; A Drow Commoner
+M 0 9744 18 9857   ; A Drow Commoner
+M 0 9742 1 9858   ; A dark elf cook
+M 0 9741 2 9861   ; A Naga Spy
+M 0 9740 1 9862   ; Uthengentel
+E 1 9740 65535 16   ; The Black Trident
+M 0 9738 3 9863   ; High Priestess of House Barrison Del'Armgo
+M 0 9738 3 9863   ; High Priestess of House Barrison Del'Armgo
+M 0 9738 3 9863   ; High Priestess of House Barrison Del'Armgo
+M 0 9739 3 9864   ; Drow Mage of Barrison Del'Armgo
+M 0 9739 3 9864   ; Drow Mage of Barrison Del'Armgo
+M 0 9739 3 9864   ; Drow Mage of Barrison Del'Armgo
+D 0 9867 5 2   ; Altar of Lloth
+M 0 9737 1 9868   ; Matron Mez'Barris Armgo
+E 1 9754 65535 3   ; Small Spider Amulet
+E 1 9700 65535 16   ; a five headed snake whip
+D 0 9869 2 1   ; Matron's Bedroom
+M 0 9725 4 9870   ; The Yochlol
+M 0 9725 4 9870   ; The Yochlol
+O 0 5305 65535 9870   ; a huge treasure
+D 0 9870 0 1   ; JACKPOT!  The Treasure Room
+M 0 9700 40 9872   ; A dark elf guard
+M 0 9700 40 9872   ; A dark elf guard
+M 0 9700 40 9872   ; A dark elf guard
+E 1 9704 65535 8   ; a pair of black boots
+E 1 9703 65535 12   ; a black mesh shirt
+E 1 9705 65535 13   ; a black leather sword belt
+E 1 9736 65535 16   ; a small crossbow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+M 0 9746 17 9874   ; a bugbear slave
+M 0 9745 16 9874   ; a goblin slave
+M 0 9746 17 9874   ; a bugbear slave
+M 0 9745 16 9874   ; a goblin slave
+M 0 9746 17 9874   ; a bugbear slave
+M 0 9745 16 9874   ; a goblin slave
+M 0 9746 17 9874   ; a bugbear slave
+M 0 9745 16 9874   ; a goblin slave
+M 0 9746 17 9874   ; a bugbear slave
+M 0 9745 16 9875   ; a goblin slave
+M 0 9746 17 9875   ; a bugbear slave
+M 0 9745 16 9875   ; a goblin slave
+M 0 9746 17 9875   ; a bugbear slave
+M 0 9745 16 9875   ; a goblin slave
+M 0 9746 17 9875   ; a bugbear slave
+M 0 9745 16 9875   ; a goblin slave
+M 0 9746 17 9875   ; a bugbear slave
+M 0 9700 40 9876   ; A dark elf guard
+M 0 9700 40 9876   ; A dark elf guard
+M 0 9700 40 9876   ; A dark elf guard
+E 1 9704 65535 8   ; a pair of black boots
+E 1 9703 65535 12   ; a black mesh shirt
+E 1 9705 65535 13   ; a black leather sword belt
+E 1 9736 65535 16   ; a small crossbow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9601 65535 0   ; a short sword
+M 0 9700 40 9876   ; A dark elf guard
+E 1 9704 65535 8   ; a pair of black boots
+E 1 9703 65535 12   ; a black mesh shirt
+E 1 9705 65535 13   ; a black leather sword belt
+E 1 9736 65535 16   ; a small crossbow
+E 1 9735 65535 22   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9601 65535 0   ; a short sword
+M 0 9744 18 9877   ; A Drow Commoner
+M 0 9744 18 9877   ; A Drow Commoner
+M 0 9744 18 9877   ; A Drow Commoner
+M 0 9744 18 9877   ; A Drow Commoner
+M 0 9744 18 9877   ; A Drow Commoner
+M 0 9700 40 9878   ; A dark elf guard
+M 0 9700 40 9878   ; A dark elf guard
+E 1 9704 65535 8   ; a pair of black boots
+E 1 9703 65535 12   ; a black mesh shirt
+E 1 9705 65535 13   ; a black leather sword belt
+E 1 9601 65535 16   ; a short sword
+G 1 9736 65535 0   ; a small crossbow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+M 0 9700 40 9878   ; A dark elf guard
+E 1 9704 65535 8   ; a pair of black boots
+E 1 9703 65535 12   ; a black mesh shirt
+E 1 9705 65535 13   ; a black leather sword belt
+E 1 9601 65535 16   ; a short sword
+G 1 9736 65535 0   ; a small crossbow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+M 0 9700 40 9878   ; A dark elf guard
+E 1 9704 65535 8   ; a pair of black boots
+E 1 9703 65535 12   ; a black mesh shirt
+E 1 9705 65535 13   ; a black leather sword belt
+E 1 9601 65535 16   ; a short sword
+G 1 9736 65535 0   ; a small crossbow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+G 1 9735 65535 0   ; a poison tipped arrow
+M 0 9706 1 9879   ; Rizzen Do'Urden
+M 0 9705 1 9879   ; Matron Malice Do'Urden
+E 1 9753 65535 3   ; Spider Amulet
+E 1 9700 65535 16   ; a five headed snake whip
+O 0 9735 65535 9881   ; a poison tipped arrow
+M 0 9741 2 9882   ; A Naga Spy
+M 0 9704 1 9883   ; Briza Do'Urden
+E 1 9701 65535 16   ; a triple headed snake whip
+M 0 9707 1 9884   ; Vierna Do'Urden
+E 1 9702 65535 16   ; a slithering snake headed whip
+M 0 9709 1 9886   ; Dinin Do'Urden
+E 1 9731 65535 21   ; a pair of glasses
+M 0 9708 1 9887   ; Maya Do'urden
+E 1 9756 65535 16   ; A Black Spiked Mace
+M 0 9754 1 9889   ; Zaknafein Do'Urden
+G 1 9755 65535 0   ; Spider Boots
+M 0 9702 12 9891   ; A dark elf priestess
+M 0 9702 12 9891   ; A dark elf priestess
+M 0 9702 12 9891   ; A dark elf priestess
+M 0 9724 1 9896   ; The Shadow Dragon
+G 1 9739 65535 0   ; Shadowcape
+G 1 9747 65535 0   ; Shadow Dragon Claws
+M 0 9745 16 9899   ; a goblin slave
+M 0 9745 16 9899   ; a goblin slave
+M 0 9745 16 9899   ; a goblin slave
+M 0 9745 16 9899   ; a goblin slave
+M 0 9746 17 9899   ; a bugbear slave
+M 0 9746 17 9899   ; a bugbear slave
+M 0 9746 17 9899   ; a bugbear slave
+M 0 9746 17 9899   ; a bugbear slave
+M 0 9744 18 9899   ; A Drow Commoner
+M 0 9744 18 9899   ; A Drow Commoner
+M 0 9744 18 9899   ; A Drow Commoner
+M 0 9747 5 9899   ; A drow mage
+M 0 9744 18 9899   ; A Drow Commoner
+M 0 9744 18 9899   ; A Drow Commoner
+M 0 9719 18 9901   ; A gnoll
+D 0 9903 1 0   ; A Pebbly Pathway
+M 0 9714 4 9905   ; A subterranean lizard
+M 0 9719 18 9905   ; A gnoll
+M 0 9719 18 9906   ; A gnoll
+M 0 9718 12 9906   ; A small gremlin
+M 0 9720 1 9911   ; A gnoll
+E 1 3041 65535 5   ; a chain mail shirt
+M 0 9714 4 9911   ; A subterranean lizard
+M 0 9719 18 9913   ; A gnoll
+M 0 9718 12 9914   ; A small gremlin
+M 0 9719 18 9914   ; A gnoll
+M 0 9719 18 9916   ; A gnoll
+M 0 9718 12 9918   ; A small gremlin
+D 0 9918 4 0   ; Base of the Cliff
+D 0 9919 5 0   ; Top of the Cliff
+M 0 9726 7 9920   ; The Drider
+M 0 9726 7 9920   ; The Drider
+M 0 9726 7 9920   ; The Drider
+M 0 9726 7 9920   ; The Drider
+M 0 9726 7 9920   ; The Drider
+M 0 9726 7 9920   ; The Drider
+M 0 9726 7 9920   ; The Drider
+M 0 9711 1 9921   ; Drizzt Do'Urden
+E 1 9760 65535 16   ; Twinkle
+E 1 9758 65535 17   ; A frost glazed scimitar
+M 0 9753 1 9921   ; Guenhweyvar
+E 1 9759 65535 17   ; a small black panther figurine
+M 0 9749 1 9923   ; Catti-Brie
+G 1 9761 65535 0   ; Taul-Maril the Heart Seeker
+M 0 9751 1 9924   ; Regis
+M 0 9716 6 9935   ; A hook horror
+M 0 9717 15 9935   ; A grimlock
+M 0 9717 15 9935   ; A grimlock
+M 0 9718 12 9935   ; A small gremlin
+M 0 9716 6 9935   ; A hook horror
+M 0 9718 12 9935   ; A small gremlin
+M 0 9716 6 9935   ; A hook horror
+M 0 9716 6 9935   ; A hook horror
+M 0 9757 24 9938   ; A dwarven warrior
+M 0 9757 24 9938   ; A dwarven warrior
+M 0 9757 24 9938   ; A dwarven warrior
+M 0 9757 24 9938   ; A dwarven warrior
+M 0 9757 24 9938   ; A dwarven warrior
+M 0 9757 24 9938   ; A dwarven warrior
+M 0 9757 24 9939   ; A dwarven warrior
+M 0 9757 24 9939   ; A dwarven warrior
+M 0 9757 24 9939   ; A dwarven warrior
+M 0 9757 24 9939   ; A dwarven warrior
+M 0 9750 1 9939   ; Bruenor Battlehammer
+E 1 9738 65535 11   ; A Stout Shield
+M 0 9757 24 9939   ; A dwarven warrior
+M 0 9723 1 9941   ; Errtu the evil demon
+E 1 9751 65535 6   ; Blood Stained Horns
+D 0 9972 0 2   ; A very narrow underground tunnel
+D 0 9973 2 2   ; Lair of the Roper
+D 0 9973 4 1   ; Lair of the Roper
+D 0 9974 5 1   ; A large cavern
+D 0 9975 0 0   ; Out into the creepy forest
+D 0 9975 2 0   ; Out into the creepy forest
+D 0 9976 0 0   ; Creepy forest
+D 0 9976 2 0   ; Creepy forest
+D 0 9977 2 0   ; Creepy forest
+D 0 9977 3 0   ; Creepy forest
+D 0 9978 0 0   ; Creepy forest
+D 0 9978 1 0   ; Creepy forest
+D 0 9979 0 0   ; Creepy forest
+D 0 9979 2 0   ; Creepy forest
+D 0 9980 1 0   ; Creepy forest
+D 0 9980 2 0   ; Creepy forest
+D 0 9981 3 0   ; Roaring river between cliff faces
+D 0 9982 1 0   ; Roaring river between cliff faces
+D 0 9983 0 0   ; Creepy forest
+D 0 9983 3 0   ; Creepy forest
+D 0 9984 2 0   ; Creepy forest
+D 0 9984 3 0   ; Creepy forest
+D 0 9985 0 0   ; Creepy forest
+D 0 9985 1 0   ; Creepy forest
+D 0 9986 0 0   ; Creepy forest
+D 0 9986 2 0   ; Creepy forest
+M 0 9759 28 10800   ; an illithid brainwasher
+M 0 9759 28 10800   ; an illithid brainwasher
+M 0 9759 28 10800   ; an illithid brainwasher
+M 0 9759 28 10801   ; an illithid brainwasher
+M 0 9759 28 10801   ; an illithid brainwasher
+M 0 9759 28 10801   ; an illithid brainwasher
+M 0 9759 28 10802   ; an illithid brainwasher
+M 0 9759 28 10802   ; an illithid brainwasher
+M 0 9759 28 10802   ; an illithid brainwasher
+M 0 9759 28 10803   ; an illithid brainwasher
+M 0 9759 28 10803   ; an illithid brainwasher
+M 0 9759 28 10803   ; an illithid brainwasher
+M 0 9759 28 10804   ; an illithid brainwasher
+M 0 9759 28 10804   ; an illithid brainwasher
+M 0 9759 28 10804   ; an illithid brainwasher
+M 0 9758 1 10804   ; The central brain of the illithid collective
+G 1 9762 65535 0   ; a brainstem
+G 1 9766 65535 0   ; a clump of grey brain matter
+M 0 9759 28 10804   ; an illithid brainwasher
+M 0 9759 28 10805   ; an illithid brainwasher
+M 0 9759 28 10805   ; an illithid brainwasher
+M 0 9759 28 10805   ; an illithid brainwasher
+M 0 9760 8 10808   ; an illithid guard
+G 1 9763 65535 0   ; a curved dagger
+M 0 9760 8 10808   ; an illithid guard
+E 1 9764 65535 16   ; a wickedly curved dagger
+M 0 9759 28 10809   ; an illithid brainwasher
+M 0 9759 28 10809   ; an illithid brainwasher
+M 0 9759 28 10809   ; an illithid brainwasher
+M 0 9759 28 10810   ; an illithid brainwasher
+M 0 9759 28 10810   ; an illithid brainwasher
+M 0 9759 28 10810   ; an illithid brainwasher
+M 0 9759 28 10811   ; an illithid brainwasher
+M 0 9759 28 10811   ; an illithid brainwasher
+M 0 9759 28 10811   ; an illithid brainwasher
+M 0 9760 8 10816   ; an illithid guard
+G 1 9763 65535 0   ; a curved dagger
+M 0 9760 8 10816   ; an illithid guard
+G 1 9763 65535 0   ; a curved dagger
+M 0 9761 38 10837   ; an Illithid
+G 1 9765 65535 0   ; a flowing purple robe
+M 0 9761 38 10845   ; an Illithid
+G 1 9767 65535 0   ; a severed tentacle
+M 0 9761 38 10850   ; an Illithid
+M 0 9761 38 10850   ; an Illithid
+M 0 9761 38 10850   ; an Illithid
+M 0 9761 38 10850   ; an Illithid
+M 0 9761 38 10851   ; an Illithid
+M 0 9761 38 10851   ; an Illithid
+M 0 9761 38 10851   ; an Illithid
+M 0 9761 38 10851   ; an Illithid
+M 0 9761 38 10852   ; an Illithid
+M 0 9761 38 10852   ; an Illithid
+M 0 9761 38 10852   ; an Illithid
+M 0 9761 38 10852   ; an Illithid
+M 0 9761 38 10855   ; an Illithid
+M 0 9761 38 10855   ; an Illithid
+M 0 9761 38 10855   ; an Illithid
+M 0 9761 38 10855   ; an Illithid
+M 0 9761 38 10856   ; an Illithid
+M 0 9761 38 10856   ; an Illithid
+M 0 9761 38 10856   ; an Illithid
+M 0 9761 38 10856   ; an Illithid
+M 0 9761 38 10857   ; an Illithid
+M 0 9761 38 10857   ; an Illithid
+M 0 9761 38 10857   ; an Illithid
+M 0 9761 38 10857   ; an Illithid
+M 0 9761 38 10863   ; an Illithid
+M 0 9761 38 10863   ; an Illithid
+M 0 9761 38 10863   ; an Illithid
+M 0 9761 38 10863   ; an Illithid
+M 0 9761 38 10864   ; an Illithid
+M 0 9761 38 10864   ; an Illithid
+M 0 9761 38 10864   ; an Illithid
+M 0 9761 38 10864   ; an Illithid
+M 0 9761 38 10865   ; an Illithid
+M 0 9761 38 10865   ; an Illithid
+M 0 9761 38 10865   ; an Illithid
+M 0 9761 38 10865   ; an Illithid
+M 0 9760 8 10870   ; an illithid guard
+G 1 9763 65535 0   ; a curved dagger
+M 0 9760 8 10870   ; an illithid guard
+G 1 9763 65535 0   ; a curved dagger
+M 0 9760 8 10871   ; an illithid guard
+G 1 9763 65535 0   ; a curved dagger
+M 0 9760 8 10871   ; an illithid guard
+G 1 9763 65535 0   ; a curved dagger
+D 0 10883 3 0   ; The Falls
+D 0 10891 5 0   ; Rubble
+O 0 9768 65535 10893   ; The Holy Defender
+O 0 9770 65535 10893   ; a Runic Shield
+O 0 9769 65535 10893   ; a Knight's Saddle
+O 0 9771 65535 10893   ; an engraved scabbard
+M 0 9762 1 10894   ; The Deep Dragon
+G 1 9768 65535 0   ; The Holy Defender
+G 1 9769 65535 0   ; a Knight's Saddle
+G 1 9770 65535 0   ; a Runic Shield
+G 1 9772 65535 0   ; a cloak of Deep Dragon scales
+G 1 9774 65535 0   ; a dragon's claw
+D 0 10894 1 2   ; Deep Dragon's Lair
+S

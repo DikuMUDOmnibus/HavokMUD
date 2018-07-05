@@ -1,0 +1,35 @@
+*Zone 18, rooms 2100-2299, last modified by Gomez
+D 0 2101 1 0   ; Temple Enterance
+M 0 2109 2 2109   ; The druid
+M 0 2117 1 2109   ; The high druid
+E 1 2112 65535 17   ; a staff of curing
+M 0 2108 2 2113   ; The druid
+E 1 2113 65535 16   ; A hornblade
+M 0 2114 3 2116   ; a ghast
+M 0 2103 2 2121   ; The druid
+M 0 2104 1 2121   ; The druid
+G 1 2106 65535 0   ; a cracker
+M 0 2119 1 2125   ; A druid warrior
+E 1 2111 65535 17   ; The horn of Valhalla
+G 1 2103 65535 0   ; some chain shackles
+M 0 2105 1 2130   ; The druid
+G 1 2108 65535 0   ; a branch of mistletoe
+M 0 2109 2 2130   ; The druid
+G 1 2104 65535 0   ; A spice rack
+M 0 2107 1 2131   ; The druid
+E 1 2114 65535 8   ; Boots of the North
+M 0 2108 2 2131   ; The druid
+M 0 2103 2 2132   ; The druid
+E 1 2102 65535 16   ; a small dart
+M 0 2114 3 2150   ; a ghast
+M 0 2114 3 2159   ; a ghast
+E 1 2115 65535 17   ; The gem of seeing
+M 0 2118 2 2186   ; A fire elemental
+G 1 2110 65535 0   ; A ring of fire resistance
+M 0 2118 2 2186   ; A fire elemental
+D 0 2186 3 0   ; A decaying temple gate.
+D 0 2187 1 0   ; Inside the temple walls.
+D 0 2187 3 0   ; Inside the temple walls.
+O 0 2188 65535 2188   ; A fountain
+O 0 2189 65535 2189   ; A fountain
+S

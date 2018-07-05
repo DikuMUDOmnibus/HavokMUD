@@ -1,0 +1,62 @@
+*Zone 113, rooms 37600-37699, last modified by Xamael
+D 0 37607 0 0   ; Within the mist
+D 0 37607 2 0   ; Within the mist
+D 0 37607 3 0   ; Within the mist
+D 0 37608 0 0   ; Within the mist
+D 0 37608 1 0   ; Within the mist
+D 0 37608 2 0   ; Within the mist
+D 0 37609 0 0   ; Within the mist
+D 0 37609 2 0   ; Within the mist
+D 0 37609 3 0   ; Within the mist
+D 0 37609 4 0   ; Within the mist
+D 0 37610 2 0   ; Within the mist
+D 0 37610 3 0   ; Within the mist
+D 0 37611 0 0   ; Within the mist
+D 0 37611 1 0   ; Within the mist
+D 0 37611 2 0   ; Within the mist
+D 0 37611 3 0   ; Within the mist
+D 0 37612 0 0   ; Destroyed house
+D 0 37613 0 0   ; Within the mist
+D 0 37613 1 0   ; Within the mist
+D 0 37613 3 0   ; Within the mist
+D 0 37614 0 0   ; Within the mist
+D 0 37614 1 0   ; Within the mist
+D 0 37614 2 0   ; Within the mist
+D 0 37615 1 0   ; Shell against mist
+D 0 37615 3 0   ; Shell against mist
+D 0 37616 4 0   ; Blackmist column
+D 0 37616 5 0   ; Blackmist column
+D 0 37617 0 0   ; Blackmist column
+D 0 37617 1 0   ; Blackmist column
+D 0 37617 3 0   ; Blackmist column
+D 0 37617 4 0   ; Blackmist column
+D 0 37617 5 0   ; Blackmist column
+D 0 37618 3 0   ; Blackmist column
+D 0 37619 2 0   ; Blackmist column
+D 0 37621 3 0   ; Moutainside cliff
+D 0 37630 0 0   ; Blackmist column
+D 0 37630 5 0   ; Blackmist column
+D 0 37631 0 0   ; Blackmist column
+D 0 37631 1 0   ; Blackmist column
+D 0 37632 0 0   ; Blackmist column
+D 0 37632 2 0   ; Blackmist column
+D 0 37632 3 0   ; Blackmist column
+D 0 37633 1 0   ; Blackmist column
+D 0 37633 2 0   ; Blackmist column
+D 0 37633 3 0   ; Blackmist column
+D 0 37634 2 0   ; Dead end
+D 0 37638 0 0   ; Blackmist column
+D 0 37638 3 0   ; Blackmist column
+D 0 37661 0 1   ; Gates to the temple Blackmyst
+D 0 37662 2 1   ; Temple entrance
+D 0 37668 3 1   ; Dead end
+D 0 37669 1 1   ; Dimly lit cavern
+D 0 37670 0 1   ; Room of ruby red
+D 0 37671 1 1   ; Room of light blue
+D 0 37671 2 1   ; Room of light blue
+D 0 37672 0 1   ; Large Chamber
+D 0 37672 3 1   ; Large Chamber
+D 0 37673 2 1   ; Room of dark brown
+D 0 37675 2 1   ; Within thicket
+M 0 37299 1 37699   ; Meximus, the Lord of Blackmyst
+S

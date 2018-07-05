@@ -1,0 +1,73 @@
+*Zone 35, rooms 5400-6099, last modified by Jopa
+D 0 5700 1 0   ; Cador's Oasis from Reality
+D 0 5896 3 0   ; Mynax's Room
+O 0 6012 65535 6000   ; a large sign
+O 0 6011 65535 6006   ; a mushroom
+D 0 6009 0 1   ; Outside a small cabin in the forest
+O 0 6003 65535 6010   ; a fireplace
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+P 1 6006 50 6003   ; a small brass key
+O 0 6004 65535 6010   ; a hooded brass lantern
+O 0 6005 65535 6010   ; a wooden chest
+P 1 6007 1 6005   ; a heap of gold coins
+O 0 6013 65535 6010   ; the barrel
+D 0 6010 2 0   ; Inside the cabin
+M 0 6005 2 6012   ; the brown fox
+O 0 6011 65535 6013   ; a mushroom
+O 0 6011 65535 6016   ; a mushroom
+M 0 6000 1 6018   ; John the Lumberjack
+E 1 6001 65535 5   ; a chequered shirt
+G 1 6000 65535 0   ; a lumber axe
+M 0 6005 2 6020   ; the brown fox
+M 0 6002 1 6022   ; the brown bear
+M 0 6004 1 6023   ; the fallow deer
+O 0 6010 65535 6023   ; some blackberries
+S

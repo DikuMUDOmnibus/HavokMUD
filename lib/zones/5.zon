@@ -1,0 +1,19 @@
+*Zone 5, rooms 306-499, last modified by Coal
+D 0 306 1 0   ; Rocky Cascade
+D 0 309 0 0   ; Trapped!?
+M 0 4112 10 401   ; the bugbear
+M 0 4112 10 401   ; the bugbear
+M 0 4112 10 401   ; the bugbear
+M 0 4112 10 401   ; the bugbear
+M 0 4112 10 401   ; the bugbear
+M 0 4113 3 401   ; the ogre
+M 0 261 1 406   ; a hill giant
+M 0 4113 3 406   ; the ogre
+M 0 4113 3 406   ; the ogre
+M 0 4112 10 406   ; the bugbear
+M 0 4112 10 406   ; the bugbear
+M 0 4112 10 406   ; the bugbear
+M 0 4112 10 406   ; the bugbear
+M 0 4112 10 406   ; the bugbear
+M 0 4000 1 414   ; the snake
+S

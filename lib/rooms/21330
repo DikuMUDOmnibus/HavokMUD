@@ -1,0 +1,27 @@
+#21330
+Kitchen~
+    This room is a bit warmer than any of the other places you've visited
+around here. The few degrees rise in temperature is a welcome change from the
+coolness of most of the rooms here in a place that sunlight never reaches.
+There is a stove, and what looks like a pantry, with an old, rusted-looking
+lock that is still, curiously enough, intact. You can exit to the mess hall
+southwards.
+~
+84 9 1
+D2
+~
+~
+0 -1 21331 -1
+E
+metal plate~
+It looks like it was attached to the wall very securely, though what exactly
+was used to do so is unclear. With leverage, though, you might be able to pry
+it off to reveal whatever's behind it.
+~
+E
+stove~
+The stove isn't actually working, but it looks like the source of heat is
+a large metal plate fastened to the wall behind the stove, which is noticeably
+warmer against your hand than the ambient temperature of the room.
+~
+S

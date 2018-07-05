@@ -1,0 +1,133 @@
+*Zone 84, rooms 21269-21350, last modified by Kane
+M 0 21319 7 21270   ; the cute rabbit
+M 0 21319 7 21271   ; the cute rabbit
+M 0 21319 7 21272   ; the cute rabbit
+M 0 21319 7 21274   ; the cute rabbit
+M 0 21319 7 21274   ; the cute rabbit
+M 0 21275 1 21275   ; the Gate Guardian
+D 0 21275 2 2   ; At the gate
+D 0 21276 0 2   ; Entrance to the fortress
+M 0 21307 15 21278   ; A drow soldier
+D 0 21279 1 2   ; The Gatehouse
+M 0 21320 1 21280   ; An Infirmary Cleric
+M 0 21312 3 21281   ; The drow sergeant
+M 0 21307 15 21282   ; A drow soldier
+M 0 21307 15 21282   ; A drow soldier
+M 0 21307 15 21283   ; A drow soldier
+M 0 21307 15 21283   ; A drow soldier
+M 0 21307 15 21284   ; A drow soldier
+M 0 21349 7 21285   ; a vicious guard dog
+M 0 21311 2 21286   ; The drow general
+M 0 21312 3 21286   ; The drow sergeant
+M 0 21308 7 21287   ; A drow guard
+M 0 21307 15 21290   ; A drow soldier
+M 0 21349 7 21290   ; a vicious guard dog
+M 0 21322 3 21292   ; A large horse
+M 0 21306 6 21292   ; A large war horse
+M 0 21306 6 21292   ; A large war horse
+M 0 21304 1 21293   ; the stable boy
+M 0 21306 6 21293   ; A large war horse
+M 0 21322 3 21294   ; A large horse
+M 0 21322 3 21294   ; A large horse
+M 0 21306 6 21294   ; A large war horse
+M 0 21306 6 21294   ; A large war horse
+M 0 21349 7 21294   ; a vicious guard dog
+M 0 21307 15 21295   ; A drow soldier
+M 0 21307 15 21295   ; A drow soldier
+M 0 21307 15 21296   ; A drow soldier
+M 0 21270 9 21297   ; a quiet maid
+M 0 21349 7 21302   ; a vicious guard dog
+M 0 21307 15 21302   ; A drow soldier
+M 0 21307 15 21305   ; A drow soldier
+M 0 21270 9 21305   ; a quiet maid
+M 0 21349 7 21306   ; a vicious guard dog
+M 0 21307 15 21306   ; A drow soldier
+M 0 21307 15 21306   ; A drow soldier
+M 0 21270 9 21308   ; a quiet maid
+M 0 21270 9 21308   ; a quiet maid
+G 1 21324 65535 0   ; A very sharp pencil
+M 0 21270 9 21309   ; a quiet maid
+M 0 21321 2 21310   ; The drow cook
+M 0 21270 9 21310   ; a quiet maid
+D 0 21310 1 0   ; Kitchen
+M 0 21312 3 21311   ; The drow sergeant
+M 0 21307 15 21311   ; A drow soldier
+M 0 21305 4 21312   ; A naked human
+G 1 21300 65535 0   ; Huge mountain of cash
+M 0 21305 4 21312   ; A naked human
+M 0 21305 4 21312   ; A naked human
+M 0 21305 4 21312   ; A naked human
+D 0 21312 3 2   ; Cell
+D 0 21313 3 2   ; Cell
+M 0 21270 9 21314   ; a quiet maid
+D 0 21314 2 1   ; Entrance to Large Cell
+D 0 21314 3 2   ; Entrance to Large Cell
+M 0 21316 1 21315   ; Sherandra, the elven dutchess
+E 1 21278 65535 21   ; a rose tinted visor
+D 0 21315 0 1   ; Large Cell
+M 0 21308 7 21316   ; A drow guard
+D 0 21316 1 2   ; Hallway
+D 0 21316 3 1   ; Hallway
+M 0 21308 7 21317   ; A drow guard
+D 0 21317 1 2   ; Hallway
+M 0 21308 7 21318   ; A drow guard
+D 0 21318 1 2   ; Hallway
+M 0 21308 7 21321   ; A drow guard
+M 0 21308 7 21321   ; A drow guard
+M 0 21269 1 21321   ; The drow jailer
+G 1 21270 65535 0   ; the jailer's cell key
+M 0 21308 7 21321   ; A drow guard
+M 0 21311 2 21322   ; The drow general
+D 0 21322 3 1   ; Conference Room
+M 0 21350 2 21323   ; a hill giant
+G 1 21300 65535 0   ; Huge mountain of cash
+D 0 21323 3 1   ; Guest's Quarters
+M 0 21317 1 21324   ; The drow arch-magi
+E 1 21279 65535 2   ; ring of the magi
+D 0 21324 3 1   ; Extravagant Chambers
+O 0 21300 65535 21325   ; Huge mountain of cash
+D 0 21325 2 1   ; Hidden Archives
+D 0 21326 0 1   ; Hallway
+D 0 21326 1 1   ; Hallway
+D 0 21327 1 1   ; Central Hallway
+D 0 21327 3 1   ; Central Hallway
+D 0 21328 1 1   ; Hallway
+D 0 21328 2 1   ; Hallway
+D 0 21328 3 1   ; Hallway
+M 0 21314 1 21329   ; The drow commander
+E 1 21281 65535 20   ; A shiny black opal
+G 1 21274 65535 0   ; a glowing green shield
+M 0 21349 7 21329   ; a vicious guard dog
+M 0 21349 7 21329   ; a vicious guard dog
+D 0 21329 0 1   ; Duke's Chamber
+M 0 21321 2 21330   ; The drow cook
+M 0 21270 9 21331   ; a quiet maid
+M 0 21350 2 21332   ; a hill giant
+G 1 21300 65535 0   ; Huge mountain of cash
+D 0 21332 1 1   ; Guest's Quarters
+M 0 21270 9 21333   ; a quiet maid
+D 0 21333 1 1   ; Bath
+M 0 21318 1 21334   ; Lielea, the duke's daughter
+E 1 21272 65535 12   ; a white cloak
+E 1 21314 65535 16   ; A white metal dagger
+D 0 21334 2 1   ; Hidden Bedroom
+O 0 21335 65535 21335   ; A barrel
+D 0 21335 0 1   ; Storage Room
+D 0 21335 1 1   ; Storage Room
+M 0 21319 7 21336   ; the cute rabbit
+M 0 21319 7 21337   ; the cute rabbit
+G 1 21271 65535 0   ; a broken key
+O 0 21276 65535 21338   ; A golden oak tree
+M 0 21310 3 21339   ; An elven guard
+M 0 21313 1 21339   ; The elven sergeant
+M 0 21310 3 21340   ; An elven guard
+M 0 21309 3 21342   ; An elven soldier
+M 0 21306 6 21343   ; A large war horse
+M 0 21310 3 21343   ; An elven guard
+M 0 21315 1 21344   ; The elven commander
+E 1 21273 65535 10   ; bracers of wrath
+E 1 21280 65535 20   ; A shiny white pearl
+M 0 21272 1 21345   ; A camp healer
+M 0 21309 3 21347   ; An elven soldier
+M 0 21309 3 21349   ; An elven soldier
+S

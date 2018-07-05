@@ -1,0 +1,59 @@
+#21322
+Conference Room~
+    The walls in this mid sized room are covered with faded drawings that are
+practically incomprehensible due to the lightness of the lines with which they
+were drawn. There is a huge oval table in the center of the chamber, leaving
+a relatively scant amount of space between the table and the walls in which to
+move about the room. The table is made of a wood-like substance, but unlike the
+wall maps it shows no signs of the passage of time. There are fifteen or so
+large chairs set around the table, at which the commanders at one time perched
+to mull over their battle plans. The only exit is to the west.
+~
+84 9 1
+D3
+~
+Golden Double Doors
+~
+3 0 21326 -1
+E
+table~
+It has weathered time's passage extremely well. It is so large, though, that
+you have to wonder how it possibly could have been put in this chamber, in
+which it barely fits. Clearly the engineers of this place were privy to
+knowledge you're not familiar with.
+~
+E
+chair chairs~
+They look like your regular sturdy chairs.
+~
+E
+drawings~
+There is only one left that is at all legible. It looks like this:
+
+                     Rhyodin
+
+        _______     _____##___________
+       /       \    \                 \____
+      /         \____|                     \
+      |  X                          X       \
+      |                                      |
+      |                                      |
+     /          X           X                |
+     |                               X       |
+     |                                       |
+     |       X                               |
+     #                 O  O O O              |
+     #               O                       |
+     |                   O O                 |
+     |                O                      |
+     |                                 X     |
+     \     X                                 |
+      \                      X               /
+       \        _______                     /
+      _/       |       |     _____         /
+     |         |       |    /     \       /
+     |         |       |  _/       \_____/
+     |   _____ |_______| /
+     \__/     \_________/
+~
+S

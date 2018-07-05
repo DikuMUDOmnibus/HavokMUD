@@ -1,0 +1,24 @@
+#39077
+The Bottom Floor~
+   It is still the center of the bottom floor.  Alike the west of here bugs of all sorts
+crawl on the floor.  Dirt lay all over the floor and spider webs hang from the
+ceiling.  The exits are to the north, east, south, and west
+~
+122 9 0
+D0
+~
+door~
+0 0 39002 0
+D1
+~
+door~
+0 0 39064 0
+D2
+~
+~
+0 0 39076 -1
+D3
+~
+door~
+0 0 39079 0
+S

@@ -1,0 +1,35 @@
+#21327
+Central Hallway~
+    There is a set of stairs emerging from the center of the hallway here, and
+the hall itself forms a square around this stair exit, thus making the corridor
+here resemble a room more than a simple hall. As elsewhere, there are empty
+sconces in the walls for torches. There are doors to the east and west here,
+though it looks like the doorframe to the east no longer has a door on it, and
+the western door is ajar. The hallway continues to the north and south, though
+it looks like it terminates shortly on both ends. The stairway leads down into
+darkness.
+~
+84 9 1
+D0
+~
+~
+0 -1 21326 -1
+D1
+~
+door
+~
+2 0 21323 -1
+D2
+~
+~
+0 -1 21328 -1
+D3
+~
+door
+~
+3 0 21332 -1
+D5
+~
+~
+0 -1 21307 -1
+S

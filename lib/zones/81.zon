@@ -1,0 +1,104 @@
+*Zone 81, rooms 20100-21100, last modified by Jopa
+D 0 20112 1 1   ; North Campton Street
+D 0 20112 3 1   ; North Campton Street
+D 0 20113 3 1   ; A House on North Campton Street
+D 0 20114 1 1   ; A House on North Campton Street
+D 0 20116 1 1   ; North Campton Street
+D 0 20116 3 1   ; North Campton Street
+D 0 20117 1 1   ; A House on North Campton Street
+D 0 20119 3 1   ; A House on North Campton Street
+D 0 20122 0 1   ; Andar Street
+D 0 20123 2 1   ; A House on Andar Street
+M 0 21003 6 21003   ; the green enfan
+M 0 21005 6 21003   ; the yellow enfan
+M 0 21005 6 21004   ; the yellow enfan
+M 0 21005 6 21004   ; the yellow enfan
+D 0 21004 0 2   ; A deserted cottage
+M 0 21001 6 21006   ; the blue enfan
+M 0 21006 6 21007   ; the black enfan
+M 0 21004 6 21007   ; the purple enfan
+M 0 21003 6 21009   ; the green enfan
+D 0 21012 3 2   ; Dead end
+M 0 21006 6 21013   ; the black enfan
+M 0 21012 1 21014   ; the gargoyle
+G 1 21001 65535 0   ; a gold key
+M 0 21009 6 21015   ; the green enfan
+M 0 21002 6 21015   ; the gray enfan
+M 0 21008 9 21015   ; the rat
+M 0 21008 9 21015   ; the rat
+M 0 21008 9 21016   ; the rat
+D 0 21016 1 0   ; Dead end
+M 0 21001 6 21017   ; the blue enfan
+M 0 21003 6 21017   ; the green enfan
+G 1 21012 65535 0   ; an opal potion
+M 0 21002 6 21017   ; the gray enfan
+M 0 21005 6 21018   ; the yellow enfan
+M 0 21010 6 21018   ; the purple enfan
+M 0 21011 6 21019   ; the yellow enfan
+M 0 21003 6 21021   ; the green enfan
+M 0 21001 6 21023   ; the blue enfan
+M 0 21006 6 21024   ; the black enfan
+M 0 21011 6 21024   ; the yellow enfan
+O 0 21010 65535 21024   ; display case
+P 1 21007 1 21010   ; high heels
+P 1 21005 1 21010   ; a metallic shield
+P 1 21006 1 21010   ; black tunic
+P 1 21003 1 21010   ; a pair of strange boots
+M 0 21009 6 21025   ; the green enfan
+M 0 21005 6 21025   ; the yellow enfan
+M 0 21010 6 21027   ; the purple enfan
+M 0 21011 6 21027   ; the yellow enfan
+M 0 21004 6 21029   ; the purple enfan
+M 0 21002 6 21029   ; the gray enfan
+M 0 21001 6 21030   ; the blue enfan
+M 0 21011 6 21030   ; the yellow enfan
+O 0 21010 65535 21030   ; display case
+P 1 21004 1 21010   ; A galactic claymore
+P 1 21013 1 21010   ; a sharp machete
+M 0 21010 6 21031   ; the purple enfan
+M 0 21009 6 21031   ; the green enfan
+M 0 21004 6 21031   ; the purple enfan
+D 0 21032 1 0   ; The Main Hall
+M 0 21010 6 21033   ; the purple enfan
+D 0 21033 3 0   ; Cleric's Sanctum
+M 0 21010 6 21034   ; the purple enfan
+D 0 21034 1 0   ; A street
+M 0 21009 6 21035   ; the green enfan
+O 0 21010 65535 21037   ; display case
+P 1 21008 2 21010   ; an opal ring
+P 1 21009 1 21010   ; opal bracelet
+M 0 21011 6 21039   ; the yellow enfan
+M 0 21009 6 21039   ; the green enfan
+M 0 21006 6 21042   ; the black enfan
+M 0 21003 6 21046   ; the green enfan
+M 0 21009 6 21046   ; the green enfan
+M 0 21001 6 21046   ; the blue enfan
+M 0 21005 6 21048   ; the yellow enfan
+G 1 21014 1 0   ; a runed dagger
+G 1 21011 65535 0   ; key chain
+M 0 21006 6 21049   ; the black enfan
+M 0 21010 6 21050   ; the purple enfan
+M 0 21004 6 21050   ; the purple enfan
+M 0 21011 6 21051   ; the yellow enfan
+M 0 21007 1 21052   ; the guard dog
+G 1 21008 1 0   ; an opal ring
+D 0 21052 2 2   ; Fireplace
+D 0 21053 3 0   ; Sewer
+M 0 21008 9 21054   ; the rat
+M 0 21008 9 21054   ; the rat
+M 0 21004 6 21055   ; the purple enfan
+M 0 21002 6 21055   ; the gray enfan
+M 0 21008 9 21055   ; the rat
+M 0 21008 9 21055   ; the rat
+D 0 21056 1 2   ; Sewer
+M 0 21003 6 21059   ; the green enfan
+M 0 21004 6 21060   ; the purple enfan
+M 0 21002 6 21060   ; the gray enfan
+M 0 21001 6 21060   ; the blue enfan
+M 0 21002 6 21062   ; the gray enfan
+M 0 21006 6 21062   ; the black enfan
+M 0 21008 9 21062   ; the rat
+M 0 21008 9 21062   ; the rat
+G 1 21002 65535 0   ; an old key
+D 0 21062 3 0   ; Sewers
+S

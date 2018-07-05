@@ -1,0 +1,19 @@
+#21374
+ambid man shopkeeper~
+Ambid the Shopkeeper~
+The Shopkeeper puts down an artifact, and smiles as you enter.
+~
+He is a collector of artifacts from around the world.  Although he seems
+clueless to what they do, he seems to have a knack for knowing the value of an
+item.
+~
+~
+~
+1  0  200  1.0 
+ 20  6  5  123  2d4+3 
+ -1  383  2  1 
+ 8  8  1  0  0  0 
+ 0 
+~
+~
+~

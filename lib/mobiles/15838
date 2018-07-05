@@ -1,0 +1,19 @@
+#15838
+blink dog~
+	
+the Blink Dog~
+A Blink Dog flashes into phase nearby.
+~
+   This is no regular dog. He can travel ethereally. The Gelfling 
+feed them and keep them as pets.
+~
+~
+~
+68  128  600  1.0 
+ 4  15  5  18  2d4+1 
+ -1  0  1  27 
+ 8  8  1  0  0  0 
+ 0 
+~
+~
+~

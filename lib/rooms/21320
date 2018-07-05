@@ -1,0 +1,19 @@
+#21320
+Stairs~
+    A stairwell is carved out of the solid rock here. It leads up to the west,
+and doubles back to the east above you. There are torch sconces on the walls
+of the stairwell, but they are empty, leaving the place unilluminated except
+for your light source. It is impossible to tell where the stairs lead to above,
+but there is a hallway visible to the east that leads north and south, and
+further to the east you can just see and opening in the hallway wall.
+~
+84 9 1
+D1
+~
+~
+0 -1 21317 -1
+D4
+~
+~
+0 -1 21307 -1
+S

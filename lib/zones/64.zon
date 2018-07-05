@@ -1,0 +1,21 @@
+*Zone 64, rooms 13780-13798, last modified by Coal
+M 0 13784 1 13784   ; Zeus
+E 1 13784 65535 11   ; Huge Shield
+E 1 13796 65535 17   ; key
+D 0 13784 5 2   ; Zeus' Throne Room
+M 0 13785 1 13785   ; Aphrodite
+E 1 13785 65535 17   ; Silver mirror
+M 0 13787 1 13787   ; Hera
+E 1 13787 65535 3   ; plain necklace
+M 0 13789 1 13789   ; Apollo
+E 1 13789 65535 16   ; A flaming sword
+M 0 13791 1 13791   ; Dionysus
+M 0 13793 1 13793   ; Ares
+E 1 13793 65535 6   ; A battle helm
+M 0 13795 1 13795   ; Athena
+E 1 13795 65535 16   ; spear
+M 0 13797 1 13797   ; Hermes
+E 1 13797 65535 8   ; old sandals
+G 1 13798 65535 0   ; gold
+D 0 13798 4 2   ; Treasure Room
+S

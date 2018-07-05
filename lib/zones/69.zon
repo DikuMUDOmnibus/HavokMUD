@@ -1,0 +1,216 @@
+*Zone 69, rooms 15101-15900, last modified by Jopa
+O 0 116 65535 15102   ; a pile of black moss
+M 0 15801 1 15801   ; the owl
+O 0 503 65535 15802   ; The giant maple tree
+M 0 15802 1 15803   ; the huge eagle
+M 0 15808 9 15806   ; the Skexie Guard
+D 0 15806 5 0   ; The Darkened Forest
+M 0 15803 1 15807   ; the Skexie Reject
+E 1 15802 65535 17   ; the Skexie Palace key
+D 0 15807 4 1   ; Inside A Pit
+M 0 15800 1 15808   ; the wilkey
+G 1 117 65535 0   ; a patch of fur
+M 0 15804 1 15809   ; the Festering Charik
+D 0 15810 5 0   ; A Clearing
+D 0 15813 2 2   ; The Entrance To The Palace Of The Skexies
+M 0 15807 19 15814   ; a secrant
+D 0 15814 0 2   ; A Domed Skexie Chamber
+M 0 15809 21 15815   ; the Skexie Maiden
+M 0 15806 13 15815   ; the flying rat
+M 0 15817 4 15816   ; the Neathar Workman
+M 0 15817 4 15816   ; the Neathar Workman
+M 0 15817 4 15816   ; the Neathar Workman
+M 0 15817 4 15816   ; the Neathar Workman
+M 0 15816 1 15816   ; the Neathar Supervisor
+M 0 15807 19 15816   ; a secrant
+M 0 15833 10 15817   ; a Bachelor Skexie
+M 0 15809 21 15817   ; the Skexie Maiden
+M 0 15809 21 15817   ; the Skexie Maiden
+M 0 15812 11 15818   ; the Fledgling Skexie
+M 0 15812 11 15818   ; the Fledgling Skexie
+M 0 15812 11 15818   ; the Fledgling Skexie
+M 0 15812 11 15818   ; the Fledgling Skexie
+M 0 15811 4 15818   ; the Skexie Nanny
+M 0 15818 1 15819   ; the Skexie Altar Boy
+M 0 15812 11 15819   ; the Fledgling Skexie
+M 0 15812 11 15819   ; the Fledgling Skexie
+M 0 15811 4 15819   ; the Skexie Nanny
+M 0 15809 21 15819   ; the Skexie Maiden
+M 0 15807 19 15820   ; a secrant
+M 0 15809 21 15820   ; the Skexie Maiden
+D 0 15820 1 0   ; Hallway To The Lair
+D 0 15820 3 0   ; Hallway To The Lair
+M 0 15819 1 15821   ; Palthor the Skexie Sergeant
+E 1 15807 65535 6   ; a spiked helm
+D 0 15821 1 0   ; Palthor's Chamber
+M 0 15806 13 15822   ; the flying rat
+M 0 15806 13 15822   ; the flying rat
+M 0 15820 1 15822   ; Wegendel the Skexie Illusionist
+E 1 15804 65535 6   ; A Skexie Headdress
+D 0 15822 3 0   ; Wegendel's Lair
+M 0 15806 13 15823   ; the flying rat
+M 0 15809 21 15823   ; the Skexie Maiden
+M 0 15809 21 15823   ; the Skexie Maiden
+M 0 15809 21 15823   ; the Skexie Maiden
+D 0 15823 1 0   ; Hallway To The Lair
+D 0 15823 3 0   ; Hallway To The Lair
+M 0 15805 1 15824   ; the Ghost of Brackenred
+E 1 15806 65535 3   ; a fiery orange medallion
+E 1 15805 65535 17   ; A magical Skexie feather
+G 1 15811 65535 0   ; a blistering red hot potion
+D 0 15824 1 0   ; Brackenred's Chamber
+M 0 15821 1 15825   ; Crandel the Skexie Mage
+D 0 15825 3 0   ; Crandel's Lair
+M 0 15808 9 15826   ; the Skexie Guard
+M 0 15812 11 15826   ; the Fledgling Skexie
+M 0 15812 11 15826   ; the Fledgling Skexie
+M 0 15812 11 15826   ; the Fledgling Skexie
+M 0 15811 4 15826   ; the Skexie Nanny
+D 0 15826 1 0   ; Hallway To The Lair
+D 0 15826 3 0   ; Hallway To The Lair
+M 0 15808 9 15827   ; the Skexie Guard
+M 0 15822 1 15827   ; Alastair the Skexie Leader
+E 1 15806 65535 3   ; a fiery orange medallion
+M 0 15809 21 15827   ; the Skexie Maiden
+D 0 15827 1 0   ; Alastair's Chamber
+M 0 15823 1 15828   ; Turendac the Skexie High Magister
+E 1 15806 65535 3   ; a fiery orange medallion
+D 0 15828 3 0   ; Turendac's Lair
+M 0 15833 10 15829   ; a Bachelor Skexie
+M 0 15808 9 15829   ; the Skexie Guard
+M 0 15806 13 15830   ; the flying rat
+M 0 15824 1 15830   ; the Skexie Child
+G 1 113 65535 0   ; a top
+M 0 15809 21 15832   ; the Skexie Maiden
+M 0 15807 19 15832   ; a secrant
+M 0 15833 10 15834   ; a Bachelor Skexie
+M 0 15808 9 15834   ; the Skexie Guard
+M 0 15806 13 15835   ; the flying rat
+M 0 15806 13 15835   ; the flying rat
+D 0 15835 1 0   ; Hallway To The Lair
+D 0 15835 3 0   ; Hallway To The Lair
+M 0 15806 13 15836   ; the flying rat
+M 0 15825 1 15836   ; the Skexie Jester
+E 1 15801 65535 17   ; the Skexie ankh key
+D 0 15836 1 0   ; Home Of The Skexie Jester
+M 0 15826 1 15837   ; the Skexie Magister
+G 1 15810 65535 0   ; a sky blue potion
+D 0 15837 3 0   ; Home Of The Skexie Magister
+D 0 15838 1 0   ; Hallway To The Lair
+D 0 15838 3 0   ; Hallway To The Lair
+M 0 15836 1 15839   ; the Skexie Waiter
+M 0 15827 1 15839   ; the Skexie Scribe
+E 1 15809 65535 13   ; a feathered belt
+M 0 15809 21 15839   ; the Skexie Maiden
+M 0 15808 9 15839   ; the Skexie Guard
+D 0 15839 1 0   ; Home Of The Skexie Scribe
+M 0 15828 1 15840   ; the Skexie Bard
+G 1 15810 65535 0   ; a sky blue potion
+D 0 15840 3 0   ; Home Of The Skexie Bard
+M 0 15809 21 15841   ; the Skexie Maiden
+M 0 15808 9 15841   ; the Skexie Guard
+D 0 15841 2 2   ; Entrance To The Lair
+M 0 15813 2 15842   ; the Ancient Mantern
+G 1 15811 65535 0   ; a blistering red hot potion
+M 0 15808 9 15843   ; the Skexie Guard
+M 0 15813 2 15843   ; the Ancient Mantern
+G 1 15811 65535 0   ; a blistering red hot potion
+M 0 15829 2 15844   ; the Skexie Lair Guard
+E 1 15807 65535 6   ; a spiked helm
+D 0 15844 0 2   ; The Lair Entry
+M 0 15830 1 15846   ; the Mulichort
+G 1 15810 65535 0   ; a sky blue potion
+G 1 15811 65535 0   ; a blistering red hot potion
+M 0 15806 13 15847   ; the flying rat
+M 0 15832 1 15848   ; the Champion of Rugrat
+E 1 15808 65535 16   ; a Champions Halberd
+M 0 15831 1 15849   ; the Champion of Queeklor
+E 1 15808 65535 16   ; a Champions Halberd
+M 0 15815 1 15850   ; the Ancient Skexie
+E 1 15804 65535 6   ; A Skexie Headdress
+M 0 15829 2 15852   ; the Skexie Lair Guard
+E 1 15807 65535 6   ; a spiked helm
+E 1 15805 65535 17   ; A magical Skexie feather
+D 0 15853 0 0   ; The Challenge Entry
+D 0 15853 1 0   ; The Challenge Entry
+D 0 15853 3 0   ; The Challenge Entry
+M 0 15806 13 15854   ; the flying rat
+M 0 15807 19 15854   ; a secrant
+D 0 15854 1 0   ; Entrance To The Skexie Quarters
+M 0 15833 10 15855   ; a Bachelor Skexie
+D 0 15855 3 0   ; Inside The Skexie Quaters
+M 0 15809 21 15856   ; the Skexie Maiden
+M 0 15833 10 15856   ; a Bachelor Skexie
+M 0 15808 9 15858   ; the Skexie Guard
+M 0 15812 11 15859   ; the Fledgling Skexie
+M 0 15812 11 15859   ; the Fledgling Skexie
+M 0 15811 4 15859   ; the Skexie Nanny
+M 0 15807 19 15859   ; a secrant
+D 0 15859 0 0   ; A Skexie Quarters Hallway
+D 0 15859 1 0   ; A Skexie Quarters Hallway
+D 0 15859 2 0   ; A Skexie Quarters Hallway
+M 0 15809 21 15860   ; the Skexie Maiden
+M 0 15835 4 15860   ; an Adolescent Skexie
+M 0 15835 4 15860   ; an Adolescent Skexie
+M 0 15834 6 15860   ; a Gentleman Skexie
+M 0 15833 10 15860   ; a Bachelor Skexie
+D 0 15860 2 0   ; A Skexie Dormitory
+M 0 15835 4 15861   ; an Adolescent Skexie
+M 0 15835 4 15861   ; an Adolescent Skexie
+M 0 15834 6 15861   ; a Gentleman Skexie
+M 0 15833 10 15861   ; a Bachelor Skexie
+D 0 15861 0 0   ; A Skexie Dormitory
+M 0 15807 19 15862   ; a secrant
+M 0 15809 21 15862   ; the Skexie Maiden
+D 0 15862 3 0   ; The Skexie Dining Room
+M 0 15833 10 15863   ; a Bachelor Skexie
+D 0 15863 3 0   ; The Skexie Storage Room
+M 0 15810 1 15864   ; the Skexie Matron
+M 0 15806 13 15865   ; the flying rat
+D 0 15865 1 0   ; A Skexie Quarters Hallway
+D 0 15865 3 0   ; A Skexie Quarters Hallway
+M 0 15809 21 15866   ; the Skexie Maiden
+M 0 15834 6 15866   ; a Gentleman Skexie
+D 0 15866 3 0   ; A Skexie Bungalow
+M 0 15834 6 15867   ; a Gentleman Skexie
+D 0 15867 1 0   ; A Skexie Bungalow
+M 0 15833 10 15868   ; a Bachelor Skexie
+M 0 15807 19 15868   ; a secrant
+D 0 15868 1 0   ; A Skexie Quarters Hallway
+D 0 15868 3 0   ; A Skexie Quarters Hallway
+M 0 15834 6 15869   ; a Gentleman Skexie
+D 0 15869 3 0   ; A Skexie Bungalow
+M 0 15809 21 15870   ; the Skexie Maiden
+M 0 15834 6 15870   ; a Gentleman Skexie
+D 0 15870 1 0   ; A Skexie Bungalow
+D 0 15871 1 0   ; A Skexie Quarters Hallway
+D 0 15871 3 0   ; A Skexie Quarters Hallway
+M 0 15807 19 15872   ; a secrant
+M 0 15807 19 15872   ; a secrant
+M 0 15807 19 15872   ; a secrant
+M 0 15807 19 15872   ; a secrant
+D 0 15872 3 0   ; Chamber of the Secrants
+M 0 15807 19 15873   ; a secrant
+M 0 15807 19 15873   ; a secrant
+M 0 15807 19 15873   ; a secrant
+M 0 15807 19 15873   ; a secrant
+D 0 15873 1 0   ; Chamber of the Secrants
+M 0 15833 10 15874   ; a Bachelor Skexie
+M 0 15807 19 15874   ; a secrant
+M 0 15809 21 15874   ; the Skexie Maiden
+M 0 15809 21 15875   ; the Skexie Maiden
+D 0 15875 0 0   ; A Skexie Quarters Hallway
+D 0 15875 1 0   ; A Skexie Quarters Hallway
+D 0 15875 3 0   ; A Skexie Quarters Hallway
+M 0 15807 19 15876   ; a secrant
+D 0 15876 1 0   ; The Skexie Powder Room
+M 0 15814 1 15877   ; the Skexie Guard
+D 0 15877 3 0   ; The Skexie Men's Room
+D 0 15878 2 0   ; The Skexie Maiden's Chambers Entryway
+M 0 15809 21 15879   ; the Skexie Maiden
+M 0 15809 21 15881   ; the Skexie Maiden
+M 0 15806 13 15881   ; the flying rat
+M 0 15806 13 15882   ; the flying rat
+M 0 15807 19 15886   ; a secrant
+O 0 3097 65535 15886   ; a bulletin board
+S

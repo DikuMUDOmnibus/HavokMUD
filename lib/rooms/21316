@@ -1,0 +1,38 @@
+#21316
+Hallway~
+    This is the north end of a hallway. The hall leads south as far as your
+light source will show you. The stone here is obviously cut - this is no
+natural passage but the work of some intellegent species. Given the size and
+orthagonality of the doorways and dimensions of the passages, you estimate
+that they were probably humanoid. There is wide cell door made of iron bars
+set into the east wall, in addition to the route to the south along the hallway.
+Peeking through the strong bars reveals the room to be a cell for prisoners,
+though from here in the hall it is hard to tell who they might hold. There are
+sconces on the walls for torches, but there are none in them now.
+~
+84 9 0
+D1
+~
+cell bars
+~
+39 21270 21312 -1
+D2
+~
+~
+0 -1 21317 -1
+D3
+~
+flaw
+~
+11 0 21335 374
+E
+west~
+The walls here were carved by a master craftsman from the natural stone of the
+area.  There are few niches and flaws.
+~
+E
+wall~
+The walls here were carved by a master craftsman from the natural stone of the
+area.  There are few flaws an imperfections.  These walls were made to last.
+~
+S

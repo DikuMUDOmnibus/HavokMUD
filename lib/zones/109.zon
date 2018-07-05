@@ -1,0 +1,12 @@
+*Zone 109, rooms 33150-33199, last modified by Ashamael
+M 0 33188 4 33156   ; the Icy Sea Snake
+M 0 33188 4 33164   ; the Icy Sea Snake
+M 0 33188 4 33167   ; the Icy Sea Snake
+O 0 33172 65535 33172   ; An enormous statue of Manwe Windmaster
+M 0 33180 1 33180   ; High Seas Ethereal Post
+M 0 33183 1 33183   ; Stimtrin the Hermit
+E 1 33184 65535 17   ; Stimtrin's Wand
+G 1 33183 65535 0   ; a Hermits Brew
+M 0 33188 4 33193   ; the Icy Sea Snake
+M 0 33185 1 33196   ; A sharp sleek corsair ship
+S

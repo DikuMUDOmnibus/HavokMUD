@@ -1,0 +1,419 @@
+*Zone 52, rooms 9401-9480, last modified by Coal
+M 0 9436 12 9402   ; A yeti
+M 0 9436 12 9402   ; A yeti
+M 0 9436 12 9402   ; A yeti
+M 0 9436 12 9405   ; A yeti
+M 0 9436 12 9405   ; A yeti
+D 0 9410 2 2   ; An icy path
+M 0 9409 13 9411   ; A frost giant
+E 1 9405 65535 12   ; A shabby cloak
+E 1 3634 65535 17   ; a sack
+P 1 9401 48 3634   ; An old axe blade
+P 1 9404 35 3634   ; some moldy cheese
+P 1 9406 35 3634   ; A large comb
+M 0 9423 31 9411   ; A winter wolf
+M 0 9406 51 9413   ; A guard
+E 1 9405 65535 12   ; A shabby cloak
+E 1 3634 65535 17   ; a sack
+P 1 9403 44 3634   ; An iron bowl
+P 1 9407 24 3634   ; A block of salt
+P 1 9402 24 3634   ; A boulder
+M 0 9406 51 9413   ; A guard
+E 1 9405 65535 12   ; A shabby cloak
+E 1 3634 65535 17   ; a sack
+P 1 3136 20 3634   ; a small pile of gold coins
+P 1 9403 44 3634   ; An iron bowl
+P 1 9458 29 3634   ; A crowbar
+M 0 9406 51 9413   ; A guard
+E 1 9405 65535 12   ; A shabby cloak
+E 1 3634 65535 17   ; a sack
+P 1 9401 48 3634   ; An old axe blade
+P 1 9408 12 3634   ; a pair of giant sandals
+P 1 9409 15 3634   ; A tooth
+M 0 9406 51 9413   ; A guard
+E 1 9405 65535 12   ; A shabby cloak
+E 1 9411 65535 13   ; A silver belt
+E 1 3634 65535 17   ; a sack
+P 1 9403 44 3634   ; An iron bowl
+P 1 9407 24 3634   ; A block of salt
+P 1 9402 24 3634   ; A boulder
+G 1 9420 65535 0   ; A wooden chest
+P 1 9416 35 9420   ; A scroll case
+P 1 9462 1 9416   ; An orange scroll
+M 0 9406 51 9419   ; A guard
+E 1 9405 65535 12   ; A shabby cloak
+E 1 3634 65535 17   ; a sack
+P 1 9403 44 3634   ; An iron bowl
+P 1 9407 24 3634   ; A block of salt
+P 1 9402 24 3634   ; A boulder
+M 0 9406 51 9419   ; A guard
+E 1 9405 65535 12   ; A shabby cloak
+E 1 3634 65535 17   ; a sack
+P 1 9401 48 3634   ; An old axe blade
+P 1 9408 12 3634   ; a pair of giant sandals
+P 1 9409 15 3634   ; A tooth
+M 0 9406 51 9419   ; A guard
+E 1 9405 65535 12   ; A shabby cloak
+E 1 3634 65535 17   ; a sack
+P 1 3136 20 3634   ; a small pile of gold coins
+P 1 9403 44 3634   ; An iron bowl
+P 1 9458 29 3634   ; A crowbar
+M 0 9406 51 9419   ; A guard
+E 1 9405 65535 12   ; A shabby cloak
+E 1 3634 65535 17   ; a sack
+P 1 9401 48 3634   ; An old axe blade
+P 1 9404 35 3634   ; some moldy cheese
+P 1 9406 35 3634   ; A large comb
+G 1 9419 65535 0   ; An incandescent blue potion
+M 0 9405 1 9420   ; A dark figure
+E 1 9405 65535 12   ; A shabby cloak
+E 1 9411 65535 13   ; A silver belt
+E 1 3634 65535 17   ; a sack
+P 1 9401 48 3634   ; An old axe blade
+P 1 9404 35 3634   ; some moldy cheese
+P 1 9406 35 3634   ; A large comb
+G 1 9418 65535 0   ; A diamond gem
+D 0 9423 1 0   ; An Ice tunnel
+D 0 9423 2 2   ; An Ice tunnel
+M 0 9430 15 9424   ; An ice troll
+M 0 9430 15 9424   ; An ice troll
+M 0 9430 15 9424   ; An ice troll
+M 0 9430 15 9424   ; An ice troll
+G 1 9415 65535 0   ; breast plate armor
+M 0 9430 15 9424   ; An ice troll
+M 0 9430 15 9424   ; An ice troll
+M 0 9430 15 9424   ; An ice troll
+E 1 9410 65535 16   ; A battle axe
+M 0 9415 18 9424   ; A frost giant
+E 1 9405 65535 12   ; A shabby cloak
+E 1 3634 65535 17   ; a sack
+P 1 9403 44 3634   ; An iron bowl
+P 1 9407 24 3634   ; A block of salt
+P 1 9402 24 3634   ; A boulder
+M 0 9415 18 9424   ; A frost giant
+E 1 9405 65535 12   ; A shabby cloak
+E 1 9416 65535 17   ; A scroll case
+P 1 9417 7 9416   ; A scroll
+M 0 9435 6 9424   ; A poisonous ice toad
+M 0 9431 1 9428   ; A snow snake
+M 0 9406 51 9430   ; A guard
+E 1 9405 65535 12   ; A shabby cloak
+E 1 3634 65535 17   ; a sack
+P 1 9401 48 3634   ; An old axe blade
+P 1 9404 35 3634   ; some moldy cheese
+P 1 9406 35 3634   ; A large comb
+G 1 9431 65535 0   ; A bastard sword
+M 0 9406 51 9430   ; A guard
+E 1 9405 65535 12   ; A shabby cloak
+E 1 3634 65535 17   ; a sack
+P 1 3136 20 3634   ; a small pile of gold coins
+P 1 9403 44 3634   ; An iron bowl
+P 1 9458 29 3634   ; A crowbar
+M 0 9406 51 9430   ; A guard
+E 1 9405 65535 12   ; A shabby cloak
+E 1 3634 65535 17   ; a sack
+P 1 9403 44 3634   ; An iron bowl
+P 1 9407 24 3634   ; A block of salt
+P 1 9402 24 3634   ; A boulder
+M 0 9406 51 9430   ; A guard
+E 1 9405 65535 12   ; A shabby cloak
+E 1 3634 65535 17   ; a sack
+P 1 3057 59 3634   ; a silver potion
+P 1 9460 9 3634   ; A skinning knife
+P 1 9458 29 3634   ; A crowbar
+M 0 9425 2 9431   ; A white pudding
+M 0 9415 18 9432   ; A frost giant
+E 1 9405 65535 12   ; A shabby cloak
+E 1 3634 65535 17   ; a sack
+P 1 9401 48 3634   ; An old axe blade
+P 1 9404 35 3634   ; some moldy cheese
+P 1 9406 35 3634   ; A large comb
+D 0 9432 3 2   ; An icy cavern
+D 0 9435 1 2   ; A storage room
+M 0 9407 8 9436   ; A soldier
+E 1 9446 65535 5   ; A giant chain suit
+E 1 9447 65535 6   ; A giant helmet
+E 1 9412 65535 14   ; A jeweled necklace
+E 1 3634 65535 17   ; a sack
+P 1 9401 48 3634   ; An old axe blade
+P 1 9404 35 3634   ; some moldy cheese
+P 1 9406 35 3634   ; A large comb
+G 1 9448 65535 0   ; A giant spear
+G 1 9432 65535 0   ; A suit of elven chain
+M 0 9407 8 9436   ; A soldier
+E 1 9446 65535 5   ; A giant chain suit
+E 1 9447 65535 6   ; A giant helmet
+E 1 9428 65535 12   ; A fur cloak
+E 1 3634 65535 17   ; a sack
+P 1 9403 44 3634   ; An iron bowl
+P 1 9407 24 3634   ; A block of salt
+P 1 9402 24 3634   ; A boulder
+G 1 9448 65535 0   ; A giant spear
+G 1 9416 65535 0   ; A scroll case
+M 0 9415 18 9438   ; A frost giant
+E 1 9405 65535 12   ; A shabby cloak
+M 0 9406 51 9438   ; A guard
+E 1 9405 65535 12   ; A shabby cloak
+E 1 3634 65535 17   ; a sack
+P 1 9401 48 3634   ; An old axe blade
+P 1 9408 12 3634   ; a pair of giant sandals
+P 1 9409 15 3634   ; A tooth
+M 0 9406 51 9438   ; A guard
+E 1 9405 65535 12   ; A shabby cloak
+E 1 3634 65535 17   ; a sack
+P 1 3136 20 3634   ; a small pile of gold coins
+P 1 9403 44 3634   ; An iron bowl
+P 1 9458 29 3634   ; A crowbar
+M 0 9423 31 9440   ; A winter wolf
+M 0 9423 31 9441   ; A winter wolf
+M 0 9432 12 9442   ; An ogre magi
+E 1 9405 65535 12   ; A shabby cloak
+E 1 9416 65535 17   ; A scroll case
+G 1 9420 65535 0   ; A wooden chest
+P 1 9421 29 9420   ; A human ear
+P 1 9421 29 9420   ; A human ear
+P 1 9421 29 9420   ; A human ear
+P 1 9421 29 9420   ; A human ear
+P 1 9421 29 9420   ; A human ear
+P 1 9421 29 9420   ; A human ear
+P 1 9421 29 9420   ; A human ear
+P 1 9421 29 9420   ; A human ear
+P 1 9421 29 9420   ; A human ear
+P 1 9421 29 9420   ; A human ear
+P 1 9421 29 9420   ; A human ear
+P 1 9421 29 9420   ; A human ear
+P 1 9421 29 9420   ; A human ear
+P 1 9421 29 9420   ; A human ear
+P 1 9421 29 9420   ; A human ear
+P 1 9421 29 9420   ; A human ear
+P 1 9421 29 9420   ; A human ear
+P 1 9421 29 9420   ; A human ear
+P 1 9421 29 9420   ; A human ear
+P 1 9421 29 9420   ; A human ear
+P 1 9421 29 9420   ; A human ear
+P 1 9421 29 9420   ; A human ear
+P 1 9422 5 9420   ; A piece of silver jewelry
+M 0 9432 12 9442   ; An ogre magi
+E 1 9405 65535 12   ; A shabby cloak
+G 1 9433 65535 0   ; A green potion
+M 0 9432 12 9442   ; An ogre magi
+E 1 9405 65535 12   ; A shabby cloak
+E 1 9434 65535 15   ; A metal shield
+M 0 9432 12 9442   ; An ogre magi
+E 1 9405 65535 12   ; A shabby cloak
+E 1 9416 65535 17   ; A scroll case
+P 1 9463 1 9416   ; A blue scroll
+M 0 9432 12 9442   ; An ogre magi
+E 1 9405 65535 12   ; A shabby cloak
+E 1 9416 65535 17   ; A scroll case
+P 1 9464 2 9416   ; A red scroll
+M 0 9432 12 9442   ; An ogre magi
+E 1 9405 65535 12   ; A shabby cloak
+E 1 9416 65535 17   ; A scroll case
+P 1 9466 1 9416   ; A brown scroll
+M 0 9432 12 9442   ; An ogre magi
+E 1 9405 65535 12   ; A shabby cloak
+E 1 9416 65535 17   ; A scroll case
+P 1 9468 1 9416   ; An yellow scroll
+M 0 9432 12 9442   ; An ogre magi
+E 1 9405 65535 12   ; A shabby cloak
+E 1 9416 65535 17   ; A scroll case
+P 1 9469 1 9416   ; An indigo scroll
+M 0 9413 1 9444   ; A frost giant
+E 1 9405 65535 12   ; A shabby cloak
+E 1 3634 65535 17   ; a sack
+P 1 9401 48 3634   ; An old axe blade
+P 1 9408 12 3634   ; a pair of giant sandals
+P 1 9409 15 3634   ; A tooth
+G 1 9435 65535 0   ; A mauve potion
+M 0 9415 18 9446   ; A frost giant
+E 1 9405 65535 12   ; A shabby cloak
+E 1 3634 65535 17   ; a sack
+P 1 9401 48 3634   ; An old axe blade
+P 1 9404 35 3634   ; some moldy cheese
+P 1 9406 35 3634   ; A large comb
+M 0 9432 12 9446   ; An ogre magi
+E 1 9405 65535 12   ; A shabby cloak
+E 1 9416 65535 17   ; A scroll case
+P 1 9470 1 9416   ; A flourescent scroll
+M 0 9432 12 9446   ; An ogre magi
+E 1 9405 65535 12   ; A shabby cloak
+E 1 9416 65535 17   ; A scroll case
+P 1 9472 1 9416   ; A clear scroll
+M 0 9432 12 9446   ; An ogre magi
+E 1 9405 65535 12   ; A shabby cloak
+E 1 9416 65535 17   ; A scroll case
+P 1 9473 1 9416   ; An pearly white scroll
+M 0 9432 12 9446   ; An ogre magi
+E 1 9405 65535 12   ; A shabby cloak
+G 1 9475 65535 0   ; A small round rock
+G 1 9420 65535 0   ; A wooden chest
+P 1 9427 5 9420   ; A large ivory tusk
+P 1 9421 29 9420   ; A human ear
+P 1 9427 5 9420   ; A large ivory tusk
+P 1 9421 29 9420   ; A human ear
+P 1 9427 5 9420   ; A large ivory tusk
+P 1 9421 29 9420   ; A human ear
+P 1 9427 5 9420   ; A large ivory tusk
+P 1 9421 29 9420   ; A human ear
+P 1 9427 5 9420   ; A large ivory tusk
+P 1 9421 29 9420   ; A human ear
+M 0 9403 1 9446   ; The Shaman
+E 1 9428 65535 12   ; A fur cloak
+E 1 9491 65535 14   ; A silver bracelet
+E 1 9495 65535 15   ; A silver shield
+E 1 9413 65535 17   ; A wand of frost
+G 1 9416 65535 0   ; A scroll case
+P 1 9417 7 9416   ; A scroll
+G 1 9416 65535 0   ; A scroll case
+P 1 9464 2 9416   ; A red scroll
+G 1 9416 65535 0   ; A scroll case
+M 0 9429 1 9448   ; A frost giant
+E 1 9405 65535 12   ; A shabby cloak
+E 1 3634 65535 17   ; a sack
+P 1 9403 44 3634   ; An iron bowl
+P 1 9407 24 3634   ; A block of salt
+P 1 9402 24 3634   ; A boulder
+M 0 9427 1 9448   ; A frost giant
+E 1 9405 65535 12   ; A shabby cloak
+E 1 3634 65535 17   ; a sack
+P 1 9401 48 3634   ; An old axe blade
+P 1 9404 35 3634   ; some moldy cheese
+P 1 9406 35 3634   ; A large comb
+M 0 9426 1 9448   ; A frost giant
+E 1 9405 65535 12   ; A shabby cloak
+E 1 3634 65535 17   ; a sack
+P 1 3057 59 3634   ; a silver potion
+P 1 9460 9 3634   ; A skinning knife
+P 1 9458 29 3634   ; A crowbar
+M 0 9415 18 9448   ; A frost giant
+E 1 9405 65535 12   ; A shabby cloak
+E 1 3634 65535 17   ; a sack
+P 1 9403 44 3634   ; An iron bowl
+P 1 9407 24 3634   ; A block of salt
+P 1 9402 24 3634   ; A boulder
+M 0 9406 51 9451   ; A guard
+E 1 9405 65535 12   ; A shabby cloak
+E 1 3634 65535 17   ; a sack
+P 1 3136 20 3634   ; a small pile of gold coins
+P 1 9403 44 3634   ; An iron bowl
+P 1 9458 29 3634   ; A crowbar
+M 0 9406 51 9451   ; A guard
+E 1 9405 65535 12   ; A shabby cloak
+E 1 3634 65535 17   ; a sack
+P 1 9401 48 3634   ; An old axe blade
+P 1 9404 35 3634   ; some moldy cheese
+P 1 9406 35 3634   ; A large comb
+M 0 9406 51 9451   ; A guard
+E 1 9405 65535 12   ; A shabby cloak
+E 1 3634 65535 17   ; a sack
+P 1 3057 59 3634   ; a silver potion
+P 1 9460 9 3634   ; A skinning knife
+P 1 9458 29 3634   ; A crowbar
+M 0 9406 51 9451   ; A guard
+E 1 9405 65535 12   ; A shabby cloak
+E 1 3634 65535 17   ; a sack
+P 1 3136 20 3634   ; a small pile of gold coins
+P 1 9403 44 3634   ; An iron bowl
+P 1 9458 29 3634   ; A crowbar
+M 0 9406 51 9451   ; A guard
+E 1 9405 65535 12   ; A shabby cloak
+E 1 3634 65535 17   ; a sack
+P 1 9403 44 3634   ; An iron bowl
+P 1 9407 24 3634   ; A block of salt
+P 1 9402 24 3634   ; A boulder
+M 0 9406 51 9451   ; A guard
+E 1 9405 65535 12   ; A shabby cloak
+E 1 3634 65535 17   ; a sack
+P 1 9401 48 3634   ; An old axe blade
+P 1 9404 35 3634   ; some moldy cheese
+P 1 9406 35 3634   ; A large comb
+M 0 9406 51 9452   ; A guard
+E 1 9405 65535 12   ; A shabby cloak
+E 1 3634 65535 17   ; a sack
+P 1 9401 48 3634   ; An old axe blade
+P 1 9404 35 3634   ; some moldy cheese
+P 1 9406 35 3634   ; A large comb
+M 0 9406 51 9452   ; A guard
+E 1 9405 65535 12   ; A shabby cloak
+E 1 3634 65535 17   ; a sack
+P 1 9403 44 3634   ; An iron bowl
+P 1 9407 24 3634   ; A block of salt
+P 1 9402 24 3634   ; A boulder
+M 0 9423 31 9452   ; A winter wolf
+M 0 9415 18 9453   ; A frost giant
+E 1 3634 65535 17   ; a sack
+P 1 9401 48 3634   ; An old axe blade
+P 1 9404 35 3634   ; some moldy cheese
+P 1 9406 35 3634   ; A large comb
+M 0 9425 2 9453   ; A white pudding
+G 1 9416 65535 0   ; A scroll case
+M 0 9423 31 9453   ; A winter wolf
+M 0 9423 31 9453   ; A winter wolf
+M 0 9435 6 9454   ; A poisonous ice toad
+M 0 9435 6 9454   ; A poisonous ice toad
+M 0 9435 6 9454   ; A poisonous ice toad
+G 1 9425 65535 0   ; A huge amethyst
+M 0 9435 6 9454   ; A poisonous ice toad
+M 0 9435 6 9454   ; A poisonous ice toad
+M 0 9415 18 9460   ; A frost giant
+E 1 9405 65535 12   ; A shabby cloak
+E 1 3634 65535 17   ; a sack
+P 1 9403 44 3634   ; An iron bowl
+P 1 9407 24 3634   ; A block of salt
+P 1 9402 24 3634   ; A boulder
+M 0 9406 51 9461   ; A guard
+E 1 9405 65535 12   ; A shabby cloak
+E 1 3634 65535 17   ; a sack
+P 1 9401 48 3634   ; An old axe blade
+P 1 9404 35 3634   ; some moldy cheese
+P 1 9406 35 3634   ; A large comb
+M 0 9406 51 9461   ; A guard
+E 1 9405 65535 12   ; A shabby cloak
+E 1 3634 65535 17   ; a sack
+P 1 9403 44 3634   ; An iron bowl
+P 1 9407 24 3634   ; A block of salt
+P 1 9402 24 3634   ; A boulder
+M 0 9406 51 9461   ; A guard
+E 1 9405 65535 12   ; A shabby cloak
+E 1 3634 65535 17   ; a sack
+P 1 3136 20 3634   ; a small pile of gold coins
+P 1 9403 44 3634   ; An iron bowl
+P 1 9458 29 3634   ; A crowbar
+M 0 9406 51 9461   ; A guard
+E 1 9405 65535 12   ; A shabby cloak
+E 1 3634 65535 17   ; a sack
+P 1 9401 48 3634   ; An old axe blade
+P 1 9404 35 3634   ; some moldy cheese
+P 1 9406 35 3634   ; A large comb
+M 0 9436 12 9469   ; A yeti
+M 0 9436 12 9470   ; A yeti
+M 0 9423 31 9470   ; A winter wolf
+M 0 9423 31 9470   ; A winter wolf
+M 0 9423 31 9471   ; A winter wolf
+M 0 9436 12 9471   ; A yeti
+M 0 9423 31 9471   ; A winter wolf
+M 0 9436 12 9472   ; A yeti
+M 0 9436 12 9475   ; A yeti
+M 0 9423 31 9476   ; A winter wolf
+M 0 9423 31 9478   ; A winter wolf
+M 0 9423 31 9478   ; A winter wolf
+M 0 9423 31 9478   ; A winter wolf
+M 0 9423 31 9478   ; A winter wolf
+M 0 9423 31 9478   ; A winter wolf
+M 0 9423 31 9478   ; A winter wolf
+M 0 9422 1 9480   ; A rehmoraz
+E 1 9414 65535 1   ; A pink ring
+G 1 9421 65535 0   ; A human ear
+G 1 9409 65535 0   ; A tooth
+G 1 9409 65535 0   ; A tooth
+G 1 9420 65535 0   ; A wooden chest
+P 1 9401 48 9420   ; An old axe blade
+P 1 9405 116 9420   ; A shabby cloak
+P 1 9411 6 9420   ; A silver belt
+P 1 9474 1 9420   ; A small flat rock
+G 1 9421 65535 0   ; A human ear
+G 1 9409 65535 0   ; A tooth
+G 1 9420 65535 0   ; A wooden chest
+G 1 9416 65535 0   ; A scroll case
+S

@@ -1,0 +1,80 @@
+*Zone 40, rooms 6600-6700, last modified by Jopa
+M 0 6610 1 6602   ; The Black Knight
+M 0 6640 2 6604   ; The fair juggler
+M 0 6607 2 6611   ; A servant
+M 0 6608 2 6612   ; A squire
+M 0 6606 4 6613   ; A knight
+M 0 6603 1 6614   ; Guinevere
+M 0 6602 1 6614   ; King Arthur
+E 1 6601 65535 16   ; Excaliber, the Sword of Kings
+M 0 31 1 6614   ; the Cleric Guildmaster
+M 0 6620 1 6617   ; The Master of Arms
+M 0 6639 1 6618   ; The fair greeter
+M 0 6606 4 6619   ; A knight
+M 0 6614 2 6621   ; A Castle Watchman
+M 0 6605 1 6622   ; Sir Galahad
+M 0 6607 2 6623   ; A servant
+M 0 6627 1 6624   ; The Grail
+M 0 6604 1 6625   ; Mordred
+E 1 6602 65535 5   ; a suit of golden armor
+M 0 6619 1 6626   ; Sir Gawain
+M 0 6601 1 6627   ; Sir Lancelot du Lac
+M 0 6614 2 6627   ; A Castle Watchman
+M 0 6638 1 6629   ; The tarot reader
+E 1 6615 65535 17   ; a crystal ball
+M 0 6632 1 6633   ; The gorilla
+M 0 6628 1 6634   ; The Midget
+M 0 6608 2 6634   ; A squire
+M 0 6629 1 6635   ; The fat lady
+M 0 6606 4 6635   ; A knight
+M 0 6630 1 6636   ; The ugly man
+M 0 6631 1 6637   ; The three armed man.
+M 0 6613 3 6642   ; A bad man
+M 0 6613 3 6643   ; A bad man
+M 0 6613 3 6644   ; A bad man
+M 0 6643 1 6644   ; The Herald of Prydain
+M 0 6646 1 6646   ; The Antipaladin
+E 1 6603 65535 3   ; a black collar
+E 1 6623 65535 4   ; the Amulet of the Black Heart
+E 1 6612 65535 6   ; a black helm
+E 1 6608 65535 7   ; some black leg plates
+E 1 6605 65535 8   ; the Black Boots
+E 1 6611 65535 10   ; a pair of black gauntlets
+E 1 6604 65535 11   ; the Shield of the Black Heart
+E 1 6614 65535 12   ; a large black cloak
+E 1 6613 65535 13   ; a black belt
+E 1 6622 65535 16   ; the Antipaladin's Longsword
+E 1 6624 65535 17   ; A Figurine
+G 1 6610 65535 0   ; a pair of black arm plates
+M 0 6645 1 6646   ; Morganna
+G 1 6625 65535 0   ; A black robe
+M 0 6616 1 6648   ; Merlin
+M 0 6611 1 6653   ; The Questing Beast
+M 0 6641 1 6673   ; Cave giant
+M 0 6609 1 6674   ; The Fearsome Dragon
+O 0 3614 65535 6674   ; a rapier
+O 0 18215 65535 6674   ; a pair of metal sleeves
+O 0 18214 65535 6674   ; a pair of metal leggings
+O 0 18213 65535 6674   ; a metal helm
+O 0 18212 65535 6674   ; a pair of metal gauntlets
+M 0 6625 2 6675   ; The fire demon
+M 0 6625 2 6675   ; The fire demon
+M 0 6642 1 6678   ; Ice Dragon
+E 1 1967 65535 17   ; a helm of telepathy
+M 0 6626 1 6679   ; The Ice Golem
+M 0 6612 1 6680   ; Zippy the Mage
+M 0 6633 1 6681   ; Fat Frank
+G 1 10900 65535 0   ; a pizza box
+G 1 6616 65535 0   ; a can of coke
+M 0 6640 2 6685   ; The fair juggler
+M 0 6634 1 6686   ; The sword swallower
+M 0 6635 1 6687   ; The flame blower
+M 0 6636 1 6688   ; The master juggler
+M 0 6606 4 6688   ; A knight
+M 0 6637 1 6689   ; The prestidigitator
+M 0 6618 1 6691   ; Coco the Cockatrice
+M 0 6617 1 6692   ; Hippo the Hippogriff
+D 0 6697 3 0   ; Diarmuid's Work Room
+D 0 6699 1 0   ; Luigi's Game Room
+D 0 6700 3 0   ; Luigi's Bedroom
+S

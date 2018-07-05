@@ -1,0 +1,4 @@
+*Zone 68, rooms 15000-15100, last modified by Coal
+M 0 37302 9 15003   ; a sprite
+O 0 505 65535 15100   ; The cedar tree
+S

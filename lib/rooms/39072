@@ -1,0 +1,24 @@
+#39072
+Western Side Of The Bottom Floor~
+   This is the western side of the bottom floor.  It looks different from the other places
+because the blocks are arranged in a different way.  It kinda looks like there is a
+loose one the can open a secret passage?  The exits contain north, south, and east.
+~
+122 0 0
+D0
+~
+~
+0 0 39073 -1
+D1
+~
+door~
+0 0 39079 0
+D2
+~
+~
+0 0 39071 -1
+D3
+~
+door~
+8 0 39081 -1
+S

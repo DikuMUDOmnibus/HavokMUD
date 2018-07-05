@@ -1,0 +1,24 @@
+#39079
+The Bottom Floor~
+   This is the in the middle of the bottom floor.  The room looks like its been perfectly
+cleaned by the humans here.  There are little spider webs on the ceiling that are
+filled with all sorts of weird bugs.  The exits are to the north, east, south, and west.
+~
+122 9 0
+D0
+~
+door~
+0 0 39074 0
+D1
+~
+door~
+0 0 39077 0
+D2
+~
+~
+0 0 39078 -1
+D3
+~
+door~
+0 0 39072 0
+S

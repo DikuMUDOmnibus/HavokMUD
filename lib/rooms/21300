@@ -1,0 +1,22 @@
+#21300
+Hallway~
+    You are in a dark north-south hallway in the mountain defense station.  The
+walls are smooth, cut from the solid rock here deep inside the mountain.  The
+ceiling is high, almost fifteen feet.  The hall continues north and south as far
+as your light can show you.  There is also an opening to the west, through which
+you can see a set of stairs.
+~
+84 9 1
+D0
+~
+~
+0 -1 21299 -1
+D2
+~
+~
+0 -1 21301 -1
+D3
+~
+~
+0 -1 21307 -1
+S

@@ -1,0 +1,78 @@
+*Zone 105, rooms 32800-32999, last modified by Ashamael
+D 0 32800 4 2   ; Staircase of Bone.
+D 0 32801 3 2   ; Cavernous Chest of Bone.
+M 0 32800 6 32802   ; A Shadowborne
+E 1 32801 65535 16   ; The Blade of the Shadowborne
+D 0 32802 1 2   ; Cavernous Torso of Bone.
+D 0 32808 3 2   ; Waterfilled Western Hallway.
+M 0 32800 6 32810   ; A Shadowborne
+M 0 32810 1 32810   ; A statue of Auril Frostmaiden
+E 1 32810 65535 16   ; A Frostmaiden's Battleaxe
+M 0 32800 6 32813   ; A Shadowborne
+M 0 32800 6 32813   ; A Shadowborne
+D 0 32815 4 0   ; Pandemonious Window.
+D 0 32816 1 1   ; Halls of Pandemonium.
+D 0 32817 1 2   ; Halls of Pandemonium.
+D 0 32817 3 1   ; Halls of Pandemonium.
+M 0 32818 1 32818   ; Auril Frostmaiden, Demipower of Pandemonium
+E 1 32818 65535 8   ; tattoos of flame-rings around the toes
+G 1 32823 65535 0   ; the key of misfortune
+D 0 32818 3 2   ; Auril's Chambers.
+M 0 32800 6 32819   ; A Shadowborne
+M 0 32819 1 32819   ; A statue of Beshaba the Maid of Misfortune
+E 1 32819 65535 3   ; An Amulet of Misfortune
+G 1 32817 65535 0   ; the key of pandemonium
+M 0 32800 6 32820   ; A Shadowborne
+D 0 32823 1 2   ; Halls of Misfortune.
+M 0 32826 1 32826   ; Beshaba, Maid of Misfortune
+E 1 32826 65535 7   ; tattoos of snakes wrapped around the legs
+G 1 32830 65535 0   ; the key of singing waters
+D 0 32826 3 2   ; Beshaba's Chambers.
+D 0 32828 1 2   ; Waterfilled Western Hallway.
+M 0 32830 1 32830   ; A statue of Eldath, Demipower of Singing Waters
+E 1 32829 65535 5   ; Eldath Platemail
+E 1 31999 65535 16   ; a dagger
+G 1 32835 65535 0   ; a water-rusted key
+D 0 32835 3 2   ; Singing Waters Source.
+M 0 32836 1 32836   ; Eldath, Demipower of Singing Waters
+E 1 32836 65535 13   ; a tattoo around the waist depicting a seasnake
+D 0 32836 1 2   ; Eldath's Chambers.
+M 0 32801 1 32838   ; The Desolate Caves Ethereal Post
+D 0 32838 0 1   ; Staircase of Bone.
+D 0 32838 1 1   ; Staircase of Bone.
+D 0 32838 5 2   ; Staircase of Bone.
+D 0 32839 2 1   ; Upper Caves.
+D 0 32843 0 2   ; Curving Stone Passage.
+M 0 32843 1 32844   ; the Snake-God
+M 0 32844 1 32844   ; the Snake-Goddess
+D 0 32844 0 1   ; Welcome Chambers.
+D 0 32844 2 2   ; Welcome Chambers.
+D 0 32845 2 1   ; A Cool, Damp Passage.
+M 0 32845 9 32847   ; the six-armed snake-man
+M 0 32846 6 32847   ; the four-armed snake-man
+M 0 32845 9 32847   ; the six-armed snake-man
+M 0 32847 4 32847   ; the two-armed snake-man
+M 0 32845 9 32848   ; the six-armed snake-man
+M 0 32847 4 32851   ; the two-armed snake-man
+M 0 32845 9 32851   ; the six-armed snake-man
+M 0 32846 6 32853   ; the four-armed snake-man
+M 0 32846 6 32854   ; the four-armed snake-man
+M 0 32845 9 32858   ; the six-armed snake-man
+M 0 32845 9 32859   ; the six-armed snake-man
+M 0 32846 6 32859   ; the four-armed snake-man
+M 0 32847 4 32860   ; the two-armed snake-man
+M 0 32846 6 32860   ; the four-armed snake-man
+M 0 32861 1 32861   ; the five-armed snake-man
+G 1 33120 65535 0   ; A shortsword
+G 1 32861 65535 0   ; a key inlaid with epidote gemstones
+M 0 32845 9 32863   ; the six-armed snake-man
+M 0 32845 9 32865   ; the six-armed snake-man
+D 0 32865 0 2   ; Whistling Stone Cave.
+M 0 32847 4 32866   ; the two-armed snake-man
+G 1 32802 65535 0   ; dark key
+M 0 32846 6 32866   ; the four-armed snake-man
+M 0 32845 9 32866   ; the six-armed snake-man
+O 0 33031 65535 32866   ; A Druidic Staff
+D 0 32866 2 2   ; A Mountainous Ledge.
+D 0 32869 4 0   ; Halls of Glistening Azurite.
+S

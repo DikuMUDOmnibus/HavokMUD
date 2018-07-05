@@ -1,0 +1,17 @@
+#13849
+minotaur~
+A Minotaur~
+A Minotaur tries to impale you.
+~
+The creature has the head of a bull and the lower body of a man.
+~
+~
+~
+34  0  -1000  1.0 
+ 20  1  4  110  2d6+2 
+ -1  484  2  1 
+ 8  8  1  0  0  0 
+ 0 
+~
+~
+~

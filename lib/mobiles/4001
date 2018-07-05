@@ -1,0 +1,17 @@
+#4001
+snake~
+the green snake~
+A small green snake.
+~
+It looks harmless.
+~
+~
+~
+3  0  -100  1.0 
+ 2  18  4  9  1d6+1 
+ -1  0  3  6 
+ 8  8  0  0  0  0 
+ 0 
+~
+~
+~

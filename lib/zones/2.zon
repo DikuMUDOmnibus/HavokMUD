@@ -1,0 +1,76 @@
+*Zone 2, rooms 50-199, last modified by Ashamael
+D 0 69 5 0   ; The Hot Tub
+D 0 100 1 0   ; Hallway
+D 0 101 3 0   ; Hallway
+D 0 103 1 0   ; Dining Hall
+D 0 104 2 0   ; Library
+D 0 104 3 0   ; Library
+D 0 105 1 0   ; Western Hallway
+D 0 105 3 0   ; Western Hallway
+D 0 106 1 0   ; The Adept's chamber
+D 0 108 0 0   ; Western Hallway
+D 0 109 0 0   ; The Attendants' Chamber
+D 0 109 2 0   ; The Attendants' Chamber
+D 0 110 0 0   ; Darkened Hallway
+D 0 111 1 0   ; Darkened Hallway
+D 0 112 3 0   ; Cellar Access
+D 0 113 2 0   ; The Acolytes' Chamber
+D 0 114 0 0   ; Western Hallway
+D 0 115 2 0   ; Believers' Dormitory
+D 0 116 2 0   ; Western Hallway
+D 0 117 0 0   ; The Deacon's Chamber
+D 0 118 0 0   ; Western Hallway
+D 0 118 2 0   ; Western Hallway
+D 0 119 2 0   ; The Vicar's Chamber
+D 0 120 0 0   ; The Priest's Chamber
+D 0 121 3 0   ; Western Hallway
+D 0 122 3 0   ; Western Hallway
+D 0 123 0 0   ; Western Hallway
+D 0 123 3 0   ; Western Hallway
+D 0 124 0 0   ; Western Hallway
+D 0 126 0 0   ; Western Hallway
+D 0 126 2 0   ; Western Hallway
+D 0 127 1 0   ; The Study
+D 0 128 2 0   ; The Minister's Chamber
+D 0 129 2 0   ; The Novices' Chamber
+D 0 130 2 0   ; The Missionary's Chamber
+D 0 131 2 0   ; The Missionary's Chamber
+D 0 132 0 0   ; Western Hallway
+D 0 133 1 0   ; The Canon's Chamber
+D 0 134 1 0   ; The Levite's Chamber
+D 0 135 3 0   ; Western Hallway
+D 0 136 1 0   ; The Curate's Chamber
+D 0 137 1 0   ; Western Hallway
+D 0 137 3 0   ; Western Hallway
+D 0 138 1 0   ; The Healer's Chamber
+D 0 139 3 0   ; The Monk's Chamber
+D 0 140 2 0   ; Western Hallway
+D 0 140 3 0   ; Western Hallway
+D 0 141 1 0   ; The Chaplain's Chamber
+D 0 142 0 0   ; The Expositor's Chamber
+D 0 143 2 0   ; Western Hallway
+D 0 144 0 0   ; The Bishop's Chamber
+D 0 145 0 0   ; Western Hallway
+D 0 145 1 0   ; Western Hallway
+D 0 145 2 0   ; Western Hallway
+D 0 146 0 0   ; The Patriarch's Chamber
+D 0 147 2 0   ; The Arch Bishop's Chamber
+D 0 151 1 0   ; The Closet of the High Priest
+D 0 152 3 0   ; The Secret Chamber of the High Priest
+D 0 153 1 0   ; Western Hallway
+D 0 154 3 0   ; Cellar Access
+D 0 154 4 0   ; Cellar Access
+D 0 155 0 0   ; Attic Access
+D 0 155 5 0   ; Attic Access
+D 0 156 2 0   ; Attic
+D 0 160 1 0   ; Western Hallway
+D 0 166 0 0   ; A secret passage!
+D 0 166 2 0   ; A secret passage!
+D 0 167 0 0   ; A small stone room
+D 0 167 2 0   ; A small stone room
+D 0 168 0 0   ; Dark passage
+D 0 170 2 0   ; Cellar
+D 0 171 0 0   ; Cellar
+D 0 172 0 0   ; Storage room
+D 0 174 2 0   ; Cellar
+S

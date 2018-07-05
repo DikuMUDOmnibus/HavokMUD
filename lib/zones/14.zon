@@ -1,0 +1,108 @@
+*Zone 14, rooms 1800-1899, last modified by Banon
+M 0 1803 2 1803   ; minotaur guard
+E 1 46 65535 16   ; a battle axe
+M 0 1803 2 1803   ; minotaur guard
+E 1 46 65535 16   ; a battle axe
+D 0 1808 1 1   ; A road in a Minotaur village
+D 0 1808 3 1   ; A road in a Minotaur village
+D 0 1809 1 1   ; A path through the Minotaur village
+D 0 1809 3 1   ; A path through the Minotaur village
+D 0 1810 1 1   ; A path through the Minotaur village
+D 0 1810 3 1   ; A path through the Minotaur village
+D 0 1811 0 1   ; A path through a Minotaur Village
+D 0 1811 1 1   ; A path through a Minotaur Village
+D 0 1811 3 1   ; A path through a Minotaur Village
+D 0 1812 2 1   ; Entrance to the Chief's house.
+D 0 1814 1 1   ; A hallway
+D 0 1814 3 1   ; A hallway
+D 0 1815 1 1   ; A hallway
+D 0 1815 3 1   ; A hallway
+D 0 1816 1 1   ; A hallway
+D 0 1816 3 1   ; A hallway
+M 0 1818 1 1818   ; Kaz the Minotaur King
+G 1 1818 65535 0   ; A silver crown
+M 0 1802 2 1818   ; minotaur guard
+M 0 1802 2 1818   ; minotaur guard
+M 0 1820 8 1819   ; A male minotaur
+D 0 1819 3 1   ; A Minotaur House
+M 0 1820 8 1820   ; A male minotaur
+D 0 1820 1 1   ; A Minotaur House
+M 0 1820 8 1821   ; A male minotaur
+D 0 1821 3 1   ; A Minotaur House
+M 0 1820 8 1822   ; A male minotaur
+D 0 1822 1 1   ; A Minotaur House
+M 0 1820 8 1823   ; A male minotaur
+D 0 1823 3 1   ; A Minotaur House
+M 0 1820 8 1824   ; A male minotaur
+D 0 1824 1 1   ; A Minotaur House
+M 0 1820 8 1825   ; A male minotaur
+D 0 1825 1 1   ; A Minotaur House
+M 0 1820 8 1826   ; A male minotaur
+D 0 1826 3 1   ; A Minotaur House
+D 0 1830 0 1   ; The entrance to a playground.
+M 0 1831 9 1831   ; A minotaur child.
+G 1 1103 65535 0   ; a pipeweed bread
+M 0 1831 9 1831   ; A minotaur child.
+G 1 1103 65535 0   ; a pipeweed bread
+D 0 1831 2 1   ; The Playground
+M 0 1831 9 1832   ; A minotaur child.
+G 1 1103 65535 0   ; a pipeweed bread
+M 0 24927 1 1833   ; A mean bully
+M 0 1831 9 1834   ; A minotaur child.
+G 1 1103 65535 0   ; a pipeweed bread
+M 0 1831 9 1835   ; A minotaur child.
+G 1 1103 65535 0   ; a pipeweed bread
+M 0 1831 9 1836   ; A minotaur child.
+G 1 1103 65535 0   ; a pipeweed bread
+M 0 1831 9 1837   ; A minotaur child.
+G 1 1103 65535 0   ; a pipeweed bread
+M 0 1831 9 1838   ; A minotaur child.
+G 1 1103 65535 0   ; a pipeweed bread
+M 0 1831 9 1839   ; A minotaur child.
+G 1 1103 65535 0   ; a pipeweed bread
+M 0 1842 1 1842   ; Prince Ulvian
+E 1 1842 65535 16   ; The Sword of Destruction
+D 0 1842 3 1   ; The Prince's Room
+M 0 1843 1 1843   ; the Minotaur Chieftess
+E 1 1843 65535 11   ; a pillow
+D 0 1843 1 1   ; The Chieftess' Room
+M 0 1844 1 1844   ; Magius the Mage
+E 1 1844 65535 17   ; The Staff of Magius
+D 0 1844 3 1   ; Room of the Magi
+M 0 1845 1 1845   ; A Minotaur Priest
+E 1 1845 65535 3   ; A holy cowl
+D 0 1845 1 1   ; Room of the Deities
+M 0 1846 1 1846   ; The Economy Advisor
+G 1 5305 65535 0   ; a huge treasure
+D 0 1846 3 1   ; The Economy Advisor's Room
+M 0 1847 1 1847   ; The Military Advisor
+E 1 1847 65535 15   ; a spiked bracelet
+D 0 1847 1 1   ; The Military Advisor's Room
+M 0 1851 2 1851   ; minotaur guard
+E 1 46 65535 16   ; a battle axe
+M 0 1851 2 1851   ; minotaur guard
+E 1 46 65535 16   ; a battle axe
+M 0 1856 2 1854   ; the cute rabbit
+M 0 1856 2 1854   ; the cute rabbit
+M 0 1852 1 1854   ; the Sparrow
+M 0 3094 1 1857   ; the Wolf
+D 0 1857 1 1   ; A path through the woods
+M 0 1863 2 1858   ; a goblin
+D 0 1858 3 1   ; Entrance to A Barbarian Camp.
+D 0 1860 1 0   ; A Barbarian Campground
+M 0 1863 2 1864   ; a goblin
+M 0 1865 3 1865   ; A Barbarian Guard
+M 0 1865 3 1865   ; A Barbarian Guard
+M 0 1865 3 1865   ; A Barbarian Guard
+D 0 1865 3 0   ; Entrance to the Hut
+M 0 1866 1 1866   ; The barbarian chief
+E 1 1866 65535 3   ; A tiger tooth necklace.
+M 0 1869 4 1869   ; A minotaur servant.
+G 1 3012 65535 0   ; a french loaf
+M 0 1869 4 1869   ; A minotaur servant.
+G 1 3012 65535 0   ; a french loaf
+M 0 1869 4 1870   ; A minotaur servant.
+G 1 3012 65535 0   ; a french loaf
+M 0 1869 4 1870   ; A minotaur servant.
+G 1 3012 65535 0   ; a french loaf
+S

@@ -1,0 +1,21 @@
+#2731
+color pool~
+A color pool~
+A murky gray color pool can be seen as you approach.
+~
+    This is a twisty underground tunnel with many exits and entrances.
+The ground is more or less even, but the passage walls are so similar in
+kind that it is impossible to differentiate one passage from another by them.
+There are exits leading in all four compass directions. The tunnel floor
+has been worn smooth by the passage of many feet.
+~
+~
+~
+2115  2048  0  1.0 
+ 1  0  10  2  1d1+1 
+ -1  0  1  48 
+ 8  8  0  0  0  0 
+ 0 
+~
+~
+~

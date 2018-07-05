@@ -1,0 +1,20 @@
+#2718
+color pool~
+A color pool~
+A gold color pool can be seen as you approach.
+~
+An intersection
+  You are at an intersection in the corridor. The obsidian walled halls
+lead off in every direction from here, pulsing with the power of their
+ancient runes.
+~
+~
+~
+2115  2048  0  1.0 
+ 1  0  10  2  1d1+1 
+ -1  0  1  48 
+ 8  8  0  0  0  0 
+ 0 
+~
+~
+~

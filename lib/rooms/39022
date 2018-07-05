@@ -1,0 +1,18 @@
+#39022
+Dead End~
+   You seem to have reached the end of the hallway.  The light here is dim as
+the torches on the wall seem to have been extinguished.  The floor is cluttered
+with bones.  In the corner you see a freshly killed corpse, the stench is 
+unbearable.  As you turn around you stub your toe on something hard below.
+~
+122 73 0
+D3
+~
+door~
+0 0 39021 0
+D5
+~
+trapdoor
+~
+11 0 39023 373
+S

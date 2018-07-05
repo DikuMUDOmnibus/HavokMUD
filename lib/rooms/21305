@@ -1,0 +1,42 @@
+#21305
+Bath~
+    This room serves as a bath house for the soldiers of this fortress.   There
+are six open pits in the stone floor, each around four feet deep and six or so
+feet diameter, that served as tubs for those trying to rid themselves of dirt.
+There are small channels cut into the floor, an offshoot from the main channel,
+which extends from a small hole in the south wall, leads up each of the six
+pits.  Because all the tubs are currently dry, you can see that at the bottom
+of each pit there is a small opening as well.  Ostensibly, water flowed through
+the channels, into the tubs, and drained out through the holes.  The engineering
+of this room impresses you immensely. There is only one exit, to the east.
+~
+84 9 1
+D1
+~
+~
+0 -1 21298 -1
+E
+hole inlet~
+It's right where the floor meets the south wall, near the center. It's only
+four inches wide, so you can't really tell where it comes from, though you
+can tell it bends up after a few feet.
+~
+E
+channel~
+They are narrow gutters in the floor of the room through which water flowed
+from the inlet hole in the south wall to the tubs. The main one is about three
+inches deep, the others are only an inch or two in depth.
+~
+E
+outlet drain~
+It's pretty small, but by shining your light down it you can tell that it
+curves after dropping a foot or so. It was made, it is not natural, just
+like the pits themselves.
+~
+E
+pit tub pits tubs~
+It's about four feet deep and six feet in diameter. It is now empty, but once
+water entered through the channels and left through a small hole in the bottom.
+These pits were carved from the stone, they were not naturally formed.
+~
+S

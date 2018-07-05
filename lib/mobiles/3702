@@ -1,0 +1,17 @@
+#3702
+giant snail~
+the giant snail~
+There is a large snail here inching its way across the floor.
+~
+A large and ugly snail is slowly moving across the floor.
+~
+~
+~
+20  0  0  1.0 
+ 1  20  9  6  1d6+1 
+ -1  10  1  20 
+ 8  8  0  0  0  0 
+ 0 
+~
+~
+~

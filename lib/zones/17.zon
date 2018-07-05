@@ -1,0 +1,24 @@
+*Zone 17, rooms 2000-2099, last modified by Ashamael
+D 0 2001 4 0   ; Narrow Damp Shaft
+D 0 2001 5 0   ; Narrow Damp Shaft
+D 0 2002 0 1   ; Bottom of the Shaft
+D 0 2002 4 0   ; Bottom of the Shaft
+D 0 2002 5 1   ; Bottom of the Shaft
+M 0 2010 3 2003   ; A slave woman
+D 0 2003 2 1   ; Entryway
+M 0 2010 3 2004   ; A slave woman
+M 0 2011 1 2007   ; A old village priest
+D 0 2008 1 1   ; Damp Hallway
+D 0 2009 3 0   ; Damp Hallway
+D 0 2010 1 1   ; Damp Hallway
+D 0 2010 3 1   ; Damp Hallway
+D 0 2011 3 1   ; Dark Room
+M 0 2010 3 2012   ; A slave woman
+D 0 2012 1 0   ; Priest's Room
+D 0 2013 1 1   ; Simple Room
+M 0 2012 1 2014   ; A nasty old hag
+D 0 2014 3 1   ; Dark Room
+D 0 2015 4 1   ; Edge of a River
+D 0 2016 4 0   ; Swimming On the River
+O 0 2000 65535 2017   ; a small snake statue
+S

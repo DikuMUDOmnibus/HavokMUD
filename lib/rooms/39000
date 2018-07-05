@@ -1,0 +1,19 @@
+#39000
+The Entrance to the Temple~
+   This is where all the trails end.  Branches lay all over the trail.
+There is a temple in the distance,over 100 feet high.  The temple is very colorful.  
+The colors it contain are brown,black,and white.  On the top of the temple there is a
+figure.  This figures facials cant be seen from here so he can't be made out.  The
+temple has pictures of dragons all over it fighting humans.  The only way you can
+leave this room is if you walk to the west or east.
+~
+122 0 3
+D1
+~
+door~
+0 0 39001 0
+D3
+~
+door~
+0 39053 39053 -1
+S

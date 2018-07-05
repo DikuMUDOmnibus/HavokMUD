@@ -1,0 +1,18 @@
+#21375
+claybin man bartender~
+Claybin the Bartender~
+The Bartender is pouring beer for his customers, and will serve you next.
+~
+He is quick to pour the drinks, and even quicker at grabbing your gold.
+~
+Claybin the Bartender says, 'How about a shot of whiskey stranger.'
+~
+~
+1  0  500  1.0 
+ 20  5  6  126  2d4+3 
+ -1  396  2  1 
+ 8  8  1  0  2048  0 
+ 0 
+~
+~
+~

@@ -1,0 +1,104 @@
+*Zone 3, rooms 200-249, last modified by Ashamael
+M 0 218 10 219   ; A Villian guard
+E 1 3022 65535 16   ; a long sword
+M 0 219 19 220   ; A citizen
+M 0 218 10 221   ; A Villian guard
+E 1 3022 65535 16   ; a long sword
+M 0 219 19 221   ; A citizen
+M 0 219 19 222   ; A citizen
+M 0 207 1 222   ; Prince Everin
+E 1 3040 65535 5   ; a breast plate
+E 1 3077 65535 6   ; a steel helm
+E 1 3082 65535 7   ; a pair of plate leggings
+E 1 3628 65535 8   ; a pair of padded leather boots
+E 1 3073 65535 9   ; a pair of plate gauntlets
+E 1 3088 65535 10   ; a pair of plate sleeves
+E 1 6111 65535 11   ; a large round shield
+E 1 3022 65535 16   ; a long sword
+M 0 211 1 222   ; The Villian Sorcerer
+E 1 3024 65535 16   ; a warhammer
+M 0 219 19 222   ; A citizen
+D 0 222 0 0   ; Fortress Entrance
+M 0 219 19 223   ; A citizen
+M 0 218 10 223   ; A Villian guard
+E 1 3022 65535 16   ; a long sword
+M 0 218 10 223   ; A Villian guard
+E 1 3022 65535 16   ; a long sword
+D 0 223 2 0   ; Inside the Fortress
+M 0 219 19 225   ; A citizen
+M 0 218 10 226   ; A Villian guard
+E 1 3022 65535 16   ; a long sword
+M 0 219 19 226   ; A citizen
+M 0 215 1 226   ; The Villian Druid
+E 1 3043 65535 5   ; a leather jacket
+E 1 3628 65535 8   ; a pair of padded leather boots
+E 1 3071 65535 9   ; a pair of leather gloves
+E 1 3086 65535 10   ; a pair of leather sleeves
+E 1 3022 65535 16   ; a long sword
+M 0 212 1 227   ; The Villian Warrior
+E 1 3040 65535 5   ; a breast plate
+E 1 3077 65535 6   ; a steel helm
+E 1 3082 65535 7   ; a pair of plate leggings
+E 1 3628 65535 8   ; a pair of padded leather boots
+E 1 3073 65535 9   ; a pair of plate gauntlets
+E 1 3088 65535 10   ; a pair of plate sleeves
+E 1 46 65535 16   ; a battle axe
+M 0 219 19 227   ; A citizen
+M 0 218 10 227   ; A Villian guard
+E 1 3022 65535 16   ; a long sword
+M 0 219 19 227   ; A citizen
+M 0 219 19 228   ; A citizen
+M 0 219 19 228   ; A citizen
+M 0 209 1 229   ; The Villian paladin
+E 1 3040 65535 5   ; a breast plate
+E 1 3077 65535 6   ; a steel helm
+E 1 3082 65535 7   ; a pair of plate leggings
+M 0 219 19 229   ; A citizen
+M 0 219 19 231   ; A citizen
+M 0 219 19 232   ; A citizen
+M 0 216 1 234   ; The Villian Mage
+M 0 219 19 234   ; A citizen
+M 0 219 19 235   ; A citizen
+M 0 219 19 236   ; A citizen
+M 0 214 1 236   ; The Villian Rogue
+E 1 3629 65535 5   ; a studded leather jacket
+E 1 2 65535 6   ; a leather training cap
+E 1 3081 65535 7   ; a pair of leather pants
+E 1 3071 65535 9   ; a pair of leather gloves
+E 1 3086 65535 10   ; a pair of leather sleeves
+E 1 3021 65535 16   ; a small sword
+D 0 237 3 1   ; Narrow Hallway
+M 0 218 10 238   ; A Villian guard
+E 1 3022 65535 16   ; a long sword
+M 0 218 10 238   ; A Villian guard
+E 1 3022 65535 16   ; a long sword
+M 0 219 19 238   ; A citizen
+M 0 218 10 239   ; A Villian guard
+E 1 3022 65535 16   ; a long sword
+M 0 217 1 240   ; The ferocious Grimtooth
+D 0 240 1 1   ; Villian Creature's Lair
+D 0 244 0 0   ; Braided Hallway
+D 0 244 2 0   ; Braided Hallway
+M 0 206 1 245   ; Queen Rotunda
+E 1 21007 65535 8   ; high heels
+E 1 3655 65535 12   ; a silk jacket
+E 1 201 65535 17   ; The Staff of Darkness
+M 0 205 1 245   ; King Valkim
+E 1 3040 65535 5   ; a breast plate
+E 1 3077 65535 6   ; a steel helm
+E 1 3082 65535 7   ; a pair of plate leggings
+M 0 210 1 245   ; The Villian Priest
+E 1 3081 65535 7   ; a pair of leather pants
+E 1 3655 65535 12   ; a silk jacket
+E 1 3024 65535 16   ; a warhammer
+M 0 213 1 245   ; The Villian Barbarian
+E 1 3040 65535 5   ; a breast plate
+E 1 3077 65535 6   ; a steel helm
+E 1 3082 65535 7   ; a pair of plate leggings
+D 0 245 2 0   ; Villian King's Throne Room
+M 0 208 1 246   ; Agin the Scholar
+G 1 3685 65535 0   ; a fountain pen
+M 0 218 10 247   ; A Villian guard
+E 1 3022 65535 16   ; a long sword
+M 0 219 19 248   ; A citizen
+S

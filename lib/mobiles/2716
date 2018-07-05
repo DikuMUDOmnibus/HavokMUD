@@ -1,0 +1,20 @@
+#2716
+color pool~
+A color pool~
+A turquoise color pool can be seen as you approach.
+~
+An Old Trail
+    An old trail emerges here from underneath an enormous sand dune, leading to
+the east. The desert continues featurelessly to the north and south. The giant
+dune prevents further passage to the west.
+~
+~
+~
+2115  2048  0  1.0 
+ 1  0  10  3  1d1+1 
+ -1  0  1  48 
+ 8  8  0  0  0  0 
+ 0 
+~
+~
+~

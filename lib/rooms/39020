@@ -1,0 +1,23 @@
+#39020
+Choice of Directions~
+   You reach an intersection in the hallway.  There seems to be seared skeletons
+to the north and south.  Intense heat from the east blows across your brow.
+~
+122 73 0
+D0
+~
+door~
+0 0 39021 0
+D1
+~
+door~
+0 0 39027 0
+D2
+~
+door~
+0 0 39025 0
+D3
+~
+door~
+0 0 39016 0
+S

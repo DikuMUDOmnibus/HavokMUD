@@ -1,0 +1,25 @@
+#39002
+North Of The Bottom Floor~
+   This is the northern part of the bottom floor.  Now the ground is made out
+of sand and dirt.  The walls are made out of a brownish sand blocks and is
+holding together quite well.  The only exits are is to the north, west, south,
+and east.
+~
+122 73 0
+D0
+~
+door~
+0 0 39001 0
+D1
+~
+door~
+0 0 39063 -1
+D2
+~
+door~
+0 0 39077 0
+D3
+~
+door~
+0 0 39074 -1
+S

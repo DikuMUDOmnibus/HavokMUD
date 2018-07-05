@@ -1,0 +1,19 @@
+#16037
+dwarf worker~
+A dwarven worker~
+A dwarven mine-worker is here, working the mines
+~
+He seems happy, and he sings to himself while he works.
+~
+The dwarven worker sings 'Hi Ho, Hi ho, its off to work I go.'
+~
+You hear a Disney tune in the distance.
+~
+6  32768  100  1.0 
+ 5  15  5  21  1d3+1 
+ -1  10  2  2 
+ 8  8  1  2048  0  0 
+ 0 
+~
+~
+~

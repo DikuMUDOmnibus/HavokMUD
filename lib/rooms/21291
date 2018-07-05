@@ -1,0 +1,21 @@
+#21291
+Hallway~
+    You are in a dark east-west hallway in the mountain defense station.  The
+walls are smooth, cut from the solid rock here deep inside the mountain.  The
+ceiling is high, almost fifteen feet. The corridor bends to both the east and
+west.  There is also a larger opening in the north wall.
+~
+84 2057 1
+D0
+~
+~
+0 0 21295 -1
+D1
+~
+~
+0 -1 21284 -1
+D3
+~
+~
+0 -1 21298 -1
+S

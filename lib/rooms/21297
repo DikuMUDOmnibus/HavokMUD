@@ -1,0 +1,26 @@
+#21297
+Officer's Quarters~
+    This room is filled with bunks, like the barracks, but there are no double
+bunks here, only singles. You also notice they are further spread apart than
+in the regular barracks, thus fueling your conclusion that it is officers who
+slept here. For each bunk there is a desk and mirror, though the mirrors are
+detectable only by the frames they were once housed in and the fragments still
+on the floor - they have all been broken. The desks hang open, some with their
+drawers extracted, which explains the wood splinters all over the floor. The
+officer's quarters continues to the west, and there is also an opening to a
+corridor in the south wall.
+~
+84 9 1
+D2
+~
+~
+0 -1 21298 -1
+D3
+~
+~
+0 -1 21304 -1
+E
+bunks~
+Like the other furniture here, they look like they have taken a beating.
+~
+S

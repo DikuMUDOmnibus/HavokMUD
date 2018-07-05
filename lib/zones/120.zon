@@ -1,0 +1,230 @@
+*Zone 120, rooms 38700-38899, last modified by Ashamael
+M 0 38701 1 38701   ; A Shriveled Goblin 
+G 1 38701 65535 0   ; Goblin's Key 
+D 0 38701 0 2   ; Mirrors of Morose.
+D 0 38702 1 0   ; Maze of Mirrors.
+D 0 38703 3 0   ; Maze of Mirrors.
+D 0 38704 2 0   ; Maze of Mirrors.
+D 0 38705 3 0   ; Maze of Mirrors.
+D 0 38706 0 0   ; Maze of Mirrors.
+D 0 38708 2 0   ; Maze of Mirrors.
+D 0 38709 4 0   ; Maze of Mirrors.
+M 0 38707 2 38711   ; An Illithid
+M 0 38707 2 38712   ; An Illithid
+M 0 38716 1 38716   ; The Master Illithid 
+G 1 38716 65535 0   ; An Illithid's key 
+D 0 38716 3 2   ; Illithid Guard Room.
+D 0 38717 1 2   ; A Comfortable Room.
+D 0 38718 4 2   ; Top of Staircase above Comfortable Room.
+M 0 38719 1 38719   ; Flayr 
+E 1 38718 65535 20   ; A Translucent Earring 
+G 1 38719 65535 0   ; Flayr's Key 
+D 0 38719 0 2   ; Flayr's Hell.
+D 0 38719 5 2   ; Flayr's Hell.
+M 0 38726 1 38724   ; A Giant Sand Turtle 
+G 1 38726 65535 0   ; A pair of hardened shell leggings
+D 0 38725 5 1   ; Beneath the Underground Lake.
+D 0 38727 4 1   ; Underwater Tunnel Beneath Underwater Lake.
+D 0 38730 1 1   ; Out of the Water.
+D 0 38731 3 1   ; Tiny Hallway.
+D 0 38732 1 1   ; Crawlspace.
+M 0 38733 4 38733   ; A Mist Thief 
+E 1 16708 65535 16   ; shadow knife
+M 0 38733 4 38733   ; A Mist Thief 
+E 1 16708 65535 16   ; shadow knife
+G 1 38732 65535 0   ; Misty key 
+M 0 38733 4 38733   ; A Mist Thief 
+E 1 38733 65535 8   ; A pair of Mist Boots 
+E 1 16708 65535 16   ; shadow knife
+M 0 38733 4 38733   ; A Mist Thief 
+E 1 16708 65535 16   ; shadow knife
+D 0 38733 1 2   ; Misty Guardroom.
+D 0 38733 3 1   ; Misty Guardroom.
+M 0 38734 1 38734   ; Tallanvor 
+E 1 38735 65535 11   ; A Winged Shield 
+G 1 5305 15 0   ; a huge treasure
+G 1 38734 65535 0   ; Tallanvor's key 
+D 0 38734 1 2   ; Tallanvor's Hell.
+D 0 38734 3 1   ; Tallanvor's Hell.
+D 0 38736 0 2   ; Entrance to Solitary Tower.
+D 0 38741 0 1   ; North of a tower in an Immense Cavern.
+D 0 38744 2 1   ; Secret Tunnel.
+M 0 38749 1 38749   ; A Stone Snake 
+G 1 5305 15 0   ; a huge treasure
+G 1 38749 65535 0   ; A Stone Snake Ring 
+M 0 38750 1 38750   ; A guardian sentinel 
+E 1 38750 65535 10   ; Flaming Bracers
+D 0 38750 0 1   ; Central Chamber of a Solitary Tower.
+D 0 38750 1 1   ; Central Chamber of a Solitary Tower.
+D 0 38750 2 2   ; Central Chamber of a Solitary Tower.
+D 0 38750 3 1   ; Central Chamber of a Solitary Tower.
+D 0 38750 5 1   ; Central Chamber of a Solitary Tower.
+M 0 38751 1 38751   ; the undead wizardly cook 
+G 1 38751 65535 0   ; A Wolf Skull Mask
+D 0 38751 2 1   ; Solitary Dining Room.
+D 0 38752 1 1   ; Solitary Library.
+D 0 38752 3 1   ; Solitary Library.
+M 0 38753 1 38753   ; A Wizard's Plaything 
+G 1 5305 15 0   ; a huge treasure
+D 0 38753 1 1   ; Solitary Recreation Room.
+D 0 38755 0 2   ; Into Hidden Dungeons.
+D 0 38755 1 1   ; Into Hidden Dungeons.
+D 0 38755 4 1   ; Into Hidden Dungeons.
+M 0 38756 1 38756   ; The Librarian 
+G 1 5305 15 0   ; a huge treasure
+D 0 38756 3 1   ; Hidden Library.
+D 0 38757 0 1   ; Halls of Sorrow.
+D 0 38757 2 1   ; Halls of Sorrow.
+D 0 38757 3 1   ; Halls of Sorrow.
+M 0 38758 1 38758   ; An Arena Guardian 
+G 1 5305 15 0   ; a huge treasure
+D 0 38759 2 1   ; Hidden Dungeon.
+D 0 38761 0 1   ; Rubble filled Ending.
+M 0 38762 1 38762   ; The Storage Guardian 
+G 1 5305 15 0   ; a huge treasure
+G 1 38762 65535 0   ; A book of undead lore 
+D 0 38762 2 1   ; Hidden Storage.
+D 0 38763 0 1   ; Halls of Sorrow.
+D 0 38763 2 1   ; Halls of Sorrow.
+D 0 38764 0 1   ; East End of Halls of Sorrow.
+D 0 38764 1 1   ; East End of Halls of Sorrow.
+D 0 38764 2 1   ; East End of Halls of Sorrow.
+M 0 38769 16 38765   ; A Gladiator 
+M 0 38769 16 38765   ; A Gladiator 
+D 0 38765 2 1   ; Cell of Sorrows.
+M 0 38769 16 38766   ; A Gladiator 
+M 0 38769 16 38766   ; A Gladiator 
+D 0 38766 0 1   ; Cell of Sorrows.
+M 0 38769 16 38767   ; A Gladiator 
+M 0 38769 16 38767   ; A Gladiator 
+D 0 38767 0 1   ; Cell of Sorrows.
+M 0 38769 16 38768   ; A Gladiator 
+M 0 38769 16 38768   ; A Gladiator 
+D 0 38768 2 1   ; Cell of Sorrows.
+M 0 38769 16 38769   ; A Gladiator 
+M 0 38769 16 38769   ; A Gladiator 
+D 0 38769 2 1   ; Cell of Sorrows.
+M 0 38769 16 38770   ; A Gladiator 
+M 0 38769 16 38770   ; A Gladiator 
+D 0 38770 0 1   ; Cell of Sorrows.
+D 0 38771 5 0   ; Lower Platform.
+D 0 38772 3 1   ; Downwards Ramp.
+M 0 38776 1 38776   ; The Armorer 
+D 0 38776 2 1   ; Preperation Chamber.
+D 0 38777 0 1   ; Long Wide Hallway.
+D 0 38777 2 1   ; Long Wide Hallway.
+D 0 38778 2 1   ; Long Wide Hallway.
+D 0 38779 2 1   ; Long Wide Hallway.
+D 0 38780 2 1   ; West End of a Long Wide Hallway.
+M 0 38781 2 38781   ; A two-headed lion 
+D 0 38781 0 1   ; Entry Cell to Arena.
+D 0 38781 2 1   ; Entry Cell to Arena.
+M 0 38782 1 38782   ; A Tortured Basilisk 
+G 1 5305 15 0   ; a huge treasure
+D 0 38782 0 1   ; Entry Cell to Arena.
+D 0 38782 2 1   ; Entry Cell to Arena.
+M 0 38783 1 38783   ; A Blue Arena Dragon 
+D 0 38783 0 1   ; Arena Combatant holding cell.
+D 0 38783 2 1   ; Arena Combatant holding cell.
+M 0 38769 16 38784   ; A Gladiator 
+M 0 38769 16 38784   ; A Gladiator 
+M 0 38769 16 38784   ; A Gladiator 
+M 0 38769 16 38784   ; A Gladiator 
+D 0 38784 0 1   ; Entry Cell to the Arena.
+D 0 38784 2 1   ; Entry Cell to the Arena.
+D 0 38785 0 1   ; Arena!
+D 0 38785 4 0   ; Arena!
+M 0 38786 4 38786   ; A Guardian Monk 
+M 0 38786 4 38786   ; A Guardian Monk 
+M 0 38786 4 38788   ; A Guardian Monk 
+M 0 38786 4 38788   ; A Guardian Monk 
+D 0 38788 4 1   ; Guardpost on a Rickety Wooden Stair.
+M 0 38789 1 38789   ; A Demon Lord Guardian 
+E 1 38789 65535 3   ; A Wicked Amulet 
+D 0 38789 4 2   ; Highest Room of a Solitary Tower.
+D 0 38789 5 1   ; Highest Room of a Solitary Tower.
+M 0 38790 1 38790   ; Arsynic 
+E 1 38788 65535 6   ; Arsynic's Mask of Tears 
+G 1 38790 65535 0   ; Arsynic's key 
+D 0 38790 4 2   ; Roof of a Solitary Tower.
+D 0 38790 5 2   ; Roof of a Solitary Tower.
+D 0 38801 0 0   ; Corrupted River through a destroyed forest Valley.
+D 0 38801 2 0   ; Corrupted River through a destroyed forest Valley.
+D 0 38802 2 0   ; Beyond the Waterfall.
+M 0 38804 1 38804   ; The Sewer Dragon 
+G 1 5305 15 0   ; a huge treasure
+M 0 38808 1 38808   ; A Water Fiend 
+E 1 38808 65535 5   ; Fiend Plate 
+D 0 38812 4 1   ; Huge Cavern off an Underground River.
+M 0 38815 1 38815   ; The Shadow Demon 
+E 1 38815 65535 12   ; A Shadow Cloak 
+D 0 38815 5 1   ; Chamber of Shadows.
+D 0 38817 5 0   ; Strange Sanctuary.
+M 0 38818 1 38818   ; The Tarrasque 
+G 1 38818 65535 0   ; A Tarrasque Bracelet 
+G 1 38818 65535 0   ; A Tarrasque Bracelet 
+D 0 38819 4 0   ; Beneath the Pool.
+M 0 38820 1 38820   ; Kantrus 
+E 1 38819 65535 12   ; Kantrus's Cloak 
+G 1 38820 65535 0   ; Kantrus's Key 
+D 0 38820 1 2   ; Kantrus's Hell.
+D 0 38822 0 2   ; A Temple of Diablo.
+M 0 38823 3 38823   ; A Dark Cleric 
+D 0 38823 2 2   ; Within a Temple to Diablo.
+M 0 38823 3 38827   ; A Dark Cleric 
+D 0 38827 5 1   ; Altar of Diablo.
+M 0 38823 3 38830   ; A Dark Cleric 
+D 0 38830 4 0   ; Flowing Column of Blood!
+D 0 38830 5 0   ; Flowing Column of Blood!
+M 0 38831 1 38831   ; Altar Beast 
+G 1 38831 65535 0   ; Ring of the Altar Beast 
+D 0 38831 4 1   ; Beneath Diablo's Altar.
+M 0 38834 1 38834   ; Blood Fiend 
+G 1 38834 6 0   ; A bloody throwing knife 
+G 1 38834 6 0   ; A bloody throwing knife 
+G 1 38834 6 0   ; A bloody throwing knife 
+G 1 38834 6 0   ; A bloody throwing knife 
+D 0 38834 5 0   ; Fountain of Blood.
+M 0 38835 1 38835   ; Cedric
+G 1 5305 15 0   ; a huge treasure
+G 1 38835 65535 0   ; Cedric's Key 
+D 0 38835 0 2   ; Cedric's Hell.
+D 0 38835 4 0   ; Cedric's Hell.
+D 0 38849 4 1   ; Southern end of an Underwater Passage.
+M 0 38850 1 38850   ; The Keeper of the North 
+E 1 38850 1 6   ; A Stone Visor 
+M 0 38851 1 38851   ; The Keeper of the East 
+G 1 38851 7 0   ; A Keeper's potion 
+G 1 38851 7 0   ; A Keeper's potion 
+G 1 38851 7 0   ; A Keeper's potion 
+G 1 38851 7 0   ; A Keeper's potion 
+M 0 38852 1 38852   ; The Keeper of the South 
+E 1 38852 65535 12   ; The Cloak of the Morning Lord 
+M 0 38853 1 38853   ; Keeper of the West 
+E 1 38853 65535 10   ; The West Keeper's Bracers 
+D 0 38854 2 2   ; Flayr's Door.
+D 0 38854 5 1   ; Flayr's Door.
+D 0 38855 0 2   ; Tallanvor's Door.
+D 0 38855 2 2   ; Tallanvor's Door.
+D 0 38856 0 2   ; Arsynic's Door.
+D 0 38856 2 2   ; Arsynic's Door.
+D 0 38857 0 2   ; Kantrus's Door.
+D 0 38857 2 2   ; Kantrus's Door.
+D 0 38858 0 2   ; Cedric's Door.
+D 0 38858 2 2   ; Cedric's Door.
+M 0 38859 1 38859   ; Arblyth
+G 1 38881 65535 0   ; A black key
+G 1 38859 65535 0   ; The Sword of the Morning 
+O 0 38880 65535 38859   ; A black chest
+P 1 5305 15 38880   ; a huge treasure
+P 1 5305 15 38880   ; a huge treasure
+P 1 38851 7 38880   ; A Keeper's potion 
+P 1 38851 7 38880   ; A Keeper's potion 
+P 1 38851 7 38880   ; A Keeper's potion 
+P 1 38834 6 38880   ; A bloody throwing knife 
+P 1 38834 6 38880   ; A bloody throwing knife 
+D 0 38859 0 2   ; Arblyth's Hell.
+D 0 38897 0 1   ; Arena!
+D 0 38898 0 1   ; Arena!
+D 0 38899 0 1   ; Arena!
+S

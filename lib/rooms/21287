@@ -1,0 +1,24 @@
+#21287
+Hallway~
+    You are in a dark north-south hallway in the mountain defense station.  The
+walls are smooth, cut from the solid rock here deep inside the mountain.  The
+ceiling is high, almost fifteen feet.  The hallway opens up to the north into
+a large area, to the south the hallway continues on.  There is an opening in
+the east wall to a room full of long, flat beds with tables and cabinets next
+to them.  From the faint light cast off them from here by your source of
+illumination, you can't tell for sure what purpose they served.
+~
+84 9 1
+D0
+~
+~
+0 -1 21286 -1
+D1
+~
+~
+0 -1 21280 -1
+D2
+~
+~
+0 -1 21288 -1
+S

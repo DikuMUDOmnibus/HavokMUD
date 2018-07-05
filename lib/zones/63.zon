@@ -1,0 +1,44 @@
+*Zone 63, rooms 13755-13779, last modified by Coal
+O 0 63 65535 13755   ; A big rock
+M 0 13757 1 13758   ; Cerebus
+E 1 13758 65535 17   ; A Black Key
+D 0 13758 1 2   ; Gateway to Hades
+D 0 13759 3 2   ; Junction in Hades
+M 0 13760 8 13760   ; a spirit
+M 0 13760 8 13760   ; a spirit
+M 0 13760 8 13760   ; a spirit
+M 0 13760 8 13760   ; a spirit
+M 0 13760 8 13760   ; a spirit
+M 0 13760 8 13760   ; a spirit
+M 0 13760 8 13760   ; a spirit
+M 0 13760 8 13760   ; a spirit
+M 0 13762 1 13762   ; A skeletal warrior
+E 1 13762 65535 17   ; A white key
+D 0 13762 4 2   ; Path to Graecia
+M 0 13764 6 13764   ; A torturer
+M 0 13764 6 13764   ; A torturer
+M 0 13765 2 13765   ; The acid monster
+M 0 13765 2 13765   ; The acid monster
+E 1 13765 65535 11   ; A Rusty Shield
+M 0 13766 1 13766   ; Doctor Guillotine
+M 0 13764 6 13767   ; A torturer
+M 0 13764 6 13768   ; A torturer
+M 0 13769 1 13769   ; The evil centaur
+E 1 13769 65535 13   ; A Silver Girdle
+M 0 13764 6 13770   ; A torturer
+M 0 13764 6 13770   ; A torturer
+M 0 13771 1 13771   ; Vlad the Impaler
+E 1 13771 65535 6   ; A wooden helm
+O 0 65 65535 13771   ; A small boulder
+M 0 13772 2 13772   ; the roper
+M 0 13772 2 13772   ; the roper
+M 0 13773 1 13773   ; the giant octopus
+M 0 13774 1 13773   ; the giant Squid
+M 0 13775 1 13774   ; the master torturer
+E 1 13774 65535 17   ; A carved key
+D 0 13774 0 2   ; Master Torturer's Chamber
+O 0 13775 65535 13775   ; The moonblade
+D 0 13775 2 0   ; Master's Treasure Room
+M 0 13778 1 13778   ; Proserpina
+M 0 13779 1 13779   ; Pluto, ruler of the Underworld
+S

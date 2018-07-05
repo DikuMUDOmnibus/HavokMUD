@@ -1,0 +1,163 @@
+*Zone 88, rooms 23000-23099, last modified by Jopa
+D 0 23004 4 0   ; Base of the Cliff
+D 0 23005 3 1   ; Ledge on the Cliff Face
+D 0 23006 3 1   ; Ledge on the Cliff Face
+D 0 23007 4 0   ; Ledge on the Cliff Face
+D 0 23007 5 0   ; Ledge on the Cliff Face
+D 0 23008 4 0   ; Hidden Clearing Below the Cliff Face
+M 0 23000 1 23011   ; An Old Hag
+E 1 23005 65535 17   ; A bent little wooden stick
+D 0 23012 4 0   ; Ledge on the Cliff Face
+D 0 23013 3 2   ; Top of the Cliff
+D 0 23013 5 0   ; Top of the Cliff
+D 0 23014 0 1   ; Prison Cell
+D 0 23014 1 2   ; Prison Cell
+D 0 23014 2 1   ; Prison Cell
+M 0 23001 8 23015   ; A wandering ogre
+E 1 23012 65535 5   ; Bearskin armor
+E 1 23011 65535 16   ; A large spiked club
+D 0 23015 1 1   ; Dank Smelly Entryway
+M 0 23008 7 23016   ; A wandering dark dwarf
+D 0 23016 1 1   ; Entryway
+M 0 23026 1 23020   ; The Huge Minotaur
+G 1 23000 65535 0   ; A tarnished copper key
+M 0 23025 4 23022   ; A wandering minotaur
+M 0 23025 4 23025   ; A wandering minotaur
+M 0 23025 4 23025   ; A wandering minotaur
+M 0 23025 4 23027   ; A wandering minotaur
+M 0 23001 8 23031   ; A wandering ogre
+M 0 23003 4 23031   ; A feasting ogre
+M 0 23003 4 23031   ; A feasting ogre
+G 1 44134 65535 0   ; a treasure
+M 0 23003 4 23031   ; A feasting ogre
+M 0 23003 4 23031   ; A feasting ogre
+M 0 23001 8 23032   ; A wandering ogre
+E 1 23012 65535 5   ; Bearskin armor
+E 1 23011 65535 16   ; A large spiked club
+M 0 23002 2 23032   ; An ogre cook
+M 0 23002 2 23032   ; An ogre cook
+D 0 23032 0 0   ; Kitchen
+M 0 23020 1 23034   ; The Cloaker
+O 0 6013 65535 23034   ; the barrel
+O 0 1103 65535 23034   ; a pipeweed bread
+D 0 23034 2 0   ; Store Room
+M 0 23001 8 23035   ; A wandering ogre
+D 0 23035 5 2   ; Guard Room
+M 0 23019 2 23036   ; A Dire Wolf
+M 0 23019 2 23036   ; A Dire Wolf
+G 1 23017 65535 0   ; A pair of wolf skin leggings
+D 0 23036 4 2   ; Cell
+M 0 23001 8 23037   ; A wandering ogre
+D 0 23037 2 1   ; Dark Hallway
+M 0 23001 8 23038   ; A wandering ogre
+E 1 23012 65535 5   ; Bearskin armor
+E 1 23011 65535 16   ; A large spiked club
+M 0 23001 8 23038   ; A wandering ogre
+E 1 23012 65535 5   ; Bearskin armor
+E 1 23011 65535 16   ; A large spiked club
+O 0 23003 65535 23039   ; illuminated pool
+D 0 23039 0 1   ; Secret Pool
+M 0 23006 1 23040   ; An Ogre Shaman
+G 1 9714 65535 0   ; a pile of black coins
+G 1 23002 65535 0   ; A sturdy iron key
+G 1 23006 65535 0   ; A shaman's ring
+M 0 23008 7 23041   ; A wandering dark dwarf
+E 1 23009 65535 5   ; Dark Platemail
+E 1 23010 65535 16   ; A Dark Axe
+D 0 23041 2 0   ; Long Hallway
+M 0 23001 8 23042   ; A wandering ogre
+E 1 23012 65535 5   ; Bearskin armor
+E 1 23011 65535 16   ; A large spiked club
+M 0 23009 1 23043   ; A dark dwarf smith
+G 1 44134 65535 0   ; a treasure
+M 0 23008 7 23043   ; A wandering dark dwarf
+E 1 23009 65535 5   ; Dark Platemail
+E 1 23010 65535 16   ; A Dark Axe
+O 0 23004 65535 23043   ; an intricately crafted, evil appearing fountain
+M 0 23012 1 23045   ; The dark dwarf captain
+G 1 46445 65535 0   ; a huge treasure
+G 1 23001 65535 0   ; A tarnished platinum key
+D 0 23045 3 0   ; Smithy
+M 0 23008 7 23046   ; A wandering dark dwarf
+M 0 23008 7 23046   ; A wandering dark dwarf
+E 1 23009 65535 5   ; Dark Platemail
+E 1 23010 65535 16   ; A Dark Axe
+G 1 23010 65535 0   ; A Dark Axe
+G 1 23009 65535 0   ; Dark Platemail
+M 0 23008 7 23046   ; A wandering dark dwarf
+D 0 23046 0 0   ; Curving Hallway
+M 0 23007 1 23047   ; An ornate statue of a dark dwarf
+O 0 9714 65535 23047   ; a pile of black coins
+D 0 23047 2 0   ; Hidden Treasury
+M 0 23008 7 23048   ; A wandering dark dwarf
+M 0 23011 3 23048   ; A feasting dwarf
+M 0 23011 3 23048   ; A feasting dwarf
+M 0 23011 3 23048   ; A feasting dwarf
+D 0 23048 0 0   ; Massive Chamber
+O 0 1505 65535 23049   ; A large chunk of meat
+O 0 12 65535 23049   ; a complimentary bread
+O 0 1710 65535 23049   ; a small cask of wine
+O 0 1103 65535 23049   ; a pipeweed bread
+D 0 23049 1 0   ; Storage Room
+M 0 23021 12 23050   ; A giant skeleton
+M 0 23021 12 23051   ; A giant skeleton
+M 0 23021 12 23051   ; A giant skeleton
+M 0 23021 12 23051   ; A giant skeleton
+M 0 23021 12 23052   ; A giant skeleton
+E 1 23013 65535 16   ; A large rusty scimitar
+G 1 23013 65535 0   ; A large rusty scimitar
+M 0 23021 12 23053   ; A giant skeleton
+E 1 23013 65535 16   ; A large rusty scimitar
+M 0 23021 12 23054   ; A giant skeleton
+M 0 23021 12 23054   ; A giant skeleton
+M 0 23021 12 23055   ; A giant skeleton
+E 1 23013 65535 16   ; A large rusty scimitar
+M 0 23021 12 23057   ; A giant skeleton
+E 1 23013 65535 16   ; A large rusty scimitar
+D 0 23057 0 1   ; Grand Haunted Temple
+D 0 23058 2 1   ; Secret Passage
+M 0 23021 12 23061   ; A giant skeleton
+E 1 23013 65535 16   ; A large rusty scimitar
+M 0 23021 12 23061   ; A giant skeleton
+E 1 23013 65535 16   ; A large rusty scimitar
+M 0 23024 1 23061   ; Crypt Creature
+E 1 23019 65535 11   ; A Crystal Shield
+G 1 9714 65535 0   ; a pile of black coins
+M 0 23013 4 23062   ; Yourself
+D 0 23063 1 2   ; Dusty Hall
+D 0 23064 3 2   ; Ledge on the Cliff Face
+D 0 23064 5 0   ; Ledge on the Cliff Face
+D 0 23066 5 1   ; Whew! 
+M 0 23022 1 23069   ; A ghastly undead demonic creature
+E 1 23014 65535 10   ; Black Steel Bracers
+G 1 5305 65535 0   ; a huge treasure
+M 0 23018 1 23071   ; Your Father
+E 1 23016 65535 16   ; A Wicked knife
+M 0 23016 4 23072   ; Your Neighbor
+M 0 23016 4 23072   ; Your Neighbor
+M 0 23014 3 23073   ; Your Best Friend
+D 0 23073 0 0   ; Hallway
+M 0 23015 2 23075   ; Your Worst Nightmare
+M 0 23013 4 23076   ; Yourself
+M 0 23016 4 23077   ; Your Neighbor
+M 0 23015 2 23077   ; Your Worst Nightmare
+E 1 23015 65535 15   ; Black Gold Bracelet
+G 1 40129 65535 0   ; a huge treasure
+M 0 23013 4 23079   ; Yourself
+M 0 23016 4 23081   ; Your Neighbor
+M 0 23014 3 23082   ; Your Best Friend
+M 0 23014 3 23083   ; Your Best Friend
+D 0 23084 2 0   ; Storage
+M 0 23017 1 23085   ; Your Mother
+G 1 23008 65535 0   ; Cleaver
+M 0 23013 4 23086   ; Yourself
+D 0 23087 3 1   ; Library
+M 0 23023 1 23091   ; A firbolg escapee
+G 1 40129 65535 0   ; a huge treasure
+D 0 23091 1 1   ; Hidden Study
+M 0 23005 1 23093   ; The Ogre Chief Prisoner
+E 1 23018 65535 20   ; A rock earring
+D 0 23093 2 1   ; Cell
+M 0 23010 1 23094   ; The Chief of the dark dwarves
+D 0 23094 0 1   ; Cell
+S

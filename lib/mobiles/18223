@@ -1,0 +1,18 @@
+#18223
+watchman guard~
+the City Watchman~
+A City Watchman is here, patrolling the area.
+~
+You see a large, dark-mooded guard of the Watch standing before you,
+glancing in various directions for lawbreakers of every sort.
+~
+~
+~
+1  0  1000  2.0 
+ 20  1  2  130  1d8+8 
+ -1  10  4  1 
+ 8  8  1  0  0  0 
+ 0 
+~
+~
+~

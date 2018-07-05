@@ -1,0 +1,449 @@
+*Zone 51, rooms 9200-9400, last modified by Coal
+M 0 9218 43 9200   ; a hill giant
+E 1 9205 65535 5   ; A giant's hide armor
+E 1 3077 65535 6   ; a steel helm
+E 1 6111 65535 11   ; a large round shield
+D 0 9200 1 0   ; Eastern End of the Main Entry
+D 0 9201 0 2   ; The Main Entryway
+M 0 9203 1 9204   ; The Cloud Giant Ambassador
+E 1 3040 65535 5   ; a breast plate
+E 1 3077 65535 6   ; a steel helm
+E 1 1543 65535 8   ; a pair of old boots
+E 1 3090 65535 16   ; a two-handed sword
+E 1 3032 65535 17   ; a bag
+P 1 3056 39 3032   ; a golden potion
+P 1 3056 39 3032   ; a golden potion
+M 0 9218 43 9204   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 9203 65535 16   ; The Giant Club
+M 0 9218 43 9204   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 9203 65535 16   ; The Giant Club
+D 0 9204 0 2   ; Main Guest Chamber
+M 0 9218 43 9205   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 9203 65535 16   ; The Giant Club
+D 0 9206 3 2   ; Hallway
+M 0 9218 43 9207   ; a hill giant
+E 1 9205 65535 5   ; A giant's hide armor
+E 1 3077 65535 6   ; a steel helm
+E 1 6111 65535 11   ; a large round shield
+E 1 9203 65535 16   ; The Giant Club
+D 0 9207 1 2   ; Sub-Chief's Chamber
+M 0 9201 2 9208   ; the Hill Giant Chieftain
+E 1 9206 65535 5   ; A Shirt of Blue Dragon Scale Armor
+E 1 3077 65535 6   ; a steel helm
+E 1 3628 65535 8   ; a pair of padded leather boots
+E 1 6111 65535 11   ; a large round shield
+E 1 9204 65535 16   ; A giant two handed sword
+G 1 6800 65535 0   ; The silver key
+G 1 9202 65535 0   ; A large bone shaped into a strange key
+M 0 9200 11 9208   ; the Elite Hill Giant
+E 1 9205 65535 5   ; A giant's hide armor
+E 1 3077 65535 6   ; a steel helm
+E 1 6111 65535 11   ; a large round shield
+E 1 3090 65535 16   ; a two-handed sword
+D 0 9208 2 2   ; Long Hall
+D 0 9208 3 2   ; Long Hall
+O 0 3090 65535 9209   ; a two-handed sword
+D 0 9209 1 2   ; Weapons Storage
+D 0 9212 0 2   ; Hallway
+D 0 9213 2 2   ; Hallway Intersection
+D 0 9214 0 2   ; End of the Hallway
+D 0 9216 0 2   ; Hallway
+M 0 9200 11 9217   ; the Elite Hill Giant
+E 1 9205 65535 5   ; A giant's hide armor
+E 1 3077 65535 6   ; a steel helm
+E 1 6111 65535 11   ; a large round shield
+E 1 3090 65535 16   ; a two-handed sword
+M 0 9204 2 9218   ; The Stone Giant
+E 1 3040 65535 5   ; a breast plate
+E 1 3077 65535 6   ; a steel helm
+E 1 3090 65535 16   ; a two-handed sword
+M 0 9204 2 9218   ; The Stone Giant
+E 1 3040 65535 5   ; a breast plate
+E 1 3077 65535 6   ; a steel helm
+E 1 3090 65535 16   ; a two-handed sword
+M 0 9218 43 9218   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 9203 65535 16   ; The Giant Club
+M 0 9218 43 9218   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 9203 65535 16   ; The Giant Club
+D 0 9218 2 2   ; Common Room
+M 0 9218 43 9219   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 9203 65535 16   ; The Giant Club
+M 0 9218 43 9219   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 9203 65535 16   ; The Giant Club
+D 0 9219 2 2   ; Common Room
+M 0 9205 4 9220   ; The Cave Bear
+M 0 9205 4 9220   ; The Cave Bear
+M 0 9202 1 9220   ; The Hill Giant Chieftess
+E 1 9205 65535 5   ; A giant's hide armor
+E 1 21007 65535 8   ; high heels
+E 1 3648 65535 12   ; a fur cloak
+E 1 1517 65535 16   ; a long sword
+G 1 9200 65535 0   ; A giant bronze key
+G 1 296 65535 0   ; a Bag of Holding
+D 0 9220 0 2   ; Chamber of the Chief's Wife
+M 0 9200 11 9221   ; the Elite Hill Giant
+E 1 9205 65535 5   ; A giant's hide armor
+E 1 3077 65535 6   ; a steel helm
+E 1 6111 65535 11   ; a large round shield
+E 1 3090 65535 16   ; a two-handed sword
+M 0 9200 11 9221   ; the Elite Hill Giant
+E 1 9205 65535 5   ; A giant's hide armor
+E 1 3077 65535 6   ; a steel helm
+E 1 6111 65535 11   ; a large round shield
+E 1 3090 65535 16   ; a two-handed sword
+G 1 9201 65535 0   ; A ring of giant keys
+D 0 9223 2 2   ; Hall of the Chief
+D 0 9224 3 2   ; Hallway
+M 0 9218 43 9225   ; a hill giant
+M 0 9218 43 9225   ; a hill giant
+M 0 9218 43 9225   ; a hill giant
+M 0 9218 43 9225   ; a hill giant
+D 0 9225 1 2   ; Maid's Quarters
+D 0 9229 0 2   ; Alcove
+M 0 9218 43 9232   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 9203 65535 16   ; The Giant Club
+D 0 9232 3 2   ; End of Hallway
+M 0 9218 43 9233   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 9203 65535 16   ; The Giant Club
+M 0 9218 43 9233   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 9203 65535 16   ; The Giant Club
+D 0 9233 1 2   ; Great Hall
+D 0 9233 3 2   ; Great Hall
+D 0 9234 1 2   ; Torch Lined Hallway
+M 0 9218 43 9237   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 9203 65535 16   ; The Giant Club
+D 0 9237 2 2   ; Chief's Chamber
+D 0 9237 3 0   ; Chief's Chamber
+D 0 9238 3 2   ; Weapons Closet
+M 0 9200 11 9239   ; the Elite Hill Giant
+E 1 9205 65535 5   ; A giant's hide armor
+E 1 3077 65535 6   ; a steel helm
+E 1 6111 65535 11   ; a large round shield
+E 1 9203 65535 16   ; The Giant Club
+D 0 9239 1 2   ; Storage Room
+M 0 9201 2 9240   ; the Hill Giant Chieftain
+E 1 9206 65535 5   ; A Shirt of Blue Dragon Scale Armor
+E 1 3077 65535 6   ; a steel helm
+E 1 9204 65535 16   ; A giant two handed sword
+M 0 9218 43 9240   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 9203 65535 16   ; The Giant Club
+D 0 9240 1 0   ; End of Hallway
+D 0 9240 3 2   ; End of Hallway
+D 0 9241 1 2   ; Small Dining Room
+D 0 9242 3 2   ; Study
+D 0 9243 1 2   ; Stairwell to Lower Level
+M 0 9212 10 9244   ; An ogre
+M 0 9212 10 9244   ; An ogre
+M 0 9212 10 9244   ; An ogre
+M 0 9212 10 9244   ; An ogre
+D 0 9245 3 1   ; Torch Lined Hallway
+D 0 9246 1 1   ; Stairwell to Lower Level
+D 0 9246 3 0   ; Stairwell to Lower Level
+D 0 9247 1 0   ; Kitchen
+M 0 9218 43 9248   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 9203 65535 16   ; The Giant Club
+M 0 6100 10 9248   ; the vicious warg
+M 0 6100 10 9248   ; the vicious warg
+M 0 6100 10 9249   ; the vicious warg
+M 0 6100 10 9249   ; the vicious warg
+M 0 9200 11 9249   ; the Elite Hill Giant
+E 1 9205 65535 5   ; A giant's hide armor
+E 1 3077 65535 6   ; a steel helm
+E 1 6111 65535 11   ; a large round shield
+E 1 3090 65535 16   ; a two-handed sword
+M 0 9218 43 9249   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 9203 65535 16   ; The Giant Club
+M 0 9218 43 9249   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 9203 65535 16   ; The Giant Club
+M 0 6100 10 9249   ; the vicious warg
+M 0 9212 10 9250   ; An ogre
+M 0 9212 10 9250   ; An ogre
+M 0 6100 10 9253   ; the vicious warg
+M 0 9218 43 9253   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 9203 65535 16   ; The Giant Club
+M 0 9218 43 9253   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 9203 65535 16   ; The Giant Club
+M 0 6100 10 9253   ; the vicious warg
+M 0 9218 43 9254   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 9203 65535 16   ; The Giant Club
+M 0 6100 10 9254   ; the vicious warg
+M 0 6100 10 9254   ; the vicious warg
+M 0 9218 43 9254   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 9203 65535 16   ; The Giant Club
+M 0 9218 43 9254   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 9203 65535 16   ; The Giant Club
+M 0 9200 11 9255   ; the Elite Hill Giant
+E 1 9205 65535 5   ; A giant's hide armor
+E 1 3077 65535 6   ; a steel helm
+E 1 3090 65535 16   ; a two-handed sword
+M 0 9218 43 9255   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 9203 65535 16   ; The Giant Club
+M 0 9215 30 9256   ; the orc
+M 0 9215 30 9256   ; the orc
+M 0 9215 30 9256   ; the orc
+M 0 9215 30 9256   ; the orc
+M 0 9215 30 9256   ; the orc
+M 0 9215 30 9256   ; the orc
+M 0 9215 30 9256   ; the orc
+M 0 9215 30 9256   ; the orc
+M 0 9215 30 9256   ; the orc
+M 0 9215 30 9256   ; the orc
+M 0 9215 30 9256   ; the orc
+M 0 9215 30 9256   ; the orc
+M 0 9215 30 9256   ; the orc
+M 0 9215 30 9256   ; the orc
+M 0 9215 30 9256   ; the orc
+M 0 9215 30 9256   ; the orc
+M 0 9215 30 9256   ; the orc
+M 0 9215 30 9256   ; the orc
+M 0 9215 30 9256   ; the orc
+M 0 9215 30 9256   ; the orc
+M 0 9215 30 9256   ; the orc
+M 0 9215 30 9256   ; the orc
+M 0 9215 30 9256   ; the orc
+M 0 9215 30 9256   ; the orc
+M 0 9215 30 9256   ; the orc
+M 0 9215 30 9256   ; the orc
+M 0 9215 30 9256   ; the orc
+M 0 9215 30 9256   ; the orc
+M 0 9215 30 9256   ; the orc
+M 0 9215 30 9256   ; the orc
+D 0 9256 3 2   ; Orc Slave Quarters
+M 0 9212 10 9257   ; An ogre
+M 0 9212 10 9257   ; An ogre
+M 0 9218 43 9257   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 9203 65535 16   ; The Giant Club
+M 0 9212 10 9257   ; An ogre
+M 0 9212 10 9257   ; An ogre
+D 0 9257 1 2   ; Servant's Quarters
+M 0 6100 10 9258   ; the vicious warg
+M 0 9218 43 9263   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 3090 65535 16   ; a two-handed sword
+M 0 9218 43 9263   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 9203 65535 16   ; The Giant Club
+M 0 9218 43 9263   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 9203 65535 16   ; The Giant Club
+M 0 9218 43 9263   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 3090 65535 16   ; a two-handed sword
+M 0 9218 43 9263   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 9203 65535 16   ; The Giant Club
+M 0 9200 11 9263   ; the Elite Hill Giant
+E 1 9205 65535 5   ; A giant's hide armor
+E 1 3077 65535 6   ; a steel helm
+E 1 6111 65535 11   ; a large round shield
+E 1 3090 65535 16   ; a two-handed sword
+D 0 9263 2 2   ; Dormitory
+M 0 9210 15 9301   ; A troglodyte
+M 0 9210 15 9301   ; A troglodyte
+M 0 9210 15 9302   ; A troglodyte
+M 0 9210 15 9302   ; A troglodyte
+M 0 9210 15 9303   ; A troglodyte
+M 0 9210 15 9305   ; A troglodyte
+M 0 9210 15 9305   ; A troglodyte
+M 0 9210 15 9305   ; A troglodyte
+M 0 9210 15 9306   ; A troglodyte
+M 0 9210 15 9306   ; A troglodyte
+M 0 9210 15 9307   ; A troglodyte
+D 0 9308 3 1   ; Unfinished Hallway
+M 0 9209 2 9309   ; The Undead Hill Giant
+M 0 9209 2 9309   ; The Undead Hill Giant
+D 0 9309 1 1   ; Weird Abandoned Temple
+M 0 9208 1 9310   ; The Undead Priestess
+M 0 9206 1 9311   ; The Dwarf
+E 1 9209 65535 16   ; A Dwarven Hammer
+M 0 9210 15 9312   ; A troglodyte
+M 0 9210 15 9313   ; A troglodyte
+M 0 4003 49 9314   ; the kobold
+M 0 255 1 9314   ; A weretiger
+M 0 257 3 9314   ; An ogre magi
+D 0 9314 0 2   ; Slave Quarters
+D 0 9315 2 0   ; Bugbears Guardpost
+M 0 4003 49 9316   ; the kobold
+M 0 4003 49 9316   ; the kobold
+M 0 4003 49 9316   ; the kobold
+M 0 4003 49 9316   ; the kobold
+M 0 4003 49 9316   ; the kobold
+M 0 4003 49 9316   ; the kobold
+M 0 4003 49 9316   ; the kobold
+M 0 4003 49 9316   ; the kobold
+M 0 4003 49 9316   ; the kobold
+D 0 9316 0 2   ; Slave Quarters
+M 0 4003 49 9317   ; the kobold
+M 0 4003 49 9317   ; the kobold
+M 0 4003 49 9317   ; the kobold
+M 0 4003 49 9317   ; the kobold
+M 0 4003 49 9317   ; the kobold
+M 0 4003 49 9317   ; the kobold
+M 0 4003 49 9317   ; the kobold
+M 0 4003 49 9317   ; the kobold
+M 0 4003 49 9317   ; the kobold
+M 0 4003 49 9317   ; the kobold
+D 0 9317 0 2   ; Slave Quarters
+M 0 9210 15 9318   ; A troglodyte
+M 0 9210 15 9319   ; A troglodyte
+D 0 9320 3 1   ; Rough Hallway
+M 0 9218 43 9321   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 9203 65535 16   ; The Giant Club
+M 0 9216 19 9321   ; the bugbear
+E 1 3022 65535 16   ; a long sword
+D 0 9321 1 1   ; Blocked End of the Hallway
+D 0 9321 2 2   ; Blocked End of the Hallway
+D 0 9322 0 0   ; Stone Hallway
+D 0 9323 2 2   ; Stone Hallway
+D 0 9324 2 2   ; Stone Hallway
+M 0 9200 11 9326   ; the Elite Hill Giant
+E 1 9205 65535 5   ; A giant's hide armor
+E 1 3077 65535 6   ; a steel helm
+E 1 6111 65535 11   ; a large round shield
+E 1 3090 65535 16   ; a two-handed sword
+M 0 9217 3 9329   ; An Old Blue Dragon
+G 1 9207 65535 0   ; A ring of protection
+M 0 9216 19 9330   ; the bugbear
+E 1 3022 65535 16   ; a long sword
+M 0 9216 19 9330   ; the bugbear
+E 1 3022 65535 16   ; a long sword
+M 0 9216 19 9330   ; the bugbear
+E 1 3022 65535 16   ; a long sword
+M 0 9216 19 9330   ; the bugbear
+E 1 3022 65535 16   ; a long sword
+M 0 9216 19 9330   ; the bugbear
+E 1 3022 65535 16   ; a long sword
+M 0 9216 19 9331   ; the bugbear
+E 1 3022 65535 16   ; a long sword
+M 0 9216 19 9331   ; the bugbear
+E 1 1517 65535 16   ; a long sword
+M 0 9216 19 9331   ; the bugbear
+E 1 3022 65535 16   ; a long sword
+M 0 9216 19 9332   ; the bugbear
+E 1 3022 65535 16   ; a long sword
+M 0 9216 19 9332   ; the bugbear
+E 1 3022 65535 16   ; a long sword
+M 0 9216 19 9332   ; the bugbear
+E 1 1517 65535 16   ; a long sword
+M 0 9216 19 9332   ; the bugbear
+E 1 1517 65535 16   ; a long sword
+D 0 9333 3 2   ; Slave Cell
+D 0 9334 0 2   ; Guard Post (use direction to open door)
+D 0 9334 1 2   ; Guard Post (use direction to open door)
+D 0 9334 3 2   ; Guard Post (use direction to open door)
+M 0 9218 43 9337   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 9203 65535 16   ; The Giant Club
+D 0 9337 0 2   ; Row of Cells
+M 0 9216 19 9339   ; the bugbear
+E 1 1517 65535 16   ; a long sword
+M 0 9216 19 9339   ; the bugbear
+E 1 3022 65535 16   ; a long sword
+M 0 4003 49 9340   ; the kobold
+M 0 4003 49 9340   ; the kobold
+M 0 4003 49 9340   ; the kobold
+M 0 4003 49 9340   ; the kobold
+M 0 4003 49 9340   ; the kobold
+M 0 4003 49 9340   ; the kobold
+M 0 4003 49 9340   ; the kobold
+M 0 4003 49 9340   ; the kobold
+M 0 4003 49 9340   ; the kobold
+M 0 4003 49 9340   ; the kobold
+D 0 9340 2 2   ; Slave Cell
+D 0 9342 1 2   ; Slave Cell
+M 0 9213 4 9343   ; A carrion crawler
+M 0 9213 4 9343   ; A carrion crawler
+M 0 9213 4 9343   ; A carrion crawler
+D 0 9345 2 2   ; Wine Cellar
+M 0 9216 19 9346   ; the bugbear
+E 1 1517 65535 16   ; a long sword
+M 0 9216 19 9347   ; the bugbear
+E 1 3022 65535 16   ; a long sword
+M 0 9216 19 9348   ; the bugbear
+E 1 1517 65535 16   ; a long sword
+M 0 9218 43 9348   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 6111 65535 11   ; a large round shield
+E 1 9203 65535 16   ; The Giant Club
+M 0 9218 43 9348   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 9203 65535 16   ; The Giant Club
+M 0 9200 11 9349   ; the Elite Hill Giant
+E 1 9205 65535 5   ; A giant's hide armor
+E 1 3077 65535 6   ; a steel helm
+E 1 6111 65535 11   ; a large round shield
+E 1 3090 65535 16   ; a two-handed sword
+M 0 9216 19 9349   ; the bugbear
+E 1 1517 65535 16   ; a long sword
+M 0 9213 4 9352   ; A carrion crawler
+M 0 9205 4 9354   ; The Cave Bear
+M 0 9205 4 9354   ; The Cave Bear
+M 0 9207 1 9354   ; The Keeper of the Hill Giants
+E 1 3040 65535 5   ; a breast plate
+E 1 3077 65535 6   ; a steel helm
+E 1 3082 65535 7   ; a pair of plate leggings
+E 1 3088 65535 10   ; a pair of plate sleeves
+E 1 3090 65535 16   ; a two-handed sword
+M 0 9218 43 9355   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 9203 65535 16   ; The Giant Club
+D 0 9356 0 0   ; Stairwell to Upper Level
+O 0 6803 65535 9358   ; a silver chest
+P 1 5305 45 6803   ; a huge treasure
+P 1 5305 45 6803   ; a huge treasure
+D 0 9358 1 2   ; Treasure Room
+D 0 9360 3 2   ; Treasure Room
+O 0 5305 65535 9361   ; a huge treasure
+D 0 9361 1 2   ; Chief's Treasure Room
+D 0 9362 2 0   ; Secret Room
+M 0 9218 43 9365   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 9203 65535 16   ; The Giant Club
+D 0 9365 0 2   ; Storage Room
+M 0 9218 43 9366   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 9203 65535 16   ; The Giant Club
+M 0 9218 43 9367   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 9203 65535 16   ; The Giant Club
+M 0 9200 11 9367   ; the Elite Hill Giant
+E 1 9205 65535 5   ; A giant's hide armor
+E 1 3077 65535 6   ; a steel helm
+E 1 6111 65535 11   ; a large round shield
+E 1 3090 65535 16   ; a two-handed sword
+G 1 9201 65535 0   ; A ring of giant keys
+M 0 9218 43 9368   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 9203 65535 16   ; The Giant Club
+M 0 9218 43 9370   ; a hill giant
+E 1 3077 65535 6   ; a steel helm
+E 1 9203 65535 16   ; The Giant Club
+M 0 9214 3 9375   ; a manticore
+M 0 9214 3 9375   ; a manticore
+M 0 9214 3 9375   ; a manticore
+D 0 9375 3 2   ; Prison 
+D 0 9383 2 2   ; Cage
+S

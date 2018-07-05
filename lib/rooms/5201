@@ -1,0 +1,25 @@
+#5201
+Main Street~
+     This was once a magnificent street, but now is in total ruin. The
+streets are barren and windswept and the silence is unending. To the south
+you see a ruined cottage while north leads into a dark back alley. Howls
+and screams echo through the deserted city.
+~
+33 0 1
+D0
+It's a dark alley.~
+~
+0 0 5239 -1
+D1
+The entrance to the city lies this way.~
+~
+0 0 5200 -1
+D2
+A ruined shack lies to the south.~
+~
+0 0 5235 -1
+D3
+Main Street lies this way.~
+~
+0 0 5202 -1
+S

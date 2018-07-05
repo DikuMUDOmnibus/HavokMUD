@@ -1,0 +1,80 @@
+*Zone 22, rooms 3100-3199, last modified by Pentak
+D 0 3100 0 1   ; North-eastern End of the Concourse
+D 0 3101 3 1   ; Promenade
+M 0 3124 7 3102   ; the Duck
+D 0 3103 0 2   ; Promenade
+D 0 3104 2 2   ; South-eastern End of the Concourse
+M 0 3121 2 3114   ; the Swan
+M 0 3121 2 3114   ; the Swan
+M 0 3122 2 3114   ; the Duckling
+M 0 3122 2 3114   ; the Duckling
+M 0 3124 7 3117   ; the Duck
+O 0 1500 65535 3120   ; A fountain
+M 0 3124 7 3123   ; the Duck
+M 0 3124 7 3125   ; the Duck
+M 0 3124 7 3126   ; the Duck
+D 0 3131 1 0   ; Park Road
+M 0 3142 1 3137   ; the Secretary
+M 0 99 1 3138   ; The Karysinya Mayor
+M 0 3124 7 3140   ; the Duck
+D 0 3142 2 0   ; A cozy cottage
+M 0 3199 1 3143   ; Justine
+G 1 3198 65535 0   ; a how-to book on getting by in the wilderness
+D 0 3143 2 1   ; Justine's House
+M 0 3198 1 3144   ; Zip
+G 1 3148 65535 0   ; a how-to book on building your mind
+D 0 3144 2 1   ; Zip's House
+M 0 3145 1 3145   ; Crimson
+G 1 3159 65535 0   ; a how-to book on destruction
+D 0 3145 2 1   ; Crimson's House
+M 0 3147 2 3146   ; Sinn's Guard
+M 0 3147 2 3146   ; Sinn's Guard
+D 0 3146 2 1   ; Sinn's Guest Hall
+M 0 3197 1 3147   ; Salamander
+G 1 3155 65535 0   ; a how-to book on finding your inner self
+D 0 3147 2 1   ; Salamander's House
+M 0 3148 1 3148   ; Darktural
+G 1 3156 65535 0   ; a how-to book on being one with nature
+D 0 3148 1 1   ; Darktural's House
+D 0 3153 0 0   ; The hills of MacAllister
+M 0 3155 1 3155   ; Rincewind
+G 1 3143 65535 0   ; a how-to book on thievery
+D 0 3155 1 1   ; Rincewind's House
+M 0 3156 1 3156   ; Compton
+G 1 3147 65535 0   ; a how-to book on spellcasting
+D 0 3156 1 1   ; Compton's War Room
+D 0 3157 1 2   ; A small house
+M 0 3158 1 3158   ; Zozo
+G 1 3144 65535 0   ; a how-to book for clerics
+D 0 3158 1 1   ; Zozo's House
+M 0 3159 1 3159   ; Vester
+G 1 3145 65535 0   ; a how-to book on combat
+D 0 3159 1 1   ; Vester's House
+M 0 3161 1 3161   ; Rodgrim
+G 1 3161 65535 0   ; a how-to book on being righteous
+D 0 3161 1 1   ; Rodgrim's House
+M 0 3162 1 3162   ; Riffraff
+G 1 3166 65535 0   ; a how-to book
+D 0 3162 1 1   ; Riffraff's House
+M 0 3163 1 3163   ; Fanchon
+D 0 3163 0 1   ; Fanchon's House
+M 0 3100 2 3164   ; the Maid
+O 0 3165 65535 3165   ; a keg
+M 0 3100 2 3166   ; the Maid
+M 0 3169 1 3169   ; Sinn
+E 1 3169 65535 16   ; Sinn's Sword
+D 0 3170 0 1   ; Pathway to Sinn's Tower
+D 0 3172 0 1   ; Promenade
+D 0 3173 0 1   ; Promenade
+D 0 3174 3 1   ; Resident Row
+D 0 3175 3 1   ; Resident Row
+D 0 3176 3 1   ; Resident Row at Emerald Avenue
+D 0 3177 3 1   ; Resident Row
+D 0 3178 3 1   ; Resident Row
+D 0 3179 2 1   ; The Concourse at Resident Row
+D 0 3179 3 1   ; The Concourse at Resident Row
+M 0 3141 3 3182   ; the Cityguard
+M 0 3141 3 3182   ; the Cityguard
+M 0 3141 3 3182   ; the Cityguard
+M 0 3124 7 3199   ; the Duck
+S

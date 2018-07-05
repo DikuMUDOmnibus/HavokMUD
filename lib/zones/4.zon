@@ -1,0 +1,26 @@
+*Zone 4, rooms 250-305, last modified by Ashamael
+O 0 3099 65535 250   ; a bulletin board
+M 0 275 5 265   ; A lion
+G 1 18231 65535 0   ; a glowing red potion
+G 1 18231 65535 0   ; a glowing red potion
+M 0 281 1 270   ; The giant mouse
+G 1 2500 65535 0   ; a large chunk of cheddar cheese
+G 1 2500 65535 0   ; a large chunk of cheddar cheese
+M 0 279 1 276   ; A barracuda
+M 0 278 1 276   ; A gar
+M 0 275 5 277   ; A lion
+M 0 275 5 278   ; A lion
+M 0 275 5 281   ; A lion
+M 0 275 5 282   ; A lion
+G 1 18231 65535 0   ; a glowing red potion
+D 0 282 4 0   ; The Ring Cavern
+M 0 272 1 288   ; A huge lion
+D 0 288 3 0   ; The Lion's Cave
+M 0 277 1 291   ; A lamprey
+M 0 280 1 292   ; A pike
+M 0 276 1 293   ; A giant leech
+M 0 274 3 299   ; A lion cub
+M 0 274 3 299   ; A lion cub
+M 0 274 3 299   ; A lion cub
+M 0 273 1 299   ; The mother lion
+S

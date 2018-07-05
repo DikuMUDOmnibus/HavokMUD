@@ -1,0 +1,23 @@
+*Zone 43, rooms 7000-7099, last modified by Ashamael
+M 0 7001 4 7004   ; The small bat
+M 0 7001 4 7004   ; The small bat
+M 0 7001 4 7025   ; The small bat
+D 0 7038 1 0   ; The three way junction
+D 0 7038 2 0   ; The three way junction
+M 0 7003 6 7039   ; The small Spider
+D 0 7039 0 0   ; The Sewer Store Room
+M 0 7001 4 7041   ; The small bat
+M 0 7002 3 7044   ; The Great Sewer Rat
+M 0 7003 6 7045   ; The small Spider
+D 0 7045 3 0   ; The Sewer Room
+M 0 7003 6 7047   ; The small Spider
+D 0 7047 1 0   ; The Pool in the sewer
+M 0 7002 3 7048   ; The Great Sewer Rat
+M 0 7003 6 7050   ; The small Spider
+M 0 7003 6 7050   ; The small Spider
+D 0 7050 2 0   ; The small room
+D 0 7051 0 0   ; The Sewer pipe
+D 0 7052 1 0   ; The Grand Sewer
+M 0 7003 6 7053   ; The small Spider
+D 0 7053 3 0   ; The South end of the Grand Pipe
+S

@@ -1,0 +1,7 @@
+*Zone 36, rooms 6100-6199, last modified by Jopa
+D 0 6125 3 2   ; A small path on the river bank in the deep, dark forest
+M 0 6112 1 6143   ; the huge, green dragon
+G 1 6112 65535 0   ; an iron crown
+G 1 13703 65535 0   ; A Green Cloak
+O 0 108 65535 6148   ; A piece of flotsam
+S

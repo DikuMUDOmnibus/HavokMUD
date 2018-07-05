@@ -1,0 +1,116 @@
+*Zone 103, rooms 32300-32599, last modified by Ashamael
+M 0 32300 1 32300   ; The Sewers Ethereal Post
+D 0 32300 4 0   ; Beneath the Well.
+D 0 32301 4 1   ; A Dark Cubicle.
+D 0 32302 4 0   ; Slimy Refuse.
+D 0 32303 4 0   ; Ravine Wall.
+D 0 32303 5 0   ; Ravine Wall.
+M 0 32304 1 32304   ; a Freshwater Guildsman
+G 1 5305 65535 0   ; a huge treasure
+D 0 32304 5 0   ; A Dark Ravine.
+M 0 32319 6 32309   ; a Freshwater Guildsman
+E 1 32319 65535 16   ; a clean dagger
+G 1 7210 65535 0   ; a huge treasure
+M 0 32319 6 32312   ; a Freshwater Guildsman
+E 1 32319 65535 16   ; a clean dagger
+G 1 7210 65535 0   ; a huge treasure
+D 0 32324 1 2   ; Sewers End.
+M 0 32325 1 32325   ; Fire and Ice the Two-Headed Dragon
+G 1 5305 65535 0   ; a huge treasure
+G 1 32325 65535 0   ; Fire and Ice
+D 0 32325 3 2   ; Freezing Flames?
+D 0 32326 5 2   ; Maintenance Cubby.
+D 0 32327 2 2   ; Maintenance Hall Entryway.
+D 0 32327 4 2   ; Maintenance Hall Entryway.
+M 0 32328 1 32328   ; Chadkranther the Undead Bard
+E 1 32328 65535 17   ; Chadkranther's Lute
+G 1 5305 65535 0   ; a huge treasure
+G 1 33113 65535 0   ; the Sept key
+M 0 32331 1 32331   ; a Frightened Freshwater Guildsman
+G 1 7210 65535 0   ; a huge treasure
+M 0 32333 1 32333   ; a Freshwater Guildsman
+G 1 7210 65535 0   ; a huge treasure
+M 0 32338 1 32338   ; a Freshwater Guildsman
+G 1 7210 65535 0   ; a huge treasure
+G 1 32376 65535 0   ; a maintenance key
+D 0 32343 2 2   ; A Door!?
+O 0 32344 65535 32344   ; A Statue of a WinterWolf
+D 0 32344 0 2   ; The Crypts of Winterfell.
+M 0 32345 3 32345   ; the statue of a WinterWolf
+M 0 32345 3 32345   ; the statue of a WinterWolf
+M 0 32345 3 32345   ; the statue of a WinterWolf
+O 0 32344 65535 32345   ; A Statue of a WinterWolf
+D 0 32345 0 2   ; The Crypts of Winterfell.
+D 0 32345 1 1   ; The Crypts of Winterfell.
+D 0 32345 2 2   ; The Crypts of Winterfell.
+D 0 32345 3 2   ; The Crypts of Winterfell.
+D 0 32346 3 1   ; King Coldgripp's Crypt.
+M 0 32347 1 32347   ; The Lich, King IceHeart of Winterfell
+E 1 32347 65535 13   ; the Belt of the Winterfell Kings
+G 1 32370 65535 0   ; destarte's key
+G 1 5305 65535 0   ; a huge treasure
+D 0 32347 0 1   ; King IceHeart's Crypt.
+D 0 32348 1 1   ; King Granthkill's Crypt.
+D 0 32350 2 0   ; Swimming in Winterfell Sewage.
+D 0 32350 4 0   ; Swimming in Winterfell Sewage.
+M 0 32319 6 32351   ; a Freshwater Guildsman
+E 1 32319 65535 16   ; a clean dagger
+G 1 7210 65535 0   ; a huge treasure
+D 0 32351 0 0   ; Beneath the Sewage.
+D 0 32351 1 0   ; Beneath the Sewage.
+D 0 32351 2 0   ; Beneath the Sewage.
+D 0 32352 0 0   ; A Bend Beneath The Sewage.
+D 0 32352 3 0   ; A Bend Beneath The Sewage.
+D 0 32353 1 0   ; Another Bend Beneath the Sewage.
+D 0 32353 2 0   ; Another Bend Beneath the Sewage.
+M 0 32319 6 32354   ; a Freshwater Guildsman
+E 1 32319 65535 16   ; a clean dagger
+G 1 7210 65535 0   ; a huge treasure
+D 0 32354 2 0   ; An Under-Sewage Split.
+D 0 32354 3 0   ; An Under-Sewage Split.
+D 0 32354 4 0   ; An Under-Sewage Split.
+M 0 32319 6 32355   ; a Freshwater Guildsman
+E 1 32319 65535 16   ; a clean dagger
+G 1 7210 65535 0   ; a huge treasure
+D 0 32355 0 0   ; Endless Sewage.
+D 0 32355 5 0   ; Endless Sewage.
+D 0 32356 1 0   ; Shifting Winterfell Sewage.
+D 0 32356 2 0   ; Shifting Winterfell Sewage.
+D 0 32357 3 0   ; Underwater Slope.
+D 0 32357 4 0   ; Underwater Slope.
+D 0 32358 1 0   ; Underwater Slope.
+D 0 32358 5 0   ; Underwater Slope.
+D 0 32359 3 0   ; Deep in the Sewage Waters.
+D 0 32359 4 0   ; Deep in the Sewage Waters.
+M 0 32319 6 32360   ; a Freshwater Guildsman
+E 1 32319 65535 16   ; a clean dagger
+G 1 7210 65535 0   ; a huge treasure
+G 1 7210 65535 0   ; a huge treasure
+D 0 32360 4 0   ; Into the Sewage Waters.
+D 0 32360 5 0   ; Into the Sewage Waters.
+D 0 32361 5 0   ; An End to the Well Tunnel.
+D 0 32366 0 0   ; Miles and Miles of Undersewage Tunnel.
+D 0 32366 2 0   ; Miles and Miles of Undersewage Tunnel.
+D 0 32367 0 0   ; Miles and Miles of Undersewage Tunnel.
+D 0 32367 2 0   ; Miles and Miles of Undersewage Tunnel.
+D 0 32368 0 0   ; A Gurgling End to the Undersewage Treck.
+M 0 32371 1 32371   ; Destarte
+E 1 32304 65535 16   ; ColdGripp's Fabled Longsword
+G 1 32644 65535 0   ; the barrow key
+D 0 32372 0 0   ; Sewage Mix.
+D 0 32372 2 0   ; Sewage Mix.
+D 0 32372 3 0   ; Sewage Mix.
+D 0 32373 0 0   ; Sewage Mix.
+D 0 32373 3 0   ; Sewage Mix.
+D 0 32374 0 0   ; Sewage Mix.
+D 0 32374 1 0   ; Sewage Mix.
+D 0 32375 1 0   ; Sewage Mix.
+D 0 32375 2 0   ; Sewage Mix.
+O 0 32327 65535 32376   ; cleansweep's key
+D 0 32376 0 2   ; Maintenance Closet.
+D 0 32378 1 2   ; End of Maintenance Hallway.
+M 0 32399 1 32379   ; Cleansweep the Freshwater Guild Master
+G 1 32379 65535 0   ; a dragonhide shield
+G 1 5305 65535 0   ; a huge treasure
+D 0 32379 3 2   ; Freshwater Maintenance Master's Chambers.
+S

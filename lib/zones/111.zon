@@ -1,0 +1,121 @@
+*Zone 111, rooms 37300-37399, last modified by Pentak
+M 0 37301 20 37300   ; a Witchett Citizen
+G 1 40121 65535 0   ; a small treasure
+D 0 37301 0 0   ; Eye of the Storm
+D 0 37302 1 2   ; A Forest Path
+M 0 37302 18 37303   ; a sprite
+G 1 40121 65535 0   ; a small treasure
+M 0 37302 18 37303   ; a sprite
+G 1 40121 65535 0   ; a small treasure
+M 0 37302 18 37303   ; a sprite
+G 1 37335 65535 0   ; A burgandy potion
+M 0 37301 20 37303   ; a Witchett Citizen
+M 0 37302 18 37306   ; a sprite
+M 0 37306 1 37306   ; Teslis
+G 1 40129 65535 0   ; a huge treasure
+D 0 37307 3 2   ; A Hidden Trail
+M 0 37301 20 37308   ; a Witchett Citizen
+M 0 37301 20 37308   ; a Witchett Citizen
+M 0 37302 18 37311   ; a sprite
+M 0 37302 18 37314   ; a sprite
+G 1 40121 65535 0   ; a small treasure
+M 0 37302 18 37314   ; a sprite
+M 0 37301 20 37314   ; a Witchett Citizen
+M 0 37301 20 37316   ; a Witchett Citizen
+G 1 40121 65535 0   ; a small treasure
+M 0 37301 20 37316   ; a Witchett Citizen
+E 1 37399 65535 17   ; A greenish liquid
+M 0 37301 20 37331   ; a Witchett Citizen
+M 0 37301 20 37333   ; a Witchett Citizen
+M 0 37302 18 37334   ; a sprite
+M 0 37335 1 37335   ; Akeir
+M 0 37336 1 37336   ; Astenil
+G 1 37362 65535 0   ; A weird looking fish
+G 1 37362 65535 0   ; A weird looking fish
+G 1 37362 65535 0   ; A weird looking fish
+G 1 37362 65535 0   ; A weird looking fish
+G 1 37362 65535 0   ; A weird looking fish
+M 0 37301 20 37337   ; a Witchett Citizen
+M 0 37302 18 37338   ; a sprite
+M 0 37302 18 37339   ; a sprite
+M 0 37339 1 37339   ; the tailor
+G 1 37339 65535 0   ; a pink ribbon
+M 0 37302 18 37343   ; a sprite
+M 0 37301 20 37344   ; a Witchett Citizen
+E 1 37360 65535 17   ; A wierd-looking plaid potion
+M 0 37345 1 37345   ; Ivlisar
+G 1 37345 65535 0   ; A brownish-black potion
+G 1 37380 65535 0   ; A scintilating potion
+G 1 40121 65535 0   ; a small treasure
+M 0 37302 18 37346   ; a sprite
+M 0 37346 1 37346   ; Bagcker
+G 1 37346 65535 0   ; A Medallion of the Tempests
+G 1 40121 65535 0   ; a small treasure
+M 0 37302 18 37346   ; a sprite
+M 0 37301 20 37347   ; a Witchett Citizen
+G 1 40121 65535 0   ; a small treasure
+M 0 37301 20 37347   ; a Witchett Citizen
+M 0 37301 20 37350   ; a Witchett Citizen
+G 1 40121 65535 0   ; a small treasure
+M 0 37301 20 37351   ; a Witchett Citizen
+M 0 37302 18 37355   ; a sprite
+M 0 37355 1 37355   ; the High Priest
+E 1 37355 65535 17   ; A withered scroll
+M 0 37359 1 37359   ; the gate guard
+G 1 37359 65535 0   ; A key made of vines
+D 0 37359 1 2   ; Before a Gate
+D 0 37360 3 2   ; DeadTown
+M 0 37301 20 37361   ; a Witchett Citizen
+M 0 37302 18 37362   ; a sprite
+G 1 40121 65535 0   ; a small treasure
+M 0 37302 18 37363   ; a sprite
+M 0 37301 20 37364   ; a Witchett Citizen
+M 0 37365 1 37365   ; the chief
+G 1 37365 65535 0   ; An acorn key
+G 1 40121 65535 0   ; a small treasure
+M 0 37301 20 37368   ; a Witchett Citizen
+D 0 37369 5 0   ; End of a Path
+M 0 37301 20 37370   ; a Witchett Citizen
+E 1 37354 65535 17   ; A bright green potion
+G 1 40121 65535 0   ; a small treasure
+D 0 37370 0 0   ; Druid's Haven
+D 0 37370 1 0   ; Druid's Haven
+D 0 37370 3 0   ; Druid's Haven
+D 0 37370 4 0   ; Druid's Haven
+M 0 37371 1 37371   ; the Druid of the Trees
+G 1 37372 65535 0   ; A Birch Bracer
+D 0 37371 3 0   ; The Tree Druid's Chamber
+M 0 37372 1 37372   ; the druid
+G 1 37373 65535 0   ; an amethyst ring
+D 0 37372 2 0   ; The Flower Druid's Chamber
+M 0 37301 20 37373   ; a Witchett Citizen
+M 0 37373 1 37373   ; the Druid of the Animals
+G 1 37371 65535 0   ; Leggings of Leaves
+D 0 37373 1 0   ; The Animal Druid's Chamber
+M 0 37360 10 37374   ; the zombie
+M 0 37360 10 37375   ; the zombie
+M 0 37360 10 37376   ; the zombie
+M 0 37360 10 37376   ; the zombie
+M 0 37360 10 37380   ; the zombie
+D 0 37380 1 0   ; Witchett Circle
+M 0 37360 10 37381   ; the zombie
+D 0 37382 3 0   ; A House
+M 0 37360 10 37383   ; the zombie
+M 0 37360 10 37384   ; the zombie
+M 0 37360 10 37386   ; the zombie
+M 0 37386 1 37386   ; the thief
+G 1 37387 65535 0   ; Sliver
+M 0 37389 1 37389   ; the banshee
+G 1 17023 65535 0   ; a scroll of charm person
+M 0 37360 10 37389   ; the zombie
+D 0 37389 5 2   ; The Tree Sorcere
+O 0 40129 65535 37391   ; a huge treasure
+O 0 37302 65535 37391   ; a Cloak of Displacement
+D 0 37391 4 2   ; The Treasury
+M 0 37302 18 37395   ; a sprite
+G 1 37331 65535 0   ; A dark green potion
+G 1 40121 65535 0   ; a small treasure
+M 0 37302 18 37398   ; a sprite
+G 1 40121 65535 0   ; a small treasure
+D 0 37399 2 0   ; Biddibibi's Lil' Shop of Horrors
+S

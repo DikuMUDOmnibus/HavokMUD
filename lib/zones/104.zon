@@ -1,0 +1,127 @@
+*Zone 104, rooms 32600-32799, last modified by Ashamael
+M 0 32600 1 32600   ; Great Northern Keep's Ethereal Post
+M 0 32603 28 32602   ; A Guard of the Black Watch.
+M 0 32603 28 32602   ; A Guard of the Black Watch.
+M 0 32603 28 32602   ; A Guard of the Black Watch.
+M 0 32603 28 32602   ; A Guard of the Black Watch.
+M 0 32603 28 32602   ; A Guard of the Black Watch.
+D 0 32602 5 2   ; Madrig's Tower.
+D 0 32604 4 2   ; Madrig's Tower.
+D 0 32604 5 2   ; Madrig's Tower.
+D 0 32605 4 2   ; Madrig's Stairwell.
+D 0 32605 5 2   ; Madrig's Stairwell.
+M 0 32603 28 32606   ; A Guard of the Black Watch.
+M 0 32603 28 32606   ; A Guard of the Black Watch.
+G 1 32606 65535 0   ; Black Watch Key
+M 0 32603 28 32606   ; A Guard of the Black Watch.
+M 0 32603 28 32606   ; A Guard of the Black Watch.
+M 0 32603 28 32606   ; A Guard of the Black Watch.
+D 0 32606 5 2   ; Jester's Tower.
+D 0 32608 1 2   ; Within Jester's Tower.
+D 0 32608 4 2   ; Within Jester's Tower.
+M 0 32603 28 32610   ; A Guard of the Black Watch.
+M 0 32603 28 32611   ; A Guard of the Black Watch.
+M 0 32603 28 32611   ; A Guard of the Black Watch.
+M 0 32603 28 32612   ; A Guard of the Black Watch.
+M 0 32603 28 32613   ; A Guard of the Black Watch.
+M 0 32603 28 32613   ; A Guard of the Black Watch.
+M 0 32603 28 32614   ; A Guard of the Black Watch.
+M 0 32603 28 32614   ; A Guard of the Black Watch.
+M 0 32603 28 32619   ; A Guard of the Black Watch.
+M 0 32603 28 32619   ; A Guard of the Black Watch.
+M 0 32603 28 32620   ; A Guard of the Black Watch.
+M 0 32603 28 32620   ; A Guard of the Black Watch.
+M 0 32603 28 32622   ; A Guard of the Black Watch.
+M 0 32603 28 32622   ; A Guard of the Black Watch.
+M 0 32624 1 32624   ; An evil-looking Jester
+E 1 33120 65535 16   ; A shortsword
+E 1 32624 65535 20   ; A Jester's tinkling bell earring
+E 1 32625 65535 21   ; A Jester's Mask
+G 1 32609 65535 0   ; jester's key
+D 0 32624 3 1   ; Jester's Hideout.
+M 0 32603 28 32625   ; A Guard of the Black Watch.
+M 0 32603 28 32625   ; A Guard of the Black Watch.
+D 0 32625 5 0   ; Endless Black Wall.
+M 0 32603 28 32626   ; A Guard of the Black Watch.
+M 0 32603 28 32626   ; A Guard of the Black Watch.
+M 0 32628 1 32635   ; the screaming ghost
+G 1 32628 65535 0   ; a ghostly belt
+G 1 5305 65535 0   ; a huge treasure
+D 0 32635 1 1   ; Ceremonial Chambers.
+D 0 32637 3 1   ; Secret Passage.
+M 0 32638 5 32640   ; A wight
+G 1 32667 65535 0   ; A vial of weaponsblack
+G 1 32638 65535 0   ; a wight's skeletal hand
+M 0 32638 5 32640   ; A wight
+G 1 32667 65535 0   ; A vial of weaponsblack
+D 0 32641 2 0   ; Dark Necropolis.
+M 0 32638 5 32643   ; A wight
+G 1 32667 65535 0   ; A vial of weaponsblack
+D 0 32644 0 2   ; Portal Antechamber.
+M 0 32645 1 32645   ; The Undead General Wargrave
+E 1 32643 65535 9   ; Spellbinders Gloves
+E 1 32645 65535 16   ; Wargrave's Staff
+D 0 32645 2 2   ; Final Resting Place.
+D 0 32647 1 0   ; The Black Bowels of Madrig's Tower.
+D 0 32647 2 0   ; The Black Bowels of Madrig's Tower.
+D 0 32647 4 2   ; The Black Bowels of Madrig's Tower.
+D 0 32648 2 0   ; The Black Bowels of Madrig's Tower.
+D 0 32648 3 0   ; The Black Bowels of Madrig's Tower.
+D 0 32649 0 0   ; The Black Bowels of Madrig's Tower.
+D 0 32649 3 0   ; The Black Bowels of Madrig's Tower.
+D 0 32650 0 0   ; The Black Bowels of Madrig's Tower.
+D 0 32650 1 0   ; The Black Bowels of Madrig's Tower.
+D 0 32652 0 0   ; The Black Bowels of Madrig's Tower.
+D 0 32652 3 0   ; The Black Bowels of Madrig's Tower.
+M 0 32638 5 32653   ; A wight
+G 1 32667 65535 0   ; A vial of weaponsblack
+G 1 32655 65535 0   ; wight's key
+D 0 32653 0 0   ; The Black Bowels of Madrig's Tower.
+D 0 32653 1 0   ; The Black Bowels of Madrig's Tower.
+D 0 32654 1 0   ; The Black Bowels of Madrig's Tower.
+D 0 32654 2 0   ; The Black Bowels of Madrig's Tower.
+D 0 32654 3 1   ; The Black Bowels of Madrig's Tower.
+D 0 32654 4 0   ; The Black Bowels of Madrig's Tower.
+M 0 32638 5 32655   ; A wight
+G 1 32667 65535 0   ; A vial of weaponsblack
+D 0 32655 2 0   ; The Black Bowels of Madrig's Tower.
+D 0 32655 3 0   ; The Black Bowels of Madrig's Tower.
+D 0 32656 0 2   ; A Glimpse of Light...
+D 0 32656 1 1   ; A Glimpse of Light...
+D 0 32656 2 2   ; A Glimpse of Light...
+D 0 32656 3 2   ; A Glimpse of Light...
+D 0 32657 0 2   ; Before Madrig's Underground Pyramid.
+D 0 32657 2 2   ; Before Madrig's Underground Pyramid.
+M 0 32658 1 32658   ; The Yugoloth
+G 1 32653 65535 0   ; a bear-tooth earring
+G 1 32658 65535 0   ; a set of bearskin boots
+O 0 30 65535 32658   ; A pile of scraps
+D 0 32658 0 2   ; Madrig's Brothel.
+D 0 32658 1 2   ; Madrig's Brothel.
+D 0 32659 1 2   ; Madrig's Alchemical Study.
+M 0 32657 2 32660   ; An Intellect Devourer
+G 1 5305 65535 0   ; a huge treasure
+M 0 32657 2 32661   ; An Intellect Devourer
+G 1 5305 65535 0   ; a huge treasure
+G 1 32662 65535 0   ; devourer's key
+M 0 32660 1 32663   ; A Living Wall
+G 1 5305 65535 0   ; a huge treasure
+G 1 32663 65535 0   ; a wall of shimmering force
+D 0 32663 2 2   ; Entryhall of Madrig's Pyramid.
+M 0 32659 8 32665   ; A Peryton
+M 0 32659 8 32665   ; A Peryton
+M 0 32659 8 32665   ; A Peryton
+G 1 32659 65535 0   ; peryton's key
+M 0 32659 8 32665   ; A Peryton
+M 0 32659 8 32665   ; A Peryton
+G 1 33128 65535 0   ; key of ice
+M 0 32659 8 32665   ; A Peryton
+M 0 32659 8 32665   ; A Peryton
+M 0 32659 8 32665   ; A Peryton
+D 0 32665 1 0   ; Madrig's Alchemical Study.
+M 0 32666 1 32666   ; Madrig, Mage of the Keep
+E 1 32666 65535 16   ; a khopesh sword
+G 1 5305 65535 0   ; a huge treasure
+O 0 30 65535 32666   ; A pile of scraps
+D 0 32666 3 2   ; Madrig's Private Chambers.
+S

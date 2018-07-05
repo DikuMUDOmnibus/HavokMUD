@@ -1,0 +1,20 @@
+#21002
+Ershteep Road~
+   You are standing on a thin trail only wide enough for two. The
+trail was once, apparently, the middle of a large and busy
+thoroughfare. It now lies overgrown by thick, impassable forest to
+the east and west. The trail leads further north where a small
+cottage lies in a clearing and south towards the City of Mordilnia.
+~
+81 0 3
+D0
+More trail and a cottage
+~
+~
+0 -1 21003 -1
+D2
+less dense forest.
+~
+~
+0 -1 21001 -1
+S

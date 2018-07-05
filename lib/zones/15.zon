@@ -1,0 +1,62 @@
+*Zone 15, rooms 1900-1943, last modified by Jopa
+M 0 21136 3 1905   ; a cobra
+G 1 105 65535 0   ; A rattlesnake's fangs
+D 0 1906 3 1   ; End Of Jungle Path
+M 0 1905 7 1907   ; Villager
+D 0 1907 0 0   ; The Village Entrance
+D 0 1907 1 1   ; The Village Entrance
+D 0 1907 2 0   ; The Village Entrance
+M 0 1905 7 1908   ; Villager
+M 0 1906 3 1908   ; the Villager woman
+D 0 1908 2 0   ; Inside a Grass Hut
+M 0 1905 7 1909   ; Villager
+D 0 1909 0 0   ; Inside a Grass Hut
+M 0 1905 7 1910   ; Villager
+D 0 1910 3 0   ; Near the Center of the Village
+M 0 1906 3 1911   ; the Villager woman
+M 0 1907 1 1911   ; a Witch Doctor
+D 0 1911 1 0   ; Inside the Large Hut
+M 0 1905 7 1912   ; Villager
+E 1 48 65535 16   ; a spear
+D 0 1912 3 0   ; Northern Edge of Village
+M 0 1905 7 1913   ; Villager
+D 0 1913 3 0   ; Southern Edge of Village
+M 0 1908 1 1914   ; the Village Princess
+M 0 1906 3 1914   ; the Villager woman
+D 0 1914 1 0   ; Princess's Hut
+M 0 1904 1 1915   ; Chief
+E 1 9205 65535 5   ; A giant's hide armor
+E 1 47 65535 16   ; a spear
+G 1 19300 65535 0   ; a heavy stone key
+M 0 1905 7 1915   ; Villager
+D 0 1915 1 0   ; Chiefs Hut
+M 0 20010 2 1916   ; the Bird Spider
+M 0 1903 1 1919   ; the lion
+M 0 13732 1 1920   ; the huge snake
+D 0 1920 1 2   ; Light Jungle Path
+M 0 4000 3 1921   ; the snake
+M 0 4000 3 1921   ; the snake
+O 0 32 65535 1921   ; A well used rusty machette
+D 0 1921 5 1   ; Light Jungle Path
+M 0 1921 9 1922   ; the lizardman
+D 0 1922 4 1   ; Dark Damp Tunnel
+M 0 1921 9 1923   ; the lizardman
+M 0 1921 9 1923   ; the lizardman
+M 0 1921 9 1925   ; the lizardman
+M 0 1921 9 1927   ; the lizardman
+M 0 21136 3 1928   ; a cobra
+D 0 1928 2 1   ; Dark Damp Tunnel
+D 0 1929 0 1   ; Short Stone Passageway
+M 0 1921 9 1931   ; the lizardman
+M 0 1921 9 1931   ; the lizardman
+M 0 1921 9 1934   ; the lizardman
+M 0 17010 1 1934   ; The green slime
+M 0 1921 9 1935   ; the lizardman
+D 0 1937 2 2   ; Corner of the Stone Passageway
+D 0 1938 0 2   ; Short Tunnel
+M 0 1922 1 1942   ; the lizardman shaman
+E 1 19303 65535 0   ; a thick suit of hide armor
+E 1 19302 65535 16   ; a spiked mace
+G 1 19301 65535 0   ; a slimy key
+O 0 19304 65535 1942   ; The black altar
+S

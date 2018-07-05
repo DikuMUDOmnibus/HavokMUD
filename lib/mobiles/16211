@@ -1,0 +1,19 @@
+#16211
+beholder~
+The beholder~
+A viscous beholder waves it's many eyestalks at you.
+~
+It is a large sphere, floating 4 feet off the ground.   A large mouth,
+and a single eye adorn the body, while 12 eyestalks crown the top of the
+sphere.  
+~
+~
+~
+32  8  -1000  1.0 
+ 10  10  0  68  3d6+1 
+ -1  178  7  7 
+ 8  8  0  0  0  0 
+ 0 
+~
+~
+~

@@ -1,0 +1,26 @@
+#21303
+Practice Yard~
+    This room served as the training grounds the troops used to fine tune
+their skills in battle.  All of the usual equipment is here, including the
+wooden counterswinger, complete with a worthless battered-looking metal
+shield in one hand and a wooden club in the other.  There are also several
+humanoid-shaped pieces of cloth filled with hay they are probably practice
+dummies.  Plus an indented pit in the center of the room where trainees 
+could improve their skill at fighting on uneven ground.  The yard continues
+to the west, to the north there is an exit to the hallway.
+~
+84 9 1
+D0
+~
+~
+0 -1 21302 -1
+D3
+~
+~
+0 -1 21311 -1
+E
+counterswinger~
+It looks like when the shield is hit, it pivots to simulate a blow from the
+opponent. It was used to practice dodging and parrying counter-blows.
+~
+S

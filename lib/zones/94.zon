@@ -1,0 +1,119 @@
+*Zone 94, rooms 25000-25100, last modified by Ashamael
+M 0 32802 1 25002   ; The Abyss Ethereal Post
+M 0 25017 4 25003   ; the Gatekeeper
+E 1 25017 65535 16   ; Sword of Sharpness
+M 0 25017 4 25003   ; the Gatekeeper
+E 1 25017 65535 16   ; Sword of Sharpness
+M 0 25004 5 25004   ; a Black Slayer
+M 0 25004 5 25004   ; a Black Slayer
+M 0 25005 2 25008   ; a Lost Soul
+M 0 25005 2 25008   ; a Lost Soul
+D 0 25010 3 0   ; Western End of the Misty Cavern
+M 0 25017 4 25011   ; the Gatekeeper
+G 1 25017 65535 0   ; Sword of Sharpness
+M 0 25017 4 25011   ; the Gatekeeper
+G 1 25017 65535 0   ; Sword of Sharpness
+M 0 25014 2 25012   ; the Death knight
+E 1 25001 65535 3   ; A pile of blue silk
+E 1 25016 65535 16   ; a Silver Trident
+E 1 25018 65535 17   ; A Crystal Ring
+M 0 25010 1 25015   ; the kraken
+M 0 25011 1 25020   ; the Treant
+E 1 25021 65535 3   ; A Small Medallion
+M 0 25030 1 25026   ; A vrock
+M 0 25008 4 25030   ; an Efreet
+G 1 25023 65535 0   ; A Bright Green Cape
+D 0 25030 0 2   ; The Flaming Gates
+M 0 25008 4 25031   ; an Efreet
+D 0 25031 2 2   ; Inside the Flaming Gates
+D 0 25033 3 0   ; Western End of the Courtyard
+M 0 25032 1 25034   ; A glabrezu
+M 0 25031 1 25034   ; A hezrou
+M 0 25013 1 25034   ; Kalas
+E 1 25013 65535 2   ; A Black Onyx Ring
+E 1 25005 65535 5   ; A Rune Covered Breast Plate
+E 1 25004 65535 6   ; The Helm of the Dragons
+E 1 25006 65535 8   ; A Pair of Silver Boots
+E 1 25010 65535 9   ; A Pair of Jeweled Gauntlets
+E 1 25015 65535 16   ; A Flaming Two-Handed Sword
+D 0 25034 1 0   ; Inside a Small Stone Building
+M 0 25012 1 25036   ; a Githyanki
+M 0 25015 1 25039   ; the Neo-Otyugh
+G 1 21012 65535 0   ; an opal potion
+G 1 25025 65535 0   ; Glaive
+D 0 25039 5 0   ; A Large Room
+M 0 25007 2 25041   ; a White Gold Manticore
+G 1 25018 65535 0   ; A Crystal Ring
+M 0 25007 2 25041   ; a White Gold Manticore
+G 1 25018 65535 0   ; A Crystal Ring
+M 0 25009 1 25045   ; the Hydra
+G 1 25026 65535 0   ; the Soul Amulet
+D 0 25049 2 1   ; Southern End of Corridor
+M 0 25014 2 25050   ; the Death knight
+E 1 25005 65535 5   ; A Rune Covered Breast Plate
+E 1 25004 65535 6   ; The Helm of the Dragons
+E 1 25000 65535 16   ; The Sword of the Ancients
+M 0 25000 1 25050   ; The Demi-Lich
+E 1 25013 65535 2   ; A Black Onyx Ring
+E 1 25011 65535 12   ; A Pitch-Black Cloak
+E 1 25012 65535 15   ; A Flaming Bracelet
+D 0 25050 2 1   ; Castle Throne Room
+D 0 25051 0 1   ; The Vault
+M 0 25006 6 25054   ; a Storm Giant
+E 1 25019 65535 16   ; A Jeweled Dagger
+M 0 25006 6 25054   ; a Storm Giant
+E 1 25020 65535 6   ; A Jewel Encrusted Helmet
+D 0 25054 1 1   ; End of the Grand Hallway
+D 0 25055 3 1   ; A Large Room
+M 0 25033 1 25056   ; Nalfeshnee
+D 0 25057 2 0   ; The Castle Store Room
+M 0 25006 6 25058   ; a Storm Giant
+G 1 25001 65535 0   ; A pile of blue silk
+M 0 25006 6 25058   ; a Storm Giant
+E 1 25006 65535 8   ; A Pair of Silver Boots
+D 0 25058 0 0   ; Castle Barracks
+D 0 25058 2 1   ; Castle Barracks
+D 0 25059 1 1   ; Guest Room
+M 0 25034 3 25060   ; Marilith
+M 0 25034 3 25061   ; Marilith
+M 0 25035 1 25062   ; Balor
+M 0 25008 4 25063   ; an Efreet
+M 0 25034 3 25075   ; Marilith
+M 0 25008 4 25076   ; an Efreet
+G 1 25022 65535 0   ; An Ivory Bracelet
+D 0 25077 3 1   ; Beneath the Sacraficial Pit
+D 0 25078 1 1   ; Entrance to the Sanctuary
+D 0 25079 0 0   ; The Sanctuary
+D 0 25079 3 0   ; The Sanctuary
+D 0 25080 1 0   ; The Sanctuary
+D 0 25080 3 0   ; The Sanctuary
+M 0 25002 1 25081   ; A Crimson Death
+E 1 25002 65535 10   ; A pair of silver sleeves
+E 1 25008 65535 12   ; A Black and Silver Cloak
+E 1 25012 65535 15   ; A Flaming Bracelet
+D 0 25081 1 0   ; Crimson's Death Room
+M 0 25004 5 25082   ; a Black Slayer
+E 1 25008 65535 12   ; A Black and Silver Cloak
+M 0 25004 5 25082   ; a Black Slayer
+E 1 25014 65535 16   ; the Shadowshiv
+M 0 25004 5 25082   ; a Black Slayer
+E 1 25024 65535 16   ; The fire blade
+D 0 25082 2 0   ; The Sanctuary
+D 0 25082 3 0   ; The Sanctuary
+D 0 25083 1 0   ; The Sanctuary
+M 0 25006 6 25084   ; a Storm Giant
+E 1 25009 65535 7   ; A Pair of Metallic Leg Plates
+M 0 25006 6 25084   ; a Storm Giant
+D 0 25084 2 0   ; Sanctuary Guard Post
+D 0 25085 0 0   ; Chamber of Kalas
+D 0 25088 3 1   ; End of a Narrow Passage
+M 0 25003 1 25089   ; A Mist Daemon
+E 1 25003 65535 13   ; A Rune Covered Belt
+D 0 25089 1 1   ; The Mist
+D 0 25091 3 0   ; The Castle Dungeon
+D 0 25092 1 0   ; Secret Passage
+D 0 25092 2 0   ; Secret Passage
+D 0 25093 0 0   ; Hall of Ancients
+D 0 25094 1 0   ; A Small Alcove
+D 0 25095 1 0   ; A Narrow Tunnel
+S

@@ -1,0 +1,143 @@
+*Zone 101, rooms 31800-31999, last modified by Ignatius
+M 0 31801 1 31801   ; the Winterfell receptionist
+M 0 31803 1 31803   ; Winterfells Scribe
+M 0 31804 1 31804   ; Winterfells Ethereal Post
+M 0 31822 4 31805   ; a serf
+M 0 31819 3 31805   ; A Gentry
+M 0 31823 4 31806   ; a pilgrim
+M 0 31806 1 31806   ; Cabal the barbarian guildmaster
+M 0 31807 1 31807   ; Raegar the warrior guildmaster
+M 0 31828 4 31808   ; the slaver
+M 0 31915 4 31811   ; A wandering merchant
+M 0 31811 1 31811   ; Maeister the mage guildmaster
+M 0 31826 7 31812   ; a constable
+M 0 31915 4 31812   ; A wandering merchant
+M 0 31915 4 31813   ; A wandering merchant
+M 0 31814 1 31814   ; Cirelic the guildmaster
+M 0 31815 1 31815   ; Justiciar the paladin guildmaster
+M 0 31816 1 31816   ; Alvantil the bard guildmaster
+M 0 31818 1 31818   ; The Maester of Winterfell's Arena
+M 0 31817 4 31825   ; a farmer of Winterfell
+M 0 31825 1 31825   ; Psikill the psionist guildmaster
+M 0 31914 3 31825   ; a thief dressed in black
+E 1 33120 65535 16   ; A shortsword
+M 0 31827 1 31827   ; Littlefinger the thief guildmaster
+E 1 33120 65535 16   ; A shortsword
+D 0 31827 5 1   ; Winterfell Dark Arts.
+D 0 31828 5 0   ; South Winterfell Street at the Palace.
+M 0 31812 3 31829   ; an adventurer
+M 0 31914 3 31830   ; a thief dressed in black
+G 1 32343 65535 0   ; the Guildmaster's key
+M 0 31913 16 31851   ; a Winterfell guard
+E 1 31810 65535 16   ; a Guardian Sword
+M 0 31913 16 31851   ; a Winterfell guard
+E 1 31810 65535 16   ; a Guardian Sword
+M 0 31913 16 31851   ; a Winterfell guard
+E 1 31810 65535 16   ; a Guardian Sword
+M 0 31913 16 31851   ; a Winterfell guard
+E 1 31810 65535 16   ; a Guardian Sword
+M 0 31822 4 31853   ; a serf
+M 0 31817 4 31853   ; a farmer of Winterfell
+M 0 31817 4 31854   ; a farmer of Winterfell
+M 0 31914 3 31854   ; a thief dressed in black
+E 1 33120 65535 16   ; A shortsword
+M 0 31824 4 31856   ; a buccaneer
+E 1 31999 65535 16   ; a dagger
+G 1 32843 65535 0   ; twisted key
+M 0 31856 1 31856   ; Spendthrift shop keep
+M 0 31858 1 31858   ; Giamina the Bank Teller
+M 0 31828 4 31858   ; the slaver
+M 0 31826 7 31861   ; a constable
+M 0 31913 16 31861   ; a Winterfell guard
+E 1 31810 65535 16   ; a Guardian Sword
+M 0 31913 16 31861   ; a Winterfell guard
+E 1 31810 65535 16   ; a Guardian Sword
+M 0 31913 16 31861   ; a Winterfell guard
+E 1 31810 65535 16   ; a Guardian Sword
+M 0 31913 16 31861   ; a Winterfell guard
+E 1 31810 65535 16   ; a Guardian Sword
+M 0 31826 7 31863   ; a constable
+M 0 31828 4 31865   ; the slaver
+M 0 31861 4 31866   ; a Freshwater Guildsman
+M 0 31861 4 31868   ; a Freshwater Guildsman
+M 0 31913 16 31870   ; a Winterfell guard
+E 1 31810 65535 16   ; a Guardian Sword
+M 0 31826 7 31873   ; a constable
+M 0 31820 4 31873   ; a mercenary
+M 0 31828 4 31874   ; the slaver
+M 0 31874 1 31874   ; Sargon the caravan master
+M 0 31817 4 31876   ; a farmer of Winterfell
+M 0 31820 4 31876   ; a mercenary
+M 0 31826 7 31877   ; a constable
+M 0 31820 4 31877   ; a mercenary
+M 0 31877 1 31877   ; Questor the Demigod
+M 0 31821 3 31878   ; a merchant sailor
+M 0 31823 4 31878   ; a pilgrim
+M 0 31829 4 31879   ; a Kenku
+M 0 31880 1 31880   ; Ziik the grocer
+G 1 31804 65535 0   ; a french loaf
+G 1 31800 65535 0   ; the barrel
+G 1 31801 65535 0   ; a pack of beef jerky
+M 0 31813 3 31881   ; an ice nomad
+M 0 31823 4 31881   ; a pilgrim
+O 0 31882 65535 31882   ; The snow covered tree
+M 0 31822 4 31883   ; a serf
+M 0 31812 3 31886   ; an adventurer
+M 0 31824 4 31886   ; a buccaneer
+M 0 31886 1 31886   ; Ned the armorer
+M 0 31861 4 31887   ; a Freshwater Guildsman
+M 0 31821 3 31888   ; a merchant sailor
+M 0 31913 16 31888   ; a Winterfell guard
+E 1 31810 65535 16   ; a Guardian Sword
+M 0 31913 16 31888   ; a Winterfell guard
+E 1 31810 65535 16   ; a Guardian Sword
+M 0 31812 3 31889   ; an adventurer
+M 0 31915 4 31889   ; A wandering merchant
+M 0 31889 1 31889   ; Magelius the Shopkeeper
+M 0 31813 3 31893   ; an ice nomad
+M 0 31826 7 31893   ; a constable
+M 0 31819 3 31893   ; A Gentry
+M 0 31824 4 31893   ; a buccaneer
+M 0 31826 7 31894   ; a constable
+M 0 31813 3 31895   ; an ice nomad
+M 0 31823 4 31895   ; a pilgrim
+M 0 31861 4 31895   ; a Freshwater Guildsman
+G 1 32326 65535 0   ; a clean key
+M 0 31913 16 31895   ; a Winterfell guard
+E 1 31810 65535 16   ; a Guardian Sword
+M 0 31900 1 31900   ; Winter the Druid Guildmaster
+M 0 31824 4 31903   ; a buccaneer
+D 0 31903 5 0   ; Western Barracks of Winterfell.
+M 0 31913 16 31905   ; a Winterfell guard
+E 1 31810 65535 16   ; a Guardian Sword
+M 0 31829 4 31906   ; a Kenku
+M 0 31913 16 31908   ; a Winterfell guard
+E 1 31810 65535 16   ; a Guardian Sword
+M 0 31913 16 31908   ; a Winterfell guard
+E 1 31810 65535 16   ; a Guardian Sword
+M 0 31822 4 31911   ; a serf
+M 0 31829 4 31913   ; a Kenku
+M 0 31820 4 31916   ; a mercenary
+M 0 31913 16 31922   ; a Winterfell guard
+E 1 31810 65535 16   ; a Guardian Sword
+M 0 31819 3 31924   ; A Gentry
+M 0 31829 4 31924   ; a Kenku
+M 0 31821 3 31925   ; a merchant sailor
+M 0 31931 5 31930   ; The evil priestess of Ashamael
+M 0 31931 5 31930   ; The evil priestess of Ashamael
+G 1 31803 65535 0   ; A Token of Ashamaels Appreciation
+M 0 31931 5 31930   ; The evil priestess of Ashamael
+M 0 31931 5 31932   ; The evil priestess of Ashamael
+G 1 31803 65535 0   ; A Token of Ashamaels Appreciation
+O 0 31932 65535 31932   ; An enormous statue of Ashamael, God of Evil.
+M 0 31931 5 31934   ; The evil priestess of Ashamael
+G 1 31803 65535 0   ; A Token of Ashamaels Appreciation
+O 0 31939 65535 31939   ; a bulletin board
+M 0 31940 1 31940   ; Hands the Monk Guildmaster
+M 0 31860 1 31943   ; CatsEyes the Pet Shop Owner
+M 0 31998 1 31944   ; a pet pseudodragon
+M 0 31997 1 31944   ; A pet black panther
+M 0 31996 1 31944   ; a pet elephant
+M 0 31995 1 31944   ; a pet dire-wolf
+M 0 31994 1 31944   ; a pet snow leopard
+S

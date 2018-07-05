@@ -1,0 +1,23 @@
+#21307
+Stairs~
+    The stairs lead both up and down from here - this place is bigger than you
+thought!  Given what you have seen so far, you have come to the conclusion that
+at one time it served as some kind of military post.  From the cut of the stone
+and the size of the place, you'd guess whoever made it was humanoid.  Who made
+it, and who they were defending themselves against, remains a mystery.  You can
+go up or down the stairs, or exit on this level to the east.
+~
+84 9 1
+D1
+~
+~
+0 -1 21300 -1
+D4
+~
+~
+0 -1 21327 -1
+D5
+~
+~
+0 -1 21320 -1
+S

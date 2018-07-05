@@ -1,0 +1,19 @@
+#2721
+color pool~
+A color pool~
+A smoky gray color pool can be seen as you approach.
+~
+     You stand in the entrance way to the temple which opens up to the
+north into a large hallway going east and west. Small statues of spiders line
+the entrance way's walls.
+~
+~
+~
+2115  2048  0  1.0 
+ 1  0  10  2  1d1+1 
+ -1  0  1  48 
+ 8  8  0  0  0  0 
+ 0 
+~
+~
+~

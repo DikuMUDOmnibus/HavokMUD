@@ -1,0 +1,90 @@
+*Zone 27, rooms 3900-3999, last modified by Jopa
+M 0 3959 6 3900   ; A beautiful mermaid
+D 0 3900 5 0   ; Mermaid Lagoon
+M 0 3953 5 3901   ; A seductive Siren
+M 0 3962 5 3904   ; A lithe sea-elf
+M 0 3953 5 3904   ; A seductive Siren
+M 0 3959 6 3904   ; A beautiful mermaid
+D 0 3904 5 0   ; Mermaid Lagoon
+D 0 3905 5 0   ; Mermaid Lagoon
+M 0 3962 5 3908   ; A lithe sea-elf
+D 0 3914 0 0   ; Mermaid Lagoon
+D 0 3914 2 0   ; Mermaid Lagoon
+D 0 3914 3 0   ; Mermaid Lagoon
+D 0 3914 5 0   ; Mermaid Lagoon
+D 0 3915 0 0   ; Mermaid Lagoon
+D 0 3915 2 0   ; Mermaid Lagoon
+D 0 3917 2 1   ; Mermaid Lagoon
+M 0 3953 5 3920   ; A seductive Siren
+D 0 3922 0 0   ; Mermaid Lagoon
+D 0 3922 3 0   ; Mermaid Lagoon
+D 0 3923 0 0   ; Mermaid Lagoon
+D 0 3923 1 0   ; Mermaid Lagoon
+D 0 3923 5 0   ; Mermaid Lagoon
+D 0 3925 0 1   ; Mermaid Lagoon
+M 0 3962 5 3926   ; A lithe sea-elf
+M 0 3953 5 3926   ; A seductive Siren
+M 0 3959 6 3928   ; A beautiful mermaid
+D 0 3929 3 2   ; Entrance Hall
+D 0 3931 1 1   ; Staircase
+M 0 3902 1 3932   ; Mesolian, the Caretaker
+E 1 3901 65535 20   ; a pencil
+E 1 3900 65535 21   ; gold-rimmed glasses
+G 1 3904 65535 0   ; a stainless steel key
+G 1 3913 65535 0   ; a small wooden key
+D 0 3932 3 1   ; Caretaker's Room
+M 0 3962 5 3935   ; A lithe sea-elf
+M 0 3953 5 3936   ; A seductive Siren
+M 0 3959 6 3936   ; A beautiful mermaid
+M 0 3904 1 3940   ; The drunken mermaid
+E 1 3903 65535 17   ; a bottle of Seaweed Vintage, 389
+D 0 3941 5 0   ; Mermaid Lagoon
+O 0 3915 65535 3946   ; the bookcase
+O 0 3902 65535 3946   ; guiness stout
+D 0 3947 0 2   ; Second Floor
+D 0 3947 1 2   ; Second Floor
+M 0 3955 2 3948   ; The Charmed Male
+G 1 257 65535 0   ; a clear potion
+G 1 3974 65535 0   ; an orange and yellow striped potion
+M 0 3956 2 3948   ; The Charmed Male
+G 1 257 65535 0   ; a clear potion
+G 1 3973 65535 0   ; an olive green potion
+D 0 3948 3 2   ; The Males' Quarters
+M 0 3956 2 3949   ; The Charmed Male
+G 1 257 65535 0   ; a clear potion
+G 1 3972 65535 0   ; a blue and white spotted potion
+M 0 3955 2 3949   ; The Charmed Male
+G 1 257 65535 0   ; a clear potion
+G 1 3971 65535 0   ; a red and blue plaid potion
+M 0 3951 1 3955   ; An escaped human male
+D 0 3957 3 1   ; A hidden grotto
+M 0 3957 1 3958   ; The Sea-elf Cook
+E 1 3912 65535 16   ; a sharp fish knife
+D 0 3958 2 2   ; Tower Kitchen
+D 0 3959 1 2   ; At the base of a Coral Tower
+D 0 3961 0 2   ; Top of the Coral Staircase
+M 0 3905 1 3962   ; The sea-elf guard
+E 1 3906 65535 16   ; an engraved harpoon
+E 1 3907 65535 17   ; weighted dice
+M 0 3906 1 3962   ; The sea-elf guard
+E 1 3906 65535 16   ; an engraved harpoon
+G 1 3905 65535 0   ; a blue coral key
+M 0 3907 1 3963   ; Melodia
+E 1 3911 65535 3   ; Melodia's golden locket
+P 1 3908 1 3911   ; a tiny key
+D 0 3963 2 2   ; The Merqueen's Throneroom
+D 0 3964 4 2   ; The Merqueen's Bedroom
+O 0 3914 65535 3965   ; a coral chest
+P 1 3910 1 3914   ; Plate of Myriads
+O 0 3909 65535 3965   ; the Merqueen's treasure
+D 0 3965 5 2   ; Attic
+M 0 3959 6 3966   ; A beautiful mermaid
+M 0 3959 6 3967   ; A beautiful mermaid
+M 0 3962 5 3969   ; A lithe sea-elf
+D 0 3970 1 1   ; Outside a wooden shed
+M 0 3961 1 3971   ; The sea-elf gardener
+D 0 3971 3 1   ; The Gardener's Living Room
+D 0 3972 1 1   ; The Gardener's Bedroom
+M 0 3960 1 3976   ; An enormous Octopus
+G 1 3998 65535 0   ; a blob of inky substance
+S

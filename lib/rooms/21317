@@ -1,0 +1,28 @@
+#21317
+Hallway~
+    This is the middle of a short hall leading north and south. There are iron bars
+set into the east wall leading into what looks like a prison cell.  To the west are
+some stairs carved out of the solid rock. They lead up. The engineering required
+to manipulate the solid stone in this area so precisely impresses you. There are
+sconces on the walls for torches, but there are no torches in them now, leaving
+the hall dark except for your light.
+~
+84 9 0
+D0
+~
+~
+0 -1 21316 -1
+D1
+~
+cell bars
+~
+39 21270 21313 -1
+D2
+~
+~
+0 -1 21318 -1
+D3
+~
+~
+0 -1 21320 -1
+S

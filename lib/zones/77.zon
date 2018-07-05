@@ -1,0 +1,295 @@
+*Zone 77, rooms 18000-18999, last modified by Coal
+M 0 18216 7 18001   ; the Streetsweeper
+M 0 18215 14 18197   ; the City Patrolman
+M 0 18223 11 18197   ; the City Watchman
+E 1 18209 65535 5   ; a metal breast plate
+E 1 18213 65535 6   ; a metal helm
+E 1 18214 65535 7   ; a pair of metal leggings
+E 1 18212 65535 9   ; a pair of metal gauntlets
+E 1 18215 65535 10   ; a pair of metal sleeves
+E 1 18256 65535 11   ; a large, blue-tinted iron shield
+E 1 18244 65535 16   ; An iron irgaak
+M 0 18218 8 18197   ; the Gladiator
+D 0 18197 1 0   ; Outside the MidWest Gate of Mordilnia
+M 0 18222 12 18198   ; the Gateguard
+E 1 18209 65535 5   ; a metal breast plate
+E 1 18213 65535 6   ; a metal helm
+E 1 18214 65535 7   ; a pair of metal leggings
+E 1 18212 65535 9   ; a pair of metal gauntlets
+E 1 18215 65535 10   ; a pair of metal sleeves
+E 1 18256 65535 11   ; a large, blue-tinted iron shield
+E 1 18244 65535 16   ; An iron irgaak
+M 0 18222 12 18198   ; the Gateguard
+E 1 18209 65535 5   ; a metal breast plate
+E 1 18213 65535 6   ; a metal helm
+E 1 18214 65535 7   ; a pair of metal leggings
+E 1 18212 65535 9   ; a pair of metal gauntlets
+E 1 18215 65535 10   ; a pair of metal sleeves
+E 1 18256 65535 11   ; a large, blue-tinted iron shield
+E 1 18244 65535 16   ; An iron irgaak
+M 0 18216 7 18198   ; the Streetsweeper
+D 0 18198 3 0   ; Inside the MidWest Gate of Mordilnia
+M 0 18217 7 18202   ; the rabid cur dog
+M 0 18215 14 18203   ; the City Patrolman
+M 0 18222 12 18204   ; the Gateguard
+E 1 18209 65535 5   ; a metal breast plate
+E 1 18213 65535 6   ; a metal helm
+E 1 18214 65535 7   ; a pair of metal leggings
+E 1 18212 65535 9   ; a pair of metal gauntlets
+E 1 18215 65535 10   ; a pair of metal sleeves
+E 1 18256 65535 11   ; a large, blue-tinted iron shield
+E 1 18244 65535 16   ; An iron irgaak
+M 0 18222 12 18204   ; the Gateguard
+E 1 18209 65535 5   ; a metal breast plate
+E 1 18213 65535 6   ; a metal helm
+E 1 18214 65535 7   ; a pair of metal leggings
+E 1 18212 65535 9   ; a pair of metal gauntlets
+E 1 18215 65535 10   ; a pair of metal sleeves
+E 1 18256 65535 11   ; a large, blue-tinted iron shield
+E 1 18244 65535 16   ; An iron irgaak
+D 0 18204 3 0   ; Inside the NorthWest Gate of Mordilnia
+M 0 18219 11 18205   ; the Citizen
+D 0 18205 1 0   ; Outside the NorthWest Gate of Mordilnia
+M 0 18215 14 18208   ; the City Patrolman
+M 0 18201 1 18208   ; Belmirek
+G 1 18242 65535 0   ; a crimson jewel
+G 1 18241 65535 0   ; a sparkling jewel
+G 1 18235 65535 0   ; A black pearl
+G 1 18243 65535 0   ; an emerald
+G 1 18236 65535 0   ; A glittering black diamond
+G 1 18237 65535 0   ; A small sapphire
+G 1 18240 65535 0   ; a white onyx stone
+G 1 18248 65535 0   ; A spotted stone
+G 1 18249 65535 0   ; A pulsing scarlet stone
+M 0 18219 11 18209   ; the Citizen
+M 0 18203 1 18210   ; Damathar
+E 1 18209 65535 5   ; a metal breast plate
+E 1 18213 65535 6   ; a metal helm
+E 1 18214 65535 7   ; a pair of metal leggings
+E 1 18212 65535 9   ; a pair of metal gauntlets
+E 1 18215 65535 10   ; a pair of metal sleeves
+G 1 18256 65535 0   ; a large, blue-tinted iron shield
+G 1 18213 65535 0   ; a metal helm
+G 1 18209 65535 0   ; a metal breast plate
+G 1 18214 65535 0   ; a pair of metal leggings
+G 1 18212 65535 0   ; a pair of metal gauntlets
+G 1 18215 65535 0   ; a pair of metal sleeves
+M 0 18215 14 18210   ; the City Patrolman
+M 0 18223 11 18210   ; the City Watchman
+E 1 18209 65535 5   ; a metal breast plate
+E 1 18213 65535 6   ; a metal helm
+E 1 18214 65535 7   ; a pair of metal leggings
+E 1 18212 65535 9   ; a pair of metal gauntlets
+E 1 18215 65535 10   ; a pair of metal sleeves
+E 1 18256 65535 11   ; a large, blue-tinted iron shield
+E 1 18244 65535 16   ; An iron irgaak
+M 0 3073 1 18212   ; the Loremaster
+M 0 18223 11 18213   ; the City Watchman
+E 1 18209 65535 5   ; a metal breast plate
+E 1 18213 65535 6   ; a metal helm
+E 1 18214 65535 7   ; a pair of metal leggings
+E 1 18212 65535 9   ; a pair of metal gauntlets
+E 1 18215 65535 10   ; a pair of metal sleeves
+E 1 18256 65535 11   ; a large, blue-tinted iron shield
+E 1 18244 65535 16   ; An iron irgaak
+M 0 18214 1 18214   ; Adair
+E 1 18244 65535 16   ; An iron irgaak
+G 1 18226 65535 0   ; some iron rations
+G 1 18205 65535 0   ; a bottle
+G 1 18204 65535 0   ; a barrel
+G 1 18225 65535 0   ; a round of cheese
+G 1 18227 65535 0   ; a salted herring
+G 1 18203 65535 0   ; a grilled dragon leg
+M 0 18219 11 18214   ; the Citizen
+M 0 18205 1 18215   ; Illyari
+M 0 18216 7 18215   ; the Streetsweeper
+M 0 18215 14 18216   ; the City Patrolman
+M 0 18204 1 18217   ; Syrathen
+M 0 18216 7 18217   ; the Streetsweeper
+M 0 18220 2 18219   ; the Pauper
+M 0 18216 7 18223   ; the Streetsweeper
+M 0 18223 11 18224   ; the City Watchman
+E 1 18209 65535 5   ; a metal breast plate
+E 1 18213 65535 6   ; a metal helm
+E 1 18214 65535 7   ; a pair of metal leggings
+E 1 18212 65535 9   ; a pair of metal gauntlets
+E 1 18215 65535 10   ; a pair of metal sleeves
+E 1 18256 65535 11   ; a large, blue-tinted iron shield
+M 0 18219 11 18226   ; the Citizen
+M 0 18219 11 18226   ; the Citizen
+M 0 18217 7 18226   ; the rabid cur dog
+M 0 18215 14 18227   ; the City Patrolman
+M 0 18223 11 18230   ; the City Watchman
+E 1 18209 65535 5   ; a metal breast plate
+E 1 18213 65535 6   ; a metal helm
+E 1 18214 65535 7   ; a pair of metal leggings
+E 1 18212 65535 9   ; a pair of metal gauntlets
+E 1 18215 65535 10   ; a pair of metal sleeves
+E 1 18256 65535 11   ; a large, blue-tinted iron shield
+E 1 18244 65535 16   ; An iron irgaak
+M 0 18215 14 18231   ; the City Patrolman
+M 0 18202 1 18232   ; Heimslan
+E 1 18244 65535 16   ; An iron irgaak
+G 1 18208 65535 0   ; a beige bag
+G 1 18202 65535 0   ; a large bag
+G 1 18201 65535 0   ; a large sack
+G 1 18257 65535 0   ; a runed, glowing staff
+G 1 3031 65535 0   ; a lantern
+G 1 3030 65535 0   ; a torch
+G 1 41 65535 0   ; a set of lock-picks
+M 0 18219 11 18233   ; the Citizen
+M 0 18215 14 18235   ; the City Patrolman
+M 0 18215 14 18235   ; the City Patrolman
+M 0 18222 12 18236   ; the Gateguard
+E 1 18209 65535 5   ; a metal breast plate
+E 1 18213 65535 6   ; a metal helm
+E 1 18214 65535 7   ; a pair of metal leggings
+E 1 18212 65535 9   ; a pair of metal gauntlets
+E 1 18215 65535 10   ; a pair of metal sleeves
+M 0 18222 12 18236   ; the Gateguard
+E 1 18209 65535 5   ; a metal breast plate
+E 1 18213 65535 6   ; a metal helm
+E 1 18214 65535 7   ; a pair of metal leggings
+E 1 18212 65535 9   ; a pair of metal gauntlets
+E 1 18215 65535 10   ; a pair of metal sleeves
+O 0 507 65535 18237   ; The elm tree
+M 0 18223 11 18238   ; the City Watchman
+M 0 18219 11 18240   ; the Citizen
+M 0 18217 7 18240   ; the rabid cur dog
+M 0 18219 11 18240   ; the Citizen
+M 0 18200 1 18242   ; Emilither
+M 0 18217 7 18243   ; the rabid cur dog
+M 0 18219 11 18244   ; the Citizen
+M 0 18219 11 18245   ; the Citizen
+M 0 18223 11 18247   ; the City Watchman
+M 0 18222 12 18250   ; the Gateguard
+E 1 18209 65535 5   ; a metal breast plate
+E 1 18213 65535 6   ; a metal helm
+E 1 18214 65535 7   ; a pair of metal leggings
+E 1 18212 65535 9   ; a pair of metal gauntlets
+E 1 18215 65535 10   ; a pair of metal sleeves
+M 0 18222 12 18250   ; the Gateguard
+E 1 18209 65535 5   ; a metal breast plate
+E 1 18213 65535 6   ; a metal helm
+E 1 18214 65535 7   ; a pair of metal leggings
+E 1 18212 65535 9   ; a pair of metal gauntlets
+E 1 18215 65535 10   ; a pair of metal sleeves
+D 0 18250 1 0   ; Inside the SouthEast Gate of Mordilnia
+M 0 18218 8 18251   ; the Gladiator
+M 0 18215 14 18253   ; the City Patrolman
+M 0 18219 11 18253   ; the Citizen
+M 0 18221 1 18253   ; Sylira
+M 0 18220 2 18254   ; the Pauper
+M 0 18213 1 18256   ; Melchar
+E 1 18209 65535 5   ; a metal breast plate
+E 1 18213 65535 6   ; a metal helm
+E 1 18214 65535 7   ; a pair of metal leggings
+E 1 18212 65535 9   ; a pair of metal gauntlets
+E 1 18215 65535 10   ; a pair of metal sleeves
+M 0 18218 8 18257   ; the Gladiator
+M 0 18215 14 18257   ; the City Patrolman
+M 0 18218 8 18260   ; the Gladiator
+M 0 18223 11 18260   ; the City Watchman
+M 0 18217 7 18261   ; the rabid cur dog
+M 0 18216 7 18262   ; the Streetsweeper
+M 0 18215 14 18262   ; the City Patrolman
+M 0 18218 8 18263   ; the Gladiator
+M 0 18222 12 18264   ; the Gateguard
+E 1 18209 65535 5   ; a metal breast plate
+E 1 18213 65535 6   ; a metal helm
+E 1 18214 65535 7   ; a pair of metal leggings
+E 1 18212 65535 9   ; a pair of metal gauntlets
+E 1 18215 65535 10   ; a pair of metal sleeves
+M 0 18222 12 18264   ; the Gateguard
+E 1 18209 65535 5   ; a metal breast plate
+E 1 18213 65535 6   ; a metal helm
+E 1 18214 65535 7   ; a pair of metal leggings
+E 1 18212 65535 9   ; a pair of metal gauntlets
+E 1 18215 65535 10   ; a pair of metal sleeves
+M 0 18217 7 18264   ; the rabid cur dog
+M 0 18210 1 18266   ; Shazilmira
+M 0 18215 14 18268   ; the City Patrolman
+M 0 18218 8 18271   ; the Gladiator
+M 0 18212 1 18272   ; Hyiastrin
+M 0 18218 8 18272   ; the Gladiator
+M 0 18215 14 18272   ; the City Patrolman
+M 0 18208 1 18273   ; the Guildmaster
+M 0 18206 1 18274   ; the Guildmaster
+M 0 18209 1 18275   ; the Guildmaster
+M 0 18211 1 18276   ; Grenath
+M 0 18207 1 18277   ; the Guildmaster
+M 0 18217 7 18278   ; the rabid cur dog
+M 0 18222 12 18278   ; the Gateguard
+M 0 18222 12 18278   ; the Gateguard
+D 0 18278 2 0   ; Inside the Southern Gate of Mordilnia
+M 0 18223 11 18279   ; the City Watchman
+E 1 18209 65535 5   ; a metal breast plate
+D 0 18279 0 0   ; Outside the Southern Gate of Mordilnia
+M 0 18223 11 18280   ; the City Watchman
+E 1 18209 65535 5   ; a metal breast plate
+E 1 18213 65535 6   ; a metal helm
+E 1 18214 65535 7   ; a pair of metal leggings
+E 1 18212 65535 9   ; a pair of metal gauntlets
+E 1 18215 65535 10   ; a pair of metal sleeves
+D 0 18280 3 0   ; Outside the SouthEast Gate of Mordilnia
+M 0 18223 11 18281   ; the City Watchman
+E 1 18209 65535 5   ; a metal breast plate
+E 1 18213 65535 6   ; a metal helm
+E 1 18214 65535 7   ; a pair of metal leggings
+E 1 18212 65535 9   ; a pair of metal gauntlets
+E 1 18215 65535 10   ; a pair of metal sleeves
+E 1 18256 65535 11   ; a large, blue-tinted iron shield
+E 1 18244 65535 16   ; An iron irgaak
+M 0 18218 8 18282   ; the Gladiator
+M 0 18216 7 18283   ; the Streetsweeper
+M 0 18365 1 18296   ; The ettin bandit chief
+E 1 18365 65535 16   ; A large club
+D 0 18307 5 0   ; Northwest corner of the pond
+D 0 18308 5 0   ; Northeast corner of the pond
+D 0 18309 5 0   ; Southeast corner of the pond
+D 0 18310 5 0   ; Southwest corner of the pond
+D 0 18312 3 1   ; Under the Pond.
+M 0 18315 7 18315   ; The Selkie
+D 0 18315 1 1   ; Secret underwater cave
+M 0 18315 7 18316   ; The Selkie
+M 0 18315 7 18317   ; The Selkie
+M 0 18315 7 18317   ; The Selkie
+M 0 18315 7 18317   ; The Selkie
+M 0 18315 7 18317   ; The Selkie
+M 0 18315 7 18319   ; The Selkie
+D 0 18322 2 0   ; Disappearing stream
+M 0 18325 1 18325   ; The Venerable Selkie Leader
+G 1 9611 65535 0   ; a bubbly brown potion
+G 1 15811 65535 0   ; a blistering red hot potion
+G 1 18325 65535 0   ; A ring of Clarity
+G 1 18255 65535 0   ; a simmering crimson potion
+G 1 257 65535 0   ; a clear potion
+G 1 9612 65535 0   ; A black and green potion
+D 0 18332 2 1   ; Quiet Gloomy Forest
+D 0 18334 0 1   ; Secret Webbed Passage
+D 0 18339 1 0   ; Old Ambush Site
+M 0 18353 1 18352   ; The Behir
+G 1 18353 65535 0   ; Behir hide boots
+D 0 18358 4 1   ; Secluded Grove in the Gloomy Forest
+D 0 18359 4 1   ; Bottom of the Nest
+D 0 18359 5 1   ; Bottom of the Nest
+M 0 18360 8 18360   ; A large spider
+D 0 18360 5 1   ; Center of the Lair
+M 0 18360 8 18361   ; A large spider
+M 0 18360 8 18361   ; A large spider
+M 0 18360 8 18361   ; A large spider
+M 0 18360 8 18361   ; A large spider
+M 0 18360 8 18361   ; A large spider
+M 0 18360 8 18362   ; A large spider
+D 0 18362 4 1   ; Center of the Lair
+M 0 18360 8 18363   ; A large spider
+M 0 18364 1 18364   ; The Ettercap
+G 1 18364 65535 0   ; A Web Strung Cloak
+D 0 18364 5 1   ; Lair of the Ettercap
+M 0 259 5 18365   ; An ettin
+M 0 259 5 18365   ; An ettin
+M 0 259 5 18365   ; An ettin
+M 0 259 5 18365   ; An ettin
+M 0 259 5 18365   ; An ettin
+G 1 1581 65535 0   ; a huge spiked club
+S

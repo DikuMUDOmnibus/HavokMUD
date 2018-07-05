@@ -1,0 +1,8 @@
+*Zone 66, rooms 13851-13999, last modified by Jopa
+O 0 502 65535 13903   ; The huge redwood tree
+M 0 1502 1 13904   ; Edgar
+E 1 3021 65535 16   ; a small sword
+M 0 13901 1 13912   ; The troll
+O 0 13901 65535 13919   ; A piece of wood
+O 0 13901 65535 13926   ; A piece of wood
+S

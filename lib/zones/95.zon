@@ -1,0 +1,61 @@
+*Zone 95, rooms 25101-25999, last modified by Lennya
+D 0 25500 4 0   ; Charred Stairwell
+M 0 25506 1 25506   ; A Giant Salamander
+G 1 25508 65535 0   ; The Scarab of Death
+O 0 5305 65535 25519   ; a huge treasure
+M 0 25500 19 25523   ; A large Fire Giant
+M 0 25500 19 25523   ; A large Fire Giant
+E 1 25510 65535 16   ; A Great Axe
+M 0 25500 19 25524   ; A large Fire Giant
+M 0 25500 19 25524   ; A large Fire Giant
+E 1 25510 65535 16   ; A Great Axe
+M 0 25500 19 25527   ; A large Fire Giant
+M 0 25500 19 25527   ; A large Fire Giant
+E 1 25510 65535 16   ; A Great Axe
+D 0 25527 2 1   ; Guard Room
+D 0 25528 0 1   ; Planning Chamber
+M 0 25501 2 25529   ; The Fire Giant lieutenant
+E 1 25511 65535 16   ; The Flame Tongue
+M 0 25502 1 25530   ; The General
+E 1 25504 65535 16   ; A Flaming Greatsword
+O 0 25503 65535 25530   ; A Emerald Bracelet
+M 0 25501 2 25533   ; The Fire Giant lieutenant
+E 1 25511 65535 16   ; The Flame Tongue
+D 0 25538 1 1   ; Courtyard
+M 0 25500 19 25540   ; A large Fire Giant
+E 1 25510 65535 16   ; A Great Axe
+D 0 25540 1 1   ; Top of the Stairwell
+M 0 25505 1 25541   ; The High Priest
+E 1 25501 65535 3   ; A Crimson Cloak
+E 1 25507 65535 16   ; Unholy Mace
+E 1 25506 65535 17   ; A Skull Ring
+D 0 25541 3 1   ; High Priest's Chambers
+M 0 25500 19 25542   ; A large Fire Giant
+E 1 25510 65535 16   ; A Great Axe
+D 0 25542 3 1   ; Guard Post
+M 0 25500 19 25545   ; A large Fire Giant
+M 0 25500 19 25545   ; A large Fire Giant
+M 0 25500 19 25545   ; A large Fire Giant
+M 0 25500 19 25545   ; A large Fire Giant
+E 1 25510 65535 16   ; A Great Axe
+M 0 25500 19 25547   ; A large Fire Giant
+M 0 25500 19 25547   ; A large Fire Giant
+M 0 25500 19 25547   ; A large Fire Giant
+M 0 25500 19 25547   ; A large Fire Giant
+E 1 25510 65535 16   ; A Great Axe
+M 0 25500 19 25549   ; A large Fire Giant
+E 1 25510 65535 16   ; A Great Axe
+M 0 25500 19 25550   ; A large Fire Giant
+M 0 25500 19 25550   ; A large Fire Giant
+E 1 25510 65535 16   ; A Great Axe
+D 0 25550 5 1   ; Throne Room
+M 0 25503 1 25551   ; The Fire Giant King
+E 1 25502 65535 6   ; A Regal Crown
+E 1 25500 65535 12   ; A Regal Robe
+E 1 25505 65535 16   ; A Flaming Two-Handed Battle Axe
+G 1 47962 65535 0   ; a vial containing magma
+M 0 25507 2 25551   ; A Skeletal Giant
+M 0 25507 2 25551   ; A Skeletal Giant
+G 1 25503 65535 0   ; A Emerald Bracelet
+D 0 25551 4 1   ; King's Bedroom
+S

@@ -1,0 +1,33 @@
+#6000
+The edge of the forest~
+   You are standing at the eastern edge of a big forest.  To the east
+is the West Gate of Karsinya and to the west is a narrow trail, leading
+in through the forest.
+~
+35 4 2
+D0
+You hear a faint sound.
+~
+~
+0 -1 1100 -1
+D1
+You see the West Gate of the City of Karsinya.
+~
+~
+0 -1 3052 -1
+D3
+You see the narrow forest trail winding westwards in between the trees.
+~
+~
+0 -1 6001 -1
+E
+tree trees~
+The trees are quite tall considering most of them appear to be quite young.
+On one of the trees, crude letters forming the word "Haon-Dor" have been
+carved into the bark.
+~
+E
+trail~
+The forest trail winds westwards through the trees.
+~
+S

@@ -1,0 +1,27 @@
+#21298
+Hallway~
+    You are in a dark hallway in the mountain defense station.  The walls are smooth,
+cut from the solid rock here deep inside the mountain.  The ceiling is high, almost
+fifteen feet.  The hallway bends here at a right angle, it now heads to the south and
+east.  There are also openings in the north and west wall.  You can't really tell for
+sure what the room to the north is used for, but it looks like it might be some kind
+of barracks. The chamber to the west is clearly a bath house.
+~
+84 9 1
+D0
+~
+~
+0 -1 21297 -1
+D1
+~
+~
+0 -1 21291 -1
+D2
+~
+~
+0 -1 21299 -1
+D3
+~
+~
+0 -1 21305 -1
+S

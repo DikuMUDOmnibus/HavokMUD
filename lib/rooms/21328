@@ -1,0 +1,49 @@
+#21328
+Hallway~
+    This end of the hallway seems particularly dark. There are doors to the
+west and south, and both look like they have resisted several attempts to
+break into them. The door to the west shows far less damage than the door to
+the south.  There is an empty sconce on the east wall.  The hallway also
+continues to the north.
+~
+84 9 0
+D0
+~
+~
+0 -1 21327 -1
+D1
+~
+mahogany panel
+~
+11 0 21324 374
+D2
+~
+door
+~
+3 0 21329 -1
+D3
+~
+door
+~
+3 0 21333 -1
+E
+mahogany~
+There is a warning glyph on it. Apparently this is a private residence.
+~
+E
+door~
+The door to the south has a strip of a strange yellow substance across it,
+upon which is printed some incomprehensible text that has almost entirely
+faded away with time. It has multiple dents and scratches, probably from
+multiplte attempts to break in over the ages.
+~
+E
+wall~
+   You see a beautifully carved mahogany panel made to reflect the torch light
+and brighten this otherwise gloomy hallway.
+~
+E
+east~
+You see a beautifully carved mahogany panel.
+~
+S

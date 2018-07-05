@@ -1,0 +1,966 @@
+*Zone 58, rooms 11300-12999, last modified by Banon
+O 0 3098 65535 11300   ; a bulletin board
+D 0 11300 0 2   ; Wert's private chamber
+D 0 11300 4 1   ; Wert's private chamber
+O 0 1102 65535 11301   ; a sign
+M 0 6001 7 11303   ; the cute rabbit
+M 0 27045 6 11303   ; a large, grey wolf
+M 0 24001 33 11303   ; A gelatinous cube
+M 0 24001 33 11303   ; A gelatinous cube
+M 0 12007 1 11304   ; the fat little merchant
+E 1 3043 65535 5   ; a leather jacket
+E 1 2 65535 6   ; a leather training cap
+E 1 5204 65535 8   ; A pair of iron boots
+E 1 12030 65535 10   ; a small round shield
+E 1 12008 65535 16   ; a wooden spear
+E 1 45 65535 17   ; a short sword
+G 1 16037 65535 0   ; a wooden chest
+M 0 24001 33 11304   ; A gelatinous cube
+M 0 27045 6 11304   ; a large, grey wolf
+M 0 24001 33 11304   ; A gelatinous cube
+M 0 12008 5 11304   ; a merchant's guard
+E 1 3617 65535 5   ; a suit of field plate
+E 1 3078 65535 6   ; a chain helm
+E 1 3082 65535 7   ; a pair of plate leggings
+E 1 5204 65535 8   ; A pair of iron boots
+E 1 12008 65535 16   ; a wooden spear
+E 1 3032 65535 17   ; a bag
+M 0 27045 6 11304   ; a large, grey wolf
+M 0 24001 33 11304   ; A gelatinous cube
+M 0 6001 7 11304   ; the cute rabbit
+M 0 12008 5 11304   ; a merchant's guard
+E 1 3617 65535 5   ; a suit of field plate
+E 1 3082 65535 7   ; a pair of plate leggings
+E 1 5204 65535 8   ; A pair of iron boots
+E 1 12030 65535 10   ; a small round shield
+E 1 27408 65535 13   ; A Sword Belt
+M 0 27045 6 11304   ; a large, grey wolf
+M 0 6001 7 11304   ; the cute rabbit
+M 0 6001 7 11304   ; the cute rabbit
+M 0 24001 33 11305   ; A gelatinous cube
+M 0 24001 33 11305   ; A gelatinous cube
+M 0 27045 6 11305   ; a large, grey wolf
+M 0 12008 5 11305   ; a merchant's guard
+E 1 3617 65535 5   ; a suit of field plate
+E 1 3078 65535 6   ; a chain helm
+E 1 3082 65535 7   ; a pair of plate leggings
+E 1 5204 65535 8   ; A pair of iron boots
+E 1 12008 65535 16   ; a wooden spear
+E 1 3032 65535 17   ; a bag
+M 0 12008 5 11305   ; a merchant's guard
+E 1 3617 65535 5   ; a suit of field plate
+E 1 3078 65535 6   ; a chain helm
+E 1 3082 65535 7   ; a pair of plate leggings
+E 1 12030 65535 10   ; a small round shield
+E 1 27408 65535 13   ; A Sword Belt
+M 0 12008 5 11305   ; a merchant's guard
+E 1 3617 65535 5   ; a suit of field plate
+E 1 3078 65535 6   ; a chain helm
+E 1 3082 65535 7   ; a pair of plate leggings
+E 1 12030 65535 10   ; a small round shield
+E 1 27408 65535 13   ; A Sword Belt
+M 0 6001 7 11305   ; the cute rabbit
+M 0 6001 7 11305   ; the cute rabbit
+M 0 12001 10 11306   ; a highwayman
+E 1 12017 65535 2   ; a dark black ring
+E 1 12016 65535 3   ; a scarlet colored cloak
+E 1 3041 65535 5   ; a chain mail shirt
+E 1 3078 65535 6   ; a chain helm
+E 1 3081 65535 7   ; a pair of leather pants
+E 1 6002 23 8   ; a pair of leather boots
+E 1 3632 65535 9   ; a pair of studded leather gloves
+E 1 3630 65535 10   ; a pair of studded leather sleeves
+E 1 3025 65535 16   ; A battle axe
+E 1 1545 65535 17   ; a leather backpack
+M 0 12003 4 11306   ; a murderer
+E 1 12021 65535 3   ; a necklace of fingers
+E 1 3040 65535 5   ; a breast plate
+E 1 12020 65535 6   ; an enormous helm
+E 1 3083 65535 7   ; a pair of chain leggings
+E 1 6524 65535 8   ; A pair of boots
+E 1 3071 65535 9   ; a pair of leather gloves
+E 1 3087 65535 10   ; a pair of chain sleeves
+E 1 27408 65535 13   ; A Sword Belt
+E 1 12042 65535 16   ; a murderous axe
+G 1 16008 19 0   ; A leather pouch
+M 0 12003 4 11306   ; a murderer
+E 1 12021 65535 3   ; a necklace of fingers
+E 1 3040 65535 5   ; a breast plate
+E 1 12020 65535 6   ; an enormous helm
+E 1 3083 65535 7   ; a pair of chain leggings
+E 1 6524 65535 8   ; A pair of boots
+E 1 3087 65535 10   ; a pair of chain sleeves
+E 1 27408 65535 13   ; A Sword Belt
+E 1 12042 65535 16   ; a murderous axe
+M 0 12001 10 11307   ; a highwayman
+M 0 12002 4 11308   ; a killer
+E 1 12017 65535 2   ; a dark black ring
+E 1 12016 65535 3   ; a scarlet colored cloak
+E 1 12001 65535 4   ; a black cape
+E 1 3629 65535 5   ; a studded leather jacket
+E 1 12018 65535 6   ; a long, black hood
+E 1 3081 65535 7   ; a pair of leather pants
+E 1 6002 23 8   ; a pair of leather boots
+E 1 3071 65535 9   ; a pair of leather gloves
+E 1 3087 65535 10   ; a pair of chain sleeves
+E 1 12019 65535 16   ; a long, sharp knife
+E 1 3032 65535 17   ; a bag
+G 1 12022 65535 0   ; a thick, black leather jacket
+G 1 12015 65535 0   ; a robber's cape
+G 1 3071 65535 0   ; a pair of leather gloves
+G 1 16008 19 0   ; A leather pouch
+G 1 3071 65535 0   ; a pair of leather gloves
+G 1 16008 19 0   ; A leather pouch
+G 1 3071 65535 0   ; a pair of leather gloves
+G 1 3078 65535 0   ; a chain helm
+M 0 12001 10 11308   ; a highwayman
+M 0 12001 10 11308   ; a highwayman
+E 1 12017 65535 2   ; a dark black ring
+M 0 12000 13 11309   ; a robber
+E 1 12015 65535 3   ; a robber's cape
+M 0 12000 13 11309   ; a robber
+E 1 12015 65535 3   ; a robber's cape
+E 1 3629 65535 5   ; a studded leather jacket
+E 1 12002 65535 6   ; A mask
+E 1 3626 11 7   ; a pair of leather pants
+E 1 6002 23 8   ; a pair of leather boots
+E 1 3071 65535 9   ; a pair of leather gloves
+E 1 12023 65535 10   ; a pair of thick, black leather sleeves
+E 1 3633 13 11   ; a leather shield
+E 1 3022 65535 16   ; a long sword
+E 1 22626 12 17   ; A wineskin
+E 1 3032 65535 18   ; a bag
+E 1 12002 65535 21   ; A mask
+G 1 6002 23 0   ; a pair of leather boots
+G 1 6002 23 0   ; a pair of leather boots
+G 1 3633 13 0   ; a leather shield
+G 1 16008 19 0   ; A leather pouch
+P 1 12010 13 16008   ; a block of cheese
+G 1 16008 19 0   ; A leather pouch
+P 1 12010 13 16008   ; a block of cheese
+G 1 12028 65535 0   ; a small sword with a black blade
+G 1 12024 65535 0   ; a pair of black leather gloves
+G 1 12026 65535 0   ; a pair of black stalking boots
+G 1 12025 65535 0   ; a pair of thick, black leather pants
+M 0 12004 7 11310   ; a black thief
+E 1 12017 65535 2   ; a dark black ring
+E 1 12001 65535 3   ; a black cape
+E 1 12015 65535 4   ; a robber's cape
+E 1 12022 65535 5   ; a thick, black leather jacket
+E 1 12002 65535 6   ; A mask
+E 1 12025 65535 7   ; a pair of thick, black leather pants
+E 1 12026 65535 8   ; a pair of black stalking boots
+E 1 12024 65535 9   ; a pair of black leather gloves
+E 1 12023 65535 10   ; a pair of thick, black leather sleeves
+E 1 12028 65535 16   ; a small sword with a black blade
+E 1 16008 19 17   ; A leather pouch
+P 1 12010 13 16008   ; a block of cheese
+E 1 3032 65535 18   ; a bag
+G 1 12016 65535 0   ; a scarlet colored cloak
+G 1 3629 65535 0   ; a studded leather jacket
+G 1 3078 65535 0   ; a chain helm
+G 1 3071 65535 0   ; a pair of leather gloves
+G 1 16008 19 0   ; A leather pouch
+G 1 3071 65535 0   ; a pair of leather gloves
+M 0 12001 10 11310   ; a highwayman
+M 0 12000 13 11310   ; a robber
+E 1 12015 65535 3   ; a robber's cape
+D 0 11310 0 0   ; Forest Path
+M 0 12001 10 11311   ; a highwayman
+E 1 1545 65535 0   ; a leather backpack
+P 1 3032 10 1545   ; a bag
+P 1 12010 13 3032   ; a block of cheese
+P 1 3669 1 3032   ; a bottle of grog
+M 0 12000 13 11311   ; a robber
+E 1 12015 65535 3   ; a robber's cape
+E 1 3629 65535 5   ; a studded leather jacket
+E 1 12002 65535 6   ; A mask
+E 1 3626 11 7   ; a pair of leather pants
+E 1 6002 23 8   ; a pair of leather boots
+E 1 3071 65535 9   ; a pair of leather gloves
+E 1 3633 13 11   ; a leather shield
+E 1 3022 65535 16   ; a long sword
+E 1 22626 12 17   ; A wineskin
+G 1 16008 19 0   ; A leather pouch
+P 1 12010 13 16008   ; a block of cheese
+M 0 12000 13 11311   ; a robber
+E 1 12015 65535 3   ; a robber's cape
+E 1 3629 65535 5   ; a studded leather jacket
+E 1 12002 65535 6   ; A mask
+E 1 3626 11 7   ; a pair of leather pants
+E 1 6002 23 8   ; a pair of leather boots
+E 1 3071 65535 9   ; a pair of leather gloves
+E 1 3633 13 11   ; a leather shield
+E 1 3022 65535 16   ; a long sword
+E 1 22626 12 17   ; A wineskin
+G 1 16008 19 0   ; A leather pouch
+P 1 12010 13 16008   ; a block of cheese
+D 0 11311 1 0   ; Hidden Path
+D 0 11311 2 0   ; Hidden Path
+M 0 12002 4 11312   ; a killer
+E 1 12018 65535 6   ; a long, black hood
+E 1 3081 65535 7   ; a pair of leather pants
+E 1 6002 23 8   ; a pair of leather boots
+E 1 3071 65535 9   ; a pair of leather gloves
+E 1 3087 65535 10   ; a pair of chain sleeves
+E 1 12019 65535 16   ; a long, sharp knife
+E 1 3032 65535 17   ; a bag
+D 0 11312 2 0   ; Hidden Path
+D 0 11312 3 0   ; Hidden Path
+M 0 12004 7 11313   ; a black thief
+E 1 12001 65535 3   ; a black cape
+E 1 12022 65535 5   ; a thick, black leather jacket
+E 1 12002 65535 6   ; A mask
+E 1 12025 65535 7   ; a pair of thick, black leather pants
+E 1 12026 65535 8   ; a pair of black stalking boots
+E 1 12024 65535 9   ; a pair of black leather gloves
+E 1 12023 65535 10   ; a pair of thick, black leather sleeves
+E 1 12028 65535 16   ; a small sword with a black blade
+E 1 3032 65535 18   ; a bag
+M 0 12001 10 11313   ; a highwayman
+E 1 12017 65535 2   ; a dark black ring
+E 1 12016 65535 3   ; a scarlet colored cloak
+E 1 3041 65535 5   ; a chain mail shirt
+E 1 3078 65535 6   ; a chain helm
+E 1 3081 65535 7   ; a pair of leather pants
+E 1 6002 23 8   ; a pair of leather boots
+E 1 3632 65535 9   ; a pair of studded leather gloves
+E 1 3630 65535 10   ; a pair of studded leather sleeves
+E 1 3025 65535 16   ; A battle axe
+E 1 1545 65535 17   ; a leather backpack
+D 0 11313 0 0   ; Dark Hidden Path
+D 0 11313 2 1   ; Dark Hidden Path
+D 0 11314 0 1   ; Dark Hidden Path
+D 0 11314 2 1   ; Dark Hidden Path
+M 0 12004 7 11315   ; a black thief
+E 1 12001 65535 3   ; a black cape
+E 1 12022 65535 5   ; a thick, black leather jacket
+E 1 12002 65535 6   ; A mask
+E 1 12025 65535 7   ; a pair of thick, black leather pants
+E 1 12026 65535 8   ; a pair of black stalking boots
+E 1 12024 65535 9   ; a pair of black leather gloves
+E 1 12023 65535 10   ; a pair of thick, black leather sleeves
+E 1 12028 65535 16   ; a small sword with a black blade
+M 0 12004 7 11315   ; a black thief
+E 1 12027 65535 2   ; a scaly ring
+E 1 12001 65535 3   ; a black cape
+E 1 12022 65535 5   ; a thick, black leather jacket
+E 1 12002 65535 6   ; A mask
+E 1 12025 65535 7   ; a pair of thick, black leather pants
+E 1 12026 65535 8   ; a pair of black stalking boots
+E 1 12024 65535 9   ; a pair of black leather gloves
+E 1 12023 65535 10   ; a pair of thick, black leather sleeves
+E 1 12028 65535 16   ; a small sword with a black blade
+D 0 11315 0 1   ; Dead-End
+D 0 11315 1 2   ; Dead-End
+M 0 12004 7 11316   ; a black thief
+E 1 12001 65535 3   ; a black cape
+E 1 12022 65535 5   ; a thick, black leather jacket
+E 1 12002 65535 6   ; A mask
+E 1 12025 65535 7   ; a pair of thick, black leather pants
+E 1 12026 65535 8   ; a pair of black stalking boots
+E 1 12024 65535 9   ; a pair of black leather gloves
+E 1 12023 65535 10   ; a pair of thick, black leather sleeves
+E 1 12028 65535 16   ; a small sword with a black blade
+M 0 12004 7 11316   ; a black thief
+E 1 12027 65535 2   ; a scaly ring
+E 1 12001 65535 3   ; a black cape
+E 1 12022 65535 5   ; a thick, black leather jacket
+E 1 12002 65535 6   ; A mask
+E 1 12025 65535 7   ; a pair of thick, black leather pants
+E 1 12026 65535 8   ; a pair of black stalking boots
+E 1 12024 65535 9   ; a pair of black leather gloves
+E 1 12023 65535 10   ; a pair of thick, black leather sleeves
+E 1 12028 65535 16   ; a small sword with a black blade
+M 0 12000 13 11316   ; a robber
+E 1 12015 65535 3   ; a robber's cape
+E 1 3629 65535 5   ; a studded leather jacket
+E 1 12002 65535 6   ; A mask
+E 1 3626 11 7   ; a pair of leather pants
+E 1 6002 23 8   ; a pair of leather boots
+E 1 3071 65535 9   ; a pair of leather gloves
+E 1 3633 13 11   ; a leather shield
+E 1 3022 65535 16   ; a long sword
+E 1 22626 12 17   ; A wineskin
+G 1 16008 19 0   ; A leather pouch
+P 1 12010 13 16008   ; a block of cheese
+M 0 12000 13 11316   ; a robber
+E 1 12015 65535 3   ; a robber's cape
+E 1 3629 65535 5   ; a studded leather jacket
+E 1 12002 65535 6   ; A mask
+E 1 3626 11 7   ; a pair of leather pants
+E 1 6002 23 8   ; a pair of leather boots
+E 1 3071 65535 9   ; a pair of leather gloves
+E 1 3633 13 11   ; a leather shield
+E 1 3022 65535 16   ; a long sword
+E 1 22626 12 17   ; A wineskin
+G 1 16008 19 0   ; A leather pouch
+P 1 12010 13 16008   ; a block of cheese
+M 0 12000 13 11316   ; a robber
+E 1 12015 65535 3   ; a robber's cape
+E 1 3629 65535 5   ; a studded leather jacket
+E 1 12002 65535 6   ; A mask
+E 1 3626 11 7   ; a pair of leather pants
+E 1 6002 23 8   ; a pair of leather boots
+E 1 3071 65535 9   ; a pair of leather gloves
+E 1 3633 13 11   ; a leather shield
+E 1 3022 65535 16   ; a long sword
+E 1 22626 12 17   ; A wineskin
+G 1 16008 19 0   ; A leather pouch
+P 1 12010 13 16008   ; a block of cheese
+M 0 12000 13 11316   ; a robber
+E 1 12015 65535 3   ; a robber's cape
+E 1 3629 65535 5   ; a studded leather jacket
+E 1 12002 65535 6   ; A mask
+E 1 3626 11 7   ; a pair of leather pants
+E 1 6002 23 8   ; a pair of leather boots
+E 1 3071 65535 9   ; a pair of leather gloves
+E 1 3633 13 11   ; a leather shield
+E 1 3022 65535 16   ; a long sword
+E 1 22626 12 17   ; A wineskin
+M 0 12000 13 11316   ; a robber
+E 1 12015 65535 3   ; a robber's cape
+E 1 3629 65535 5   ; a studded leather jacket
+E 1 12002 65535 6   ; A mask
+E 1 3626 11 7   ; a pair of leather pants
+E 1 6002 23 8   ; a pair of leather boots
+E 1 3071 65535 9   ; a pair of leather gloves
+E 1 3633 13 11   ; a leather shield
+E 1 3022 65535 16   ; a long sword
+E 1 22626 12 17   ; A wineskin
+G 1 16008 19 0   ; A leather pouch
+P 1 12010 13 16008   ; a block of cheese
+D 0 11316 1 2   ; Entrance To The Cave
+D 0 11316 3 2   ; Entrance To The Cave
+M 0 12011 2 11317   ; a draco
+E 1 3040 65535 5   ; a breast plate
+E 1 6612 65535 6   ; a black helm
+E 1 3087 65535 10   ; a pair of chain sleeves
+E 1 12009 65535 12   ; a black uniform
+E 1 12000 65535 16   ; a theronian battle axe
+G 1 1505 65535 0   ; A large chunk of meat
+M 0 12011 2 11317   ; a draco
+E 1 3040 65535 5   ; a breast plate
+E 1 6612 65535 6   ; a black helm
+E 1 12031 65535 10   ; a pair of iron bracers
+E 1 12009 65535 12   ; a black uniform
+E 1 3090 65535 16   ; a two-handed sword
+G 1 10001 65535 0   ; a half-eaten body
+O 0 21118 65535 11317   ; a pile of broken bones
+D 0 11317 2 2   ; Guard Room
+D 0 11317 3 2   ; Guard Room
+M 0 12006 1 11318   ; Slash the thug
+E 1 12001 65535 3   ; a black cape
+E 1 12103 65535 5   ; a Theronian full-field breast plate
+E 1 12020 65535 6   ; an enormous helm
+E 1 3082 65535 7   ; a pair of plate leggings
+E 1 6524 65535 8   ; A pair of boots
+E 1 12034 65535 10   ; a pair of plate bracers
+E 1 27408 65535 13   ; A Sword Belt
+E 1 12035 65535 16   ; the two-handed sword of pain
+M 0 12005 1 11318   ; Sly the thug
+E 1 3629 65535 5   ; a studded leather jacket
+E 1 12033 65535 6   ; a pair of eyeglasses
+E 1 3081 65535 7   ; a pair of leather pants
+E 1 3086 65535 10   ; a pair of leather sleeves
+E 1 27408 65535 13   ; A Sword Belt
+G 1 12126 65535 0   ; a keyring
+O 0 16008 19 11318   ; A leather pouch
+P 1 12010 13 16008   ; a block of cheese
+O 0 16037 65535 11318   ; a wooden chest
+P 1 12005 1 16037   ; a shadow-like key
+D 0 11318 0 2   ; Counting Room
+D 0 11318 3 2   ; Counting Room
+M 0 12009 1 11319   ; Wylie Baker
+E 1 12040 65535 1   ; a blood-stained ring
+E 1 12038 65535 2   ; a shadow-like ring
+E 1 12036 65535 6   ; the jewel covered crown of the thief lord
+E 1 12025 65535 7   ; a pair of thick, black leather pants
+E 1 12026 65535 8   ; a pair of black stalking boots
+E 1 12037 65535 9   ; a pair of gloves with very sticky fingers
+E 1 12023 65535 10   ; a pair of thick, black leather sleeves
+E 1 12039 65535 11   ; a shield of shadows
+E 1 1577 65535 13   ; a beltpouch
+G 1 6800 65535 0   ; The silver key
+O 0 6803 65535 11319   ; a silver chest
+P 1 6806 1 6803   ; Icy Gown
+P 1 6805 1 6803   ; A diamond studded coronet
+P 1 6808 1 6803   ; a big pile of gold coins
+P 1 12041 1 6803   ; a letter to Wylie Baker
+P 1 7214 1 6803   ; a chaos helmet
+D 0 11319 1 2   ; Wylie's Lair
+D 0 11319 3 2   ; Wylie's Lair
+M 0 24001 33 11320   ; A gelatinous cube
+M 0 12001 10 11320   ; a highwayman
+E 1 12017 65535 2   ; a dark black ring
+E 1 12016 65535 3   ; a scarlet colored cloak
+E 1 3041 65535 5   ; a chain mail shirt
+E 1 3078 65535 6   ; a chain helm
+E 1 3081 65535 7   ; a pair of leather pants
+E 1 6002 23 8   ; a pair of leather boots
+E 1 3632 65535 9   ; a pair of studded leather gloves
+E 1 3630 65535 10   ; a pair of studded leather sleeves
+E 1 3025 65535 16   ; A battle axe
+E 1 1545 65535 17   ; a leather backpack
+M 0 12000 13 11320   ; a robber
+E 1 12015 65535 3   ; a robber's cape
+E 1 12015 65535 4   ; a robber's cape
+E 1 3629 65535 5   ; a studded leather jacket
+E 1 12002 65535 6   ; A mask
+E 1 3626 11 7   ; a pair of leather pants
+E 1 6002 23 8   ; a pair of leather boots
+E 1 3071 65535 9   ; a pair of leather gloves
+E 1 3633 13 11   ; a leather shield
+E 1 3022 65535 16   ; a long sword
+E 1 22626 12 17   ; A wineskin
+E 1 12002 65535 21   ; A mask
+G 1 22626 12 0   ; A wineskin
+G 1 16008 19 0   ; A leather pouch
+P 1 12010 13 16008   ; a block of cheese
+M 0 6102 5 11320   ; the large, gray wolf
+M 0 12001 10 11321   ; a highwayman
+M 0 24001 33 11321   ; A gelatinous cube
+G 1 27408 65535 0   ; A Sword Belt
+P 1 12003 1 27408   ; a normal looking key
+M 0 24001 33 11321   ; A gelatinous cube
+M 0 12000 13 11321   ; a robber
+M 0 24001 33 11322   ; A gelatinous cube
+M 0 12002 4 11322   ; a killer
+E 1 12018 65535 6   ; a long, black hood
+E 1 3081 65535 7   ; a pair of leather pants
+M 0 24001 33 11322   ; A gelatinous cube
+M 0 24001 33 11322   ; A gelatinous cube
+M 0 12003 4 11323   ; a murderer
+E 1 12021 65535 3   ; a necklace of fingers
+E 1 3040 65535 5   ; a breast plate
+E 1 12020 65535 6   ; an enormous helm
+E 1 12042 65535 16   ; a murderous axe
+M 0 24001 33 11323   ; A gelatinous cube
+M 0 12001 10 11323   ; a highwayman
+E 1 12017 65535 2   ; a dark black ring
+E 1 12016 65535 3   ; a scarlet colored cloak
+E 1 3041 65535 5   ; a chain mail shirt
+E 1 3078 65535 6   ; a chain helm
+E 1 3081 65535 7   ; a pair of leather pants
+E 1 6002 23 8   ; a pair of leather boots
+E 1 3632 65535 9   ; a pair of studded leather gloves
+E 1 3630 65535 10   ; a pair of studded leather sleeves
+E 1 3025 65535 16   ; A battle axe
+E 1 1545 65535 17   ; a leather backpack
+M 0 24001 33 11323   ; A gelatinous cube
+G 1 12015 65535 0   ; a robber's cape
+M 0 12002 4 11324   ; a killer
+E 1 12018 65535 6   ; a long, black hood
+E 1 3081 65535 7   ; a pair of leather pants
+E 1 6002 23 8   ; a pair of leather boots
+E 1 3071 65535 9   ; a pair of leather gloves
+E 1 3087 65535 10   ; a pair of chain sleeves
+E 1 12019 65535 16   ; a long, sharp knife
+E 1 3032 65535 17   ; a bag
+M 0 24001 33 11324   ; A gelatinous cube
+M 0 24001 33 11324   ; A gelatinous cube
+G 1 12002 65535 0   ; A mask
+G 1 12026 65535 0   ; a pair of black stalking boots
+G 1 12002 65535 0   ; A mask
+G 1 12022 65535 0   ; a thick, black leather jacket
+G 1 12001 65535 0   ; a black cape
+G 1 12024 65535 0   ; a pair of black leather gloves
+G 1 12025 65535 0   ; a pair of thick, black leather pants
+M 0 6102 5 11324   ; the large, gray wolf
+M 0 24001 33 11324   ; A gelatinous cube
+G 1 12023 65535 0   ; a pair of thick, black leather sleeves
+G 1 3022 65535 0   ; a long sword
+G 1 3629 65535 0   ; a studded leather jacket
+G 1 22626 12 0   ; A wineskin
+D 0 11324 2 0   ; Hidden Path
+D 0 11324 3 0   ; Hidden Path
+M 0 24001 33 11325   ; A gelatinous cube
+M 0 24001 33 11325   ; A gelatinous cube
+M 0 24001 33 11325   ; A gelatinous cube
+M 0 24001 33 11325   ; A gelatinous cube
+D 0 11325 1 0   ; Hidden Path
+D 0 11325 2 0   ; Hidden Path
+M 0 6102 5 11326   ; the large, gray wolf
+M 0 24001 33 11326   ; A gelatinous cube
+M 0 24001 33 11326   ; A gelatinous cube
+M 0 12003 4 11326   ; a murderer
+E 1 12016 65535 3   ; a scarlet colored cloak
+E 1 3040 65535 5   ; a breast plate
+E 1 12020 65535 6   ; an enormous helm
+E 1 3083 65535 7   ; a pair of chain leggings
+E 1 6524 65535 8   ; A pair of boots
+E 1 3087 65535 10   ; a pair of chain sleeves
+E 1 12042 65535 16   ; a murderous axe
+E 1 24770 65535 17   ; a small vial of blood
+G 1 16008 19 0   ; A leather pouch
+M 0 24001 33 11326   ; A gelatinous cube
+M 0 24001 33 11327   ; A gelatinous cube
+M 0 24001 33 11327   ; A gelatinous cube
+M 0 12000 13 11327   ; a robber
+M 0 24001 33 11327   ; A gelatinous cube
+M 0 24001 33 11327   ; A gelatinous cube
+M 0 6102 5 11327   ; the large, gray wolf
+M 0 24001 33 11327   ; A gelatinous cube
+D 0 11327 0 0   ; Dark Hidden Path
+D 0 11327 2 1   ; Dark Hidden Path
+D 0 11327 3 1   ; Dark Hidden Path
+M 0 6102 5 11328   ; the large, gray wolf
+M 0 24001 33 11328   ; A gelatinous cube
+G 1 16758 65535 0   ; a belt of many pouches
+P 1 12029 2 16758   ; a long, thin, black bladed dagger
+G 1 12028 65535 0   ; a small sword with a black blade
+M 0 24001 33 11328   ; A gelatinous cube
+M 0 24001 33 11328   ; A gelatinous cube
+G 1 3626 11 0   ; a pair of leather pants
+G 1 6002 23 0   ; a pair of leather boots
+G 1 3071 65535 0   ; a pair of leather gloves
+D 0 11328 0 0   ; Forest Path
+D 0 11328 2 0   ; Forest Path
+D 0 11329 0 1   ; Outside Of A Dark Cave
+M 0 12010 1 11330   ; the minor dragon
+G 1 12006 65535 0   ; A dragon's tooth
+G 1 10001 65535 0   ; a half-eaten body
+P 1 3626 11 10001   ; a pair of leather pants
+D 0 11331 0 0   ; Dark Hidden Path
+D 0 11331 1 0   ; Dark Hidden Path
+M 0 12004 7 11332   ; a black thief
+E 1 12001 65535 3   ; a black cape
+E 1 12022 65535 5   ; a thick, black leather jacket
+E 1 12002 65535 6   ; A mask
+E 1 12025 65535 7   ; a pair of thick, black leather pants
+E 1 12026 65535 8   ; a pair of black stalking boots
+E 1 12024 65535 9   ; a pair of black leather gloves
+E 1 12023 65535 10   ; a pair of thick, black leather sleeves
+E 1 16758 65535 13   ; a belt of many pouches
+P 1 12029 2 16758   ; a long, thin, black bladed dagger
+E 1 12028 65535 16   ; a small sword with a black blade
+E 1 3032 65535 17   ; a bag
+P 1 22626 12 3032   ; A wineskin
+P 1 12010 13 3032   ; a block of cheese
+D 0 11332 2 0   ; Secret Path
+D 0 11334 0 0   ; City Entrance
+D 0 11335 0 0   ; In The Forest
+D 0 11336 2 0   ; In The Forest
+M 0 11437 3 11337   ; A Silk Trader
+E 1 11506 10 17   ; A glass of wine
+G 1 11503 5 0   ; A pair of silk gloves
+G 1 11504 5 0   ; A laced blue shawl
+G 1 11505 5 0   ; A gown of indigo silk
+M 0 11437 3 11338   ; A Silk Trader
+E 1 11506 10 17   ; A glass of wine
+G 1 11503 5 0   ; A pair of silk gloves
+G 1 11504 5 0   ; A laced blue shawl
+G 1 11505 5 0   ; A gown of indigo silk
+M 0 22609 11 11338   ; The young doe
+M 0 22609 11 11338   ; The young doe
+M 0 22609 11 11338   ; The young doe
+M 0 22609 11 11338   ; The young doe
+M 0 22609 11 11338   ; The young doe
+M 0 22609 11 11338   ; The young doe
+M 0 22609 11 11338   ; The young doe
+M 0 22609 11 11338   ; The young doe
+M 0 22609 11 11338   ; The young doe
+M 0 22609 11 11338   ; The young doe
+M 0 22609 11 11338   ; The young doe
+M 0 6001 7 11339   ; the cute rabbit
+D 0 11339 2 1   ; In the Forest
+D 0 11341 0 0   ; In The Forest
+M 0 9023 2 11342   ; The Black bear
+M 0 9023 2 11342   ; The Black bear
+D 0 11342 2 0   ; In The Forest
+D 0 11343 0 0   ; In The Forest
+M 0 6004 4 11345   ; the fallow deer
+M 0 6004 4 11345   ; the fallow deer
+M 0 6004 4 11345   ; the fallow deer
+M 0 6004 4 11345   ; the fallow deer
+D 0 11345 2 1   ; In The Forest
+O 0 5100 65535 11349   ; A commoner's longsword
+D 0 11349 0 0   ; Boxed In The Canyon
+O 0 5100 65535 11351   ; A commoner's longsword
+M 0 11414 5 11400   ; A gypsy minstrel
+E 1 11488 10 5   ; A blood red blouse
+E 1 11487 10 7   ; A colorful gypsy skirt
+E 1 11489 10 17   ; An old violin
+M 0 11460 2 11400   ; The Lord Of The Black Watch
+E 1 11485 8 12   ; A handsome black and gold cloak
+E 1 11482 15 16   ; A sword of the Black Watch
+E 1 11483 15 17   ; An iron blade
+G 1 11486 20 0   ; A glass of scotch on the rocks
+O 0 11410 1 11400   ; A black marble fountain
+M 0 11406 15 11401   ; A smoke rat
+M 0 11403 1 11401   ; A black-robed priest
+E 1 11401 15 0   ; A kaleidoscope
+O 0 11409 1 11401   ; A candelabra
+M 0 11438 2 11403   ; A Mischievious Boy
+E 1 11447 5 17   ; A set of marbles
+M 0 11404 1 11403   ; A black-robed priestess
+O 0 11454 1 11403   ; An altar carved from amber
+O 0 3099 7 11405   ; a bulletin board
+M 0 11447 2 11406   ; A Large White Cat
+M 0 11465 4 11407   ; A Sundhaven Noble
+E 1 11516 7 12   ; A flowing taupe cloak
+E 1 11513 7 16   ; A heraldry sword
+M 0 11438 2 11409   ; A Mischievious Boy
+E 1 11447 5 17   ; A set of marbles
+M 0 11449 4 11409   ; The Gate Watchman
+E 1 11473 4 16   ; A stone-hilted sword
+D 0 11409 0 1   ; The Gate At The Cliffs
+M 0 11429 1 11411   ; The Old Alchemist
+G 1 11508 1 0   ; A crystal potion
+G 1 11522 1 0   ; A white potion
+G 1 11523 1 0   ; a bubbling potion
+M 0 11430 1 11412   ; The Magess
+G 1 11509 1 0   ; A twisted staff
+G 1 11524 1 0   ; A silver wand
+M 0 11406 15 11414   ; A smoke rat
+M 0 11435 2 11414   ; A Mockingbird
+M 0 11435 2 11414   ; A Mockingbird
+M 0 11459 8 11414   ; A Warrior Of The Black Watch
+E 1 11484 20 5   ; A plate of black steel
+E 1 11482 15 16   ; A sword of the Black Watch
+E 1 11483 15 17   ; An iron blade
+M 0 11439 6 11415   ; A Dark-Haired Girl
+E 1 11449 8 6   ; A velvet ribbon
+M 0 11414 5 11415   ; A gypsy minstrel
+E 1 11488 10 5   ; A blood red blouse
+E 1 11487 10 7   ; A colorful gypsy skirt
+E 1 11489 10 17   ; An old violin
+M 0 11440 1 11415   ; A Tabby Cat
+M 0 11458 1 11416   ; A Guardian Imp
+M 0 11419 1 11418   ; The archmage
+M 0 11402 1 11419   ; The town hangman
+E 1 11411 1 16   ; The axe of severance
+G 1 11400 1 0   ; A noose
+O 0 11452 1 11419   ; The gallows platform
+M 0 11460 2 11420   ; The Lord Of The Black Watch
+O 0 11453 1 11420   ; A cracked stone fountain
+M 0 11401 11 11421   ; A Sundhaven Guard
+E 1 11444 30 5   ; A guard's golden tunic
+E 1 11445 30 8   ; Sturdy black boots
+E 1 11443 30 11   ; A black sandstone shield
+E 1 11446 30 16   ; A silver broadsword
+M 0 11421 1 11421   ; A retired thief
+G 1 11416 2 0   ; An iced cappuccino
+G 1 11417 2 0   ; An irish cream latte
+G 1 11418 2 0   ; A black cup
+G 1 11419 2 0   ; A hot cup
+G 1 11420 2 0   ; A rogue's brew
+G 1 11421 2 0   ; The black adder special
+G 1 11423 2 0   ; A victim sandwich
+O 0 11414 1 11421   ; A coffee brewer
+P 1 3101 5 11414   ; a cup
+P 1 3101 5 11414   ; a cup
+P 1 3101 5 11414   ; a cup
+P 1 3101 5 11414   ; a cup
+P 1 3101 5 11414   ; a cup
+D 0 11421 5 2   ; Nightbreak Cafe
+M 0 11409 3 11423   ; A peddler
+E 1 11494 10 5   ; A dusty red tunic
+E 1 11495 10 17   ; A tray of goodies
+P 1 11496 3 11495   ; A wooden pipe
+P 1 11497 3 11495   ; A black candle
+P 1 11498 3 11495   ; A stick of incense
+P 1 11499 3 11495   ; A jar of honey
+P 1 11500 3 11495   ; A salted herring
+P 1 11501 3 11495   ; A white feather quill
+P 1 11502 3 11495   ; A shard of broken crystal
+M 0 11410 3 11424   ; A medicant
+M 0 11410 3 11424   ; A medicant
+M 0 11410 3 11424   ; A medicant
+M 0 11406 15 11425   ; A smoke rat
+O 0 11521 1 11425   ; A heap of refuse
+D 0 11425 5 1   ; The Town Dump
+M 0 11401 11 11426   ; A Sundhaven Guard
+E 1 11444 30 5   ; A guard's golden tunic
+E 1 11445 30 8   ; Sturdy black boots
+E 1 11443 30 11   ; A black sandstone shield
+E 1 11446 30 16   ; A silver broadsword
+M 0 11446 4 11426   ; A grey cat
+M 0 11400 1 11428   ; The earl of Sundhaven
+E 1 11472 5 13   ; A silver scabbard
+E 1 11471 5 16   ; A gilded fencing sword
+M 0 11406 15 11428   ; A smoke rat
+G 1 11415 1 0   ; A golden rose with black leaves and stem
+M 0 11406 15 11430   ; A smoke rat
+M 0 11406 15 11430   ; A smoke rat
+M 0 11439 6 11430   ; A Dark-Haired Girl
+E 1 11449 8 6   ; A velvet ribbon
+M 0 11439 6 11431   ; A Dark-Haired Girl
+E 1 11449 8 6   ; A velvet ribbon
+M 0 11406 15 11431   ; A smoke rat
+M 0 27045 6 11431   ; a large, grey wolf
+M 0 11459 8 11431   ; A Warrior Of The Black Watch
+E 1 11484 20 5   ; A plate of black steel
+E 1 11482 15 16   ; A sword of the Black Watch
+E 1 11483 15 17   ; An iron blade
+M 0 11436 1 11438   ; A Paranoid Adventurer
+E 1 11450 5 16   ; A shattered dagger
+E 1 11451 5 17   ; A curse of ill luck
+M 0 11439 6 11438   ; A Dark-Haired Girl
+E 1 11449 8 6   ; A velvet ribbon
+M 0 11406 15 11439   ; A smoke rat
+M 0 11401 11 11440   ; A Sundhaven Guard
+E 1 11444 30 5   ; A guard's golden tunic
+E 1 11445 30 8   ; Sturdy black boots
+E 1 11443 30 11   ; A black sandstone shield
+E 1 11446 30 16   ; A silver broadsword
+M 0 11401 11 11441   ; A Sundhaven Guard
+E 1 11444 30 5   ; A guard's golden tunic
+E 1 11445 30 8   ; Sturdy black boots
+E 1 11443 30 11   ; A black sandstone shield
+E 1 11446 30 16   ; A silver broadsword
+M 0 11447 2 11441   ; A Large White Cat
+M 0 11448 1 11442   ; The Butcher
+M 0 11465 4 11443   ; A Sundhaven Noble
+E 1 11516 7 12   ; A flowing taupe cloak
+E 1 11513 7 16   ; A heraldry sword
+M 0 11449 4 11444   ; The Gate Watchman
+E 1 11473 4 16   ; A stone-hilted sword
+M 0 11446 4 11445   ; A grey cat
+M 0 11449 4 11445   ; The Gate Watchman
+E 1 11473 4 16   ; A stone-hilted sword
+M 0 11406 15 11445   ; A smoke rat
+D 0 11445 3 0   ; The West Gate Of Sundhaven
+M 0 11433 1 11446   ; The Weaponsmaster
+G 1 11439 1 0   ; A sword of quartz hilt
+G 1 11440 1 0   ; A mithril dagger
+G 1 11441 1 0   ; A fire-headed mace
+G 1 11442 1 0   ; A rock crystal staff
+M 0 11432 1 11447   ; The Armourer
+G 1 11463 1 0   ; A suit of chain mail
+G 1 11464 1 0   ; A bright helm
+G 1 11465 1 0   ; Silver bracers
+G 1 11466 1 0   ; A pair of sharp-toed boots
+G 1 11467 1 0   ; A scale shield
+M 0 11401 11 11448   ; A Sundhaven Guard
+E 1 11444 30 5   ; A guard's golden tunic
+E 1 11445 30 8   ; Sturdy black boots
+E 1 11443 30 11   ; A black sandstone shield
+E 1 11446 30 16   ; A silver broadsword
+M 0 11420 1 11448   ; The Bartender
+G 1 11422 1 0   ; A shot
+G 1 11425 1 0   ; A cold mug
+G 1 11424 1 0   ; A cold mug
+G 1 11426 1 0   ; A black glass
+G 1 11427 1 0   ; A leather flask
+G 1 11428 1 0   ; A rabbit roast
+G 1 11429 1 0   ; A pot of dragon stew
+M 0 11411 1 11449   ; A knight in bright armor
+M 0 11412 1 11449   ; A squire
+M 0 11413 1 11449   ; A foreign princess
+M 0 11431 1 11450   ; Mekala
+G 1 11433 1 0   ; A dish of pad tai
+G 1 11517 1 0   ; A bowl of ma gung
+M 0 11418 1 11452   ; The Knightmaster
+M 0 11442 1 11452   ; A Young Warrior
+M 0 11459 8 11452   ; A Warrior Of The Black Watch
+E 1 11484 20 5   ; A plate of black steel
+E 1 11482 15 16   ; A sword of the Black Watch
+E 1 11483 15 17   ; An iron blade
+M 0 11428 1 11453   ; The Hobbit Pastry Chef
+G 1 11430 1 0   ; A rye bread
+G 1 11431 1 0   ; A cake baked from wild saffron
+G 1 11432 1 0   ; A blackberry pastry
+M 0 11401 11 11454   ; A Sundhaven Guard
+E 1 11444 30 5   ; A guard's golden tunic
+E 1 11445 30 8   ; Sturdy black boots
+E 1 11443 30 11   ; A black sandstone shield
+E 1 11446 30 16   ; A silver broadsword
+M 0 11425 1 11454   ; The Blacksmith
+M 0 11422 1 11455   ; The Falconer
+M 0 11450 1 11456   ; A Little Sparrow
+M 0 11451 1 11456   ; A Blackbird
+M 0 11452 1 11456   ; A Giant Kestrel
+M 0 11464 1 11457   ; A disgruntled courier
+D 0 11458 2 1   ; Standing At The Brink
+M 0 11441 2 11460   ; An old mage
+M 0 11441 2 11460   ; An old mage
+O 0 11448 1 11460   ; A glass chessboard
+M 0 11457 2 11461   ; A Guardian Basilisk
+M 0 11457 2 11461   ; A Guardian Basilisk
+O 0 11520 1 11461   ; A guild message
+M 0 11416 1 11462   ; The Priestess of the Ministry
+M 0 11444 1 11463   ; A Sacrificial Priestess
+M 0 11445 1 11463   ; A Black Animal
+D 0 11464 3 1   ; At A Swinging Wooden Gate
+D 0 11465 1 1   ; A Windy Cliffside Lane
+M 0 11415 1 11469   ; The village idiot
+G 1 12030 65535 0   ; a small round shield
+G 1 5204 65535 0   ; A pair of iron boots
+G 1 3078 65535 0   ; a chain helm
+M 0 11407 1 11470   ; A thief
+M 0 11414 5 11478   ; A gypsy minstrel
+E 1 11488 10 5   ; A blood red blouse
+E 1 11487 10 7   ; A colorful gypsy skirt
+E 1 11489 10 17   ; An old violin
+M 0 11406 15 11479   ; A smoke rat
+M 0 11406 15 11479   ; A smoke rat
+M 0 11439 6 11480   ; A Dark-Haired Girl
+E 1 11449 8 6   ; A velvet ribbon
+M 0 11401 11 11482   ; A Sundhaven Guard
+E 1 11444 30 5   ; A guard's golden tunic
+E 1 11445 30 8   ; Sturdy black boots
+E 1 11443 30 11   ; A black sandstone shield
+E 1 11446 30 16   ; A silver broadsword
+M 0 11459 8 11482   ; A Warrior Of The Black Watch
+E 1 11484 20 5   ; A plate of black steel
+E 1 11482 15 16   ; A sword of the Black Watch
+E 1 11483 15 17   ; An iron blade
+M 0 11401 11 11486   ; A Sundhaven Guard
+E 1 11444 30 5   ; A guard's golden tunic
+E 1 11445 30 8   ; Sturdy black boots
+E 1 11443 30 11   ; A black sandstone shield
+E 1 11446 30 16   ; A silver broadsword
+E 1 11479 1 17   ; A black and gold key
+M 0 11406 15 11488   ; A smoke rat
+M 0 11465 4 11491   ; A Sundhaven Noble
+E 1 11516 7 12   ; A flowing taupe cloak
+E 1 11513 7 16   ; A heraldry sword
+M 0 11459 8 11491   ; A Warrior Of The Black Watch
+E 1 11484 20 5   ; A plate of black steel
+E 1 11482 15 16   ; A sword of the Black Watch
+E 1 11483 15 17   ; An iron blade
+M 0 11465 4 11500   ; A Sundhaven Noble
+E 1 11516 7 12   ; A flowing taupe cloak
+E 1 11513 7 16   ; A heraldry sword
+M 0 11466 1 11500   ; Stu
+G 1 11415 1 0   ; A golden rose with black leaves and stem
+M 0 11459 8 11503   ; A Warrior Of The Black Watch
+E 1 11484 20 5   ; A plate of black steel
+E 1 11482 15 16   ; A sword of the Black Watch
+E 1 11483 15 17   ; An iron blade
+M 0 11406 15 11505   ; A smoke rat
+M 0 11409 3 11506   ; A peddler
+E 1 11494 10 5   ; A dusty red tunic
+E 1 11495 10 17   ; A tray of goodies
+P 1 11496 3 11495   ; A wooden pipe
+P 1 11497 3 11495   ; A black candle
+P 1 11498 3 11495   ; A stick of incense
+P 1 11499 3 11495   ; A jar of honey
+P 1 11500 3 11495   ; A salted herring
+P 1 11501 3 11495   ; A white feather quill
+P 1 11502 3 11495   ; A shard of broken crystal
+M 0 11401 11 11507   ; A Sundhaven Guard
+E 1 11444 30 5   ; A guard's golden tunic
+E 1 11445 30 8   ; Sturdy black boots
+E 1 11443 30 11   ; A black sandstone shield
+E 1 11446 30 16   ; A silver broadsword
+M 0 11409 3 11510   ; A peddler
+E 1 11494 10 5   ; A dusty red tunic
+E 1 11495 10 17   ; A tray of goodies
+P 1 11496 3 11495   ; A wooden pipe
+P 1 11497 3 11495   ; A black candle
+P 1 11498 3 11495   ; A stick of incense
+P 1 11499 3 11495   ; A jar of honey
+P 1 11500 3 11495   ; A salted herring
+P 1 11501 3 11495   ; A white feather quill
+P 1 11502 3 11495   ; A shard of broken crystal
+M 0 11414 5 11510   ; A gypsy minstrel
+E 1 11488 10 5   ; A blood red blouse
+E 1 11487 10 7   ; A colorful gypsy skirt
+E 1 11489 10 17   ; An old violin
+D 0 11521 1 0   ; A Wide Cart Path
+M 0 11439 6 11522   ; A Dark-Haired Girl
+E 1 11449 8 6   ; A velvet ribbon
+M 0 11461 1 11526   ; An Old Blind Mage
+G 1 12107 65535 0   ; a tablet
+G 1 12111 65535 0   ; a hard pair of silk boots
+D 0 11528 0 1   ; The Black Orchard Gate
+M 0 11408 4 11529   ; A blackberry pick
+E 1 11518 10 17   ; A basket
+P 1 11519 8 11518   ; A handful of blackberries
+P 1 11519 8 11518   ; A handful of blackberries
+D 0 11529 2 1   ; The Blackberry Orchard
+M 0 11405 3 11531   ; A Raven
+M 0 11405 3 11531   ; A Raven
+M 0 11408 4 11531   ; A blackberry pick
+E 1 11518 10 17   ; A basket
+P 1 11519 8 11518   ; A handful of blackberries
+P 1 11519 8 11518   ; A handful of blackberries
+M 0 11459 8 11533   ; A Warrior Of The Black Watch
+E 1 11484 20 5   ; A plate of black steel
+E 1 11482 15 16   ; A sword of the Black Watch
+E 1 11483 15 17   ; An iron blade
+D 0 11533 5 1   ; The Southern Path
+D 0 11534 4 1   ; The House Of Witches
+M 0 11401 11 11535   ; A Sundhaven Guard
+E 1 11444 30 5   ; A guard's golden tunic
+E 1 11445 30 8   ; Sturdy black boots
+E 1 11443 30 11   ; A black sandstone shield
+E 1 11446 30 16   ; A silver broadsword
+M 0 11449 4 11535   ; The Gate Watchman
+E 1 11473 4 16   ; A stone-hilted sword
+D 0 11535 2 0   ; The Southern Gate
+D 0 11536 4 1   ; A Foul Staircase
+M 0 11459 8 11538   ; A Warrior Of The Black Watch
+E 1 11484 20 5   ; A plate of black steel
+E 1 11482 15 16   ; A sword of the Black Watch
+E 1 11483 15 17   ; An iron blade
+M 0 11446 4 11539   ; A grey cat
+M 0 11401 11 11540   ; A Sundhaven Guard
+E 1 11444 30 5   ; A guard's golden tunic
+E 1 11445 30 8   ; Sturdy black boots
+E 1 11443 30 11   ; A black sandstone shield
+E 1 11446 30 16   ; A silver broadsword
+M 0 11455 1 11540   ; A Black Naga Guardian
+D 0 11540 1 1   ; A Doorway Hung With Daggers
+D 0 11541 3 1   ; A Hall In The Assassins Guild
+D 0 11541 5 2   ; A Hall In The Assassins Guild
+M 0 11443 1 11543   ; A Wanted Thief
+O 0 11469 20 11543   ; A black lounger
+O 0 11470 20 11543   ; The Rogue's book of bartending
+D 0 11543 4 2   ; A Secret Hideaway
+M 0 11417 1 11544   ; The Mistress of Assassins
+M 0 11414 5 11545   ; A gypsy minstrel
+E 1 11488 10 5   ; A blood red blouse
+E 1 11487 10 7   ; A colorful gypsy skirt
+E 1 11489 10 17   ; An old violin
+D 0 11545 4 2   ; Slippery Stone Steps
+M 0 11408 4 11547   ; A blackberry pick
+E 1 11518 10 17   ; A basket
+P 1 11519 8 11518   ; A handful of blackberries
+P 1 11519 8 11518   ; A handful of blackberries
+M 0 11408 4 11547   ; A blackberry pick
+E 1 11518 10 17   ; A basket
+P 1 11519 8 11518   ; A handful of blackberries
+P 1 11519 8 11518   ; A handful of blackberries
+M 0 11405 3 11547   ; A Raven
+M 0 11453 1 11549   ; Athos
+E 1 11526 5 16   ; A thin fencing foil
+E 1 11525 5 17   ; A bottle of spanish wine
+M 0 11456 1 11557   ; A Guardian Gryphon
+M 0 11424 1 11558   ; The Town Treasurer
+O 0 11412 1 11558   ; A huge pile of gold
+M 0 11426 1 11559   ; The Jeweller
+G 1 11456 1 0   ; An amber stone
+G 1 11457 1 0   ; An amethyst
+G 1 11458 1 0   ; A diamond
+G 1 11459 1 0   ; A sunstone
+D 0 11560 3 1   ; A Stone Path
+M 0 11437 3 11561   ; A Silk Trader
+E 1 11506 10 17   ; A glass of wine
+G 1 11503 5 0   ; A pair of silk gloves
+G 1 11504 5 0   ; A laced blue shawl
+G 1 11505 5 0   ; A gown of indigo silk
+M 0 11463 3 11565   ; A Moth
+M 0 11463 3 11565   ; A Moth
+M 0 11406 15 11566   ; A smoke rat
+M 0 11463 3 11566   ; A Moth
+M 0 11423 1 11581   ; The Cartographer
+G 1 11507 65535 0   ; A map of Sundhaven
+O 0 11474 1 11581   ; The cartographer's disclaimer
+M 0 11406 15 11582   ; A smoke rat
+G 1 3617 65535 0   ; a suit of field plate
+G 1 12000 65535 0   ; a theronian battle axe
+M 0 11434 1 11582   ; A Little Old Lady
+G 1 11434 1 0   ; A sack of deer leather
+G 1 11435 1 0   ; A torch
+G 1 11436 1 0   ; A black feather quill
+G 1 11437 1 0   ; A piece of paper
+G 1 11438 1 0   ; A copper lamp
+G 1 11468 1 0   ; A waterskin
+M 0 11446 4 11583   ; A grey cat
+D 0 11583 0 1   ; A Cobblestone Road
+O 0 11515 1 11584   ; A wall
+D 0 11584 2 2   ; A Crawlspace
+S

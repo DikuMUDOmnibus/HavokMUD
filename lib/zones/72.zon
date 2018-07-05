@@ -1,0 +1,153 @@
+*Zone 72, rooms 16200-16299, last modified by Coal
+M 0 16202 2 16200   ; the ogre guard
+E 1 3041 65535 5   ; a chain mail shirt
+E 1 3074 65535 9   ; a pair of studded leather gloves
+M 0 16202 2 16201   ; the ogre guard
+E 1 3076 65535 6   ; a leather cap
+E 1 3081 65535 7   ; a pair of leather pants
+E 1 3071 65535 9   ; a pair of leather gloves
+E 1 3086 65535 10   ; a pair of leather sleeves
+E 1 16035 65535 17   ; A skull
+G 1 16034 65535 0   ; A piece of bone
+G 1 16033 65535 0   ; A centipede sandwich
+G 1 16033 65535 0   ; A centipede sandwich
+M 0 16201 2 16201   ; An ogre magi
+E 1 3046 65535 5   ; a bronze breast plate
+E 1 3072 65535 9   ; a pair of chain gauntlets
+E 1 16206 65535 16   ; A large spear
+M 0 16200 6 16202   ; the ogre
+E 1 3041 65535 5   ; a chain mail shirt
+E 1 3074 65535 9   ; a pair of studded leather gloves
+M 0 16200 6 16202   ; the ogre
+E 1 3041 65535 5   ; a chain mail shirt
+E 1 3074 65535 9   ; a pair of studded leather gloves
+M 0 16200 6 16204   ; the ogre
+E 1 3041 65535 5   ; a chain mail shirt
+E 1 3074 65535 9   ; a pair of studded leather gloves
+M 0 16200 6 16205   ; the ogre
+E 1 3041 65535 5   ; a chain mail shirt
+E 1 3074 65535 9   ; a pair of studded leather gloves
+M 0 16200 6 16206   ; the ogre
+D 0 16210 5 0   ; The end of a ledge
+D 0 16211 4 0   ; On the floor of a ravine
+M 0 16203 7 16212   ; The deep gnome
+M 0 16203 7 16213   ; The deep gnome
+M 0 16203 7 16214   ; The deep gnome
+M 0 16203 7 16217   ; The deep gnome
+M 0 16203 7 16218   ; The deep gnome
+M 0 16212 2 16218   ; A giant lizard
+M 0 16203 7 16220   ; The deep gnome
+M 0 16212 2 16221   ; A giant lizard
+D 0 16224 4 0   ; The side of the ravine
+D 0 16224 5 0   ; The side of the ravine
+M 0 16203 7 16225   ; The deep gnome
+M 0 16204 1 16227   ; The cave turtle
+M 0 16207 4 16230   ; The small wererat
+M 0 16213 2 16233   ; The giant slug
+M 0 16210 1 16235   ; The cave thing
+G 1 3060 65535 0   ; a raft
+M 0 16209 2 16235   ; The cave gar
+D 0 16246 4 0   ; A long tunnel
+M 0 16213 2 16247   ; The giant slug
+M 0 21135 6 16249   ; the cave troll
+M 0 21135 6 16249   ; the cave troll
+M 0 16214 9 16252   ; The drow soldier
+E 1 16203 65535 5   ; A drow chain shirt
+E 1 16205 65535 8   ; A pair of drow-chain boots
+E 1 16200 65535 16   ; A drow short sword
+M 0 16215 6 16253   ; The drow warrior
+E 1 16203 65535 5   ; A drow chain shirt
+E 1 16205 65535 8   ; A pair of drow-chain boots
+E 1 16201 65535 16   ; A drow ginsu knife
+M 0 16214 9 16254   ; The drow soldier
+E 1 16203 65535 5   ; A drow chain shirt
+E 1 16200 65535 16   ; A drow short sword
+M 0 16217 1 16255   ; The drow leader
+E 1 16203 65535 5   ; A drow chain shirt
+E 1 16204 65535 7   ; A pair of drow chain leggings
+E 1 16205 65535 8   ; A pair of drow-chain boots
+E 1 5101 65535 16   ; A noble's longsword
+M 0 2 1 16257   ; The Ringwraith
+M 0 16215 6 16258   ; The drow warrior
+E 1 16203 65535 5   ; A drow chain shirt
+E 1 16201 65535 16   ; A drow ginsu knife
+M 0 16214 9 16258   ; The drow soldier
+E 1 16204 65535 7   ; A pair of drow chain leggings
+E 1 16200 65535 16   ; A drow short sword
+M 0 16214 9 16258   ; The drow soldier
+E 1 16203 65535 5   ; A drow chain shirt
+E 1 16200 65535 16   ; A drow short sword
+M 0 16216 2 16258   ; The drow cleric
+E 1 16203 65535 5   ; A drow chain shirt
+E 1 16204 65535 7   ; A pair of drow chain leggings
+E 1 16202 65535 16   ; A drow broad sword
+M 0 16215 6 16259   ; The drow warrior
+E 1 16203 65535 5   ; A drow chain shirt
+E 1 16204 65535 7   ; A pair of drow chain leggings
+E 1 16202 65535 16   ; A drow broad sword
+M 0 16214 9 16261   ; The drow soldier
+E 1 16203 65535 5   ; A drow chain shirt
+E 1 16200 65535 16   ; A drow short sword
+M 0 16214 9 16261   ; The drow soldier
+E 1 16203 65535 5   ; A drow chain shirt
+E 1 16200 65535 16   ; A drow short sword
+M 0 16215 6 16262   ; The drow warrior
+E 1 16203 65535 5   ; A drow chain shirt
+E 1 16202 65535 16   ; A drow broad sword
+M 0 16214 9 16262   ; The drow soldier
+E 1 16203 65535 5   ; A drow chain shirt
+E 1 16205 65535 8   ; A pair of drow-chain boots
+E 1 16200 65535 16   ; A drow short sword
+M 0 16214 9 16262   ; The drow soldier
+E 1 16204 65535 7   ; A pair of drow chain leggings
+E 1 16205 65535 8   ; A pair of drow-chain boots
+E 1 16200 65535 16   ; A drow short sword
+M 0 16215 6 16262   ; The drow warrior
+E 1 16203 65535 5   ; A drow chain shirt
+E 1 16201 65535 16   ; A drow ginsu knife
+M 0 16215 6 16263   ; The drow warrior
+E 1 16203 65535 5   ; A drow chain shirt
+E 1 16204 65535 7   ; A pair of drow chain leggings
+E 1 16205 65535 8   ; A pair of drow-chain boots
+E 1 16201 65535 16   ; A drow ginsu knife
+M 0 16216 2 16263   ; The drow cleric
+G 1 16203 65535 0   ; A drow chain shirt
+G 1 16202 65535 0   ; A drow broad sword
+G 1 16204 65535 0   ; A pair of drow chain leggings
+M 0 16214 9 16264   ; The drow soldier
+E 1 16204 65535 7   ; A pair of drow chain leggings
+E 1 16200 65535 16   ; A drow short sword
+M 0 16211 1 16267   ; The beholder
+G 1 5215 65535 0   ; A tattered scroll
+M 0 16206 3 16273   ; The mindflayer
+E 1 16208 65535 3   ; A mithril necklace
+M 0 16207 4 16273   ; The small wererat
+M 0 16205 2 16273   ; The mindflayer
+G 1 16207 65535 0   ; A long leather whip
+M 0 16206 3 16274   ; The mindflayer
+E 1 16207 65535 16   ; A long leather whip
+M 0 16207 4 16276   ; The small wererat
+M 0 16208 4 16276   ; The small wererat
+M 0 16208 4 16276   ; The small wererat
+M 0 16206 3 16278   ; The mindflayer
+E 1 16207 65535 16   ; A long leather whip
+M 0 16207 4 16278   ; The small wererat
+M 0 16208 4 16279   ; The small wererat
+M 0 16208 4 16279   ; The small wererat
+M 0 16205 2 16279   ; The mindflayer
+E 1 16207 65535 16   ; A long leather whip
+M 0 16218 1 16290   ; The huge cave lobster
+M 0 16209 2 16291   ; The cave gar
+M 0 16219 1 16296   ; The death knight
+E 1 16218 65535 4   ; A triangular amulet
+E 1 16214 65535 16   ; A dark sword
+O 0 16217 65535 16296   ; A huge black coffin
+P 1 16219 1 16217   ; the skeletal remains
+P 1 16212 1 16217   ; A long, flowing crimson robe
+P 1 16209 1 16217   ; A crystal skull
+P 1 16216 1 16217   ; a shield
+P 1 16215 1 16217   ; an ornate water jug
+P 1 16213 1 16217   ; An obsidian mask
+P 1 16210 1 16217   ; A strange obsidian knife
+P 1 16211 1 16217   ; A glowing opal
+S
